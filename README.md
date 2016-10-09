@@ -11,6 +11,7 @@
 - https://news.ycombinator.com/item?id=12637239 "Ask HN: What's your favorite tech talk?" I should not have been there
 - https://www.youtube.com/watch?v=ji5_MqicxSo "The Last Lecture" A magnific talk by Randy Pausch. Inspirional, emotional. Talking a lot about VR.. in 1996.
 - https://www.youtube.com/watch?v=UF8uR6Z6KLc "Steve Jobs' 2005 Stanford Commencement Address" Stay hungry, stay foolish.
+- https://github.com/robinhouston/image-unshredding Reconstruct image from its shredding version, interesting (js, crypto)
 
 # 08-10-2016
 
