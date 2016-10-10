@@ -1,5 +1,12 @@
 > Note for my employer: this is stuff I'm reading off work of course. :godmode:
 
+# 10-10-2016
+
+- https://www.playframework.com/documentation/2.5.x/JavaBodyParsers You know, working.
+- http://www.reactive-streams.org/ A "spec" à la reactive manifesto defining _asynchronous_ stream processing with _non-blocking_ _back pressure_. Always good to reread. Some simple interfaces in org.reactivestreams package
+- https://github.com/reactive-streams/reactive-streams-jvm The repo. More detailed.
+- https://github.com/puffnfresh/bilby.js An interesting very functional js lib. But fantasyLand is the next.
+
 # 09-10-2016
 
 - https://github.com/jiahaog/nativefier Convert any website into an Electron App. Wonderful.
