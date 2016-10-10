@@ -1,3 +1,5 @@
+> Note for my employer: this is stuff I'm reading off work of course. :godmode:
+
 # 09-10-2016
 
 - https://github.com/jiahaog/nativefier Convert any website into an Electron App. Wonderful.
