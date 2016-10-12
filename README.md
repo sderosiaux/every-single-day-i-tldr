@@ -1,4 +1,5 @@
 > Note for my employer: this is stuff I'm reading off work of course. :angel:
+
 # 12-11-2016
 
 - http://blog.ploeh.dk/2015/08/17/when-x-y-and-z-are-great-variable-names/ Tiny scope ? Tiny variable name. f, x, y.
