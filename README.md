@@ -1,5 +1,25 @@
 > Note for my employer: this is stuff I'm reading off work of course. :godmode:
 
+# 12-11-2016
+
+- http://blog.ploeh.dk/2015/08/17/when-x-y-and-z-are-great-variable-names/ Tiny scope ? Tiny variable name. f, x, y.
+- http://techblog.netflix.com/2013/01/hadoop-platform-as-service-in-cloud.html Netflix is not using HDFS but S3 (more robust, flexible, elastic), and Amazon EMR (MapReduce). They created Genie (Hadoop Platform As A Service) that abstracts the cluster provisioning piece (to start a job), exposes a REST api
+- http://techblog.netflix.com/2013/06/genie-is-out-of-bottle.html More focused on Genie itself
+- https://github.com/Netflix/archaius to handle dynamic distributed centralized app configuration
+- https://github.com/Netflix/eureka service discovery
+- https://github.com/Netflix/genie start a task on any hadoop cluster
+- https://github.com/Netflix/ribbon load-balanced rpc
+- https://github.com/Netflix/governator application lifecycle (top of Guice)
+- https://github.com/Netflix/servo application monitoring
+- https://github.com/Netflix/Hystrix app failure is part of the job. Dashboards
+- http://netflix.github.io/ Gosh, everything is there
+- https://bitbucket.org/product/features/pipelines Bitbucket handles CI/CD pipelines now
+- https://bitbucket.org/shah_jainish/project-examples example how to install a built artifact from the pipeline to a custom artifactory
+- https://github.com/tidwall/summitdb In-memory NoSQL database with ACID transactions, Raft consensus, and Redis API
+- http://stateofjs.com/2016/introduction/ some stats about JS community, what they are using to manage state, tests, css and so on
+- https://github.com/perwendel/spark/ A micro framework for creating web applications in Java 8 with minimal effort (5k stars)
+- https://medium.com/the-smyte-blog/rate-limiter-df3408325846 Smyte is nice and use nice techs. They open-sourced their rate limiter. It's using (some standard it seems) a token bucket (starts at 10, then decrease on "bad" action, and increase slowly only refill[Time|Amount])
+
 # 11-11-2016
 
 - http://degoes.net/articles/insufficiently-polymorphic Abstract all the things. def foo[F[_]: Foldable, A, R: Semigroup](fa: F[A], ar: A => R, r: R): R
