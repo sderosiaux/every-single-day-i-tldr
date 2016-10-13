@@ -1,5 +1,19 @@
 > Note for my employer: this is stuff I'm reading off work of course. :angel:
 
+# 13-11-2016
+
+- https://www.npmjs.com/package/pify a successful package to encapsule nodejs callback style (err, res) into a Promise
+- http://highscalability.com/blog/2014/4/28/how-disqus-went-realtime-with-165k-messages-per-second-and-l.html Disqus architecture to handle the increasing load. Using Nginx Push Stream to push to customer, redis queue, python
+- http://www.gwan.com/blog/20160405.html "Google's "Director of Engineering" Hiring Test" "0x02, 0x12, 0x10" "wrong, it's SYN, SYN-ACK and ACK" -_-
+- http://bigocheatsheet.com/ Big O everywhere !
+- https://news.ycombinator.com/item?id=12702651 Found 2 good channels
+- https://www.washingtonpost.com/news/storyline/wp/2014/12/04/people-around-you-control-your-mind-the-latest-evidence/ Conclusion "All the people in your life influence you"
+- https://styled-components.com/ Meh. const Title = styled.h1`background: orange; color: blue` <Title />
+- https://medium.com/@kentcdodds/an-argument-for-automation-fce8394c14e2 Sure, if you repeat 1000*10s, code in 1000s the automation.
+- https://learnrelay.org/ Seems to be _the_ link to bookmark for relay
+- http://www.jamesmonger.com/post/react-component-dependency-injection.htm Oohh, a Guice in Typescript, love it !!
+- https://medium.com/the-hoard/how-kafkas-storage-internals-work-3a29b02e026 Never thought of the "segments" in the partition, good to know
+
 # 12-11-2016
 
 - http://blog.ploeh.dk/2015/08/17/when-x-y-and-z-are-great-variable-names/ Tiny scope ? Tiny variable name. f, x, y.
