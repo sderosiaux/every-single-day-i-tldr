@@ -8,7 +8,7 @@
 - http://bigocheatsheet.com/ Big O everywhere !
 - https://news.ycombinator.com/item?id=12702651 Found 2 good channels
 - https://www.washingtonpost.com/news/storyline/wp/2014/12/04/people-around-you-control-your-mind-the-latest-evidence/ Conclusion "All the people in your life influence you"
-- https://styled-components.com/ Meh. const Title = styled.h1`background: orange; color: blue` <Title />
+- https://styled-components.com/ Meh. const Title = styled.h1`background: orange; color: blue` &lt;Title /&gt;
 - https://medium.com/@kentcdodds/an-argument-for-automation-fce8394c14e2 Sure, if you repeat 1000*10s, code in 1000s the automation.
 - https://learnrelay.org/ Seems to be _the_ link to bookmark for relay
 - http://www.jamesmonger.com/post/react-component-dependency-injection.htm Oohh, a Guice in Typescript, love it !!
