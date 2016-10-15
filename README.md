@@ -1,5 +1,18 @@
 > Note for my employer: this is stuff I'm reading off work of course. :angel:
 
+# 15-10-2016
+
+# 14-10-2016
+
+- http://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html I was interesting by the -XX:+UseBiasedLocking option
+- https://www.youtube.com/watch?v=fyUVjE4aUK4 Very french. Avez vous déja vu? Un mec qui se plaint tout le temps ?
+- https://formidable.com/blog/2016/10/12/introducing-nodejs-dashboard/ A very basic monitoring system for node, meh
+- http://spectrum.ieee.org/automaton/robotics/humanoids/this-robot-can-do-more-pushups-because-it-sweats This Robot Can Do More Push-Ups Because It Sweats. OK
+- http://www.dataiku.com/ Beautiful SAS to play with your data (cleansing, ML, dataviz, worflows, scoring..)
+- https://www.atomist.com/ Atomist has opened! Handle project templates easily
+- https://shapeshed.com/thoughts-on-yarn/ Feedback on yarn, the js package manager, and why it has emerged (cause npm didn't "evolve" enough on the security and speed)
+- https://github.com/JohnLangford/vowpal_wabbit ML anyone?
+
 # 13-10-2016
 
 - https://www.npmjs.com/package/pify a successful package to encapsule nodejs callback style (err, res) into a Promise
