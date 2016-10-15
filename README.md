@@ -12,6 +12,7 @@
 - https://github.com/naptha/tesseract.js OCR in Javascript. Pretty sure I will never use it but we never know.
 - https://medium.com/walmartlabs/using-electrode-to-improve-react-server-side-render-performance-by-up-to-70-e43f9494eb8b Big React SSR speed enhancements using Electrode (noticeable optim: "above the fold only": render only what's visible to the user)
 - https://medium.com/@lestrrat/wtf-was-wrong-with-my-go-code-a025fa7563c I find the Go syntax to suck sometimes.
+- https://github.com/jsdnxx/graphql-schema-version this raises an important issue: backward and forward graphql schema compability
 
 # 14-10-2016
 
