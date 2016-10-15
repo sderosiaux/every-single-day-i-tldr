@@ -29,6 +29,7 @@
 - https://en.wikipedia.org/wiki/5_Whys Nice technique to find the cause of a problem. The best rule i find being "Never leave human error as the root cause."
 - https://blog.archillect.com/archillect-faq-3b22342c352a What's behing this marvellous Archillect.
 - https://www.youtube.com/watch?v=wf-BqAjZb8M Best practices for beautiful intelligible code. Refactor the code instead of just reformating it. Focus on the content, not the style.
+- http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/ Kleislis definitely too complex for me right now
 
 # 14-10-2016
 
