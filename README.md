@@ -1,4 +1,4 @@
-> Note for my employer: this is stuff I'm reading off work of course. :angel:
+> Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
 # 15-10-2016
 
@@ -11,6 +11,7 @@
 - http://lemire.me/blog/2016/10/14/intel-will-add-deep-learning-instructions-to-its-processors/ People are using Nvidia graphics procs to run deep-learning nowadays. But Intel is coming with a special set of instructions for CPUs!
 - https://github.com/naptha/tesseract.js OCR in Javascript. Pretty sure I will never use it but we never know.
 - https://medium.com/walmartlabs/using-electrode-to-improve-react-server-side-render-performance-by-up-to-70-e43f9494eb8b Big React SSR speed enhancements using Electrode (noticeable optim: "above the fold only": render only what's visible to the user)
+- https://medium.com/@lestrrat/wtf-was-wrong-with-my-go-code-a025fa7563c I find the Go syntax to suck sometimes.
 
 # 14-10-2016
 
