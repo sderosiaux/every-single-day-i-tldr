@@ -13,6 +13,13 @@
 - http://blog.scottlowe.org/2009/12/02/what-is-sr-iov/ SR-IOV Single-root input/output virtualization. Share the same physical PCIe device to multiple VMs
 - http://www.vfrank.org/2013/09/18/understanding-vmware-ballooning/ VMware ballooning is when the host system wants to retrieve physical memory given to the vm (through the hypervisor). 
 - https://github.com/datproject/dat easy p2p sharing of folder with a simple CLI (or desktop app), using webRTC. I like.
+- https://shop.keyboard.io/ Maybe. Or not. ($300)
+- https://vimeo.com/113707214 Railroad oriented programming: Error handling in functional languages. Basically, use Either[Throwable, Result] (2 tracks) and compose your functions. Really good analogy and talk.
+- https://vimeo.com/113703576 Introduction to redis
+- https://github.com/lihaoyi/scala.rx Like RxScala, less popular
+- http://docs.scala-lang.org/tutorials/FAQ/breakout.html What is breakOut, and how does it work? It's a good thing to know it exists, saves you useless processing
+- http://www.lihaoyi.com/post/BenchmarkingScalaCollections.html Memory and Performance of the Scala Collections. Very interesting. Arrays of primitive and Lists (linked list) are cool. Maps and Sets are damn slow.
+
 
 # 15-10-2016
 
