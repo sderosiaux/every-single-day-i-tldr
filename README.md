@@ -1,5 +1,12 @@
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-10-2016
+
+- http://gun.js.org/ A resilient decentralized realtime graph database for the web (nice landing page!)
+- https://github.com/attic-labs/noms A document graph git oriented database
+- http://www.datomic.com/ "The fully transactional, cloud-ready, distributed database." used by Netflix, Facebook, should be nice no? Ensure immutability, versioning, history. 
+
+
 # 15-10-2016
 
 - https://medium.com/@boennemann/avoid-yarn-for-packages-and-fully-enjoy-its-benefits-for-application-development-8bdd4deb33cf An example of why yarn can lead to unexpected behavior
