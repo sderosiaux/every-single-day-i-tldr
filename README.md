@@ -1,5 +1,9 @@
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-10-2016
+
+- https://en.wikipedia.org/wiki/Backtesting "...testing a predictive model using existing historic data. Backtesting is a kind of retrodiction, and a special type of cross-validation applied to time series data."
+
 # 16-10-2016
 
 - http://gun.js.org/ A resilient decentralized realtime graph database for the web (nice landing page!)
