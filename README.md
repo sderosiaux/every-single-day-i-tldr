@@ -14,7 +14,8 @@
 - https://www.javacodegeeks.com/2016/10/apache-camel-2-18-released-whats-included.html Camel passed to Java8, more Spring Boot compat, a better doc, Hystrix, 
 - http://johnzon.apache.org/ Didn't know this one. Implements JSR-353, for JSON processing ("can" replace Jackson).
 - https://jsonp.java.net/ Details of the JSR-353 Java API for JSON Processing
-
+- https://github.com/apache/camel/tree/master/examples Camel has a bunch of useful examples (not all camel components have an example)
+- https://en.wikipedia.org/wiki/White-box_testing Use white box testing to test infra, pipelines (not business)
 # 16-10-2016
 
 - http://gun.js.org/ A resilient decentralized realtime graph database for the web (nice landing page!)
