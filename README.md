@@ -11,6 +11,9 @@
 - https://github.com/paulp/sbt-extras A better sbt script with features more easily accessible. It should be coded with ammonite :)
 - http://www.lihaoyi.com/scalatags/ HTML/CSS in Scala without a stupid XML dsl but just with clear functions
 - https://github.com/scalaj/scalaj-http A nice and clean http wrapper to make some calls
+- https://www.javacodegeeks.com/2016/10/apache-camel-2-18-released-whats-included.html Camel passed to Java8, more Spring Boot compat, a better doc, Hystrix, 
+- http://johnzon.apache.org/ Didn't know this one. Implements JSR-353, for JSON processing ("can" replace Jackson).
+- https://jsonp.java.net/ Details of the JSR-353 Java API for JSON Processing
 
 # 16-10-2016
 
