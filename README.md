@@ -1,5 +1,9 @@
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-10-2016
+
+
+
 # 17-10-2016
 
 - https://en.wikipedia.org/wiki/Backtesting "...testing a predictive model using existing historic data. Backtesting is a kind of retrodiction, and a special type of cross-validation applied to time series data."
@@ -16,6 +20,7 @@
 - https://jsonp.java.net/ Details of the JSR-353 Java API for JSON Processing
 - https://github.com/apache/camel/tree/master/examples Camel has a bunch of useful examples (not all camel components have an example)
 - https://en.wikipedia.org/wiki/White-box_testing Use white box testing to test infra, pipelines (not business)
+
 # 16-10-2016
 
 - http://gun.js.org/ A resilient decentralized realtime graph database for the web (nice landing page!)
