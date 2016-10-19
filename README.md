@@ -8,6 +8,10 @@
 - http://io.livecode.ch/learn/namin/unsound/scala The Java/Scala types system is broken :-(
 - https://www.akkadia.org/drepper/cpumemory.pdf "What Every Programmer Should Know About Memory" 114 pages. Seems very good. For later.
 - https://en.wikipedia.org/wiki/Configuration_management_database A repository that acts as a data warehouse for information technology (IT) installations. Excel counts?
+- https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/ Read in 10s tops.
+- https://marco.org/2016/10/17/shame-on-y-combinator A Y-combinator partner invested in Trump. Making waves among the community.
+- https://github.com/airbnb/kafkat kafkat! a easier CLI for kafka
+- https://scotthelme.co.uk/alexa-top-1-million-crawl-aug-2016/ God. so many security headers to handle nowadays..
 - https://github.com/chtefi/making-a-website I did that!
 
 # 17-10-2016
