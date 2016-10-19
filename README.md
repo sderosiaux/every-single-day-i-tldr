@@ -1,5 +1,19 @@
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-10-2016
+
+- http://jsipsum.lunarlogic.io/ After lorem ipsum, bacon ipsum, cupcake ipsum, hipster ipsum, here is.. javascript ipsum! Nice touch
+- https://en.wikipedia.org/wiki/Undefined_behavior C is full of undefined behaviors! `int f(){}; int i = f(); // UB !` but it's in every compiler (the language spec does not define explicitely certain behavior that are unexpected)
+- http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html Chaos Monkey 2 release with less features than the previous one (CM2 just terminates instances now, before it could connect into host and play with the cpu, hdd, networks..), with a platform called Spinnaker.
+- https://github.com/Netflix/chaosmonkey The repo! 16 commits. In Go. I never used Go yet.
+- http://json-schema.org/examples.html JSON Schema is a spec to define the type of a JSON payload. Like xsd.
+- https://github.com/epoberezkin/ajv Seems to be the most popular and fast
+- https://developers.google.com/web/updates/2016/10/nic54 New In Chrome 54: Custom elements (!), BroadcastChannel API (talk to other tabs opened from another), foreign fetch (a fetch that could install its service worker, what?!)
+- https://html.spec.whatwg.org/multipage/scripting.html#custom-elements The spec of custom elements
+- https://www.sitepoint.com/yarn-vs-npm/ Some points about the differences between yarn and npm. yarn.lock is like npm shrinkwrap but automatically generated and updated when installing/updating deps; for a reproductible environment and no surprise
+- https://yarnpkg.com/en/docs/cli/ All the commands (most similar to npm's)
+- https://github.com/yarnpkg/yarn/blob/master/src/util/filter.js I looked what was the heuristic they used for "yarn clean". Strings.
+
 # 18-10-2016
 
 - http://maxwellito.github.io/vivus/ awesome js lib to live draw a svg when in viewport (for instance)
