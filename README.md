@@ -8,7 +8,7 @@
 - http://io.livecode.ch/learn/namin/unsound/scala The Java/Scala types system is broken :-(
 - https://www.akkadia.org/drepper/cpumemory.pdf "What Every Programmer Should Know About Memory" 114 pages. Seems very good. For later.
 - https://en.wikipedia.org/wiki/Configuration_management_database A repository that acts as a data warehouse for information technology (IT) installations. Excel counts?
-
+- https://github.com/chtefi/making-a-website I did that!
 
 # 17-10-2016
 
