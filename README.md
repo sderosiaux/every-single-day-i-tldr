@@ -1,5 +1,13 @@
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 21-10-2016
+
+- https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6 designers replaced black by gray for years. Some said we should go back to black to make things more readable.
+- https://open_nsfw.gitlab.io/ Testing the nsfw deep model Yahoo opens one month ago
+- https://github.com/nodejs/node/commit/d0edabecbf this is so bs. so many test and tricks just to test if 0<=n<=65535. Thanks Javascript and your dynamic types and your coercion.
+- https://octoverse.github.com/ ok it's like SUPER INTERESTING :)
+...
+
 # 20-10-2016 
 
 - http://stackoverflow.com/questions/37528047/how-are-stages-split-into-tasks-in-spark Spark
