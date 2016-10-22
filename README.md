@@ -1,4 +1,10 @@
+Her, I list every article, blog post, page, video I read or watch and find interesting. I add a little description for me to find it later, or as a TLDR.
+
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
+
+# 22-10-2016
+
+Incoming...
 
 # 21-10-2016
 
@@ -16,6 +22,7 @@
 - http://mkuthan.github.io/blog/2016/09/30/spark-streaming-on-yarn/ Nice tips when starting Spark Streaming jobs on YARN (+ add custom monitoring)
 - https://www.youtube.com/watch?v=_MAD4Oly9yg "Paul O Shannessy - Building React From Scratch" I didn't watched the whole thing. 20min to understand a tiny React framework, with already perf shortcuts inside, meh.
 - https://www.youtube.com/watch?v=SfWR3dKnFIo Very interesting simple js example to go from ugly imperative style to functional, with @drboolean
+- https://github.com/lukaszx0/queues.io "Job queues, message queues and other queues. Almost all of them in one place."
 
 # 20-10-2016 
 
