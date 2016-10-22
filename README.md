@@ -11,6 +11,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/facebook/jsx/issues/65 JSX2.0, breaking changes. Cool syntax oriented.
 - https://blog.acolyer.org/2016/05/03/gorilla-a-fast-scalable-in-memory-time-series-database/ Facebook have created Gorilla, a timeseries database on top of hbase. Very compression centric.
 - https://github.com/jgamblin/Mirai-Source-Code The famous source-code of the malware used to DDoS
+- https://www.opendns.com/setupguide/ Nameservers of OpenDNS 208.67.222.222 208.67.220.220 (it's using a cache if dns resolver is not available, like in case of an attack)
+- https://support.opendns.com/hc/en-us/articles/227988627 Clean you DNS cache (ipconfig, dscacheutil, nscd, network-manager..)
+- http://distributedlog.incubator.apache.org/technical-review/2015/09/19/kafka-vs-distributedlog Kafka vS DistributedLog (incubating, from Twitter)
+- https://aphyr.com/posts/293-jepsen-kafka Jepsen test on Kafka 0.7.x Too bad it's too old! Now we can disable the unclean leader partition
 
 # 21-10-2016
 
