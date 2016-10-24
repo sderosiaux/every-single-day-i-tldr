@@ -2,6 +2,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-10-2016
+
+- http://spacedashboard.com/ This is what a live dashboard is. Btw: "people in space: 8".
+- https://www.theearthawaits.com/ 600 cities across the world. A budget. Different filters. Awesome beautiful website.
+- https://www.exploratorium.edu/blogs/tangents/we-got-phished-2 A nice story about being phished
+- https://killscreen.com/articles/doom-map-300-hours-make/ Love this game.
+- https://www.madewithtea.com/released-mocked-streams-for-apache-kafka.html Testing Kafka Streams without Kafka broker nor Zookeeper
+- https://github.com/blog/2268-top-open-source-launches-on-github That's tiptop. I was not aware of some of the top 10 best-star-in-one-week projects, such as anime.js
+- http://anime-js.com/ awesome animation lightweight lib in JS
+
+
 # 23-10-2016
 
 - http://unix.stackexchange.com/questions/113544/interpret-the-output-of-lstopo Nice answer about how interpret the lstopo output (create a drawing of the physical layout of the server)
