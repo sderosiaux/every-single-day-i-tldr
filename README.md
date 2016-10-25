@@ -6,6 +6,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 - http://faehnri.ch/have-fun/ "main(){printf(&unix["\021%six\012\0"], (unix)["have"]+"fun"-0x60);}" output:"unix". "A lot to unpack from such little code, and plenty to learn."
 - https://www.bloomberg.com/news/articles/2016-10-25/twitter-said-to-plan-hundreds-more-job-cuts-as-soon-as-this-week That sucks.
+- https://zeit.co/blog/next hmm a bit like create-react-app (handle libs, nothing to set up), except you just write components, and you have way more features (hr, ssr, code splitting, css in js, add a new method "async getInitialProps({res})")
+- https://www.youtube.com/watch?v=HeLbtltuB5g&app=desktop Man get sucked into jet engine. and survived.
+- http://slatestarcodex.com/ i dont know. "AI PERSUASION EXPERIMENT RESULTS"
+- http://www.theuselessweb.com/ i got trapped
+- https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles come on, again
+- https://github.com/threepointone/glamor seems like an excellent css in js lib
+- https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking bigbro is in da place. https://myactivity.google.com/myactivity
 
 # 24-10-2016
 
