@@ -2,6 +2,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-10-2016
+
+- http://www.bbc.com/news/technology-37788052 Bye bye Vine!
+- https://youtu.be/6m_E-mC0y3Y using lighthouse to measure page perf (differents metrics). Measure (performance.mark/measure, and look into the flame chart, "User Timing"), Profile (Chrome Debugger), Diagnose, Identify, Attempt.
+- https://docs.npmjs.com/getting-started/scoped-packages I never published scoped packages "@toto/core"
+- http://www.catb.org/esr/faqs/hacker-howto.html ahah, i like that: "Hacker: How To"
+- http://openjdk.java.net/jeps/295 AOT in Java9, so cool ! only for java.base for now, but will extend to anything later. Compile with a new tool: "jaotc", then add it to the "AOT classpath": "java -XX:AOTLibrary=./libHelloWorld.so HelloWorld"
+- http://www.history.com/news/9-things-you-may-not-know-about-the-pentagon 2min video about the Pentagon structure, "good" to know
+
+
 # 26-10-2016
 
 - https://cors.now.sh/ Public reverse-proxy to add CORS on any url (https://cors.now.sh/<url>)
