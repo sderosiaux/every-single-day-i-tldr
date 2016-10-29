@@ -13,6 +13,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.xebia.fr/data/techtrends/techtrends-xebia-craft.pdf Craftsmanship movement
 - http://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/ Flink: cluster based, KafkaStreams: microservice (standalone app)
 - https://groups.google.com/forum/m/#!topic/golang-dev/Ab1sFeoZg_8 Go is going to get &lt;100 microseconds worst-cases STW gc. Nothing more.
+- http://blog.akka.io/integrations/2016/08/23/intro-alpakka Akka Streams is going Camel.
 
 # 28-10-2016
 
