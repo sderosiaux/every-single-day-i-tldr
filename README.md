@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-10-2016
+
+- https://vivatiffany.wordpress.com/2016/10/27/academia-love-me-back/ "This is not your word". All that because she used the word "hence" in her essay. I had no idea it was a "high-quality" word.
+- https://github.com/ptmt/react-native-touchbar it begins!
+- https://github.com/alexjc/neural-enhance impressive. do CSI picture enhancer. in real. thanks to neural network.
+- https://www.youtube.com/watch?v=LhF_56SxrGk "Let's Enhance" Love this clip :)
+- https://www.html5rocks.com/en/tutorials/security/content-security-policy/ Good recap about Content-Security-Policy
+- http://twitter.github.io/heron/ A realtime, distributed, fault-tolerant stream processing engine from Twitter
+- http://www.xebia.fr/data/techtrends/techtrends-xebia-craft.pdf Craftsmanship movement
+- http://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/ Flink: cluster based, KafkaStreams: microservice (standalone app)
+- https://groups.google.com/forum/m/#!topic/golang-dev/Ab1sFeoZg_8 Go is going to get &lt;100 microseconds worst-cases STW gc. Nothing more.
+
 # 28-10-2016
 
 - https://icon.now.sh/ link to svgs icon (+1200!) with custom color, size, direction. Really cool. But.. SLA ?
