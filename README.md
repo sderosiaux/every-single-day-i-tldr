@@ -2,6 +2,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 30-10-2016
+
+- http://blog.akka.io/integrations/2016/08/23/intro-alpakka Akka Streams is going Camel.
+- http://www.latimes.com/business/technology/la-fi-tn-soylent-recall-20161027-story.html The famous Soylent having trouble with some of its products.
+- http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3/ USB-C and Thunderbolt 3 complex issues about compabitility. Scary.
+- https://medium.com/i-m-h-o/dont-go-to-art-school-138c5efd45e9 $245,816 = 4y art school cost
+- https://www.kernel.org/pub/software/scm/git/docs/giteveryday.html Kernel ppl don't use git as we do (email, signatures..)
+- https://www.google.com/doodles/halloween-2016 their halloween doodle game is very great :)
+- https://github.com/rijs/examples/tree/master/10000-modules  benchmarking importing module (<link rel="import" href="xxx.html">). They are very slow. But Ripple is way faster.
+- https://github.com/rijs/fullstack this is Ripple "Ripple is a set of simple modules that compose to form a modular framework. "
+- https://github.com/facebookincubator/create-react-app/pull/898 yarn being added to create-react-app 
+- http://williampross.com/became-hackerrank-1-two-hours/ ahah, just copied/pasted the answer from the comments, gg.
+- https://github.com/VoLuong/Master-Latex-in-minutes Straight to the point!
+
+
 # 29-10-2016
 
 - https://vivatiffany.wordpress.com/2016/10/27/academia-love-me-back/ "This is not your word". All that because she used the word "hence" in her essay. I had no idea it was a "high-quality" word.
