@@ -2,6 +2,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-11-2016
+
+- http://v8project.blogspot.fr/2016/10/webassembly-browser-preview.html webassembly on the road
+- http://webassembly.org/demo/ let's give a try (still the ooold demo)
+- out
+
 # 31-10-2016
 
 - https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b A trending medium that shows Apple is lost.
