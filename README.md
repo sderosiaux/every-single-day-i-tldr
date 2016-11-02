@@ -2,6 +2,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-11-2016
+
 # 01-11-2016
 
 - http://v8project.blogspot.fr/2016/10/webassembly-browser-preview.html webassembly on the road
