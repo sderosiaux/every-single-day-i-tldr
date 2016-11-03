@@ -22,6 +22,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.niemanlab.org/2016/10/slate-and-the-new-yorker-dump-outbrain-and-taboola-links-but-way-more-publishers-still-use-them/ Finally, dumping some crappy ads
 - https://techcrunch.com/2016/11/02/microsoft-teams/ Microsoft Teams, aka Slack competitor
 - https://github.com/UKHomeOffice/posters/tree/master/accessibility Some "posters" about accessibility best practices
+- https://blog.chromium.org/2016/10/making-chrome-on-windows-faster-with-pgo.html Chrome way faster thanks to Microsoft PGO technology, that enhances the binary by optimizing hotspots and uncaching "coldspots"
+- https://concept.research.microsoft.com/Home/Introduction impressive project by Microsoft. Associate appropriate concepts to words and sentences
+- https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1 for newcomers, tldr
 
 # 01-11-2016
 
