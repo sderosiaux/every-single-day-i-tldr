@@ -21,6 +21,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/ensime/ensime-sublime Definitely must use Ensime to enjoy Scala with SublimeText 3
 - http://www.niemanlab.org/2016/10/slate-and-the-new-yorker-dump-outbrain-and-taboola-links-but-way-more-publishers-still-use-them/ Finally, dumping some crappy ads
 - https://techcrunch.com/2016/11/02/microsoft-teams/ Microsoft Teams, aka Slack competitor
+- https://github.com/UKHomeOffice/posters/tree/master/accessibility Some "posters" about accessibility best practices
 
 # 01-11-2016
 
