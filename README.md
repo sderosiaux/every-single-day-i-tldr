@@ -14,7 +14,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.javaslang.io/ a Java a bit more scala-ish also. Less .stream() crap, a true Option<>, Try<>, some pattern matching api
 - https://github.com/skatejs/skatejs web component library. Incremental DOM. 4k mingz.
 - https://www.pathwright.com/two some long vertical scroll page with tons of smooth controls animations (using tweens https://github.com/gilbox/react-imation)
-
+- https://github.com/nodejs/readable-stream/pull/238 a debate to know if the licence to copy a js one-liner should be kept. ehm
+- http://www.slideshare.net/Odersky/implementing-higherkinded-types-in-dotty slides from martin odersky. too complicated for me :D
+- http://www.lottejackson.com/learning/supports-will-change-your-life @supports in css to avoid using Modernizr and js for css feature detection
+- http://www.cyberciti.biz/faq/linux-tcp-tuning/ Some network tuning with linux kernels. Will be useful, maybe one day.
+- https://www.infoq.com/presentations/akka-streams akka-streams by Viktor Klang
 
 # 02-11-2016
 
