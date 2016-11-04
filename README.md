@@ -14,7 +14,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/docker/distribution a Docker registry in a Docker image, quite meta (for private usage)
 - https://github.com/drathier/stack-overflow-import `from stackoverflow import quick_sort` funny! someone will do it for javascript, for sure
 - http://meowni.ca/posts/web-fonts/ a reminder: import webfonts asynchronously to avoid FOUC/FOIC. Anyway, test your pages by simulating a 2G connection for instance. Reduce the TTFP (Painting).
-
+- https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story TLDR: never monkey patch (especially Promises)
 
 # 03-11-2016
 
