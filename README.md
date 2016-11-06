@@ -22,7 +22,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783 Clear startup guide about webpack (2)
 - https://github.com/LeadDyno/intercooler-js lean idea. we have `<a href="..">` why not post? `<button ic-post-to="/there">` with misc attrs to alter the payload.
 - https://facebook.github.io/react/contributing/codebase-overview.html Some nice notes about how react codebase is structured. Tried to read the implementation notes but eh, too specialized for me, i don't need to know.!
-
+- http://www.ibm.com/developerworks/java/library/j-jtp05236/index.html Great article about thread interruption in Java
 
 # 05-11-2016
 
