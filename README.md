@@ -16,6 +16,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://tryhaskell.org/ I Know Haskell
 - http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html wanted to learn more about Free Monads but err, too much scalaz still. One day.
 - http://underscore.io/blog/posts/2015/11/09/sbt-commands.html Useful non-basic tricks in sbt
+- https://zapier.com/app/explore Zapier looks useful when it comes to join 2 apps. The connectors list is quite impressive.
+- https://zapier.com/learn/the-ultimate-guide-to-remote-working/ Wanna create/work in a remote company? Read this.
+- https://slackhq.com/slack-101-onboarding-247454704155 How tu use Slack, by Slack
+- https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783 Clear startup guide about webpack (2)
+- https://github.com/LeadDyno/intercooler-js lean idea. we have `<a href="..">` why not post? `<button ic-post-to="/there">` with misc attrs to alter the payload.
+- https://facebook.github.io/react/contributing/codebase-overview.html Some nice notes about how react codebase is structured. Tried to read the implementation notes but eh, too specialized for me, i don't need to know.!
 
 
 # 05-11-2016
