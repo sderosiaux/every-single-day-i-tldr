@@ -9,7 +9,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.lightbend.com/platform/production i was looking for intel about conductr, google drop me here, but no *visible* reference to conductr, BAD UX ;)
 - https://conductr.lightbend.com/docs/1.1.x/Home I had to look at the source to find this link eheh "solution for managing Lightbend Reactive Platform applications across a cluster of machines. " Commercial only iiuc.
 - https://www.youtube.com/watch?v=jHoIzOdUn4c 1h of Martin Odersky resuming what's going on with Scala and Dotty. Quick notes: 2.12: java8, 2.13: scala libraries/collections (with some Spark'y methods (reducebyKey and so on)); split Scala stdlib to: core (what the compiler always need) + platform (containing community efforts, like a common json serde thing); scala.js production ready; Scala Native on LLVM; Scala Center: education, package "manager" (to find a scala package doing x)
-dotty: based on DOT. faster than nsc (scalac). New piece in Dotty: TASTY: T_AST_Y (optim AST). No more Macros.. but a replacement! (scala.meta) and more new features. ELM error messages incoming :). MVP Spring 2017. A new "pure" arrow function -> (=> would still exist). No null by default, need to "Object?". No more 22 :)) :heart:
+dotty: based on DOT. faster than nsc (scalac). New piece in Dotty: TASTY: T_AST_Y (optim AST). No more Macros.. but a replacement! (scala.meta) and more new features. ELM error messages incoming :). MVP Spring 2017. A new "pure" arrow function -&gt; (=&gt; would still exist). No null by default, need to "Object?". No more 22 :)) :heart:
+- http://sciencebulletin.org/archives/7440.html -273.135°C. The electrons in a electric current appear individually. 0.0015k above absolute 0.
+- https://hyper.sh/ already seen, but again, deploy on the cloud with docker behind, yeah cool. a bit expensive still. (21$/m 2cores/2gb ram)
+- https://github.com/mbasso/react-decoration tons of annotations for AOP. some are practicals, some are useless (@componentWill/Did*(cb) wtf? type the method and be done)
+- https://techcrunch.com/2016/09/26/zenly-raises-225-million-from-benchmark-for-its-location-sharing-app/ French startup, youhou. Know where your friends are.
+- https://medium.com/startup-grind/how-i-went-from-being-a-stranger-to-having-a-network-in-silicon-valley-8cf7ac5fed thing i retain: figure out your goal. I think I have troubles with that, want to know a shitload of things, but what's the point eh? Manage, better coder.. make my startup i guess? All the code, boum.
+- https://github.com/byteclubfr/copycast a simple tool to connect browsers for them to see the updates someone is doing in one folder (uh)
+- https://ponyfoo.com/articles/making-time-for-side-projects Making Time for Side Projects: A Daily Habit. "Each and every morning, I do something to push my side projects forward". ok, no.
+- http://highscalability.com/blog/2016/11/7/the-quickbooks-platform.html Quickbooks has a really nice culture according to their list :) 
+
 
 
 # 06-11-2016
