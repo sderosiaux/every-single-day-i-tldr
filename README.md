@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-11-2016
+
+- https://slackhq.com/some-of-the-ways-we-use-emoji-at-slack-a21be5030815 red/blue/green circle before a msg to indicate priority. I could definitely use that. nice visual cue
+- https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1 yes google is a smart cookie and can interpret js (react here), but with react-router it fails!
+- https://medium.com/hillary-for-america/its-been-an-amazing-journey-here-s-what-i-ll-always-remember-b526f1b06429 Bye Hillary !
+- https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b Can't wait to test gRPC in a project
+- http://www.shortlist.com/news/president-donald-trump-first-day-in-office-white-house omg that's incredible. USA, you're going to have a bad time.
+- http://www.gamasutra.com/view/news/285149/Epic_Games_chief_pays_15M_to_protect_7000_acres_of_North_Carolina_wilderness.php Buy landscape to protect it. Awesome person.
+- https://github.com/dhamaniasad/HeadlessBrowsers Some many headless browsers! It's always useful to know some, always a email with generated chart images to send :D
+- http://blog.akka.io/streams/2016/07/06/threading-and-concurrency-in-akka-streams-explained Akka Streams is great
+- http://doc.akka.io/docs/akka/2.4/scala/stream/stream-composition.html I mean it's awesome
+
 # 08-11-2016
 
 - https://dev.to/isaacandsuch/developer-driven-development/ Nice story about how it's working in its company. Some nice things about sharing, working on anything, the bus problem, "code review" before coding.
