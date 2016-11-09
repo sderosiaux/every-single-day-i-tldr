@@ -2,6 +2,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 08-11-2016
+
+- https://dev.to/isaacandsuch/developer-driven-development/ Nice story about how it's working in its company. Some nice things about sharing, working on anything, the bus problem, "code review" before coding.
+- https://www.youtube.com/watch?v=NYVjIjBMx6o troubles with the new mac book pro. a livestream by a well know dude. seems like a piece of shit unfortunately (look the video).
+- https://github.com/jxnblk/repng react component to png. using generate the static markup then use datauri (markup to  https://github.com/sindresorhus/pageres that using phantomjs..!
+- https://www.reddit.com/r/scala/comments/5bq57z/translate_reddit_source_to_scala/ someone is going to write reddit in scalajs, to follow!
+- https://medium.com/@boxed/a-small-dive-into-and-rejection-of-elm-8217fd5da235 elm seems still incomplete for serious business (and still lacking of good use-cases resources unfortunately)
+- http://www.catb.org/jargon/html/Z/Zero-One-Infinity-Rule.html i learned a new software rule! "Zero-One-Infinity Rule" (never put random limit just because, like 22 in scala)
+- http://reasonablypolymorphic.com/blog/elm-is-wrong elm was just destroyed. solid args.
+- https://edge.akamai.com/ec/us/highlights/keynote-speakers.jsp#edge2016futureofcommercemodal AliExpress improve its page load time by 36%: +10% orders, +30% conversions (in one country he told but we get the idea!): win! thanks to Akamai Site Acceleration & ESI
+- https://www.youtube.com/watch?v=e-5obm1G_FY if you know nothing about functional programming, this is the video to watch, succinct, clear, and good speaker: Anjana Vakil (JSUnconf 2016)
+- https://hackernoon.com/so-you-think-you-know-c-8d4e2cd6f6a6 ahah, C and all its pitfalls
+- https://comments.network/ "<comment-box hackernews="11850599"></comment-box>" and boom, you have HN comments on your blog/page
+- http://www.bbc.com/news/technology-37908915 Hyperloop (700mph) between Duabai and Abu Dhabi incoming
+- https://datastudio.google.com/#/org//reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD nice adwords (ctr, conversions, cpc, campaigns..) dashboard in datastudio, by Google.
+
 # 07-11-2016
 
 - https://github.com/faergeek/remove-medium-hash Remove the ugly hash medium.com auto-adds at the end of the url :) it messes up with the bookmarks otherwise
