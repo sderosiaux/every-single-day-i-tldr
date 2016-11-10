@@ -10,6 +10,8 @@ DIP [Day In Progress]
 - http://blog.akka.io/integrations/2016/08/25/simple-sink-source-with-graphstage only a crazy cookie would use Java with Akka Streams. Custom impl of GraphStage, quite useful to know.
 - https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004 meh post talking about Vue with a jquery image.
 - https://code.facebook.com/posts/864213503715814/introducing-backpack-our-second-generation-modular-open-switch/ I'll just retain 100Gbit/s network impl. Not my domain.
+- http://blog.akka.io/streams/2016/07/30/mastering-graph-stage-part-1
+- http://blog.akka.io/streams/2016/07/06/threading-and-concurrency-in-akka-streams-explained
 
 # 09-11-2016
 
