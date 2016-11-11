@@ -2,9 +2,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
-# 10-11-2016
+# 11-11-1016
 
-DIP [Day In Progress]
+Sometimes, you need a break and go on holidays. :airplane:
+
+# 10-11-2016
 
 - https://tech.zalando.com/blog/comparing-akka-streams-actors-and-plain-futures/ Akka Streams, Akka Streams! I definitely don't like infix notation here :/
 - http://blog.akka.io/integrations/2016/08/25/simple-sink-source-with-graphstage only a crazy cookie would use Java with Akka Streams. Custom impl of GraphStage, quite useful to know.
