@@ -2,6 +2,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-11-2016
+
+
+
 # 1[1234]-11-1016
 
 Sometimes, you need a break and go on holidays. :airplane:
