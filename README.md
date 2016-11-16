@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-11-2016
+
+- http://demos.algorithmia.com/colorize-photos/ Again, deep learning usage. Colorize a black and white photo, not bad AT ALL
+- https://github.com/gritzko/swarm stumbled upon that again. It seems to have evolve quite a bit :-) basically, a online/offline distributed in-sync reactive data storage for webapps (javascript) (think collaboration, offline work..) CRDT model
+- https://hstspreload.appspot.com/ the Chromium HSTS preload list where we can submit our website
+- https://cs.chromium.org/chromium/src/net/http/transport_security_state_static.json the list of preload HSTS websites, in the source itself
+- https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e tldr: don't forget ethics when coding. think about human impact if applicable.
+- http://google.github.io/tracing-framework/ #perfmatters
+- https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html not that many new features, mostly stabilization, cleaning up, and debugging features
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying a very good quality link about distributed logs systems
+- https://realm.io/news/first-object-database-realm-node-js-server/ object data for web or nodejs (mobile-first)
+
 # 15-11-2016
 
 - https://github.com/leebyron/ecmascript-iterator-hof Adding a left-to-right Iterator wrapper for Arrays, Maps, Sets etc. to get HOF
