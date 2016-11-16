@@ -4,7 +4,28 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 15-11-2016
 
+15-11-2016
 
+- https://github.com/leebyron/ecmascript-iterator-hof Adding a left-to-right Iterator wrapper for Arrays, Maps, Sets etc. to get HOF
+- https://stackoverflow.com/company/salary/calculator Wow, the salary at Stack Overflows are quite nice :D (even in France!). Talking about their "Developer Story" thing and Ads. Stack Overflow Enterprise.
+- https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html another record for the "sort 100TB" using $144.22. (cloud ofc). In 2013, 2100 hadoop nodes were needed, for 72min, woo! The new record used "only" 394 nodes for 50min, using Spark 2. And because its performance were largely enhanced (Thungsten, Catalyst, code gen), it is much more very efficient. http://sortbenchmark.org/NADSort2016.pdf the official report
+- http://grafana.org/blog/2016/11/09/grafana-4.0-beta-release/ The alerting is finally available in Grafana, woot!
+- https://www.mozilla.org/en-US/firefox/50.0/releasenotes/ FF50! (Chrome is 55beta :P)
+- https://commits.io/ Create a poster containing... your github code
+- https://github.com/underscoreio/shapeless-guide Shapeless lib guide and mini book. Definitely something I'll read later on
+- https://www.reddit.com/r/scala/comments/5csfn3/as_of_212_how_fast_is_scala_now_also_what_is/ Developing a game in Scala, indeed, why not? Never through about it.
+- http://benchmarksgame.alioth.debian.org/u64q/scala.html Scala (2.12) VS Java (8) micro benchmarks. Java almost always wins.
+- https://blog.jetbrains.com/scala/2016/11/11/intellij-idea-2016-3-rc-scala-js-scala-meta-and-more/ Intellij is just the best IDE for Scala and its ecosystem. Scalajs, scala-meta (replacement of macros), akka-*
+- https://github.com/WebAssembly/design/issues/112 For fun, WebAssembly (WASM) looking for a logo. Those topics are always cool, just looking at the pictures.
+- http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/ Scalaz Tasks VS classic Futures.
+- https://en.wikipedia.org/wiki/Algebraic_data_type ADT algebraic data type = product types (tuples and records) and sum types (A | B). We can do easy pattern matching with this.
+- https://gist.github.com/tpolecat/a0b65e8ffdf5dc34a48f a step-by-step gist that uses \/ and EitherT from Scalaz to abstract the typical case : Future[Either[Failure, Success]]
+- http://bellard.org/jslinux/ a CPU emulator in JS, and a terminal. It downloads a true linux compiled kernel (<2MB) and starts it.
+- http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags Never ever use a regex to parse html. This is why. TH̘Ë͖́̉ ͠P̯͍̭O̚​N̐Y̡ H̸̡̪̯ͨ͊̽̅̾̎Ȩ̬̩̾͛ͪ̈́̀́͘ ̶̧̨̱̹̭̯ͧ̾ͬC̷̙̲̝͖ͭ̏ͥͮ͟Oͮ͏̮̪̝͍M̲̖͊̒ͪͩͬ̚̚͜Ȇ̴̟̟͙̞ͩ͌͝S̨̥̫͎̭ͯ̿̔̀ͅ
+- https://news.ycombinator.com/item?id=12961666 Neo4J testing: "max out write throughput, then pull the power cord, then pull the powercord again while it recovers"
+- http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html "The attacker just have to press and keep pressing the [Enter] key at the LUKS password prompt until a shell appears" 'nough said.
+- https://www.cockroachlabs.com/blog/cockroachdb-stability-from-1-node-to-100-nodes/ cockroachlabs being very transparent about the stability problems they had and how they fixed it. TLDR: never delay stability
+- http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/ started to get a bit more of scalaz..
 
 # 1[1234]-11-1016
 
