@@ -2,6 +2,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-11-2016
+
+- https://dev.to/naveen/how-to-write-an-object-oriented-program-that-doesnt-suck good advise to do better object oriented. The point being one class == one responsability
+
+
 # 16-11-2016
 
 - http://demos.algorithmia.com/colorize-photos/ Again, deep learning usage. Colorize a black and white photo, not bad AT ALL
@@ -16,6 +21,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://rxmarbles.com/#combineLatest only the marbles of reactivex
 - http://www.slideshare.net/Couchbase/nosql-for-java-developers couchbase and its rxjava client, basic
 - https://github.com/ReactiveX/RxScala/blob/0.x/examples/src/test/scala/examples/RxScalaDemo.scala 2000 lines of RxScala examples, nice
+- https://quickdraw.withgoogle.com/ lose your productivity with this neural network (pictionary)
+- http://exploringjs.com/es6/ch_callables.html#sec_function-names Super interesting, the norm around the function name in Javascript.
+- https://github.com/davidkpiano/RxCSS RxJs and CSS --crappy-var :) nice anyway
+- https://worldchess.com/2016/11/12/world-championship-game-2-draw/ chess players are so damn good
+- http://thisdavej.com/creating-node-js-microservices-with-ease-using-stdlib/ this stdlib has nothing to do with the Great C stdlib. Here, it's a framework to deal with and host microservices with a registry. no mention of comm/dependencies between microservices, too bad.
 
 # 15-11-2016
 
