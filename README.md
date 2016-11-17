@@ -4,7 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 17-11-2016
 
-- https://dev.to/naveen/how-to-write-an-object-oriented-program-that-doesnt-suck good advise to do better object oriented. The point being one class == one responsability
+- https://dev.to/naveen/how-to-write-an-object-oriented-program-that-doesnt-suck some good advices to do better object oriented programming. The point being one class == one responsability. That's mostly true but not always necessary.
+- https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5 lenses in js is quite easy to do ourself (mostly), understand and use, thanks to the dynamic aspect of js. It's a very cool functional feature i never used.
+- https://cdn.logrocket.com/LogRocket.min.js send your redux state over the wire to replay then as you want
+- http://www.2ality.com/2016/11/concat-array-literal.html wtf is the point of this post. "[].concat[1,2,3]" = "[].concat[3]" and if you set [].concat on its proto to [1,2,3], then you're done. but, wtf.
+- http://www.lesnumeriques.com/vie-du-net/microsoft-rejoint-conseil-administration-linux-foundation-n57361.html Microsoft has a better image than 2 years ago, gj
+- http://boredzo.org/pointers/ Ahh, C pointers! brings back some memories. Always loved C
+- https://twitter.com/villeimmonen/status/799267958291832832 I didn't even know "mktemp", great scripting tool `mktemp -d temp-XXXXX` => "/tmp/temp-Fa1vz"
+
 
 
 # 16-11-2016
