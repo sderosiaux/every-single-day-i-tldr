@@ -13,6 +13,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html not that many new features, mostly stabilization, cleaning up, and debugging features
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying a very good quality link about distributed logs systems
 - https://realm.io/news/first-object-database-realm-node-js-server/ object data for web or nodejs (mobile-first)
+- http://rxmarbles.com/#combineLatest only the marbles of reactivex
+- http://www.slideshare.net/Couchbase/nosql-for-java-developers couchbase and its rxjava client, basic
+- https://github.com/ReactiveX/RxScala/blob/0.x/examples/src/test/scala/examples/RxScalaDemo.scala 2000 lines of RxScala examples, nice
 
 # 15-11-2016
 
