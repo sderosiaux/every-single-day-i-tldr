@@ -11,8 +11,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.lesnumeriques.com/vie-du-net/microsoft-rejoint-conseil-administration-linux-foundation-n57361.html Microsoft has a better image than 2 years ago, gj
 - http://boredzo.org/pointers/ Ahh, C pointers! brings back some memories. Always loved C
 - https://twitter.com/villeimmonen/status/799267958291832832 I didn't even know "mktemp", great scripting tool `mktemp -d temp-XXXXX` => "/tmp/temp-Fa1vz"
-
-
+- https://medium.com/the-mission/8-things-every-person-should-do-before-8-a-m-70cce8f22fe7 i have a true debate inside me. if i sleep more, would i be able to do more techno watch? not sure. so i sleep less. :/. And about that cold shower, come on.
+- https://shift.newco.co/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424 some says FB played a role in the election, because of its news (with sensational title as the web needs..)
+- https://hackernoon.com/an-ode-to-async-await-7da2dd3c2056 another async/await is better
+- https://github.com/scala/async Very cool, async/await à la JS or .NET in Scala
 
 # 16-11-2016
 
