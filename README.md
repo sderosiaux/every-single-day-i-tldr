@@ -2,6 +2,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-11-2016
+
+- https://github.com/pelotom/effectful write monadic code with anything, and without for comprehension (effectful being way less verbose)
+- https://www.visualstudio.com/vs/visual-studio-mac/ VS is a very good IDE, nice move!
+- http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/ 4,425 satellites at 800 miles high (a normal sat is 10k high).
+- https://www.troyhunt.com/8-million-github-profiles-were-leaked-from-geekedins-mongodb-heres-how-to-see-yours/ another leak. github is against commercial use of its public user data
+- http://nypost.com/2016/11/17/facebooks-ad-metric-problem-is-becoming-zuckerbergs-headache/ weekly and monthly reach of marketers’ posts, which got inflated by 33 percent and 55 percent, respectively,
+- https://hackernoon.com/an-ode-to-async-await-7da2dd3c2056 async/await in JS should become mainstream! Did a little gist to implement it in Scala, with async/await lib https://gist.github.com/chtefi/9eed93d0da287b37138fb9492348145e
+
+
 # 17-11-2016
 
 - https://dev.to/naveen/how-to-write-an-object-oriented-program-that-doesnt-suck some good advices to do better object oriented programming. The point being one class == one responsability. That's mostly true but not always necessary.
