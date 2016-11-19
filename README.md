@@ -2,6 +2,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-11-2016
+
+- https://www.theguardian.com/science/2015/jul/23/john-horton-conway-the-most-charismatic-mathematician-in-the-world Conway seems like a nice guy! Love the date game aspect.
+- https://en.wikipedia.org/wiki/Monstrous_moonshine i don't understand any sentence in there. And no idea why it exists.
+- https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/17/this-researcher-programmed-bots-to-fight-racism-on-twitter-it-worked/ Dude created bots to reply to racist tweets. "Tweets from white bots with 500 followers did not cause a significant change in these users’ behavior, but tweets from black bots with few followers actually caused an increase in the use of racist slurs."
+- http://www.2ality.com/2016/11/proxying-builtins.html JavaScript and this, a love story.
+- https://moz.com/blog/meta-referrer-tag TIL about the meta "referrer"
+- https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae No "sprint" but "cycle". 6 weeks cycle then 2 weeks rest (pet projects, fixes..). Teams of 3. A feature request needs a Pitch document that explain the why, why right now it's not possible, a solution. No sync communication, only async. (like this one)
+- https://hackernoon.com/did-slack-really-not-see-it-coming-a011cd840e5b Back to the Slack letter to Microsoft. Oh noes, a big competitor!
+- https://urchin.biz/urchin-software-corp-89a1f5292999 Nice story about Urchin (Google Analytics now)
+- https://developers.google.com/web/fundamentals/performance/prpl-pattern/ PRPL is well known and applied nowaydays in the JS community i think. 
+- https://flywaydb.org/ Handle your SQL database evolutions "easily". Like Play's Evolutions. There is also a plugin to replace Evolutions by Flyway https://github.com/flyway/flyway-play.
+- https://sketchboard.io/ quite nice to quickly draw and share some "hand-style" (software) diagram, bookmarked. The UI/UX could be better through.
+
 # 18-11-2016
 
 - https://github.com/pelotom/effectful write monadic code with anything, and without for comprehension (effectful being way less verbose)
