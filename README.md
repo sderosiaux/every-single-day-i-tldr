@@ -22,10 +22,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://connoratherton.com/loaders Yeah loaders are cool.. but we should never wait! ;-)
 - https://leungwensen.github.io/svg-icon/ looking for an (optimized) svg icon, it's there
 - https://github.com/gztchan/awesome-design So many links about design, come on (7k stars)
-- https://github.com/ripienaar/free-for-dev 
 - https://ifttt.com/search/services A simpler zapier. Links between (so many...) services. IFTTT: "If This Then That" "Send an SMS if the fridge door is left open too long" "Start brewing coffee when your FitBit registers you're awake" "Automatically tweet Medium stories that you recommend"
 - https://status.zapier.com/#app-status So. Many. Services.
 - https://getawesomeness.herokuapp.com/ The awesome list of awesome lists. Gosh.
+- https://github.com/ripienaar/free-for-dev Ok, this one is a mandatory bookmark when you are looking to any free *aaS and quickly (or not) rely on 3rd party services
 
 
 # 18-11-2016
