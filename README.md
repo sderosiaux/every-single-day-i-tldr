@@ -15,6 +15,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://developers.google.com/web/fundamentals/performance/prpl-pattern/ PRPL is well known and applied nowaydays in the JS community i think. 
 - https://flywaydb.org/ Handle your SQL database evolutions "easily". Like Play's Evolutions. There is also a plugin to replace Evolutions by Flyway https://github.com/flyway/flyway-play.
 - https://sketchboard.io/ quite nice to quickly draw and share some "hand-style" (software) diagram, bookmarked. The UI/UX could be better through.
+- http://seiferteric.com/?p=356 make computers talking using screens, webcams, and qrcodes. it works!
+- https://github.com/moklick/frontend-stuff Many many resources to do anything on a website (pickers, loaders, social buttons, functional, animation, scrolling, canvas, tables, maps...)
+- https://github.com/WickyNilliams/headroom.js auto hide the page header when scrolling down, show it back when scrolling up (as many websites does now), I like that.
+- http://aroc.github.io/side-comments-demo/ add medium-like side comments à la Medium &lt;3
+- https://connoratherton.com/loaders Yeah loaders are cool.. but we should never wait! ;-)
+- https://leungwensen.github.io/svg-icon/ looking for an (optimized) svg icon, it's there
+- https://github.com/gztchan/awesome-design So many links about design, come on (7k stars)
+- https://github.com/ripienaar/free-for-dev 
+- https://ifttt.com/search/services A simpler zapier. Links between (so many...) services. IFTTT: "If This Then That" "Send an SMS if the fridge door is left open too long" "Start brewing coffee when your FitBit registers you're awake" "Automatically tweet Medium stories that you recommend"
+- https://status.zapier.com/#app-status So. Many. Services.
+- https://getawesomeness.herokuapp.com/ The awesome list of awesome lists. Gosh.
+
 
 # 18-11-2016
 
