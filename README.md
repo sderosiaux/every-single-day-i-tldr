@@ -10,7 +10,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.troyhunt.com/8-million-github-profiles-were-leaked-from-geekedins-mongodb-heres-how-to-see-yours/ another leak. github is against commercial use of its public user data
 - http://nypost.com/2016/11/17/facebooks-ad-metric-problem-is-becoming-zuckerbergs-headache/ weekly and monthly reach of marketers’ posts, which got inflated by 33 percent and 55 percent, respectively,
 - https://hackernoon.com/an-ode-to-async-await-7da2dd3c2056 async/await in JS should become mainstream! Did a little gist to implement it in Scala, with async/await lib https://gist.github.com/chtefi/9eed93d0da287b37138fb9492348145e
-
+- http://khamrakulov.de/get_insights_of_your_play_framework_application_with_dropwizard_metrics/ some work with Play and metrics using codehale/dropwizard (and not kamo) allowing to export metrics elsewhere than just to a controller. (console, graphite)
+- https://medium.com/@yumenohosi/visualizing-regular-expressions-regexper-com-dade9ae3f0ab talk about regex interpretation and reference to this website that tremendously help  https://regexper.com/#%5E!%3Fh*(%3F%3Di)%7B2%2C3%7Dcase
+- http://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/ Akka Cluster, Persistence, Play, Websocket. Definitely something to master. Fantastic project.
+- https://medium.com/@paulbreslin/why-you-probably-dont-need-yarn-5711ee40006f wrong arguments.
+- https://blogs.msdn.microsoft.com/jdbcteam/2016/11/17/open-source-jdbc-maven/ the sql server jdbc connector on github and maven central, gg
+- https://code2flow.com/ I... I love this thing ??? live generate a decision chart from some pseudo code (if, while, goto..) ULTRA useful to explain something to someone or ourself.
+- https://doorbell.io/ provide a feedback widget to put in your app. desktop and mobile. super top when you start. 9$/month basic plan is cheap enough.
+- http://gmvault.org/index.html backuping my gmail? let's go! 100k emails. 10h of sync according to gmvault.
 
 # 17-11-2016
 
