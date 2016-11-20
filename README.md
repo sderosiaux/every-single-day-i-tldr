@@ -7,8 +7,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/sylvainpolletvillard/postcss-grid-kiss Define your (grid) layout using ascii art, awesome
 - https://m.signalvnoise.com/status-meetings-are-the-scourge-39f49267ca90 standups are useless, replace them with async communication, and a cron to email ppl.
 - https://medium.com/@sinisalouc/variance-in-java-and-scala-63af925d21dc some revisions about covariance/contravariance
-
-
+- https://github.com/StevenBlack/hosts consolidate your hosts file to block a TONS of things
+- https://i.stack.imgur.com/KjDLw.png contravariance and covariance in one picture
+- http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/ another post about variances, maybe better explained
+- https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78 comparing axios to fetch. fetch being way more low level, have restrictions by default (cors, no cookies), can have an unexpected behavior (404 is success). Conclusion: always have a lib to do the abstraction
+- http://codegolf.stackexchange.com/questions/28821/regex-that-only-matches-itself/31863#31863 a regex that match only itself. it's possible, WTF
+- http://sciencebulletin.org/archives/7723.html "solves Rubik’s Cube in 637 milliseconds" 637ms.
+- https://github.com/kamkor/akka-http-mdc-logging-kamon keeping MDC context through different threads, here with akka-http and kamon
 
 # 19-11-2016
 
