@@ -2,6 +2,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 21-11-2016
+
+- https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9 native apps because native apps are most costly
+- https://m.signalvnoise.com/if-you-ask-for-my-permission-you-wont-have-my-permission-9d8bb4f9c940 "don't ask, do". yes, but that could be a bit too bold.
+- https://engineering.creditkarma.com/data/solving-high-throughput-akka-streams/ just used akka streams instead of custom code :)
+- https://medium.com/@localvoid/how-to-win-in-web-framework-benchmarks-8bc31af76ce7 front-env ui framework benchmark are biaised
+- https://www.youtube.com/watch?v=nPUvzn3CTQc super interesting, International Space Station bathroom tour by  Samantha Cristoforetti 
+- https://www.troyhunt.com/ad-blockers-are-part-of-the-problem/ a tiny &lt;span&gt; with a proper message adblocked for no reason. Just because someone didn't like it and added it to some list. Pissed off.
+- https://github.com/aaronshaf/shaf-chart Write a classic &lt;table&gt; with number, wrap it into a &lt;shaf-chart&gt;, boom, you have a chart. Nice. (webcomponent)
+
 # 20-11-2016
 
 - https://github.com/sylvainpolletvillard/postcss-grid-kiss Define your (grid) layout using ascii art, awesome
