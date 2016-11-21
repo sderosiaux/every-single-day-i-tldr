@@ -14,6 +14,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://codegolf.stackexchange.com/questions/28821/regex-that-only-matches-itself/31863#31863 a regex that match only itself. it's possible, WTF
 - http://sciencebulletin.org/archives/7723.html "solves Rubik’s Cube in 637 milliseconds" 637ms.
 - https://github.com/kamkor/akka-http-mdc-logging-kamon keeping MDC context through different threads, here with akka-http and kamon
+- https://github.com/joewalnes/greendots missing up your github contributions and write nice message (thinking: HIRE ME ahah)
+- https://thehftguy.wordpress.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/ nginx (free) offers no metrics at all on the load balancing status. HAProxy has >70, parseable, and good integration in monitoring system (datadog).
+- https://medium.com/@cdn77/why-the-internet-is-broken-4962cdbbd664 internet is broken because of isps limiting streaming rate. He proposes a webrtc solution to share the streaming (same source) but from p2p and the cdn at the same time (to share the connection)
 
 # 19-11-2016
 
