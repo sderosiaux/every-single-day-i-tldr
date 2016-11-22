@@ -2,6 +2,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 22-11-2016
+
+- http://reactstudio.com/ Sketch to React. Awesome. Coding is overengineering.
+- https://github.com/ParhamP/Speech-Hacker Make a speaker say anything you want by splitting/concatenating bits, didn't try (i hate python, and there are a few steps to do..).
+- https://www.youtube.com/watch?v=pXCjzo-L_94 very interesting talk about web tracking, how it works (quickly)
+- https://github.com/dataiku/wt1 a web tracker anyone can install
+- https://thehftguy.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/ GCE way less expensive than AWS (GCE is the second generation of cloud computing, and they have their own network hardware). Big SSDs are more expensive on GCE btw.
+- https://thehftguy.com/2016/09/12/250-gbday-of-logs-with-graylog-the-good-the-bad-and-the-ugly/ Graylog + ES for 250GB/d logs "Log retention MUST be based on size." "mongodb is the worst database in the universe"
+
 # 21-11-2016
 
 - https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9 native apps because native apps are most costly
