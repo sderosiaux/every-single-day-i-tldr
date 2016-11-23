@@ -10,6 +10,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/dataiku/wt1 a web tracker anyone can install
 - https://thehftguy.com/2016/11/18/google-cloud-is-50-cheaper-than-aws/ GCE way less expensive than AWS (GCE is the second generation of cloud computing, and they have their own network hardware). Big SSDs are more expensive on GCE btw.
 - https://thehftguy.com/2016/09/12/250-gbday-of-logs-with-graylog-the-good-the-bad-and-the-ugly/ Graylog + ES for 250GB/d logs "Log retention MUST be based on size." "mongodb is the worst database in the universe"
+- https://www.youtube.com/watch?v=7EQWNiwgT4o More explanations about Free monads, some good points to understand better
+- https://www.youtube.com/watch?v=J2dOTKBoTL4 Advanced Service Worker usage. for await (const value of (await fetch(url)).body) { ... }. TextDecoder to read a stream. Readable Streams. Transform Streams. PWA != SPA. foreignFetch/ background fetch. Page Transitions.
+  - https://github.com/facebookincubator/create-react-app/pull/816/files execSync("lsof -i:...") or execSync("ps -o...") yeah, very cross-env proof. No pure nodejs equivalent? :/
+- http://blog.higher-order.com/assets/trampolines.pdf At first, it's okay to understand, then it degrades slowly.
+- https://gist.github.com/chtefi/0cccae634ff7130425ab8ae87b24a709 Some notes I took
 
 # 21-11-2016
 
