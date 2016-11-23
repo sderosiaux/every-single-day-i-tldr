@@ -2,6 +2,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-11-2016
+
+- https://medium.com/@Shapiro/introducing-libscore-com-be93165fa497 3rd party libraries analysis on 1 million website
+- https://www.youtube.com/watch?v=iWkl2TSflDE A company should have a test strategy (TU a lot (fast) / TI a bit less (not too slow) / UI a bit lesser (slower)). Performance tests, load tests, security tests. Exploratory tests, usability tests, acceptance tests. BDD tests everywhere (orthogonal notion)
+- http://youmightnotneedjquery.com/ remember this one?
+- https://github.com/WPO-Foundation/webpagetest did you know you can run https://www.webpagetest.org/ in local? i didn't
+
 # 22-11-2016
 
 - http://reactstudio.com/ Sketch to React. Awesome. Coding is overengineering.
@@ -12,7 +19,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://thehftguy.com/2016/09/12/250-gbday-of-logs-with-graylog-the-good-the-bad-and-the-ugly/ Graylog + ES for 250GB/d logs "Log retention MUST be based on size." "mongodb is the worst database in the universe"
 - https://www.youtube.com/watch?v=7EQWNiwgT4o More explanations about Free monads, some good points to understand better
 - https://www.youtube.com/watch?v=J2dOTKBoTL4 Advanced Service Worker usage. for await (const value of (await fetch(url)).body) { ... }. TextDecoder to read a stream. Readable Streams. Transform Streams. PWA != SPA. foreignFetch/ background fetch. Page Transitions.
-  - https://github.com/facebookincubator/create-react-app/pull/816/files execSync("lsof -i:...") or execSync("ps -o...") yeah, very cross-env proof. No pure nodejs equivalent? :/
+- https://github.com/facebookincubator/create-react-app/pull/816/files execSync("lsof -i:...") or execSync("ps -o...") yeah, very cross-env proof. No pure nodejs equivalent? :/
 - http://blog.higher-order.com/assets/trampolines.pdf At first, it's okay to understand, then it degrades slowly.
 - https://gist.github.com/chtefi/0cccae634ff7130425ab8ae87b24a709 Some notes I took
 
