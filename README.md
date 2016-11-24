@@ -2,6 +2,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-11-2016
+
+- https://github.com/vhf/v8-bailout-reasons Some odd code bits where v8 lose its thing and deoptimizes because it surrenders (ie: slow)
+- http://globocom.github.io/megadraft built on top of draft.js to provide a nice editor. unrelated: wtf its hamburger menu
+- http://www.npr.org/sections/alltechconsidered/2016/11/23/503146770/npr-finds-the-head-of-a-covert-fake-news-operation-in-the-suburbs fake news is a good business. >~$20k/month
+- http://highscalability.com/blog/2016/11/16/the-story-of-batching-to-streaming-analytics-at-optimizely.html going from hbase+druid to hbase with samza to aggregate in RT sessions data (and batch writes into hbase), with RockDB as the state db behind samza.
+- https://github.com/staltz/matrixmultiplication.xyz an original method to multiply matrices visually, in cyclejs
+- http://cssreference.io/ a modern webpage to see most of the css property usage, visually
+
 # 23-11-2016
 
 - https://medium.com/@Shapiro/introducing-libscore-com-be93165fa497 3rd party libraries analysis on 1 million website
