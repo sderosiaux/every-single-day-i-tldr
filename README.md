@@ -8,6 +8,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.youtube.com/watch?v=iWkl2TSflDE A company should have a test strategy (TU a lot (fast) / TI a bit less (not too slow) / UI a bit lesser (slower)). Performance tests, load tests, security tests. Exploratory tests, usability tests, acceptance tests. BDD tests everywhere (orthogonal notion)
 - http://youmightnotneedjquery.com/ remember this one?
 - https://github.com/WPO-Foundation/webpagetest did you know you can run https://www.webpagetest.org/ in local? i didn't
+- https://www.go.cd/  Just tried it. A jenkins with a more complex UI and still at XML old time? :^
+- https://medium.freecodecamp.com/mark-zuckerberg-is-the-most-powerful-person-on-earth-but-is-he-responsible-5fbcaeb29ee1 Facebook is locking down the web. Innovation is stuck, you have to play by it rules.
+- http://stackoverflow.com/users/story/join just got a email from them. Develop Story. "Our latest addition, Developer Story" wtf; i know it exists since months
+- https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/ tiny into to why GC exist
+- https://umaar.com/dev-tips/121-css-coverage/ CSS coverage in Chrome Devtools, nice?!
+- https://medium.com/@olivercameron/20-weird-wonderful-datasets-for-machine-learning-c70fc89b73d5 datasets for ML practice
+- https://blog.sketchapp.com/an-iconic-new-look-and-more-4191df5ce8d7#.560rsv2e1 Always thinking about the Sims.
+- https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276 Yes to functional in JS. But please, use TS at least, it really needs types.
+- https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f Lot of not-so-known tips about nodejs
 
 # 22-11-2016
 
