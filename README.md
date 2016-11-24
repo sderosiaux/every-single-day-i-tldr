@@ -17,6 +17,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.sketchapp.com/an-iconic-new-look-and-more-4191df5ce8d7#.560rsv2e1 Always thinking about the Sims.
 - https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276 Yes to functional in JS. But please, use TS at least, it really needs types.
 - https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f Lot of not-so-known tips about nodejs
+- https://en.wikipedia.org/wiki/Abstract_nonsense Category theory = abstract nonsense. Good.
 
 # 22-11-2016
 
