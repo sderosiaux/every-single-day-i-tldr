@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 25-11-2016
+
+- https://projects.lukehaas.me/regexhub/ listing common regexes for js. neat idea. 
+- http://haseebq.com/farewell-app-academy-hello-airbnb-part-ii/ from 120k to 250k$ going to Airbnb. Awesome dude.
+- https://www.flickr.com/photos/mwichary/sets/72157677060922185 So many old video games logo/posters :)
+- https://www.destroyallsoftware.com/talks/wat WAT moments when coding. Ruby and JS takes their parts.
+- https://dply.co/how Funny. Create a Linux VM, 2h free. Auto-delete at the end.
+- http://datanerds.io/post/WAT-cassandra-1/  WAT moments with Cassandra
+- http://datanerds.io/post/cassandra-no-row-consistency/ Discover a bug (ie: a feature), where 2 updates on the same row causes a weird resolution: "if there are two updates, the one with the lexically larger value is selected.", and moreover, on the CELL level, not the row level. Aberrant situation.
+- https://blog.cloudera.com/blog/2015/08/how-apache-spark-scala-and-functional-programming-made-hard-problems-easy-at-barclays/ some optimization with Spark and functional features. I learned about |+| from Scalaz and tested it. I'll definitely use this one when I can.
+- http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html Code is algorithm+impl. ML has a LOT of factors to determine why it doesn't work as expected.
+
 # 24-11-2016
 
 - https://github.com/vhf/v8-bailout-reasons Some odd code bits where v8 lose its thing and deoptimizes because it surrenders (ie: slow)
