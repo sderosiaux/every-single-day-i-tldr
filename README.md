@@ -14,7 +14,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.cloudera.com/blog/2015/08/how-apache-spark-scala-and-functional-programming-made-hard-problems-easy-at-barclays/ some optimization with Spark and functional features. I learned about |+| from Scalaz and tested it. I'll definitely use this one when I can.
 - http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html Code is algorithm+impl. ML has a LOT of factors to determine why it doesn't work as expected.
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide I installed Little Snitch thanks to that. And that's crazy scary all the connections made outside by your OS (Sierra) and all the apps :(
-- http://anzorb.com/we-dont-need-your-polyfills/ not sure it's not engineered.. but: import in the browser only the needed polyfills, thanks to webpack2 code splitting System.import feature.
+- http://anzorb.com/we-dont-need-your-polyfills/ not sure it's not over-engineered.. (polyfills are generally tiny) but: import in the browser only the needed polyfills, thanks to webpack2 code splitting System.import feature.
 - https://tobiastom.name/notes/7a79eed0 Homebrew connects to GA!
 
 # 24-11-2016
