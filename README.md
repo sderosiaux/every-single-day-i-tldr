@@ -2,6 +2,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 26-11-2016
+
+- https://www.youtube.com/watch?v=fxZuzos7Auk explaining how bugs are working in Super Mario Bros 3
+- https://github.com/lipp/hackernews a hackernews reader using next.js (react, server side) ans js generators
+- https://github.com/marcelduran/webpagetest-api automatise webpagetest calls with this wrapper, lots of options
+- https://www.reddit.com/r/scala/comments/5eu9if/intellij_vs_ensime/ should i try ensime with subl instead of intellij? it's true that something, it drives me nuts, cpu 100% for a few minutes, wtf. edit: I tried to set it up in my subl, didn't work, couldn't find why quickly, trashed it, sorry.
+- https://github.com/mikeal/dropub WebRTC to share files, nice and clean webpage https://dropub.com/
+- http://mrale.ph/blog/2016/11/23/making-less-dart-faster.html create a custom lexer instead of using rexexp when not needed (performance oriented). Comparison and fixes about .substring in V8 and Dart
+- http://akka.io/news/2016/11/22/akka-http-10.0.0-released.html lots of related projects: cors, sse, session (cookies, headers, local sto, JWT). The full doc will be restyled soon. Not experimental anymore :)
+
 # 25-11-2016
 
 - https://projects.lukehaas.me/regexhub/ listing common regexes for js. neat idea. 
