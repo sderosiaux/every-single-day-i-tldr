@@ -13,6 +13,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/chriso/validator.js check any string and sanitize in javascript
 - https://academy.datastax.com/courses/ i will definitely follow those courses about Cassandra. Seems to be of very good quality
 - http://www.ebaytechblog.com/2012/07/16/cassandra-data-modeling-best-practices-part-1/ Think denormalization (read++). Adapt the structure of the data from the query patterns.
+- https://gist.github.com/chtefi/a39448da750c9f8815fa44b36e29e0e7 some of my deambulations with cats and scalaz
+- https://github.com/lloydmeta/slim-play build a simple Play app without boilerplate code, without routes/ etc. Looks nicer.
+- https://github.com/finagle/finch build finable http services
+- http://blog.erratasec.com/ just discovered this nice blog. Guy seems like a good expert in networks.
+- http://blog.erratasec.com/2016/11/how-to-teach-endian.html endianness teaching (big endian: "human", little endian: reverse bytes: was more efficient to process by circuits a long time ago)
+- http://blog.erratasec.com/2016/10/configuring-raspberry-pi-as-router.html i suck at networking and iptabling. interesting to reproduce @home
+- https://www.techempower.com/benchmarks/ wanna pick a http framework? this can help.
+- https://holidayhole.com/ "To celebrate Black Friday, Cards Against Humanity is digging a tremendous hole in the earth." and they accepts donation. They raised $100k. That's it, no more meaning. A video of the digging. Wtf.
 
 # 26-11-2016
 
