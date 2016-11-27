@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-11-2016
+
+- https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f remove eyeglasses from faces. then after, you can "try" different other eyeglasses styles without removing yours
+- https://github.com/xviniette/FlappyLearning an AI learning how to play Flappy Bird (neural network). Generation 82 was the winning one for me.
+- https://m.signalvnoise.com/the-tool-we-built-to-keep-everyone-in-the-loop-at-basecamp-69bc58312014 moaar basecamp. All people in async mode.
+- https://mural.co/ simple concept but nicely done. have a wall of postit (mostly :D), and organize them as group of ideas. Mostly a dashboard with widgets linked together.
+- https://medium.com/@ageitgey/the-new-macbook-pro-is-kind-of-great-for-hackers-64c1c577a4d2 ok the title is a clickbait. But some good points in there, the new mbp is using USB-C, which is an open standard. The adapters are therefore reusable with any devices. (almost. due to power supply difference, and some odd differences according to the comments)
+- https://github.com/clauderic/react-sortable-hoc sortable list in react, very nicely done
+- https://github.com/chriso/validator.js check any string and sanitize in javascript
+- https://academy.datastax.com/courses/ i will definitely follow those courses about Cassandra. Seems to be of very good quality
+- http://www.ebaytechblog.com/2012/07/16/cassandra-data-modeling-best-practices-part-1/ Think denormalization (read++). Adapt the structure of the data from the query patterns.
+
 # 26-11-2016
 
 - https://www.youtube.com/watch?v=fxZuzos7Auk explaining how bugs are working in Super Mario Bros 3
