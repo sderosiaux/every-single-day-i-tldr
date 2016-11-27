@@ -11,6 +11,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/mikeal/dropub WebRTC to share files, nice and clean webpage https://dropub.com/
 - http://mrale.ph/blog/2016/11/23/making-less-dart-faster.html create a custom lexer instead of using rexexp when not needed (performance oriented). Comparison and fixes about .substring in V8 and Dart
 - http://akka.io/news/2016/11/22/akka-http-10.0.0-released.html lots of related projects: cors, sse, session (cookies, headers, local sto, JWT). The full doc will be restyled soon. Not experimental anymore :)
+- https://github.com/TypeStrong/ts-node a "node xxx.ts" to code server side in typescript without additional piping
+- https://www.neos.io/blog/react-snippets-debug-component-performance-with-es7-annotations.html dead simple but super useful. An annotation to display the delta between previous and new React [props, state, context].
+- https://medium.com/@anicolaspp/yet-another-sbt-docker-introduction-2d9fb99fe367 very cool intro to sbt docker plugin with a real use-case and real problems they got
+- https://github.com/stanch/reftree already known, this cool stuff, but never needed it :D Generate an image from an immutable data structure to understand what the underlying structure (think Trie, nodes reutilization..)
+- https://medium.com/@anicolaspp/purely-functional-data-structures-and-jmh-197636f3b19e JMH usage to compare DIET structure between dogs and scalaz, cool stuff
+- https://medium.com/@anicolaspp/how-to-log-in-apache-spark-a-functional-approach-e48ffbbd935b the Monad Writer from cats. I might use this one, very appealing!
+- http://learnyouahaskell.com/for-a-few-monads-more Looking for the writer monad, i stumbled upon this. The monad writer seems made to log stuff "aside". It supports monoidal accumulation.
+- https://s3-us-west-2.amazonaws.com/book-sample/advanced-scala-preview-with-full-toc.pdf Found this one: Preview: Advanced Scala with Cats, 50 pages, seems very accessible
+- https://github.com/OlegIlyenko/graphiql-workspace Nice additions to GraphiQL ui that was indeed, pretty light.
 
 # 25-11-2016
 
