@@ -21,6 +21,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://blog.erratasec.com/2016/10/configuring-raspberry-pi-as-router.html i suck at networking and iptabling. interesting to reproduce @home
 - https://www.techempower.com/benchmarks/ wanna pick a http framework? this can help.
 - https://holidayhole.com/ "To celebrate Black Friday, Cards Against Humanity is digging a tremendous hole in the earth." and they accept donation. They raised $100k. That's it, no deeper meaning. A video of the digging. Wtf.
+- http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html Quick review of some classic linux tool to use when debugging sys perf
 
 # 26-11-2016
 
