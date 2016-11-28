@@ -8,7 +8,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://labs.criteo.com/about/ 37 billions request / day. 37PB of storage.
 - http://blog.tmorris.net/posts/refactoring-filter/ you thought .filter(fn) was easy to implement? WRONG. Look this Haskell impl.
 - http://jedesah.logdown.com/posts/282944-dont-use-scalaz-task-like-i-did Scalaz Tasks have referential transparency, Scala's Futures do not.
-
+- https://github.com/jeffposnick/create-react-pwa create-react-app patched to handle progressive web app (using sw-precache to generate the serviceworker.js from the static files)
+- https://github.com/facebookincubator/create-react-app/pull/1101 the error red box is back into create-react-app (note: Chrome bug: window.onerror's Error object stack is truncated. The fix being: Error.stackTraceLimit = Infinity;)
+- https://www.stacktracejs.com get the error stacktrace in a nice objects array
+- http://www.reactnativeexpress.com/ a nice website to learn react-native components in the browser
+- https://fhinkel.github.io/six-speed/ ES6 features against their ES5 counterpart (es6 features are mostly slower :D)
+- https://blog.cloudflare.com/hpack-the-silent-killer-feature-of-http-2/ HPACK: a algorithm to compress headers efficiently in http2.  It's like the headers now takes as much as the content, funny.
+- https://www.youtube.com/watch?v=GtVStvEywzU npm ecosystem has exploded. apps has >100 deps. ~14% of all packages are vulnerables. Crazy vulnerabilities to access /etc/password with /%e2%e2/%e2%e2/%e2%e2/etc/password in the url (../../../etc/password) ! some xss. Use snyk.io to check your packages.
+- http://javers.org/documentation/diff-examples i was looking for a lib to diff java objects, found!
+- http://www.regular-expressions.info/catastrophic.html trying to match (x+)+y in "xxxxxxxxxxxxxxxxxxxx" : it's gonna explode, because it can't find y, so it's try all possible combinaisons of (x...)(x...) multiple times because of backtracking tests (when it can't match, it backtracks the previous group, something like that)
+- http://blog.xebia.fr/2016/11/28/testez-vos-invariants-avec-scalacheck/ Scalacheck to test if an invariant "holds". (basically it generates random data structured as you want, and test if all cases pass)
 
 # 27-11-2016
 
