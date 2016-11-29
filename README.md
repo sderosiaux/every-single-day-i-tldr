@@ -2,6 +2,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-11-2016
+
+- https://github.com/chtefi/ultra-slim-play-scala Starting a Play! http server with the bare minimum.
+
 # 28-11-2016
 
 - http://thenewstack.io/a-brief-comparison-of-mesos-and-kubernetes/ Mesos seems to be adapted for big clusters. Kubernetes, which is a container management/scheduler, is more for lightweight clusters, quick scaling, and needs less resources. Kubernetes is like Marathon (which deal with containers) for Mesos.
