@@ -5,6 +5,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 # 29-11-2016
 
 - https://github.com/chtefi/ultra-slim-play-scala Starting a Play! http server with the bare minimum.
+- https://liftweb.net/ it's seems to be a scala web framework very powerful but.. the doc is just ugly, all over the place, no proper quickstart with some proper code etc. don't want to go deeper
+- https://verizon.github.io/ Nice page with all verizon open-source projects. Good stuff in there.
+- https://github.com/venukanaparthy/topk-users-bloomfilter-spark/blob/master/src/main/scala/com/esri/spark/BFSpark.scala Bloomfilters and Spark, using Algebird
+- https://github.com/tonsky/FiraCode I now have this font with ligatures in my Intellij, wonderful :-)
+- https://www.reddit.com/r/scala/comments/5f5049/http4s_vs_finch_vs_akkahttp_vs/ http4s, finch, or akka-http. http4s is going to cats (instead of scalaz). finch is twitter ecosystem (they reimplement some lib existing stuff..), akka-http is good overall, but brings its own junk.
+- http://stackoverflow.com/questions/999489/invalid-signature-file-when-attempting-to-run-a-jar i stumbled upon this error, due to new dependencies that packaged their own signed stuff. You have to remove the signature from the fat jar at assembly time, boom!
+- https://www.youtube.com/watch?v=wewAC5X_CZ8 Jenn Shiffer "funny" talk about her satires and the tech culture. Sweet voice! ;D
+- https://github.com/WICG/content-size a propal to enforce content size limit on &lt;iframe&gt;, that's bold Oo
+- https://github.com/node-modules/detect-port nodejs project to get a random port or detect if one is already listening. it's funny, because it simply opens a socket server on the (or each +1 +1) port to know if occupied or not
+- http://doc.akka.io/docs/akka/snapshot/dev/multi-jvm-testing.html sbt-multi-jvm plugin, to start tests on different JVM at test time
+- https://medium.com/@anicolaspp/akka-cluster-in-docker-a-straight-forwards-configuration-b6deea32752d Some troubles running an akka cluster in a scaling docker compose environment
+- https://webpack.js.org/guides/migrating/ nice and stairghtforward migration to webpack 2
+- http://www.lihaoyi.com/post/OldDesignPatternsinScala.html Pattern useless in Scala: Builder (named args), Singleton (object), Adapter (implicits), Chain Of Responsability (linked list of "processors") actually still used but in a different way (no successor, but an immutable list), Interpreter still ok (a parser of expr),  Observer yeah! but you will mostly use Rx or Futures for that.
 
 # 28-11-2016
 
