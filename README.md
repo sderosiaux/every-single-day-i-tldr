@@ -6,7 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 - https://developers.google.com/web/progressive-web-apps/checklist Progressive web app checklist by Google, What to Test, and How to fix if it fails
 - https://github.com/MaximAbramchuck/awesome-interview-questions#scala nice questions/answers, you can actually learn stuff!
-- https://www.youtube.com/watch?v=D31_L3LMDe0 Criteo technique to serve ads images
+- https://www.youtube.com/watch?v=D31_L3LMDe0 Criteo technique to serve ads images. bandwich: 3GB/s, SLA99.99%, 30ms latency, JMagick, Finagle, Mesos, Twitter Server for admin.
 
 # 29-11-2016
 
