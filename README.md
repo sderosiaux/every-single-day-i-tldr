@@ -2,6 +2,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-12-2016
+
+- http://adventofcode.com/ it will unlock at 6am here, wth, it's already 1st december here, come on! ;) Not sure what it will do. One challenge a day? edit: yes!
+- https://cloudplatform.googleblog.com/2016/11/making-every-leap-second-count-with-our-new-public-NTP-servers.html "we'll run the clocks 0.0014% slower across the ten hours before and ten hours after the leap second"
+- https://www.youtube.com/watch?v=LnX3B9oaKzw interesting and short lesson about functional prog and haskell. ref transparency, immutability, easy concurrency, 
+- https://wiki.haskell.org/Introduction_to_QuickCheck1 the equivalent of scalacheck is quickcheck in haskell. reminder: check a property invariance.
+- https://github.com/phaistos-networks/TANK yet another distributed log service. In C++, very high performance wanted.
+- http://www.slideshare.net/BrendanEich/int64 Int64 will land in JS Int64(0) or 0L
+- https://en.wikipedia.org/wiki/Cosmic_ray_visual_phenomena So, astronauts see flashes even eyes closed, thanks? to some cosmic ray
+- https://softwaremill.com/beautiful-folds-in-scala/ very interesting, Fold pushed to the limit by combining it to different structures: Monoids, Lens, Futures, some cats in there.
+- https://github.com/non/kind-projector avoid "({type L[A] = Either[Int, A]})#L" and use "Either[Int, ?]". Better right?
+- http://underscore.io/blog/posts/2016/11/24/value-discard.html Always add compiler's warnings, it saves lifes.
+
 # 30-11-2016
 
 - https://developers.google.com/web/progressive-web-apps/checklist Progressive web app checklist by Google, What to Test, and How to fix if it fails
