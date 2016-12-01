@@ -14,6 +14,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://softwaremill.com/beautiful-folds-in-scala/ very interesting, Fold pushed to the limit by combining it to different structures: Monoids, Lens, Futures, some cats in there.
 - https://github.com/non/kind-projector avoid "({type L[A] = Either[Int, A]})#L" and use "Either[Int, ?]". Better right?
 - http://underscore.io/blog/posts/2016/11/24/value-discard.html Always add compiler's warnings, it saves lifes.
+- https://aws.amazon.com/athena/ query data in s3 from with a sql layer. 5$/TB (better use parquet!)
+- https://github.com/depcheck/depcheck Good nodejs project: "how each dependency is used, which dependencies are useless, and which dependencies are missing from package.json." Can serve as a core for a bigger project (like watching modifications)
+- https://github.com/knitjs/knit another monorepo "organizer", à la lerna. using yarn and depcheck.
+- https://eev.ee/blog/2016/12/01/lets-stop-copying-c/ it's true that a lot of crappy syntax comes from C!
+- https://medium.com/product-hunt/product-hunt-angellist-%EF%B8%8F-c408bfe5d68 Product Hunt has been acquired
 
 # 30-11-2016
 
