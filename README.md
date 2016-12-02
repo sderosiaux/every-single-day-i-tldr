@@ -15,6 +15,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://moat.com/advertiser/nutella?report_type=display Ask for ads of a given brand to check what's its strategy is. Interesting!
 - https://github.com/AdoptOpenJDK/mjprof Inspect jstack trace with a nice console tool. Easier than to read the Java full stack traces in an editor
 - https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a Crazy story about identifying a rogue train that causing issues to the other trains. Identified by cleaning up and creating models around the data.
+- https://github.com/joshaven/string_score you don't need elasticsearch, you need this in your JS! rank a string matching. ("toto".score("t") == 0.6))
+- https://github.com/blakeembrey/code-problems answer to code problems interviews (mostly in js)
+- https://www.youtube.com/watch?v=__b6k2pR3Tg now and next from zeit. now can serve and deploy Dockerfile/html/package.json based project. (static). Immutable subdomain. SSR and frontend rendering with getInitialProps({req,query}). Would like to approach the webcomponents way.
+- https://medium.com/swlh/mozs-accidental-journey-to-40m-f3a4ebc8ee24 Interesting story about how Moz was built
+- http://tachyons.io/ "functional" css. basically, a css class for every css prop ;D (ie:  .tc { text-align: center }) Supposely easier to manage, and way lighter to transfer over the wire (class="f6 f5-ns fw6 dib ba b--black-20 bg-blue white ph3 ph4-ns pv2 pv3-ns br2 grow no-underline" ahah)
+
 
 # 01-12-2016
 
