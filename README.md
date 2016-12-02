@@ -24,6 +24,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/ "infrastrucure" very interesting when you're not living in the usa.
 - https://www.softwaremill.com/implementing-a-custom-akka-streams-graph-stage/ Very good article about how create a custom GraphLogic in akka streams
 - http://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/ TIL multiple processes can listen on the same port (SO_REUSEPORT)
+- http://blog.ippon.fr/2016/11/30/scala-2-12-lambda-expression/ Scala 2.12 is now using invokedynamic to deal with functional interface of Java8
+- https://github.com/cvogt/cbt cbt is the next sbt :))
 
 # 30-11-2016
 
