@@ -2,6 +2,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-12-2016
+
+- https://medium.com/swlh/how-to-deal-with-your-overflowing-inbox-7214c3937b6 Super guide how to cleanup your inbox. No, just kidding. I remember i had cleanup inbox during a while, then started to get late in my NL.. a bit, a bit more, and crap, i have like 100 NLs to read now.
+- https://meebleforp.com/blog/36/angular-2-is-terrible RxJS sucks, TypeScript sucks, Angular2 HTML crap sucks (true). Not sure I agree :D
+- https://dev.to/jackmarchant/no-excuses-write-unit-tests Yes to tests!
+- https://djen.co/ Incredible tool to create music by customizing the type of rights, instruments, speed etc. WebAudio FTW.
+- https://reshape.ml/ for those who still writes html, this can come in handy to add some kind of macro in the html and transform them through plugins
+- https://gigaom.com/2014/06/30/the-dark-side-of-io-how-the-u-k-is-making-web-domain-profits-from-a-shady-cold-war-land-deal/ .io belongs to the Chagossians and they don't get their due, "thanks" to UK
+- http://refresh-sf.com/ what's with this name? anyway, a good JavaScript/CSS/HTML Compressor to quickly check or show stuff without cli
+- https://annoying.dog/ no need of a desc. you know nyan cat ? it's not that.
+- https://moat.com/advertiser/nutella?report_type=display Ask for ads of a given brand to check what's its strategy is. Interesting!
+- https://github.com/AdoptOpenJDK/mjprof Inspect jstack trace with a nice console tool. Easier than to read the Java full stack traces in an editor
+- https://blog.data.gov.sg/how-we-caught-the-circle-line-rogue-train-with-data-79405c86ab6a Crazy story about identifying a rogue train that causing issues to the other trains. Identified by cleaning up and creating models around the data.
+
 # 01-12-2016
 
 - http://adventofcode.com/ it will unlock at 6am here, wth, it's already 1st december here, come on! ;) Not sure what it will do. One challenge a day? edit: yes!
