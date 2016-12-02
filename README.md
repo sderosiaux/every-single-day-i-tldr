@@ -311,7 +311,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/ Scalaz Tasks VS classic Futures.
 - https://en.wikipedia.org/wiki/Algebraic_data_type ADT algebraic data type = product types (tuples and records) and sum types (A | B). We can do easy pattern matching with this.
 - https://gist.github.com/tpolecat/a0b65e8ffdf5dc34a48f a step-by-step gist that uses \/ and EitherT from Scalaz to abstract the typical case : Future[Either[Failure, Success]]
-- http://bellard.org/jslinux/ a CPU emulator in JS, and a terminal. It downloads a true linux compiled kernel (<2MB) and starts it.
+- http://bellard.org/jslinux/ a CPU emulator in JS, and a terminal. It downloads a true linux compiled kernel (&lt;2MB) and starts it.
 - http://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags Never ever use a regex to parse html. This is why. TH̘Ë͖́̉ ͠P̯͍̭O̚​N̐Y̡ H̸̡̪̯ͨ͊̽̅̾̎Ȩ̬̩̾͛ͪ̈́̀́͘ ̶̧̨̱̹̭̯ͧ̾ͬC̷̙̲̝͖ͭ̏ͥͮ͟Oͮ͏̮̪̝͍M̲̖͊̒ͪͩͬ̚̚͜Ȇ̴̟̟͙̞ͩ͌͝S̨̥̫͎̭ͯ̿̔̀ͅ
 - https://news.ycombinator.com/item?id=12961666 Neo4J testing: "max out write throughput, then pull the power cord, then pull the powercord again while it recovers"
 - http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html "The attacker just have to press and keep pressing the [Enter] key at the LUKS password prompt until a shell appears" 'nough said.
@@ -365,8 +365,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/ Spark excel (lol) cheatsheet to configure some props (cpu, mem, overhead..) according to a cluster typology
 - https://www.lightbend.com/platform/production i was looking for intel about conductr, google drop me here, but no *visible* reference to conductr, BAD UX ;)
 - https://conductr.lightbend.com/docs/1.1.x/Home I had to look at the source to find this link eheh "solution for managing Lightbend Reactive Platform applications across a cluster of machines. " Commercial only iiuc.
-- https://www.youtube.com/watch?v=jHoIzOdUn4c 1h of Martin Odersky resuming what's going on with Scala and Dotty. Quick notes: 2.12: java8, 2.13: scala libraries/collections (with some Spark'y methods (reducebyKey and so on)); split Scala stdlib to: core (what the compiler always need) + platform (containing community efforts, like a common json serde thing); scala.js production ready; Scala Native on LLVM; Scala Center: education, package "manager" (to find a scala package doing x)
-dotty: based on DOT. faster than nsc (scalac). New piece in Dotty: TASTY: T_AST_Y (optim AST). No more Macros.. but a replacement! (scala.meta) and more new features. ELM error messages incoming :). MVP Spring 2017. A new "pure" arrow function -&gt; (=&gt; would still exist). No null by default, need to "Object?". No more 22 :)) :heart:
+- https://www.youtube.com/watch?v=jHoIzOdUn4c 1h of Martin Odersky resuming what's going on with Scala and Dotty. Quick notes: 2.12: java8, 2.13: scala libraries/collections (with some Spark'y methods (reducebyKey and so on)); split Scala stdlib to: core (what the compiler always need) + platform (containing community efforts, like a common json serde thing); scala.js production ready; Scala Native on LLVM; Scala Center: education, package "manager" (to find a scala package doing x). dotty: based on DOT. faster than nsc (scalac). New piece in Dotty: TASTY: T_AST_Y (optim AST). No more Macros.. but a replacement! (scala.meta) and more new features. ELM error messages incoming :). MVP Spring 2017. A new "pure" arrow function -&gt; (=&gt; would still exist). No null by default, need to "Object?". No more 22 :)) :heart:
 - http://sciencebulletin.org/archives/7440.html -273.135°C. The electrons in a electric current appear individually. 0.0015k above absolute 0.
 - https://hyper.sh/ already seen, but again, deploy on the cloud with docker behind, yeah cool. a bit expensive still. (21$/m 2cores/2gb ram)
 - https://github.com/mbasso/react-decoration tons of annotations for AOP. some are practicals, some are useless (@componentWill/Did*(cb) wtf? type the method and be done)
@@ -574,7 +573,7 @@ dotty: based on DOT. faster than nsc (scalac). New piece in Dotty: TASTY: T_AST_
 
 # 26-10-2016
 
-- https://cors.now.sh/ Public reverse-proxy to add CORS on any url (https://cors.now.sh/<url>)
+- https://cors.now.sh/ Public reverse-proxy to add CORS on any url (https://cors.now.sh/&lt;url&gt;)
 - https://www.microsoft.com/en-us/surface/devices/surface-studio/surface-studio this is some serious "PC" by Microsoft, for designers mostly. $2,999 at least.
 - https://medium.freecodecamp.com/what-i-learned-from-reading-the-redux-source-code-836793a48768 Ultra basic. Basically, some tips to write better code.
 - https://medium.freecodecamp.com/three-ways-to-return-largest-numbers-in-arrays-in-javascript-5d977baa80a1 for, reduce, or math.max. 
@@ -583,8 +582,8 @@ dotty: based on DOT. faster than nsc (scalac). New piece in Dotty: TASTY: T_AST_
 - https://medium.com/@bartobri/applying-the-linus-tarvolds-good-taste-coding-requirement-99749f37684a good point: the less conditions, the better the code. BUT, good points in comments: beware of cache misses.
 - http://seriot.ch/parsing_json.html As the title says: "parsing json is a minefield". Every parsers has its own set of "extensions" and does not respect the full json specs (because the specS themselves are messy and contradictory).
 - https://ateev.in/react-js-achieving-20ms-server-response-time-with-server-side-rendering-1ea80e420d88 lol, ok, basically, put Redis for the API (and deal with cache invalidation)
-- http://www.confluent.io/blog/unifying-stream-processing-and-interactive-queries-in-apache-kafka/ this is so great. kafka streams with querying logic. The example is a bit complex to handle. (https://github.com/confluentinc/examples/tree/master/kafka-streams/src/main/java/io/confluent/examples/streams/interactivequeries/kafkamusic) Using Jersey <3
-- https://github.com/ogirardot/typesafe-kafka-streams Scala-like compatible KStreams <3
+- http://www.confluent.io/blog/unifying-stream-processing-and-interactive-queries-in-apache-kafka/ this is so great. kafka streams with querying logic. The example is a bit complex to handle. (https://github.com/confluentinc/examples/tree/master/kafka-streams/src/main/java/io/confluent/examples/streams/interactivequeries/kafkamusic) Using Jersey &lt;3
+- https://github.com/ogirardot/typesafe-kafka-streams Scala-like compatible KStreams &lt;3
 - https://www.lightbend.com/lagom Framework to simplify (a lot) the management and deployment of microservices (handle the persistence part, the links between then, and the async communication between them)
 
 # 25-10-2016
@@ -751,7 +750,7 @@ dotty: based on DOT. faster than nsc (scalac). New piece in Dotty: TASTY: T_AST_
 - http://www.vfrank.org/2013/09/18/understanding-vmware-ballooning/ VMware ballooning is when the host system wants to retrieve physical memory given to the vm (through the hypervisor). 
 - https://github.com/datproject/dat easy p2p sharing of folder with a simple CLI (or desktop app), using webRTC. I like.
 - https://shop.keyboard.io/ Maybe. Or not. ($300)
-- https://vimeo.com/113707214 Railroad oriented programming: Error handling in functional languages. Basically, use Either[Throwable, Result] (2 tracks) and compose your functions. Really good analogy and talk.
+- https://vimeo.com/113707214 Railroad oriented programming: Error handling in functional languages. Basically, use Either\[Throwable, Result\] (2 tracks) and compose your functions. Really good analogy and talk.
 - https://vimeo.com/113703576 Introduction to redis
 - https://github.com/lihaoyi/scala.rx Like RxScala, less popular
 - http://docs.scala-lang.org/tutorials/FAQ/breakout.html What is breakOut, and how does it work? It's a good thing to know it exists, saves you useless processing
