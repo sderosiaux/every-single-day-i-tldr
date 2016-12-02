@@ -19,6 +19,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/knitjs/knit another monorepo "organizer", à la lerna. using yarn and depcheck.
 - https://eev.ee/blog/2016/12/01/lets-stop-copying-c/ it's true that a lot of crappy syntax comes from C!
 - https://medium.com/product-hunt/product-hunt-angellist-%EF%B8%8F-c408bfe5d68 Product Hunt has been acquired
+- https://www.youtube.com/watch?v=2vFrZXWiwIc position: fixed: avoid. just "will-change: tranform" can fix junk.
+- https://app.tinyletter.com/ good stuff if you want to create a newsletter, free, quick, slick, and painless. provide a link to share or iframe for integration.
+- https://www.washingtonpost.com/graphics/national/maps-of-american-infrastrucure/ "infrastrucure" very interesting when you're not living in the usa.
+- https://www.softwaremill.com/implementing-a-custom-akka-streams-graph-stage/ Very good article about how create a custom GraphLogic in akka streams
+- http://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/ TIL multiple processes can listen on the same port (SO_REUSEPORT)
 
 # 30-11-2016
 
