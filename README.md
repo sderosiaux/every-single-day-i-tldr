@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 03-12-2016
+
+- http://scaldi.org/ An alternative for DI in Scala, with a proper Scala DSL. Extension for Play, and Akka.
+- https://www.youtube.com/watch?v=0ZZquVylLEo GTA in real life. Very impressive. And the music is wonderful.
+- https://www.crypto101.io/ introductory course on crypt. pdf of 250pages. I'll read it, one day.
+- https://sqlite.org/testing.html sqlite: 116kLOC. test code: 92MLOC. WAT.
+- https://npm-stat.com/ download charts from any npm package, daily/weekly/monthly/yearly. nice.
+- https://anonscm.debian.org/cgit/collab-maint/procps.git/tree/proc/whattime.c the "uptime" program source. It even handles "decades".
+- https://peteris.rocks/blog/htop/ htop details and.. a lot of details about linux processes in general, nice
+- https://peteris.rocks/blog/parsing-malformed-json/ a malformed to well formed json "rewriter" 
+- https://www.oo-software.com/en/shutup10 a tool of flags to enable privacy back in Windows ;-)
+
 # 02-12-2016
 
 - https://medium.com/swlh/how-to-deal-with-your-overflowing-inbox-7214c3937b6 Super guide how to cleanup your inbox. No, just kidding. I remember i had cleanup inbox during a while, then started to get late in my NL.. a bit, a bit more, and crap, i have like 100 NLs to read now.
