@@ -2,6 +2,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 04-12-2016
+
+- http://mrale.ph/blog/2015/11/02/crankshaft-vs-arguments-object.html tldr: do not use "arguments", and write monomorphic functions.
+- http://raganwald.com/2016/11/30/anamorphisms-in-javascript.html super interesting. separating structure traversal from processing. generators, using tree algorithms (depth first, breadth first..) and more.
+- https://www.reddit.com/r/javascript/comments/5g4bmu/anamorphisms_in_javascript/ ana+cata: create a hylo to avoid intermediate structure (array). but because it's using generators in-between, you don't have any structure in-between, so hylo is not necessary.
+- https://github.com/mathisonian/premonish track the mouse movements to determine where it's going to be/click after
+- https://www.helpnetsecurity.com/2016/11/30/exploited-de-anonymize-tor-browser-users/ js exploit to deanonimized tor browser users! wow. Getting access to kernel32.dll/VirtualAlloc, wtf is wrong. https://gist.github.com/kristovatlas/e03be5f10e48801aec88b0e23f00a3d7
+- https://github.com/kristovatlas/osx-config-check YES to this. Will run it asap. Ensure a lot of crap is disabled on your system.
+- https://engineering.footballradar.com/taming-awful-legacy-data-feeds-using-akka/ interesting approach using Akka fsm to handle an ugly feed/protocol
+- http://hodoripsum.com/ no comment
+- https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en if i didn't already have a new tab, that would be it!
+- http://gearaward.com/inspiration.html Sublime codepens. "Talented web artists exhibit code-driven art"
+- https://www.tuftandneedle.com/mattress/ Nice idea, design, packaging, and transparency about the whole thing! Too bad, USA only.
+- http://v8project.blogspot.fr/2016/12/v8-release-56.html es6 native features are getting a bit faster (still way behind es5 equivalent)
+
+
 # 03-12-2016
 
 - http://scaldi.org/ An alternative for DI in Scala, with a proper Scala DSL. Extension for Play, and Akka.
