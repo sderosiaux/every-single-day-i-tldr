@@ -16,7 +16,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://gearaward.com/inspiration.html Sublime codepens. "Talented web artists exhibit code-driven art"
 - https://www.tuftandneedle.com/mattress/ Nice idea, design, packaging, and transparency about the whole thing! Too bad, USA only.
 - http://v8project.blogspot.fr/2016/12/v8-release-56.html es6 native features are getting a bit faster (still way behind es5 equivalent)
-
+- http://ben.balter.com/2016/09/13/seven-habits-of-highly-effective-githubbers/ Those I like: Ship early, ship often, Always be willing to help.
+- http://tech.kinja.com/how-not-to-pull-from-s3-using-apache-spark-1704509219 I wonder if that's style the case. Basically, textFiles behaves badly with S3 and need to switch to the original S3 client to parallelize work on workers.
+- https://github.com/lord/slate I hope i'll need that one day! Generate a beautiful static documentation for an API. Too bad it needs ruby :/
+- https://drill.apache.org/blog/2016/11/29/drill-1.9-released/ Better Parquet compat in Drill
+- https://github.com/poly/stdlib definitely to watch. microservices library. Looks like Lagom!
+- http://data-artisans.com/stream-processing-myths-debunked/ Why Lambda Architecture is dead. (hey Kappa)
 
 # 03-12-2016
 
