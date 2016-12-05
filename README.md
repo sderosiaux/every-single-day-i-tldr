@@ -2,6 +2,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-12-2016
+
+- https://github.com/zeit/styled-jsx Another solution to handle style with React
+- https://medium.com/@dkomanov/scala-stringbuilder-vs-java-stringbuilder-performance-3167a96abfc2
+- https://dkomanov.github.io/scala-serialization/ dude is benchmarking everything. Here, some serde library. PB/Boo/classic java
+- https://medium.com/@dkomanov/scala-string-interpolation-performance-21dc85e83afd last but not least: the string interpo is a nice feature in scala, but slow as hell. I didn't know it was using a java.util.StringBuilder instead of the Scala one, funny?
+- https://medium.com/@thejameskyle/dear-javascript-7e14ffcae36c Yes. We can't imagine being at the place of the big project maintainers. motto: Always be positive.
+- http://techblog.netflix.com/2016/12/netflixoss-announcing-hollow.html a new surprising cache system living in the jvm heap. One producer create snapshots on a storage (disk, s3, dynamo..), consumers reads it from time to time (ro). Resilient. No cold cache. Data indexes. Hot data identifier.
+- http://www.modulecounts.com/ package manager: nodejs 500/d, mvn: 181/d 
+- https://github.com/simeji/jid Love this idea! Inspect a JSON file through a CLI, very very nicely done
+- https://www.webworldwide.io/ connectivity stats all over the world, all countries listed?
+- https://vorpus.org/blog/why-does-calloc-exist/ interesting to know about calloc. Its implementation may vary and use copy-on-write instead of allocating the whole buffer.
+- https://github.com/juliangruber/review easy and slick. an app to render any website with any format, and combine the whole into a page. Nice to monitor (browser updates..) or just to monitor competitors :)
+
 # 04-12-2016
 
 - http://mrale.ph/blog/2015/11/02/crankshaft-vs-arguments-object.html tldr: do not use "arguments", and write monomorphic functions.
