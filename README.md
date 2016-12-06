@@ -15,6 +15,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.webworldwide.io/ connectivity stats all over the world, all countries listed?
 - https://vorpus.org/blog/why-does-calloc-exist/ interesting to know about calloc. Its implementation may vary and use copy-on-write instead of allocating the whole buffer.
 - https://github.com/juliangruber/review easy and slick. an app to render any website with any format, and combine the whole into a page. Nice to monitor (browser updates..) or just to monitor competitors :)
+- http://blog.bugreplay.com/post/153861574674/fkadblock-how-publishers-are-defeating-ad blocking adblockers: a few techniques
+- http://calendar.perfplanet.com/2016/http2-push-the-details/ h2 push is very complicated to put in place and use. push or resource hints? tcp slow start. (tcp send small packets, then increase to test the network). It's not production ready yet, the gain does not seem really great, use-cases are not clear..
+- https://www.youtube.com/watch?v=jaqDA7Btm3c styled-components in React. Build a pure UI component just from css written in a tagged template literal. Then wrap any other component around.
 
 # 04-12-2016
 
