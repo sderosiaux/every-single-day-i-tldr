@@ -2,6 +2,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 06-12-2016
+
+- http://jetbus.io/index.html collaborative apps using webrtc, done easily with jet
+- https://www.prerender.cloud/blog/2016/12/03/chrome-memory-54-vs-55 Chrome 55 uses ~30% less memory than Chrome 54
+- https://www.amazon.com/b?node=16008589011 Love the principle, just amazing (woopsy unemployment incoming). Supermarket, no lines, no checkout. Computer vision (picture), deep learning, sensor fusion (fused several sensors data to analyze).
+- http://www.ericponto.com/blog/2016/12/05/teaching-rxjs/ knowing the subject, i think it's very clearly explained to begin with, good stuff
+- https://www.confluent.io/blog/log-compaction-highlights-in-the-apache-kafka-and-stream-processing-community-december-2016/ Lots of good KIP. Newer client will be able to talk to older brokers, exactly-once implementation (only at least once right now, because of retrials)
+- https://github.com/andywer/webpack-blocks use predefined functions to create a webpack config, instead of everybody doing the same, good idea, functional ffs
+- https://draft.li/blog/2016/11/28/javascript-engines-hidden-classes/ a new property on an object = 1 new hidden class. a same function form a linked link of hidden class (each of them "inherits" another)
+- http://www.java-allandsundry.com/2016/11/spring-kafka-producerconsumer-sample.html i dunno, i don't like Spring. Don't like the naming "KafkaTemplate" wtf, it's a KafkaProducer. "ConcurrentKafkaListenerContainerFactory"... I find all the pieces more complex to understand than the raw.
+- http://www.slideshare.net/Couchbase/streaming-operational-data-with-kafka-confluent Confluent platform, Kafka Streams, Schema Registry. High Level.
+- https://github.com/takari/polyglot-maven-examples/blob/master/scala/minimal-scala/pom.scala No more pom.xml that's a win. WOW. Most of the mapping done. I hate xml.
+- https://blog.jetbrains.com/idea/2016/11/intellij-idea-2016-3-ga-java-8-and-es6-debugger-and-ui-improvements-and-a-ton-more/ Intellij Idea, best IDE ever, since forever.
+
 # 05-12-2016
 
 - https://github.com/zeit/styled-jsx Another solution to handle style with React
