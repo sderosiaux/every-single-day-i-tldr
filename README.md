@@ -4,7 +4,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 06-12-2016
 
-- http://jetbus.io/index.html collaborative apps using webrtc, done easily with jet
+- http://jetbus.io/index.html collaborative apps using websockets, done easily with jet
 - https://www.prerender.cloud/blog/2016/12/03/chrome-memory-54-vs-55 Chrome 55 uses ~30% less memory than Chrome 54
 - https://www.amazon.com/b?node=16008589011 Love the principle, just amazing (woopsy unemployment incoming). Supermarket, no lines, no checkout. Computer vision (picture), deep learning, sensor fusion (fused several sensors data to analyze).
 - http://www.ericponto.com/blog/2016/12/05/teaching-rxjs/ knowing the subject, i think it's very clearly explained to begin with, good stuff
