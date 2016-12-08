@@ -2,6 +2,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 07-12-2016
+
+- https://github.com/krausest/js-framework-benchmark wow, a lots of app doing the same thing but with a lot of existing frameworks (ie: benchmarking them)
+- https://en.wikipedia.org/wiki/Kiritimati UTC+14:00 yikes. I'd like to go into holidays there, very peaceful. Just need a sat connection eheh.
+- https://blog.docker.com/2016/12/docker-acquires-infinit/ Docker bought a startup from Paris to deal with the long-waited container storage solution
+- https://www.youtube.com/watch?v=M1qm-AWWu-M "Netflix JavaScript Talks - Transpilers: Bridge to the Future" I like the "test for lying browser" that really rely on the browser js behavior. Basically, they will ship ES6 not converted to ES5 if not needed. Polyfill only when needed.
+- http://launchaco.com/build/ generate a typical startup landing page, sublime
+- https://cwiki.apache.org/confluence/display/MAVEN/POM+Model+Version+5.0.0 wow, POM files are going to evolve! Dawn of a new age.
+- https://github.com/erikbern/git-of-theseus I applied that on my company's projects, that's amazing :)
+- https://www.baldurbjarnason.com/notes/is-js-more-fragile/ "There’s no reason why a set of simple forms on a government website should be implemented in Angular when they could be implemented more reliably and with greater reach using built-in features of HTML and CSS" Because dev wants to be bleeding-edge (well, not with Angular :p), that's it. 
+- https://babeljs.io/blog/2016/12/07/the-state-of-babel big recap of babel past, present and future. Note: a babel cli is a good idea
+- http://www.scala-lang.org/blog/2016/12/07/implicit-function-types.html Scala is getting one more implicit feature to "simplify" things. Implicits type! A reusable type that "contains" an implicit parameter. Less visible implicits across the code.
+
 # 06-12-2016
 
 - http://jetbus.io/index.html collaborative apps using websockets, done easily with jet
