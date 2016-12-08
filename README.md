@@ -7,6 +7,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/petehunt/rust-benchmark Rust to JS or wasm.
 - https://www.drift.com/ Another customer messaging in-browser solution
 - http://blog.xebia.fr/2016/12/08/revue-de-presse-xebia-2016-50/ Scala 2.12, Amazon Go, Craftmanship: building a test infrastructure
+- http://pedrorijo.com/blog/scala-enums/ Comparing Scala Enums and other ways to simulate them (because they suck a bit)
 
 This was a late meetup day :-)
 
