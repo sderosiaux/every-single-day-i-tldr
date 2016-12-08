@@ -2,6 +2,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 08-12-2016
+
+- https://github.com/petehunt/rust-benchmark Rust to JS or wasm.
+- https://www.drift.com/ Another customer messaging in-browser solution
+- http://blog.xebia.fr/2016/12/08/revue-de-presse-xebia-2016-50/ Scala 2.12, Amazon Go, Craftmanship: building a test infrastructure
+
+This was a late meetup day :-)
+
 # 07-12-2016
 
 - https://github.com/krausest/js-framework-benchmark wow, a lots of app doing the same thing but with a lot of existing frameworks (ie: benchmarking them)
