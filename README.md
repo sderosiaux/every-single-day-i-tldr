@@ -2,6 +2,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-12-2016
+
+Come on!
+
 # 08-12-2016
 
 - https://github.com/petehunt/rust-benchmark Rust to JS or wasm.
