@@ -7,7 +7,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://en.wikipedia.org/wiki/Jacque_Fresco Thanks to this guy, I discovered the "Venus Project". A model of a sustainable future society
 - https://www.npmjs.com/package/egghead-downloader way more practical :-)
 - https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec d3 internals in a d3 chart ! d3ception
- - https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2 Immutability are using persistent data structure (such as trie), hopefully! The perf would be catastrophic otherwise
+- https://medium.com/@dtinth/immutable-js-persistent-data-structures-and-structural-sharing-6d163fbd73d2 Immutability are using persistent data structure (such as trie), hopefully! The perf would be catastrophic otherwise
 - https://zeit.co/oss clear page about the oss zeit does. very good projects (micro, next, hyper NO WINDOWZ BUILD)
 - https://github.com/zeit/micro interesting. a wrapper to node http server. The straight minima to start a http server with async/await support. 
 - https://javascript30.com/ "Build 30 things in 30 days with 30 tutorials" Nice! But I won't do it.
