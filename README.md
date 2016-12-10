@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 10-12-2016
+
+- https://en.wikipedia.org/wiki/Satisfiability_modulo_theories i dunno
+- https://lists.freedesktop.org/archives/dri-devel/2016-December/126684.html amd pissed off by linux team that does not want to integrate their code. (iiuc)
+- http://blog.octo.com/les-strategies-de-gestion-de-pression-partie-i/ some details about backpressure management
+- https://github.com/miloszpp/scala-ts case classes to typescript!
+- http://blog.octo.com/docker-en-production-la-bataille-sanglante-des-orchestrateurs-de-conteneurs/ Docker Swarm VS Kubernetes (03-2016). Kubernetes wins.
+- http://www.slideshare.net/JoshBaer/shortening-the-feedback-loop-big-data-spain-external Spotify big data evolution -> from hadoop to google cloud
+- http://blog.akka.io/artery/2016/12/05/aeron-in-artery Aeron (SBE) in Akka Artery (remote). Using UDP undernealth
+- http://www.cakesolutions.net/teamblogs/genetic-programming-in-scala Nice and clean. Generate polynomial expressions and check their fitness to keep the best match.
+- https://www.youtube.com/watch?v=S4ez739fles Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js
+
 # 09-12-2016
 
 - https://en.wikipedia.org/wiki/Jacque_Fresco Thanks to this guy, I discovered the "Venus Project". A model of a sustainable future society
