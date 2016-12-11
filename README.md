@@ -2,6 +2,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 11-12-2016
+
+- https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/12/09/the-polar-vortex-is-coming-heres-what-that-means-and-how-cold-it-could-get/ I didn't know the term "polar vortex". Just meaning it's going to get blazing cold.
+- https://medium.com/@mbostock/command-line-cartography-part-2-c3a82c5c0f3 More cli manipulation to transform data to a map svg
+- https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47 Nice tips for interviewing employees about what could be better, what is wrong etc. ie: never ask "how is this going?" but more personal questions: "When have you felt frustrated/enthousiast in the past year?"
+- http://getoptimage.com/ this tool optimizes image weight a lot without losing any quality. good for the web :)
+- https://github.com/ImageOptim/ImageOptim his free friend (less performant it seems according to some comments)
+- https://github.com/tpolecat/doobie Very interesting project, a functional JDBC layer in Scala. Uses scalaz or cats, shapeless..
+- https://www.scalawilliam.com/essential-sbt/#print-all-bbc-news-headlines excellent short guide using only shell commands to demonstrate how to use sbt
+- https://www.youtube.com/watch?v=ecekSCX3B4Q SF Scala: Martin Odersky, Scala -- the Simple Parts
+- https://github.com/brettchalupa/developer-interview-questions the other side: what questions should a dev ask to the interviewer
+- https://www.youtube.com/user/shiffman/videos Impressive dude doing so many programming videos in javascript
+- https://github.com/jsoma/tabletop Google spreadsheets connector in javascript
+- https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8 Some tips on OSX
+
 # 10-12-2016
 
 - https://en.wikipedia.org/wiki/Satisfiability_modulo_theories i dunno
