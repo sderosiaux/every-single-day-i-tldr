@@ -16,6 +16,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.youtube.com/user/shiffman/videos Impressive dude doing so many programming videos in javascript
 - https://github.com/jsoma/tabletop Google spreadsheets connector in javascript
 - https://blog.sindresorhus.com/macos-tips-tricks-13046cf377f8 Some tips on OSX
+- http://ternjs.net/ type analysis and inference in javascript. Integrates with all editors.
+- https://github.com/plasma-umass/browsix a javascript kernel-like, written in typescript, using webworkers for "processes"
+- http://blog.octo.com/en/scylladb-vs-cassandra-towards-a-new-myth/ Scylla VS Cassandra. Cassandra "wins", despite having a lesser throughput, but because it's more stable, steady, and its driver handle backpressure. BUT, this article is 1yo, so probably not true anymore.
+- http://blog.octo.com/compte-rendu-du-spark-summit-2016/ Pour ceux qui n'ont pas pu aller au Spark Summit (moi, moi!), super intéressant, beaucoup de pointeurs.
+- http://www.slideshare.net/SparkSummit/spark-summit-eu-talk-by-simon-whitear Sparklint, a very nice UI to analyze the load of a job
+- http://spark.apache.org/docs/latest/structured-streaming-programming-guide.html Explanation of the programming model behind unbound Dataframe in Spark Streaming (window, join, sinks..)
+- https://github.com/OpenHFT/Chronicle-Map key-value store off heap (mmapped file) in-process with replication over network (distributed, CRDT), UDP+TCP. Impressive scalability. No TTL. Commercial offer to more features.
 
 # 10-12-2016
 
