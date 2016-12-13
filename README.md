@@ -11,6 +11,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/locks/ReadWriteLock.html Some refreshment over the Java ReadWriteLock
 - https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf How "virtual dom" works generally. Lots of diagrams, didn't read the whole thing, i don't need to know the implementation, just make IT FAST.
 - http://techblog.netflix.com/2016/12/netflix-conductor-microservices.html a distributed airflow with a json dsl and explicits i/o. Reading the doc, I didn't find where we set the process to start itself. I think I missed something.
+- https://marketplace.visualstudio.com/items?itemName=capaj.vscode-exports-autocomplete Auto-imports package in ES6 sources, awesome?
+- http://survivejs.com/blog/inferno-interview/ some tips why/how inferno is so fast.
+- http://degoes.net/articles/easy-monads talking about free monads using a ConsoleIO example, without saying it's about free monads in Scala, good article
+- https://www.ideals.illinois.edu/bitstream/handle/2142/34816/fase2013_submission.pdf "Why Do Scala Developers Mix the Actor Model with Other Concurrency Models?"
 
 # 11-12-2016
 
