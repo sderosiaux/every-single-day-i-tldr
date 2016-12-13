@@ -2,6 +2,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 13-12-2016
+
+- https://github.com/Tenchi2xh/Scurses It's always impressive to get this kind of dashboard with charts etc. in a console!
+- https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms
+- https://github.com/720kb/ndm neat! i don't remember seeing a interface for installed nodejs packages. now it exists!
+- https://github.com/mathiasbynens/tpyo i think he did a tpyo. using es6 proxies.
+- http://www.slideshare.net/SparkSummit/spark-summit-eu-talk-by-michael-nitschinger Spark and Couchbase, a love story
+- https://www.joelonsoftware.com/ Bored? "Over the last 16 years I’ve written 1114 articles on this site about software development, management, business, and the Internet."
+
 # 12-12-2016
 
 - http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/ comparing bash pipes to spark, right.
