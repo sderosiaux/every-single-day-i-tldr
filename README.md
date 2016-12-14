@@ -13,6 +13,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/ A simple form of pattern matching, tuple à la scala, deconstruction
 - https://manu.ninja/functional-reactive-game-programming-rxjs-breakout An arkanoid with RxJS, nicely done
 - https://techcrunch.com/2016/12/14/yahoo-discloses-hack-of-1-billion-accounts/ yahoo still in trouble..
+- https://outwatch.github.io/ scalajs and observables, so good. I can't stop to think about the bundle size. 412KB for the HelloWorld. :/ Definitely needs some tree-shaking.
+- https://egghead.io/courses/natural-language-processing-in-javascript-with-natural to quickly watch later
+- http://reactivesocket.io/ another project that implements reactivestreams. javascript and java impl.
+- https://blogs.msdn.microsoft.com/kaushal/2013/08/02/ssl-handshake-and-https-bindings-on-iis/ ssl hanshake low level details.
+- https://softwaremill.com/reader-monad-constructor-dependency-injection-friend-or-foe/ monad reader impact when using it for DI
 
 # 13-12-2016
 
