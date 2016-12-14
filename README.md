@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 14-12-2016
+
+- https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8 I like this kind of post, JS is messed up, we know it and we like it.
+- https://gist.github.com/akras14/3d242d80af8388ebca60 a nice git cheat sheet. Hopefully, when you use it daily, you know the whole sheet.
+- https://github.com/cloudson/gitql recap: git ql "select date, message, author from commits where date > '2016-10-10'
+- http://blog.triplebyte.com/does-it-make-sense-for-programmers-to-move-to-the-bay-area yes. salaries >> upper cost.
+- https://github.com/ccadllc/cedi-config i think i'll use that next time ! parse a typesafe config into a case class directly.
+- http://staltz.com/libraries-shouldnt-support-everything.html monolith is the way
+- https://blogs.msdn.microsoft.com/dotnet/2016/08/24/whats-new-in-csharp-7-0/ A simple form of pattern matching, tuple à la scala, deconstruction
+- https://manu.ninja/functional-reactive-game-programming-rxjs-breakout An arkanoid with RxJS, nicely done
+- https://techcrunch.com/2016/12/14/yahoo-discloses-hack-of-1-billion-accounts/ yahoo still in trouble..
+
 # 13-12-2016
 
 - https://github.com/Tenchi2xh/Scurses It's always impressive to get this kind of dashboard with charts etc. in a console!
