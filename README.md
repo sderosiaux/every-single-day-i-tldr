@@ -1,6 +1,24 @@
 Here, I list every article, blog post, page, video I read or watch and find interesting. I add a little description for me to find it later, or as a TLDR.
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
+- https://9to5mac.com/2016/12/14/twitter-excluded-from-trump-tech-meeting-over-emoji/ And that seems to be for real. This man is not living in the real world, or is it just me?
+- https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff The complete story, and the emoji sample, ahah
+- https://developer.github.com/changes/2016-12-14-profile-snyks-journey-from-cli-to-github/ it was just a CLI, now it's a bot to automatically PR a vulnerability fix
+- https://en.wikipedia.org/wiki/Second-system_effect "the tendency of small, elegant, and successful systems to be plagued with feature creep due to inflated expectations" Nice to say that in a conv! "
+- https://www.microsoft.com/en-us/diversity/training/default.aspx Original "course" about unconscious bias with nice short videos about a team working together. tldr: do your own introspection, always be open, shutdown your bias towards others. Appearance means nothing.
+- http://v8project.blogspot.fr/2016/12/v8-nodejs.html debugger into v8 (for node to integrate with it), better perfs overall.
+- https://github.com/MicheleBertoli/react-fix-it Simple but useful. It writes a sample test with the stacktrace along in the console (actually the useful part comes from react-component-errors)
+- http://www.lemonde.fr/sciences/article/2016/12/15/des-souris-beneficient-d-une-cure-de-jouvence-transgenique_5049640_1650684.html in 50 years, we'll got it ! Hurry up.
+- http://patrick.louys.ch/2016/12/11/open-closed-principle/ instead of A :> B :> C, it can be nice to work with Z[C] :> C (a composition with an inner list for instance)
+- https://github.com/auchenberg/volkswagen 5k stars now :) (make the tests to always pass, remember?)
+- https://jaxenter.com/whats-new-in-akka-130643.html Flow in Java9. Alpaka (Camel). Artery (Remote with Aeron). Akka typed.
+
+
+
+
+
+
+
 
 # 14-12-2016
 
