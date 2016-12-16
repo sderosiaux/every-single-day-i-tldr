@@ -17,6 +17,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://jaxenter.com/whats-new-in-akka-130643.html Flow in Java9. Alpaka (Camel). Artery (Remote with Aeron). Akka typed.
 - https://github.com/couchbaselabs/java-dcp-client I gave a try, it's quite nice. Use case: listen to expirations and send to a kafka topic.
 - http://blog.couchbase.com/2016/october/pokemon-go-scaling-profile-services-with-couchbase--nosql Title says all
+- https://blog.heroku.com/kafka-data-pipelines-frp-node an nodejs example of: Twitter stream -> Kafka -> Kafka Processing -> Dashboard (websockets).
+- https://mrotaru.wordpress.com/2015/05/20/how-migratorydata-solved-the-c10m-problem-10-million-concurrent-connections-on-a-single-commodity-server/ Super interesting. How they tune the kernel to handle 10M connections.
+- http://highscalability.com/blog/2016/12/13/a-scalable-alternative-to-restful-communication-mimicking-go.html in the same vain, but building a autocomplete service this time
+- https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/ just good sense.
 
 # 14-12-2016
 
