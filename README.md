@@ -15,6 +15,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://patrick.louys.ch/2016/12/11/open-closed-principle/ instead of A :> B :> C, it can be nice to work with Z[C] :> C (a composition with an inner list for instance)
 - https://github.com/auchenberg/volkswagen 5k stars now :) (make the tests to always pass, remember?)
 - https://jaxenter.com/whats-new-in-akka-130643.html Flow in Java9. Alpaka (Camel). Artery (Remote with Aeron). Akka typed.
+- https://github.com/couchbaselabs/java-dcp-client I gave a try, it's quite nice. Use case: listen to expirations and send to a kafka topic.
+- http://blog.couchbase.com/2016/october/pokemon-go-scaling-profile-services-with-couchbase--nosql Title says all
 
 # 14-12-2016
 
