@@ -2,6 +2,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-12-2016
+
+- https://github.com/gatsbyjs/gatsby Spent a lot of time on this, I always wanted to remove my wordpress with this kind of generator. In progress!!
+- https://thefeedbackloop.xyz/stroustrups-rule-and-layering-over-time/ "For new features, people insist on LOUD explicit syntax. For established features, people want terse notation." Stroustrup's Rule.
+- https://github.com/toddmotto/angular-pizza-creator 
+- https://coryrylan.com/blog/angular-multiple-http-requests-with-rxjs "forkJoin" ok that's just "zip". I don't like when ppl names things differently. edit: actually it is not the same, AT ALL! 
+- http://reactivex.io/documentation/operators/zip.html Expand the RxJs part. There is zip, zipArray, and forkJoin. forkJoin deals with the last element of each streams.
+- https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13 
+- https://grundlefleck.github.io/2013/06/23/using-scala-will-make-you-less-productive.html For me, it's compilation/dependencies resolution time -_-
+- http://stackoverflow.com/questions/3490383/java-compile-speed-vs-scala-compile-speed/3612212#3612212 Scalac does mmuch more things because of the features of Scala. But it parses less code.. !
+- http://tempsreel.nouvelobs.com/en-direct/a-chaud/31358-tele-russie-meurtre-cette-nouvelle-emission-realite-russe.html Russian are crazy too.
+
 # 15-12-2016
 
 - https://9to5mac.com/2016/12/14/twitter-excluded-from-trump-tech-meeting-over-emoji/ And that seems to be for real. This man is not living in the real world, or is it just me?
