@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://blog.dynamicdrive.com/detecting-adblock-on-your-site-and-logging-it-to-google-analytics/ Indeed, why not use GA to store that, good idea.
 - http://www.jowanza.com/post/154680354949/a-gentle-intro-to-udafs-in-apache-spark Never wrote a UDAF (aggregate function, like a reduce) in Spark, good to know
 - http://filippodeluca.com/programming/2016/12/09/akka-eventsourcing-done-right You persist the command and not the state after the command (business logic). Your logic changes: you lost the command to reprocess: command sourcing
+- https://github.com/FezVrasta/popper.js I was wondering what is a "popper", now it makes sense.
 
 # 17-12-2016
 
