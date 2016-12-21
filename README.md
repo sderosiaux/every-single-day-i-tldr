@@ -9,6 +9,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.cloudflare.com/a-very-webp-new-year-from-cloudflare/ "Polish". WebP for everyone. Replaces png, jpg, gif.
 - https://www.youtube.com/watch?v=NpN9NzO4Mo8 Nobody wants to steal his phone. Until..
 - http://stackoverflow.com/questions/4313139/how-to-use-scalas-this-typing-abstract-types-etc-to-implement-a-self-type this.type or type parameter / type member in Scala can be particularly helpful.
+- https://github.com/devongovett/regexgen Can't wait to test this with a real regex. Enough charabia in the desc to make it very good.
+- https://github.com/keonkim/awesome-bits a new way to obfuscate our code. Using binary operations all over.
+- https://blogs.windows.com/msedgedev/2016/12/20/introducing-brotli-compression/ Brotli in Edge. Good. (20% better http compression)
 
 # 19-12-2016
 
