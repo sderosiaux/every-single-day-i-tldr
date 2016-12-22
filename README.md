@@ -12,7 +12,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.superhuman.com/architecting-a-web-app-to-just-work-offline-part-1-8697f316c0eb offline app: local queue -> async backend save. handle connection status.
 - https://aerotwist.com/blog/when-everything-is-important-nothing-is/ SSR=higher Time To Interactive. C(client)SR=opposite of SSR. "Progressive Booting" >> SSR or CSR. Critical first. Do not forget about requestIdleCallback.
 - https://www.reddit.com/r/linusrants/ A reddit for that, not surprising.
-
+- http://x-team.com/2016/12/forc-fear-of-removing-css/ FORC: fear or removing CSS. Definitely true when in decoupled .css files.
+ 
 # 20-12-2016
 
 - http://www.nytimes.com/2016/12/20/technology/twitters-chief-technology-officer-to-leave-company.html COO gone, CTO gone.
