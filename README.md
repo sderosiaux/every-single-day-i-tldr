@@ -2,6 +2,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 22-12-2016
+
+- https://github.com/Swizec/react-fractals React doesn't like when every element moves (no sCU optim)
+- http://www.cakesolutions.net/teamblogs/improving-workflow-with-local-sbt-files create a custom global sbt that is not commited with the projects
+- https://gist.github.com/non/ec48b0a7343db8291b92 "Static typing is most useful in large, shared codebases" "a scientist's main concerns are probably mathematical errors (most of which the type system won't catch)... unlikely to maintain code for very long periods of time or share codebases."
+- http://www.re-cycledair.com/0-to-1-million-scaling-my-side-project-to-1-million-requests-a-day mongodb -> compose.io. classic file storage -> s3. 3 nodejs in front of 2 nginx (1M queries per day, one nodejs would be enough :D)
+- https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/ classic reminder: animate opacity and transform only (another composite layer). And more tips.
+- https://blog.superhuman.com/architecting-a-web-app-to-just-work-offline-part-1-8697f316c0eb offline app: local queue -> async backend save. handle connection status.
+- https://aerotwist.com/blog/when-everything-is-important-nothing-is/ SSR=higher Time To Interactive. C(client)SR=opposite of SSR. "Progressive Booting" >> SSR or CSR. Critical first.
+
 # 20-12-2016
 
 - http://www.nytimes.com/2016/12/20/technology/twitters-chief-technology-officer-to-leave-company.html COO gone, CTO gone.
