@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/ classic reminder: animate opacity and transform only (another composite layer). And more tips.
 - https://blog.superhuman.com/architecting-a-web-app-to-just-work-offline-part-1-8697f316c0eb offline app: local queue -> async backend save. handle connection status.
 - https://aerotwist.com/blog/when-everything-is-important-nothing-is/ SSR=higher Time To Interactive. C(client)SR=opposite of SSR. "Progressive Booting" >> SSR or CSR. Critical first.
+- https://www.reddit.com/r/linusrants/ A reddit for that, not surprising.
 
 # 20-12-2016
 
