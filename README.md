@@ -2,6 +2,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 25-12-2016
+
+- https://swizec.com/blog/animating-svg-nodes-react-preact-inferno-vue/swizec/7311 the new "perf" demo compared between react, preact, inferno, angular, cyclejs
+- https://en.lichess.org/blog/WFvLpiQAACMA8e9D/learn-from-your-mistakes
+- http://www.thevelop.nl/blog/2016-12-25/ThreadTone/ Cool idea. An image converted to "threads" in a circle.
+- https://medium.com/the-mission/this-10-minute-routine-will-increase-your-clarity-and-creativity-7ce61b11c2f9 "Your subconscious never rests and is always on duty because it controls your heartbeat, blood circulation, and digestion." When you realize this, we are amazing. Write down the things you’re trying to accomplish before going to sleep. You'll have answer on the morning.
+- https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7 Lots of tips for a better time to first meaningful paint, tti, libraries sizes..
+- http://www.scala-sbt.org/0.13/docs/Cached-Resolution.html lots of modules, sbt starts to suck. Cache dag to fix it.
+- https://m.signalvnoise.com/why-you-should-argue-with-your-employees-ab8189fcd1c4 "It’s not about ego — it’s about the outcome. You want the outcome that’s best for the company"
+
 # 22-12-2016
 
 - https://github.com/Swizec/react-fractals React doesn't like when every element moves (no sCU optim)
