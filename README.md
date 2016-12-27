@@ -2,6 +2,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-12-2016
+
+- https://github.com/mobxjs/mobx/blob/mobx3/CHANGELOG.md#300 Some nice API churn in MobX and better pattern (immutability)
+- https://github.com/start-runner/start A very simple Gulp (task runner). Tons of plugins for cross-env.
+- https://github.com/dhparkdh/resume-for-web-developer a nice cv template to modify as we want
+- https://github.com/mishudark/dropbox-password "Securely stores your passwords as Dropbox do" a function in Go to hash a password as we should. AES256+pepper+bcrypt+salt+sha512
+- https://logs.now.sh/ Funny experience "à la now" where you can register to any output of a running nodejs process with just a string (a secret string)
+- https://www.reddit.com/r/scala/comments/5kk9bc/my_problems_with_akka/ Interesting question to ask difference between futures and akka. Basically: Akka if you want states and failure management.
+- http://slick.lightbend.com/doc/3.1.0/database.html#database-thread-pool the thread pool for async actions needs for be properly tune
+- https://www.amazon.com/gp/product/0133846830?sa-no-redirect=1&pldnSite=1 "Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka" what about buying this book? (Vaughn Vernon inside)
+- https://medium.com/@shahinism/for-gods-sake-secure-your-mongo-redis-etc-4f310cf1bed2 Reminder that mongo and redis are not secured at all by default
+- https://ponyfoo.com/articles/terrible-code-sane-people A post with a tons of good advices that can help to do some introspection. "When a measure becomes a target, it ceases to be a good measure. - Goodhart’s law" "it takes a lot of self-control to focus on delivered quality and ignore juicy metrics such as commit rate or issues closed."
+- https://www.entrepreneur.com/article/285444 Google will index page thinking mobile-first. A very interesting choice. Better quality website for everyone?
+- https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294 Not only Angular2: Tree shaking (remove useless things from bundle), "universal" js (ssr, careful, not always the best solution), web workers (leave UI thread alone), and service workers (instant loading, offline, cache)
+
 # 25-12-2016
 
 - https://swizec.com/blog/animating-svg-nodes-react-preact-inferno-vue/swizec/7311 the new "perf" demo compared between react, preact, inferno, angular, cyclejs
