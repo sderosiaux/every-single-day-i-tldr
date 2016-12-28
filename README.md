@@ -2,6 +2,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 28-12-2016
+
+- http://joebergeron.io/posts/post_two.html a bootloader in ~hundred simple instruction (asm eh)
+- https://github.com/andywer/leakage Memory leak testing for nodejs, that's another good chunk of tests to do
+- https://blog.knoldus.com/2016/12/27/testing-rejection-handling-in-akka-http/ Learned about route.seal() to test a route that throws, in akka http
+- https://ponyfoo.com/articles/var-let-const Don't need to read why const is better.
+- https://medium.com/@anicolaspp/akka-streams-a-story-of-scalability-5d9e7c2d3ac3 Using Akka PubSub +Cluster instead of Akka Streams for big jobs.
+- http://mrcoles.com/demo/markdown-css/ CSS to make HTML markup look like plain-text markdown. Then you can copy paste it inside a .md. -_-
+
 # 27-12-2016
 
 - https://github.com/mobxjs/mobx/blob/mobx3/CHANGELOG.md#300 Some nice API churn in MobX and better pattern (immutability)
