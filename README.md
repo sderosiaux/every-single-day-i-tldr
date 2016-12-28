@@ -13,6 +13,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html Scala's implicits more powerful than you think. Good explanations and examples.
 - http://blog.threatstack.com/ramping-up-on-finch-avoiding-common-gotchas I'm surprisingly not attracted by Finch.
 - https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e Some explanation about different GCs behaviors. "Garbage collection is a hard problem".
+- http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html Flow just seems more appropriate. (incremental, better checks)
 
 # 27-12-2016
 
