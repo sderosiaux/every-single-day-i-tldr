@@ -14,6 +14,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://blog.threatstack.com/ramping-up-on-finch-avoiding-common-gotchas I'm surprisingly not attracted by Finch.
 - https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e Some explanation about different GCs behaviors. "Garbage collection is a hard problem".
 - http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html Flow just seems more appropriate. (incremental, better checks)
+- https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/ Stateful Stream Processing
 
 # 27-12-2016
 
