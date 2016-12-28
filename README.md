@@ -12,6 +12,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://mrcoles.com/demo/markdown-css/ CSS to make HTML markup look like plain-text markdown. Then you can copy paste it inside a .md. Oo
 - http://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html Scala's implicits more powerful than you think. Good explanations and examples.
 - http://blog.threatstack.com/ramping-up-on-finch-avoiding-common-gotchas I'm surprisingly not attracted by Finch.
+- https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e Some explanation about different GCs behaviors. "Garbage collection is a hard problem".
 
 # 27-12-2016
 
