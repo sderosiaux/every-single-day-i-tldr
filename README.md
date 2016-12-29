@@ -2,6 +2,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-12-2016
+
+- http://www.xautoworld.com/tesla/autopilot-radar-tech-predicted-accident/ Impressive usage of predictive technology by Tesla
+- https://github.com/arun-gupta/docker-images Useful repo of images to start misc things (couchbase, jdk, some dbs..)
+- https://www.hidefsoftware.co.uk/2016/12/25/the-caching-antipattern/ Talking about cache strategies.
+
 # 28-12-2016
 
 - http://joebergeron.io/posts/post_two.html a bootloader in ~hundred simple instruction (asm eh)
