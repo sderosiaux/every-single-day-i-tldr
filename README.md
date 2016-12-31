@@ -12,6 +12,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html Funny to see it's talking about KnockoutJS, an old framework (I used it!) with observable-ish. MobX is just barely the same idea.
 - http://www.thymeleaf.org/doc/articles/fromhtmltohtmlviahtml.html A recap of HTML history. XHTML5 exists!
 - https://github.com/tidwall/tile38 A specialized geolocation datastore. Following REdisSerializationProtocol.
+- https://github.com/ageitgey/show-facebook-computer-vision-tags#show-facebook-computer-vision-tags-chrome-extension Display tags Facebook identified on its picture (put on alt)
+- https://blog.knoldus.com/2016/12/30/migration-from-spark-1-x-to-spark-2-x/ quickstart to update a spark1.6 program to 2.0
+- https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536 basis of functional programming, a quite verbose guide.
 
 # 29-12-2016
 
