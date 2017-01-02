@@ -16,6 +16,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.spacex.com/news/2016/09/01/anomaly-updates SpaceX, transparent about the loss of the rocket launched on 1-sep. "one of the three composite overwrapped pressure vessels (COPVs) inside the second stage liquid oxygen (LOX) tank failed."
 - https://blog.xinhong.me/post/sublime-text-vs-vscode-vs-atom-performance-dec-2016/ we can't compare Atom and VSCode to Sublime perfs :)
 - http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/architecture/architectureIntro_c.html good and clear into to Cassandra's parts
+- https://github.com/jakearchibald/navigation-transitions Proposal to add some transition API between pages in a tab.
+- https://www.hakkalabs.co/articles/how-cassandra-stores-data More general info about Cassandra
+- https://www.stephanboyer.com/post/122/does-google-execute-javascript YES!
+- http://blog.xebia.fr/2017/01/02/dotjs-2016-notre-compte-rendu/ Rien de bien transcendent à priori, généraliste.
 
 # 31-12-2016
 
