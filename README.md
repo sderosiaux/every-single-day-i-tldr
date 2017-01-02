@@ -10,6 +10,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/bluejamesbond/FlameChart.js a &lt;FrameChart&gt; as powerful as the DevTools' one
 - http://www.lefigaro.fr/secteur/high-tech/2017/01/02/32001-20170102ARTFIG00110-pour-lutter-contre-le-piratage-des-emails-donald-trump-preconise-le-retour-au-courrier.php Stop sending emails, send mails !
 - https://blog.cloudflare.com/how-and-why-the-leap-second-affected-cloudflare-dns/ tldr: never store a timestamp into a signed integer.
+- http://www.jowanza.com/post/155264974829/the-how-and-why-of-spark-and-couchbase Some intro to spark and couchbase combined together.
+- https://fail0verflow.com/blog/2016/console-hacking-2016-postscript/ Porting Linux on PS4
+- https://github.com/zeit/release another semver github release tool. straghtforward, does the job.
 
 # 31-12-2016
 
