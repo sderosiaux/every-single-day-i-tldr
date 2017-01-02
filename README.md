@@ -23,6 +23,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://dzone.com/articles/introduction-apache-cassandras Another intro to Cassandra
 - https://media-glass.es/portainer-the-ui-for-docker-d067f6335f23 a UI for Docker engine
 - https://pavelfatin.com/typing-with-pleasure/ Measuring delay between a keystroke and its appearance, under mult. conditions.  Atom, Idea, subl, emacs, etc.
+- https://hackernoon.com/the-programmers-guide-to-booking-a-plane-11e37d610045 Scrape and plot your airplane tickets price to get the lowest price, great
 
 # 31-12-2016
 
