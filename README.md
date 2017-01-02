@@ -4,6 +4,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-01-2017
+
+- https://googleblog.blogspot.fr/2011/09/time-technology-and-leaping-seconds.html Instead of the :60s, Google changes its ntp servers to send progressively tiny updates (delta) to match the time after the leap second transparently. "leap smear"
+- https://github.com/bluejamesbond/FlameChart.js a &lt;FrameChart&gt; as powerful as the DevTools' one
+- http://www.lefigaro.fr/secteur/high-tech/2017/01/02/32001-20170102ARTFIG00110-pour-lutter-contre-le-piratage-des-emails-donald-trump-preconise-le-retour-au-courrier.php Stop sending emails, send mails !
+
 # 31-12-2016
 
 - http://www.journaldugeek.com/2016/12/30/twitter-aimerait-autoriser-ledition-de-tweets-mais-cest-vraiment-complique/ Twitter listening to its users
