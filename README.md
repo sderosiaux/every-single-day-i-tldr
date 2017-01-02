@@ -20,6 +20,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.hakkalabs.co/articles/how-cassandra-stores-data More general info about Cassandra
 - https://www.stephanboyer.com/post/122/does-google-execute-javascript YES!
 - http://blog.xebia.fr/2017/01/02/dotjs-2016-notre-compte-rendu/ Rien de bien transcendent à priori, généraliste.
+- https://dzone.com/articles/introduction-apache-cassandras Another intro to Cassandra
+- https://media-glass.es/portainer-the-ui-for-docker-d067f6335f23 a UI for Docker engine
+- https://pavelfatin.com/typing-with-pleasure/ Measuring delay between a keystroke and its appearance, under mult. conditions.  Atom, Idea, subl, emacs, etc.
 
 # 31-12-2016
 
