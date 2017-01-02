@@ -14,6 +14,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://fail0verflow.com/blog/2016/console-hacking-2016-postscript/ Porting Linux on PS4
 - https://github.com/zeit/release another semver github release tool. straghtforward, does the job.
 - http://www.spacex.com/news/2016/09/01/anomaly-updates SpaceX, transparent about the loss of the rocket launched on 1-sep. "one of the three composite overwrapped pressure vessels (COPVs) inside the second stage liquid oxygen (LOX) tank failed."
+- https://blog.xinhong.me/post/sublime-text-vs-vscode-vs-atom-performance-dec-2016/ we can't compare Atom and VSCode to Sublime perfs :)
+- http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/architecture/architectureIntro_c.html good and clear into to Cassandra's parts
 
 # 31-12-2016
 
