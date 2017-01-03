@@ -14,6 +14,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.infoq.com/articles/java9-osgi-future-modularity Java Platform Module System (JPMS); a simpler concept than OSGi. OSGi was originally built (16yo) for IoT (highly constrained). Jigsaw provides the impl of the JPMS in Java9.
 - http://iteratrlearning.com/java/2016/12/26/pipes-and-filters-actors-akka-java.html Sorry, but Akka in Java.. Moreover, an actor to encapsulate a one-liner. One should use functional programming?
 - https://github.com/scalikejdbc/scalikejdbc A tidy SQL-based DB access library for Scala developers. Async version over there https://github.com/scalikejdbc/scalikejdbc-async
+- http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/ Title says all, awesome and funny article
+- http://co.ntextu.al/ simple and typesafe interpolated strings, checked at compile-time
 
 # 02-01-2017
 
