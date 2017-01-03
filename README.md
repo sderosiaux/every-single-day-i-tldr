@@ -12,6 +12,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/scala/collection-strawman The redesign of the Scala collections has begun
 - https://www.youtube.com/watch?v=lTDGWaiczV0 Nice FR video about the developer competence, and why IT is becoming a commodity, as electricity.
 - https://www.infoq.com/articles/java9-osgi-future-modularity Java Platform Module System (JPMS); a simpler concept than OSGi. OSGi was originally built (16yo) for IoT (highly constrained). Jigsaw provides the impl of the JPMS in Java9.
+- http://iteratrlearning.com/java/2016/12/26/pipes-and-filters-actors-akka-java.html Sorry, but Akka in Java.. Moreover, an actor to encapsulate a one-liner. One should use functional programming?
+- https://github.com/scalikejdbc/scalikejdbc A tidy SQL-based DB access library for Scala developers. Async version over there https://github.com/scalikejdbc/scalikejdbc-async
 
 # 02-01-2017
 
