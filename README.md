@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 03-01-2017
+
+- http://www.madhur.co.in/blog/2016/12/25/batch-api-framework-nodejs.html Batch API calls in nodejs.
+- http://www.rankred.com/whats-new-in-html-5-1-added-features/ Some nice HTML5 features not everybody is aware of
+- https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/ The Radix Sort. A globally faster algo than QuickSort/Heapsort and concors, that surprisingly "nobody" uses.
+- https://github.com/scala/collection-strawman The redesign of the Scala collections has begun
+- https://www.youtube.com/watch?v=lTDGWaiczV0 Nice FR video about the developer competence, and why IT is becoming a commodity, as electricity.
+- https://www.infoq.com/articles/java9-osgi-future-modularity Java Platform Module System (JPMS); a simpler concept than OSGi. OSGi was originally built (16yo) for IoT (highly constrained). Jigsaw provides the impl of the JPMS in Java9.
+
 # 02-01-2017
 
 - https://googleblog.blogspot.fr/2011/09/time-technology-and-leaping-seconds.html Instead of the :60s, Google changes its ntp servers to send progressively tiny updates (delta) to match the time after the leap second transparently. "leap smear"
