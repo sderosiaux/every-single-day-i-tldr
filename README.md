@@ -11,6 +11,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.youtube.com/watch?v=LBJPIgNXUDI Let artist draw into an infinite space using VR. Quite impressive.
 - https://blog.medium.com/renewing-mediums-focus-98f374a960be Medium is firing 1/3 of its people. It will try to "define a new model for writers and creators to be rewarded, based on the value they’re creating for people"
 - https://github.com/cDima/Aerial Apple TV's screensavers on Windows, awesomely great. And the other repo for macs: https://github.com/JohnCoates/Aerial. I put both :)
+- https://philna.sh/blog/2017/01/04/git-back-to-the-future/ Never had to use the reflog yet, never did any mistake.. yet.
+- https://kev.inburke.com/kevin/leap-seconds/ Another story about leap second in Go
+- https://franklinpearsall.com/getting-started-with-akka-and-akka-http-building-a-mock-traffic-monitoring-system/ An example of Akka HTTP app
 
 # 03-01-2017
 
