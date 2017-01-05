@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-01-2017
+
+- https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/ PubSub, 2M/s on one DC, validated.
+- https://www.confluent.io/blog/log-compaction-highlights-apache-kafka-stream-processing-community-january-2017/
+- https://spark.apache.org/releases/spark-release-2-1-0.html A small recap of the new things
+- http://flink.apache.org/news/2016/12/19/2016-year-in-review.html Flink's git commits yearly review!
+- http://dimafeng.com/2017/01/04/sbt/ SBT making things complex for no reason. whereas Gradle is easier.
+- https://spring.io/blog/2017/01/04/spring-batch-4-0-0-m1-is-now-available More builder patterns, less XML in the doc (java first, finally!!)
+- https://www.kennethreitz.org/essays/the-reality-of-developer-burnout Interesting and short story about dev burnout. 
+
 # 04-01-2017
 
 - https://github.com/stevennL/Snake AI of snake game, fill the screen!
