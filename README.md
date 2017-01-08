@@ -4,6 +4,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 08-01-2017
+
+- https://www.bleepingcomputer.com/news/security/ultrasound-tracking-could-be-used-to-deanonymize-tor-users/
+- https://blog.plan99.net/the-science-of-westworld-ec624585e47
+- https://twitter.com/i/moments/817537697535250432 The CES was not so great it seems, a bunch of stupid things.
+- https://elementary.io/ A viable alternative to OSes: ElementyOS. Very simple but does the job well it seems. (based on Ubuntu)
+- http://www.vidarholen.net/contents/blog/?p=479 dd is a file reader/file writer, deal with it. It should have been called "cc" but taken so was named "dd". An X comes from "Window". W+1. Mind blow.
+- http://www.cgl.uwaterloo.ca/smann/IceCream/humor.html A story to read. "Car allergic to vanilla ice cream"
+- https://medium.com/@david.gilbertson/master-web-development-with-these-9-985-weird-tricks-77c71d1d96f3 A checklist of all the features CSS/HTML/JS/DOM features, 10k features.
+- http://www.bbc.com/future/story/20170101-a-new-tomb-for-the-most-dangerous-disaster-site-in-the-world Impressive project realized across decades.
+- https://media.ccc.de/v/33c3-8022-memory_deduplication_the_curse_that_keeps_on_giving Abuses of memory deduplication (used in VMs context)
+- http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html?m=1 Explanation about a bounty bug (SQL Injection) in GitHub Enterprise VM (ie: Ruby sucks). Good reading.
+- http://www.vox.com/science-and-health/2017/1/6/14184094/scientists-predict-stars-colliding Come back in 2022.
+- http://arstechnica.co.uk/security/2017/01/more-than-10000-online-databases-taken-hostage-by-ransomware-attackers/ Good thing. They removed all the unsecured mongod from the Internet, ahah.
+
 # 05-01-2017
 
 - https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/ PubSub, 2M/s on one DC, validated.
