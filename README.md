@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-01-2017
+
+- https://medium.com/@subhojit20_27731/apache-spark-and-amazon-s3-gotchas-and-best-practices-a767242f3d98 Spark and S3. Many tips to know.
+- https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-2 Spark, Kafka, K-means, Uber.
+- https://engineering.linkedin.com/blog/2017/01/asynchronous-processing-and-multithreading-in-apache-samza--part Samza refactored its internals and implemented the callback hell to support any type of Promise/Future/Task to follow a full async model.
+ - https://hackernoon.com/why-dataproc-googles-managed-hadoop-and-spark-offering-is-a-game-changer-9f0ed183fda3 DataProc seems awesome to handle Spark jobs on "hot" clusters (created on the fly).
+- https://news.ycombinator.com/item?id=13259575 25k servers every day on GCP.
+- https://thehftguy.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/ GCE vs AWS in 2016: Why you shouldn’t use Amazon 
+- https://thehftguy.com/2016/10/20/building-an-analytics-pipeline-in-2016-the-ultimate-guide/  Building an Analytics Pipeline in 2016. Alooma, RedShift, Looker.
+
 # 08-01-2017
 
 - https://www.bleepingcomputer.com/news/security/ultrasound-tracking-could-be-used-to-deanonymize-tor-users/
