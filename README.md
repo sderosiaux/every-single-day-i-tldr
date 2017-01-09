@@ -6,6 +6,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 09-01-2017
 
+- https://techcrunch.com/2017/01/09/atlassian-acquires-trello/ $425M for Trello. The price of the user-base!
+- http://sciabarra.com/book/starters/ Very quick start in diff Scala framework
+- https://www.reddit.com/r/scala/comments/5mtlhq/stds_considered_harmful_or_slicks_marvelous_api/ A dude pissed off at Slick's ugly syntax.
+- https://blog.redelastic.com/work-stealing-what-makes-the-play-framework-fast-4b71fa7758d5 Some basic explanation about work stealing threading with Play!
+- http://www.dmst.aueb.gr/dds/sw/dgsh/ I heard good things about this dgsh but having a hard time to be interested.
+- http://www.jowanza.com/post/155606607974/what-is-alluxio-and-will-it-help-my-spark-jobs A very quick post about Alluxio and Spark. Very quick.
+
+# 08-01-2017
+
 - https://medium.com/@subhojit20_27731/apache-spark-and-amazon-s3-gotchas-and-best-practices-a767242f3d98 Spark and S3. Many tips to know.
 - https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-2 Spark, Kafka, K-means, Uber.
 - https://engineering.linkedin.com/blog/2017/01/asynchronous-processing-and-multithreading-in-apache-samza--part Samza refactored its internals and implemented the callback hell to support any type of Promise/Future/Task to follow a full async model.
@@ -14,7 +23,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://thehftguy.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/ GCE vs AWS in 2016: Why you shouldn’t use Amazon 
 - https://thehftguy.com/2016/10/20/building-an-analytics-pipeline-in-2016-the-ultimate-guide/  Building an Analytics Pipeline in 2016. Alooma, RedShift, Looker.
 
-# 08-01-2017
+# 07-01-2017
 
 - https://www.bleepingcomputer.com/news/security/ultrasound-tracking-could-be-used-to-deanonymize-tor-users/
 - https://blog.plan99.net/the-science-of-westworld-ec624585e47
