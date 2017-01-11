@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 11-01-2017
+
+- https://github.com/jlongster/prettier Another prettify JS, seems better? to avoid inconsistent formatting. and its blog http://jlongster.com/A-Prettier-Formatter
+- https://vimeo.com/85490944 This is an amazing video by Spotify about their culture. Just awesome and a must-watch.
+- https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443 MobX is getting its API cleaner and smarter
+- https://medium.com/swlh/lets-talk-about-self-driving-cars-387cd5adb834 So many questions when it comes to cars automation. I like this quote "Everything that moves will go autonomous".
+- https://blog.oz-code.com/analyzing-github-linq-usage-the-results/ It's always nice to see how a framework is used by analyzing Github projects. Here LINQ, no surprising results.
+- https://openai.com/blog/GTA-V-plus-Universe/ Training real AI agents using GTA V !
+- https://github.com/sindresorhus/get-range A lazy (yield) range iterator useable with "for of"
+- https://github.com/pathikrit/better-files Never heard of this library. It's strongly recommanded when dealing with Files in Scala. The API seems excellent and complete.
+
 # 09-01-2017
 
 - https://techcrunch.com/2017/01/09/atlassian-acquires-trello/ $425M for Trello. The price of the user-base!
