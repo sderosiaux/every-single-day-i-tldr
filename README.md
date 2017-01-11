@@ -14,6 +14,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://openai.com/blog/GTA-V-plus-Universe/ Training real AI agents using GTA V !
 - https://github.com/sindresorhus/get-range A lazy (yield) range iterator useable with "for of"
 - https://github.com/pathikrit/better-files Never heard of this library. It's strongly recommanded when dealing with Files in Scala. The API seems excellent and complete.
+- http://v8project.blogspot.fr/2017/01/speeding-up-v8-regular-expressions.html RegExp += Speedup(100%)
 
 # 09-01-2017
 
