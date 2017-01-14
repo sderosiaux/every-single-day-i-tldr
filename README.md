@@ -20,6 +20,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://medium.freecodecamp.com/the-mind-blowing-ai-announcement-from-google-that-you-probably-missed-2ffd31334805 A dude too much excited about the new Google Translate (cf comments), but good stuff anyway!
 - https://reflect.io/blog/github-aws-data-pipeline/ How Reflect use AWS to make their backend.
 - https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous ScrewDriver, a tool with UI by Yahoo! to to Continous Delivery http://screwdriver.cd/
+- https://www.oreilly.com/ideas/scaling-scala The place and evolution of Scala + its big projects, and Cats VS ScalaZ
 
 # 11-01-2017
 
