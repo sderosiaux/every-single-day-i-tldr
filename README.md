@@ -15,6 +15,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://1-minute-modem.branchable.com/ What happen on the website when you have a 56k modem
 - http://meta.stackoverflow.com/questions/340960/a-post-mortem-on-the-recent-developer-story-information-leak SO leaked phone number and emails by putting them in the HTML source.
 - http://www.thepublicdiscourse.com/2017/01/18093/ A law professor getting an traffic ticket he shouldn't have get goes to trial.
+- http://mattwarren.org/2017/01/13/Analysing-Pause-times-in-the-.NET-GC/ Some knowledges about .NET GC. Finishing by using unsafe off-heap for no GC.
+- https://alexn.org/blog/2017/01/13/traversable.html Traversable (.foreach) in Scala is the dual of Iterable. (.iterator => { .hasNext, .next }), and has no way to signal completion of failure (like Observer)
+- https://medium.freecodecamp.com/the-mind-blowing-ai-announcement-from-google-that-you-probably-missed-2ffd31334805 A dude too much excited about the new Google Translate (cf comments), but good stuff anyway!
+- https://reflect.io/blog/github-aws-data-pipeline/ How Reflect use AWS to make their backend.
+- https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous ScrewDriver, a tool with UI by Yahoo! to to Continous Delivery http://screwdriver.cd/
 
 # 11-01-2017
 
