@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 14-01-2017
+
+- https://gist.github.com/mandubian/dfd670f7740f47a1a2a7b662f828aac6 ""Monad is a monoid in the category of endofunctors" evidence using trivial sample of Scala Kind-Polymorphism PoC" except all the greek characters, yes, it makes sense.
+- http://seriouslyjs.org/ quite awesome. change the video style in real-time. using webgl.
+- https://github.com/alibaba/rax another serious competitor of React has emerged :)
+- https://github.com/palmerhq/backpack a kind of create-react-app for nodejs backend apps
+- http://www.vanityfair.com/news/2017/01/a-hacker-just-proved-that-apple-may-have-been-right-about-the-fbi so they cracked the iphone and somebody cracked them to know how to. Smart.
+- https://cwiki.apache.org/confluence/display/KAFKA/KIP-66%3A+Single+Message+Transforms+for+Kafka+Connect Kafka Connect has now the ability to have lightweight "serializer" (map, filter) à la flume.
+- https://1-minute-modem.branchable.com/ What happen on the website when you have a 56k modem
+- http://meta.stackoverflow.com/questions/340960/a-post-mortem-on-the-recent-developer-story-information-leak SO leaked phone number and emails by putting them in the HTML source.
+- http://www.thepublicdiscourse.com/2017/01/18093/ A law professor getting an traffic ticket he shouldn't have get goes to trial.
+
 # 11-01-2017
 
 - https://github.com/jlongster/prettier Another prettify JS, seems better? to avoid inconsistent formatting. and its blog http://jlongster.com/A-Prettier-Formatter
