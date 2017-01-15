@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c How To Succeed With Medium: personal titles, talk about motivation, add images, 7min length.
 - https://medium.com/@WebReflection/a-case-for-js-classes-without-classes-9e60b3b5992 Another "class" framework in JS, because ES6 classes transpilation does not always work.
 - http://eta-lang.org Haskell-ish on the JVM. Pure, Lazy, Strongly Typed, interop.
+- https://microsoft.github.io/windows/ Windows is in the good way to go. Its projects Github powered.
 
 # 14-01-2017
 
