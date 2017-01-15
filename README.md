@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-01-2017
+
+- https://byrslf.co/the-man-who-gave-us-all-the-things-e83ab612ce5c The emotional story of Levi Felix, co-founder of Camp Grounded, spending his life as he wanted, with friends all around, helping others.
+- http://campgrounded.org/ the concept: several days between adults, with tons of activities. To disconnect and reconnect.
+- https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c How To Succeed With Medium: personal titles, talk about motivation, add images, 7min length.
+- https://medium.com/@WebReflection/a-case-for-js-classes-without-classes-9e60b3b5992 Another "class" framework in JS, because ES6 classes transpilation does not always work.
+- http://eta-lang.org Haskell-ish on the JVM. Pure, Lazy, Strongly Typed, interop.
+
 # 14-01-2017
 
 - https://gist.github.com/mandubian/dfd670f7740f47a1a2a7b662f828aac6 ""Monad is a monoid in the category of endofunctors" evidence using trivial sample of Scala Kind-Polymorphism PoC" except all the greek characters, yes, it makes sense.
