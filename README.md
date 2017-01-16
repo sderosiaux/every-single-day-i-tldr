@@ -4,6 +4,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-01-2017
+
+- https://jeena.net/why-i-switchedfrom-osx-to-linux Switching from OSX to Linux, some tips and comparaison
+- https://youexec.com/dev/2017/1/14/google-facebook-ads-traffic-is-useless Comparing user session with Fullstory, users from Ads do nothing and leave quickly.
+- https://www.ckl.io/blog/dont-blame-the-framework-angularjs-and-reactjs/ React deals with the view, Angular with the whole. That's it.
+- https://hackernoon.com/how-i-built-a-super-fast-uber-clone-for-mobile-web-863680d2100f Nice tips about how to improve an application speed using Lightroom as kpi. (code splitting, ssr, compression, caching, preload)
+- http://ithare.com/packet-loss-for-an-app-level-developer-part-i-router-failures-bgp-convergence-time-aqm-traffic-shapers/ Why we are losing packets and how traffic failures are handled
+- https://github.com/google/guava/wiki/Release21 Guava 21 requires Java 8 now, nice!
+- http://www.sohamkamani.com/blog/2017/01/16/web-security-essentials/ Web Security for newcomers
+- https://www.reddit.com/r/scala/comments/5oc93x/scala_code_refactoring/ An interesting ask for refactoring tips and some nice pointers
+- https://github.com/wartremover/wartremover Because we want to write the best Scala code, we can apply this linter and pray to have less than hundred fixes.
+- https://victorops.com/blog/akka-heart-ammonite/ Using Ammonite shell to connect to distant Akka actors and alter them
+- https://blog.codecentric.de/en/2017/01/hello-grpc-scalapb/ gRPC in Scala
+- https://alexn.org/assets/pdfs/Akka-Monix.pdf 2 good presentations in one: Akka, and Monix
+
 # 15-01-2017
 
 - https://byrslf.co/the-man-who-gave-us-all-the-things-e83ab612ce5c The emotional story of Levi Felix, co-founder of Camp Grounded, spending his life as he wanted, with friends all around, helping others.
