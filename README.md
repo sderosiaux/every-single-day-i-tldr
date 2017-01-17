@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-01-2017
+
+- http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf Any fellow datascientists should love this! Approved.
+- https://blog.appcanary.com/2017/http-security-headers.html
+- http://pantsbuild.github.io/ Heard this name before but never used it. A build system mainly for repo with multiple projects in it. Multiple languages supported.
+- https://support.google.com/youtube/answer/7277005?hl=en "background-color: yellow". This is Youtube Super Chat.
+- https://blog.appcanary.com/2017/http-security-headers.html Another detailed recap about HTTP security headers.
+- https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144 Webpack 2 almooost the default.
+- http://rea.tech/business-friendly-functional-programming-part-1-asynchronous-operations/ Didn't get the whole thing, but it's similar to the "async" Scala library except it's using scalaz behind the scene.
+- https://github.com/legomushroom/mojs Very good animation library in Javascript
+- https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/ async lib, co, and async/await keywords
+
 # 16-01-2017
 
 - https://jeena.net/why-i-switchedfrom-osx-to-linux Switching from OSX to Linux, some tips and comparaison
