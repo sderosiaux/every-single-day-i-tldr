@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-01-2017
+
+- https://github.com/mozilla/Fira I didn't know Fira was some Mozilla. Nice font.
+- https://firebase.googleblog.com/2017/01/FabricJoinsGoogle17.html Google acquires Fabric (build mobile apps, from Twitter)
+- https://github.com/dragos/dragos-vscode-scala Scala in VSCode, using Ensime
+- https://anvaka.github.io/common-words/#?lang=scala common words used in code base, per language!
+- http://vmokshagroup.com/blog/gatling-gun-is-now-a-prospecting-tool-for-testers/ Yes Gatling is very good.
+- https://slackhq.com/threaded-messaging-comes-to-slack-417ffba054bd This going to be great! Threads in Slack, finally.
+- https://perlmaven.com/the-default-variable-of-perl TIL about the implicit "$\_" variable in PERL. I can't stand this language for some reasons.
+- https://emmanuelbernard.com/presentations/inverted-index/ A presentation about Inverted Index (b-tree, TF/IDF, Lucene)
+- http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html JavaScript vs Elm vs PureScript vs GHCjs. Comparing their functional aspects, pros and cons.
+- http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html Cofounder of RethinkDB give details about why RethinkDB failed unfortunately. The company focused on wrong metrics and try to work on too many things at once.
+
 # 17-01-2017
 
 - http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf Any fellow datascientists should love this! Approved.
