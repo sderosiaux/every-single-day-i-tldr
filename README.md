@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 22-01-2017
+
+- https://www.ctheu.com/2017/01/18/how-to-communicate-between-micro-services-part-1/ Wrote this the past few days :)
+- https://www.ctheu.com/2017/01/22/how-to-communicate-between-micro-services-part-2-retryers/ And this!
+- https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scalepop Lots of technicals things about Twitter infra: network optims, DCs traffic, storage, cache, puppet at scale, cleaning codebase, monitoring
+- https://github.com/rthor/cra-generate Generate components from the CLI, based on templates
+- https://amethyste16.wordpress.com/2013/08/05/les-modeles-anemiques/ An amenic model: when you code something about an entity outside of it (like in a service), wrong pattern.
+- https://www.expeditedssl.com/aws-in-plain-english The true name of AWS services
+- https://github.com/ericelliott/speculation Another JS promise cancellation way. Simpler?
+- http://lemire.me/blog/2017/01/20/how-quickly-can-you-remove-spaces-from-a-string/ The uglier the syntax the faster, using SIMD intructions.
+
 # 18-01-2017
 
 - https://github.com/mozilla/Fira I didn't know Fira was some Mozilla. Nice font.
