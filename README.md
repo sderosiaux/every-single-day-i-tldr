@@ -14,6 +14,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.expeditedssl.com/aws-in-plain-english The true name of AWS services
 - https://github.com/ericelliott/speculation Another JS promise cancellation way. Simpler?
 - http://lemire.me/blog/2017/01/20/how-quickly-can-you-remove-spaces-from-a-string/ The uglier the syntax the faster, using SIMD intructions.
+- https://fossbytes.com/googles-ai-codes-own-machine-learning-software/ AI coding ML
 
 # 18-01-2017
 
