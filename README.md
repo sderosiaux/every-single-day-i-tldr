@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-01-2017
+
+- https://github.com/roytenberg/brilliant-bash/blob/master/.bashrc I like the "plz" alias to sudo the last cmd
+- https://github.com/davisonio/awesome-gif everything about gifs is in there
+- http://ivanjov.com/working-with-http-streams-with-cycle-js/ been a while i didn't look at a cycle tuto, love it.
+- http://www.slideshare.net/Lightbend/lessons-learned-from-paypal-implementing-backpressure-with-akka-streams-and-kafka A high performance crawler using Akka Streams and Kafka
+- https://github.com/paypal/squbs Akka/Spray for Large-Scale Production Deployments.
+
 # 22-01-2017
 
 - https://www.ctheu.com/2017/01/18/how-to-communicate-between-micro-services-part-1/ Wrote this the past few days :)
