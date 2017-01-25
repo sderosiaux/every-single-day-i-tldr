@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 25-01-2017
+
+- https://github.com/Powerspace/kudu-from-avro Updated our tool to create Kudu table from avro or sql scripts
+- https://www.reddit.com/r/javascript/comments/5pxxi1/does_anyone_use_sencha_anymore/ Ah, Sencha! I remember. It's been a while.
+- http://blog.strml.net/2017/01/chrome-56-now-aggressively-throttles.html Chrome 56 Will Aggressively Throttle Background Tabs - it will affect many websites.
+- https://github.com/facebook/react/issues/8854 Next versions of React will cleanup the old APIs and optimize the bundle size
+- https://github.com/skidding/illustrated-algorithms Algorithm illustrations for children
+- https://github.com/fluxcapacitor/pipeline End-to-End, Continuous Spark ML + Tensorflow AI Data Pipelines. They teach a bunch of nice tools. Spark, Zeppelin, Tensorflow. Hystrix. Kafka. Flink. Cassandra, ES... and particularly into the ML.
+
 # 23-01-2017
 
 - https://github.com/roytenberg/brilliant-bash/blob/master/.bashrc I like the "plz" alias to sudo the last cmd
