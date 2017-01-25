@@ -12,6 +12,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/facebook/react/issues/8854 Next versions of React will cleanup the old APIs and optimize the bundle size
 - https://github.com/skidding/illustrated-algorithms Algorithm illustrations for children
 - https://github.com/fluxcapacitor/pipeline End-to-End, Continuous Spark ML + Tensorflow AI Data Pipelines. They teach a bunch of nice tools. Spark, Zeppelin, Tensorflow. Hystrix. Kafka. Flink. Cassandra, ES... and particularly into the ML.
+- https://github.com/Microsoft/TypeScript/issues/1213 Higher-kind type in Typescript proposal \<3
+- https://danielmiessler.com/blog/google-amp-not-good-thing/ Because the app is hosted on Google's servers (centralization)
+- https://blog.google/products/google-voice/ringing-2017-updates-our-google-voice-apps/ Never used "Google Voice" hm!
+- https://github.com/mohebifar/konsul Funny things we can do in the console with this
+- https://movio.co/blog/migrate-Scala-to-Go/ Another team migrated from Scala to Go. I think I should really take a look at Go. But not fan of the syntax :( But like the no JVM !!
+- https://www.confluent.io/blog/confluent-delivers-upgrades-clients-kafka-streams-brokers-apache-kafka-0-10-1-1/ Kafka brokers, streams, clients improvements!
+- https://e.xtendo.org/monad#89 Why Monad make people scared of Haskell. Understanding the Monad concept is not even necessary.
 
 # 23-01-2017
 
