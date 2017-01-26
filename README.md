@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 26-01-2017
+
+- https://gopherize.me/ An avatar generator (golang mascot)
+- https://github.com/dustinvtran/ml-videos A repo with nice ML videos, for the day I want to get more into it!
+- https://security.googleblog.com/2017/01/the-foundation-of-more-secure-web.html HTTPS's becoming the fundamental techno to connect to Google's services. "Google Trust Services" https://pki.goog/
+- https://github.com/wtsxDev/Amazing-Java-List A crazy good list about Java frameworks, love it
+- https://community.risingstack.com/the-worlds-fastest-javascript-memoization-library/ the fastest JS memoization. oddly relying on JSON.stringify
+- https://www.kinto-storage.org/ Mozilla did a parse and firebase equivalent, Kinto, good to know.
+- http://staltz.com/what-happens-when-you-block-internet-giants.html Blocking Google and Facebook from your /etc/hosts, using Tor, refusing cookies. Aah.
+- https://github.com/StevenBlack/hosts/ So many hosts to block!
+- http://martin.kleppmann.com/2017/01/26/data-loss-in-large-clusters.html The bigger cluster (talking >1000 nodes), the highest probably of losing 3x replicated data. Higher partitions rate help (1000 partitions per node = small partitions = distributed all over the nodes that can rebuild a replica quickly)
+- https://www.confluent.io/kafka-summit-2016-keynote-kafka-and-uber-the-worlds-realtime-transit-infrastructure/ Interesting and short talk about how Uber is using Kafka and evolving its architecture
+
 # 25-01-2017
 
 - https://github.com/Powerspace/kudu-from-avro Updated our tool to create Kudu table from avro or sql scripts
