@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 28-01-2017
+
+- https://tech.small-improvements.com/2017/01/25/how-to-migrate-an-angularjs-1-app-to-react/ Migrating an angular 1 app to ReactJS.
+- https://arxiv.org/pdf/1701.02405v1.pdf Super interesting study about Twitter "Star Wars bots". 350k!
+- https://github.com/dmnd/dedent Strip front spaces in multi-line strings, very useful
+- https://github.com/salesforce-ux/portion-control "Badge to quickly communicate project values" 
+- https://github.com/outr/scribe another logging infra based on Scala macros. Compat with scalajs.
+- http://adnanahmed.info/blog/2017/01/28/elasticsearch-search-as-you-type/ Very good explanation how to setup an autocomplete search with elasticsearch
+- http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html Microservices allows you to scale (people) up easier and faster. Multiple languages. Hard to share code sometimes. RPC conventions? logging conventions? Who has the big picture?
+- http://zipkin.io/ distributed tracing system by Twitter. Looks good! Integration with cassandra, mysql (storage), akka, dropwizard (http) and multiple languages (java, js) much more
+- https://underscore.io/blog/posts/2017/01/24/finch-functional-web-development.html Good recap and some code about Finch, functional http framework by Twitter
+
 # 26-01-2017
 
 - https://gopherize.me/ An avatar generator (golang mascot)
