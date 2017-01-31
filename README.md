@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 31-01-2017
+
+- https://www.ctheu.com/2017/01/29/how-to-communicate-between-micro-services-part-3-circuit-breakers/ Did a big job on this, with the Hystrix part!
+- https://techcrunch.com/2017/01/31/google-open-sources-chrome-for-ios/ Chrome is now full Blink on all platform.
+- https://github.com/bevacqua/sixflix Nice code by Netflix to detect if the browser supports es6 mostly
+- https://github.com/david-gpu/deep-makeover Deep learning project to transform male portraits into female and vice versa, would love to see that :D unfortunately, the model is not included..
+- http://making.duolingo.com/rewriting-duolingos-engine-in-scala Scala won over Python. Not too hard eh.
+- https://softwaremill.com/bring-some-color-to-scala-compiler/ Colors in scala output, nice. addSbtPlugin("com.softwaremill.clippy" % "plugin-sbt" % "0.5.0")
+- https://index.scala-lang.org/search?scalaVersions=2.12&q=&page=1 Scala 2.12 compat' is slowly growing
+- https://github.com/nrinaudo/kantan.csv Another parse CSV lib in Scala.
+- https://playingscala.wordpress.com/2017/01/29/scala-value-classes/ Value classes yes. Was not aware of the "universal trait" name. (only def, not initilization: but creates an alloc, contrary to extension methods;
+- https://github.com/miguno/akka-mock-scheduler Mocking the akka scheduler to test things
+
 # 28-01-2017
 
 - https://tech.small-improvements.com/2017/01/25/how-to-migrate-an-angularjs-1-app-to-react/ Migrating an angular 1 app to ReactJS.
