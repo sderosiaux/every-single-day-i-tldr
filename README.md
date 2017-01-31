@@ -16,6 +16,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/nrinaudo/kantan.csv Another parse CSV lib in Scala.
 - https://playingscala.wordpress.com/2017/01/29/scala-value-classes/ Value classes yes. Was not aware of the "universal trait" name. (only def, not initilization: but creates an alloc, contrary to extension methods;
 - https://github.com/miguno/akka-mock-scheduler Mocking the akka scheduler to test things
+- https://alexn.org/blog/2017/01/16/iterator.html Iterator in Scala (from Java) causes side-effects, code duplication, and fat interface.
 
 # 28-01-2017
 
