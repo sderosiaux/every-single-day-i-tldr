@@ -18,6 +18,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.risingstack.com/cqrs-explained-node-js-at-scale/ Small article about what is CQRS.
 - https://dump.01alchemist.com/2016/12/31/future-webhpc-parallel-programming-with-javascript-the-new-era-about-to-begin/ SharedArrayBuffer to be used with webworkers and avoid data copy. That's a big step. And TurboScript "Super charged JavaScript for parallel programming and WebAssembly" https://github.com/01alchemist/TurboScript
 - http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-34-decimal.html 128bits decimals to avoid IEEE754 crap.
+- https://github.com/GoogleChrome/preload-webpack-plugin Automatically add preload or prefetch link with webpack and its html plugin.
 
 # 31-01-2017
 
