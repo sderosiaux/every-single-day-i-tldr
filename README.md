@@ -4,6 +4,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-02-2017
+
+- http://www.lesnumeriques.com/vie-du-net/google-marque-mieux-valorisee-monde-n60063.html Apple's "brand value" decreasing a lot. Google just in front.
+- https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub "... decides to remove the directory. After a second or two he notices he ran it on db1.cluster.gitlab.com, instead of db2.cluster.gitlab.com". "it’s too late. Of around 310 GB only about 4.5 GB is left ".
+- http://howfuckedismydatabase.com/ Are you using PostgreSQL, MySQL, MSSQL, Oracle, SQLite, MS Access, or NoSQL? FUCKED.
+- https://github.com/ro31337/libretaxi LibreTaxi, a free and open source Uber/Lyft Oo 
+- http://blog.samaltman.com/time-to-take-a-stand A call to tech community to take a public stance against Trump
+- https://github.com/bahmutov/game-of-github The game of life in the github's contributions table. What an idea!
+- https://facebook.github.io/watchman/ Oh, Facebook built a file watching service.
+- https://ponyfoo.com/articles/setting-up-angular-2-development-environment A nice tuto about the ng cli and misc things to create an angular app.
+- https://www.infoq.com/news/2017/01/java9-rampdown-phase-start Java 9 incoming! In July. No HTTP/2 standard client for now.
+- https://blog.risingstack.com/cqrs-explained-node-js-at-scale/ Small article about what is CQRS.
+- https://dump.01alchemist.com/2016/12/31/future-webhpc-parallel-programming-with-javascript-the-new-era-about-to-begin/ SharedArrayBuffer to be used with webworkers and avoid data copy. That's a big step. And TurboScript "Super charged JavaScript for parallel programming and WebAssembly" https://github.com/01alchemist/TurboScript
+- http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-34-decimal.html 128bits decimals to avoid IEEE754 crap.
+
 # 31-01-2017
 
 - https://www.ctheu.com/2017/01/29/how-to-communicate-between-micro-services-part-3-circuit-breakers/ Did a big job on this, with the Hystrix part!
