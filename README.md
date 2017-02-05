@@ -4,6 +4,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-02-2017
+
+- http://www.theregister.co.uk/2017/01/16/google_reveals_its_servers_all_contain_custom_security_silicon/ Small bits of info about how Google handle servers security
+- https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html Google trying to predict parking difficulties
+- http://www.popularmechanics.com/science/health/a3093/the-science-of-bruce-lees-one-inch-punch-16814527/ The one-inch punch of Bruce Lee explained. Wow.
+- https://zeit.co/blog/github Deploying a github repo with now directly
+- http://www.linusakesson.net/programming/tty/ What is and How TTY works on Unix.
+- http://nothings.org/games/minesweeper/ Minesweeper strategies and probabilities :)
+- http://blog.ploeh.dk/2017/02/02/dependency-rejection/ DI sucks, cause side-effects, causes impure-ness, is not functional. Defer IO the maximum. Use IO monad.
+- https://kelvinpompey.me/tempted-to-abandon-react-native-for-native-android/ Abandoning React Native for native because of poor debug and optimization tools.
+- https://ian.pw/posts/2017-02-04-lock-striping-in-scala.html A lock strategy in Scala based on a bucketed list of locks.
+- http://www.slate.com/articles/technology/webhead/2004/11/nullsoft_19972004.html The story of nullsoft (winamp) creator at AOL.
+- https://anders.com/blockchain/ Video about how blockchain works. Very informative.
+- https://medium.com/airbnb-engineering/streamalert-real-time-data-analysis-and-alerting-e8619e3e5043 New tool by airbnb: StreamAlert. RT alerts at scale.
+
 # 02-02-2017
 
 - http://www.lesnumeriques.com/casque-realite-virtuelle/oculus-condamne-a-verser-500-millions-dollars-a-editeur-zenimax-n60093.html $500M from Oculus to Zenimax :(
