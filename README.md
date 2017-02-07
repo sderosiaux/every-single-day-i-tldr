@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 08-02-2017
+
+- https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/ RethinkDB has reborn
+- https://techcrunch.com/2017/02/06/google-fixes-a-big-problem-with-amp-now-lets-you-view-and-share-publishers-own-links/ Google AMP and the sharing link issue
+- https://myopsblog.wordpress.com/2017/02/06/why-databases-is-not-for-containers/ Databases and Docker containers.
+- http://flink.apache.org/news/2017/02/06/release-1.2.0.html Tons of improvements and fixes in Flink 1.2.0
+- http://techblog.netflix.com/2017/02/introducing-hubcommander.html A new Slack bot to manage github repos by Netflix &lt;3 https://github.com/Netflix/hubcommander
+- https://reflets.info/le-gendarme-et-les-darquenettes/ Le Dark Web dans Internet :)
+- https://medium.com/@pschanely/computed-state-the-model-view-problem-9cbe8cf8486f A general thinking about model<->view sync
+- https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/ For once, this one was more interesting than stupid JS tricks.
+- https://jepsen.io/analyses/mongodb-3-4-0-rc3 Jepsen test and MongoDB 3.4.0rc3
+- http://carlmartensen.com/immutability-made-easy-in-java-9 Finally, a non-verbose syntax to create immutable set/list. Unfortunately, they still have .put .add etc. that throws an exception. Stupid (from the interface).
+
 # 05-02-2017
 
 - http://www.theregister.co.uk/2017/01/16/google_reveals_its_servers_all_contain_custom_security_silicon/ Small bits of info about how Google handle servers security
