@@ -4,6 +4,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-02-2017
+
+- https://danluu.com/web-bloat/ Most of the web really sucks if you have a slow connection
+- https://kilianvalkhof.com/2011/javascript/annoying-js-how-to-be-an-asshole/ A nice JS lib with tons of annoying JS functions to provoke a bad UX.
+- http://david.li/paint/ Ok that's totally awesome. We can paint on a canvas really "realistically", impressive.
+- https://blogs.msdn.microsoft.com/oldnewthing/20170208-00/?p=95395 I never noticed that "all Windows drivers dated June 21, 2006". There is a reason: priority with manufacturer-provided driver.
+- https://code.visualstudio.com/blogs/2017/02/08/syntax-highlighting-optimizations Visual Studio Code explaining the syntax hightlightning and its latest optimizations, good stuff.
+- https://www.reddit.com/r/programming/comments/5st3dy/all_of_twitters_mobile_web_traffic_thats_like_a/ Twitter's dropping some Scala in favor of nodejs (supposely). Debate!
+- https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/ Clearly, most of us don't work with OSS..
+- https://www.lightbend.com/company/news/lightbend-closes-second-acquisition-in-9-months-buys-opsclarity-for-most-advanced-monitoring-in-modern-distributed-application-stack Lightbend acquires OpsClarity for a better and complete stack monitoring
+- https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/ Superb and useful article on how to use Google Analytics for developers.
+- http://finagle.github.io/blog/2017/02/06/finagle-loves-netty4/ Finagle and Netty4
+- https://github.com/typelevel/scala/blob/typelevel-readme/notes/2.12.1.md Scala 2.12.1 update. Nice addons about implicits, kind-polymorphism, match exhaustivity, trailing commas!
+
 # 08-02-2017
 
 - https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/ RethinkDB has reborn
