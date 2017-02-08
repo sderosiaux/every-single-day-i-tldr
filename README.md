@@ -4,7 +4,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
-# 09-02-2017
+# 08-02-2017
 
 - https://danluu.com/web-bloat/ Most of the web really sucks if you have a slow connection
 - https://kilianvalkhof.com/2011/javascript/annoying-js-how-to-be-an-asshole/ A nice JS lib with tons of annoying JS functions to provoke a bad UX.
@@ -18,7 +18,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://finagle.github.io/blog/2017/02/06/finagle-loves-netty4/ Finagle and Netty4
 - https://github.com/typelevel/scala/blob/typelevel-readme/notes/2.12.1.md Scala 2.12.1 update. Nice addons about implicits, kind-polymorphism, match exhaustivity, trailing commas!
 
-# 08-02-2017
+# 07-02-2017
 
 - https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/ RethinkDB has reborn
 - https://techcrunch.com/2017/02/06/google-fixes-a-big-problem-with-amp-now-lets-you-view-and-share-publishers-own-links/ Google AMP and the sharing link issue
