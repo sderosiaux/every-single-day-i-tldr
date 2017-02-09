@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-02-2017
+
+- https://twitter.com/gitlabstatus/status/829680989538492416 GitLab suffering of another issue: Redis split brain this week!
+- https://nmatpt.com/blog/2017/02/09/scala-2.12-future-transform/ Future.transform is smarter in Scala 2.12
+- https://blog.thingsboard.io/2017/02/load-testing-of-mqtt-servers-using-java.html Gatling &lt;3
+- http://www.snappydata.io/blog/joining-billion-rows-faster-than-apache-spark This SnappyData thing seems interesting. Will definitely test it on a real job. https://github.com/SnappyDataInc/snappydata/blob/master/docs/quickstart.md
+- https://www.ckl.io/blog/reactivex-and-async-programming/ Another Rx happy user
+- https://read.acloud.guru/5-things-i-learned-in-2-years-as-a-backend-developer-d55fe913fc81
+
 # 08-02-2017
 
 - https://danluu.com/web-bloat/ Most of the web really sucks if you have a slow connection
