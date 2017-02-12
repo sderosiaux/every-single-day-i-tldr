@@ -13,6 +13,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.hydrogen18.com/blog/finding-content-in-html.html Some heuristic to retrieve the useful content of any webpage
 - http://bigocheatsheet.com/ Stumbled upon this again, need to print it!
 - https://webkit.org/blog/7122/introducing-riptide-webkits-retreating-wavefront-concurrent-garbage-collector/ Description of the new GC "Riptide" in Webkit. Quite long article.
+- https://aboullaite.me/docker-hacks/ A nice bunch of Docker CLI tips
+- https://github.com/JonasCz/How-To-Prevent-Scraping A very interesting list of things to do to prevent website scraping
+
 
 # 09-02-2017
 
