@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 12-02-2017
+
+- http://udidahan.com/2009/12/09/clarified-cqrs/ Long post about CQRS and how it works, how to handle it, with tons of interesting comments.
+- https://www.nytimes.com/interactive/2017/02/11/obituaries/smullyan-logic-puzzles.html Logic Puzzles time! By a great mathematician how past away a few days ago, Raymod M. Smullyan.
+- https://olivierpieters.be/blog/2017/02/11/designing-a-business-card-in-latex Need a business Card? Here is a nice LaTeX one.
+- https://twitter.com/djspiewak/status/830561958252466176 Don't use Scala's mutable.Map.
+- http://www.hydrogen18.com/blog/finding-content-in-html.html Some heuristic to retrieve the useful content of any webpage
+- http://bigocheatsheet.com/ Stumbled upon this again, need to print it!
+- https://webkit.org/blog/7122/introducing-riptide-webkits-retreating-wavefront-concurrent-garbage-collector/ Description of the new GC "Riptide" in Webkit. Quite long article.
+
 # 09-02-2017
 
 - https://twitter.com/gitlabstatus/status/829680989538492416 GitLab suffering of another issue: Redis split brain this week!
