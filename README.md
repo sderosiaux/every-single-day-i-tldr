@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 13-02-2017
+
+- https://dzone.com/articles/is-software-development-really-a-dead-end-job-afte "Is Software Development Really a Dead-End Job After 35-40?" Stupid coding tests, again.
+- http://www.economist.com/news/science-and-technology/21716891-nasty-chemicals-abound-what-was-thought-untouched-environment-worlds When you think a zone on earth is pristine, it's totally the contrary that happens..
+- https://github.com/yavorsky/auto-github-topics A nice extension to set github tags from package.json tags directly
+- https://gist.github.com/scottfrazer/094a0f1d048cc3b8deeac4cf29266f62 "Go vs. Scala (Akka) Concurrency" but actually the writer mixes Akka and Scala (like jquery and js), and seems to not know well Scala so it leads to wrong statements. But at least, I learned about Go stuff.
+- https://github.com/lampepfl/dotty/issues/1970 "enum" keyword propal in Dotty. More powerful than the Java "enum", can be used to define G/ADTs.
+- http://metrics20.org/ A standard for timeseries metrics?
+
 # 12-02-2017
 
 - http://udidahan.com/2009/12/09/clarified-cqrs/ Long post about CQRS and how it works, how to handle it, with tons of interesting comments.
