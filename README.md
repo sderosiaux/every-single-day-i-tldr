@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 14-02-2017
+
+- https://www.ctheu.com/2017/02/14/all-the-things-we-can-do-with-jmx/ It is out! All the things we can do with JMX.
+- https://github.com/tuhdo/os01 Another interesting repo to write an OS from scratch! With a book and all.
+- https://www.worldpressphoto.org/collection/photo/2017 Many, many beautiful photos from the world events..
+- https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html Cloud Spanner is out. ACID, CP, SQL, scaling.
+- http://htmlreference.io/ A better HTML reference than w3schools :D
+- http://aakinshin.net/en/blog/dotnet/mono-and-65535interfaces/ Go find this bug, tests failed because more than 65536 interfaces were created (mono)
+
 # 13-02-2017
 
 - https://dzone.com/articles/is-software-development-really-a-dead-end-job-afte "Is Software Development Really a Dead-End Job After 35-40?" Stupid coding tests, again.
