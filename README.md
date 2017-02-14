@@ -12,6 +12,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://cloudplatform.googleblog.com/2017/02/introducing-Cloud-Spanner-a-global-database-service-for-mission-critical-applications.html Cloud Spanner is out. ACID, CP, SQL, scaling.
 - http://htmlreference.io/ A better HTML reference than w3schools :D
 - http://aakinshin.net/en/blog/dotnet/mono-and-65535interfaces/ Go find this bug, tests failed because more than 65536 interfaces were created (mono)
+- http://degoes.net/articles/destroy-all-ifs Pass lambdas instead of writing ifs+booleans
+- https://semaphoreci.com/community/tutorials/testing-topologies-in-kafka-streams Testing Kafka Streams with "Mocked Streams" https://github.com/jpzk/mockedstreams
 
 # 13-02-2017
 
