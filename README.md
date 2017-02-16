@@ -14,6 +14,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/pshihn/rough I like this lib, wondering why it doesn't have more star (maybe an demo drawing app would have been nice). Create hand-drawn shapes in javascript, on a canvas.
 - https://www.reddit.com/r/programming/comments/5ue632/the_myth_of_using_scala_as_a_better_java/ omg, the comments about this scala snippet https://github.com/m50d/tierney/blob/master/free/src/main/scala/tierney/free/package.scala about recursion scheme and free monads. It's a bit.. complicated.
 - https://jaxenter.com/ibm-bans-remote-work-131612.html "Remote work treated as the root of all evil at Yahoo and Reddit"
+- http://www.theregister.co.uk/2017/02/15/think_different_shut_up_and_work_harder_says_linus_torvalds/ Shut up and work.
 
 # 14-02-2017
 
