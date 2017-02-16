@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-02-2017
+
+- https://lorenzoongithub.github.io/nudge4j/ A snippet to expose a HTTP endpoint to evaluate javascript in your java program
+- https://github.com/MinhasKamal/CreepyCodeCollection Weird snippets that does awesome things, in C, Java, Ruby.
+- https://github.com/twitter/ospriet A bot made by Twitter to make a given account centralizes questions posted by ppl (for a talk or a conf)
+- https://github.com/Ahnfelt/react4s Scala.js + React.js
+- https://github.com/Song-Li/cross_browser cross-browser fingerprint
+
+
 # 14-02-2017
 
 - https://www.ctheu.com/2017/02/14/all-the-things-we-can-do-with-jmx/ It is out! All the things we can do with JMX.
