@@ -4,6 +4,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-02-2017
+
+- https://v8project.blogspot.fr/2017/02/high-performance-es2015-and-beyond.html Nice post about V8 project working hard to improve its ES6 perf compared to ES5.
+- https://gist.github.com/aleksey-bykov/1273f4982c317c92d532 Another nice git cheat sheet
+- https://medium.com/airbnb-engineering/superset-scaling-data-access-and-visual-insights-at-airbnb-3ce3e9b88a7f Nice update to Superset, the SQL Lab.
+
 # 16-02-2017
 
 - https://lorenzoongithub.github.io/nudge4j/ A snippet to expose a HTTP endpoint to evaluate javascript in your java program
