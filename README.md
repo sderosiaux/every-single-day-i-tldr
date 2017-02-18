@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://medium.com/airbnb-engineering/superset-scaling-data-access-and-visual-insights-at-airbnb-3ce3e9b88a7f Nice update to Superset, the SQL Lab.
 - http://engineering.skybettingandgaming.com/2017/01/23/streaming-architectures/ Streaming? Decided to use kafka streams, kafka connect, and akka streams for non-kafka channels.
 - https://github.com/streamsets/datacollector Streamsets, A UI to design big data "streaming" interface and run them (lots of connectors).
+- https://github.com/SirCmpwn/evilpass A so good idea. A password strength tester that checks your email/pwd combinaison on popular websites to prevent password reuse!
 
 # 16-02-2017
 
