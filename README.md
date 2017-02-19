@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-02-2017
+
+- https://yokota.blog/2017/02/17/dont-settle-for-eventual-consistency/ Basically AP databases are as available as CP databases in general, but are more complex to handle; so go with CP.
+- http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html So many unknown tools in /usr/bin thanks!
+- https://www.wired.com/2017/02/spanner-google-database-harnessed-time-now-open-everyone/ Spanner, spanner, spanner! Need to POC it.
+- https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313 A Beginner's Guide to Coding Graphics Shaders. A shader can only returns (r,g,b,a).
+- https://code.facebook.com/posts/1692857177682119/machine-learning-scale-2017-recap/ Videos of Machine Learning @Scala Facebook conf.
+- https://github.com/oci-pronghorn/GreenLightning An über fast http server in Java?  
+
 # 18-02-2017
 
 - https://v8project.blogspot.fr/2017/02/high-performance-es2015-and-beyond.html Nice post about V8 project working hard to improve its ES6 perf compared to ES5.
