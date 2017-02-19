@@ -12,6 +12,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313 A Beginner's Guide to Coding Graphics Shaders. A shader can only returns (r,g,b,a).
 - https://code.facebook.com/posts/1692857177682119/machine-learning-scale-2017-recap/ Videos of Machine Learning @Scala Facebook conf.
 - https://github.com/oci-pronghorn/GreenLightning An über fast http server in Java?  
+- https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber Uber's image is a bit tarnished after reading that. Women in tech they said.
 
 # 18-02-2017
 
