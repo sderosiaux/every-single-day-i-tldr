@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 21-02-2017
+
+- http://codegolf.stackexchange.com/questions/110485/leak-memory-in-as-few-bytes-as-possible Title says all!
+- https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d Monolith to microservices. Kubernetes, AWS, Scaling, Orchestrability, gRPC, 
+- https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398 "45% of all US jobs could be automated away within the next 20 years"
+- https://contributors.scala-lang.org/t/introducing-scastie-an-interactive-playground-for-scala/494 "Scastie - An interactive playground for Scala" by the Scala Center team!
+- https://posativ.org/isso/ An alternative to disqus, using markdown yumyum
+- https://zneak.github.io/fcd/2017/02/19/divisions.html Explaning a assembly CLANG code of a simple "a/19". That does not use "div" but only right shift and mul, ah!
+- http://callingbullshit.org/syllabus.html#Spotting Bullshit.
+
 # 19-02-2017
 
 - https://yokota.blog/2017/02/17/dont-settle-for-eventual-consistency/ Basically AP databases are as available as CP databases in general, but are more complex to handle; so go with CP.
