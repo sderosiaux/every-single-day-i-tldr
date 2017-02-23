@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-02-2017
+
+- https://getintodevops.com/blog/how-the-hell-do-i-exit-a-beginners-guide-to-vim vim classic shortcuts
+- http://www.zdnet.com/article/google-and-mozillas-message-to-av-and-security-firms-stop-trashing-https/ That's nuts. Remove your antivirus, it does more harm than good because they intercept https and resend crappy certs
+- https://medium.com/underdog-io-engineering/create-a-build-system-for-your-react-app-in-5-minutes-or-less-91c501a30b1d ReactJS, Webpack and Babel in 5minutes
+- http://www.nature.com/news/these-seven-alien-worlds-could-help-explain-how-planets-form-1.21512 7 not-far-away-Earth-sized planets 
+- https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html SHA1 collision on demand \o/
+
 # 21-02-2017
 
 - http://codegolf.stackexchange.com/questions/110485/leak-memory-in-as-few-bytes-as-possible Title says all!
