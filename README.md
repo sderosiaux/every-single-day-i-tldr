@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 26-02-2017
+
+- https://plus.google.com/+LinusTorvalds/posts/7tp2gYWQugL Linux about git and SHA1.
+- https://github.com/git/git/blob/master/Documentation/RelNotes/2.12.0.txt Git 2.12 release notes
+- http://www.2ality.com/2017/02/babel-preset-env.html babel-preset-env: configure the necessary polyfill needed for a targeted browser
+- http://blog.felipe.rs/2017/02/25/id-software-programming-principles/ Never break the build, kiss, don't dev a full feature framework at first, ship the game code.
+- http://brianknapp.me/software-engineer-best-skill/ "As a software engineer, what's the best skill set to have for the next 5-10 years?" I know, I know! Continuous learning.
+- https://github.com/scalameta/scalameta/blob/master/changelog/1.6.0.md Scala.meta 1.6.0 release! New typelevel family of dialects
+- https://bugs.chromium.org/p/project-zero/issues/detail?id=1139 "Cloudflare Reverse Proxies are Dumping Uninitialized Memory"
+- https://jmnarloch.wordpress.com/2016/07/06/spring-boot-hystrix-and-threadlocals/ Hystrix and ThreadLocals (an HystrixCommand is run inside its own thread pool, so..)
+- http://thehackernews.com/2017/02/cross-browser-tracking.html Nothing new, fingerprinting using only OS and graphite card (cross browser therefore) https://github.com/Song-Li/cross_browser
+
 # 23-02-2017
 
 - https://getintodevops.com/blog/how-the-hell-do-i-exit-a-beginners-guide-to-vim vim classic shortcuts
