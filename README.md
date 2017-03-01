@@ -4,6 +4,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-03-2017
+
+- https://hacks.mozilla.org/2017/02/using-neutrino-for-modern-javascript-development/ This Neutrino tool seems useful to start quickly and focus on the app, instead of the config.
+- https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34 Yes, service workers we know, GA offline, sw-cache, and Autotrack for more analytics client-side.
+- https://hacks.mozilla.org/category/a-cartoon-intro-to-webassembly/ Nice cartoons into about WebAssembly
+- https://youtrack.jetbrains.com/issue/SCL-11406 Scala in Intellij in one-click, need votes!
+- http://www.scala-lang.org/blog/2017/02/28/collections-rework.html So much work on Scala 2.13 new collections API
+- https://github.com/scalacenter/scastie Got my access to scastie! A scala playground
+- https://cwiki.apache.org/confluence/display/KAFKA/KIP-129%3A+Streams+Exactly-Once+Semantics Some explanations about the new mode "exactly_once" in Kafka Streams.
+- https://code.visualstudio.com/updates/v1_10 Update of Visual Studio Code; Nothing huge but a lot of visual improvements and options.
+- https://blog.ycombinator.com/dilution/ Some tips about seed round and Series A/B, when dealing with investors
+- https://github.com/cs01/gdbgui/ A sublime UI for gdb, impressive
+- https://blog.cloudflare.com/quantifying-the-impact-of-cloudbleed Cloudflare very transparent about Cloudbleed.  
+- https://making.pusher.com/redis-pubsub-under-the-hood/ Some nice explanations about the pubsub system in Redis, with reference to the original commit in redis, interesting!
+- http://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/ "How many floating-point numbers are in the interval [0,1]?" or taking a close look at IEEE754 :)
+
 # 26-02-2017
 
 - https://plus.google.com/+LinusTorvalds/posts/7tp2gYWQugL Linux about git and SHA1.
