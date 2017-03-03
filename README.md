@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 03-03-2017
+
+- https://www.confluent.io/blog/confluent-3-2-apache-kafka-0-10-2-now-available/ Aggregate events into sessions based on periods of inactivity, a killer feature. Its KIP https://cwiki.apache.org/confluence/display/KAFKA/KIP-94+Session+Windows
+- https://advancedweb.hu/2017/03/01/jvm_optimistic_optimizations/ JVM and JIT! Resume: small methods for better inlining. No megamorphism.
+- https://medium.com/the-node-js-collection/a-brief-history-of-node-streams-pt-1-3401db451f21 .pipe nodejs streams
+- https://shipilev.net/jvm-anatomy-park/1/ Interesting debugging/testing of the "lock coarsening and loops", to see how the JVM deals with it. 
+- https://aws.amazon.com/message/41926/ Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region. It all started with an human.
+- https://www.stev.org/post/shootingyourselfintheheadwiththreads Threads are bad, use Actors! _unrelated_
+- http://blog.codepipes.com/hosted-ci-comparison/hosted-ci-comparison.html That's an awesome complete CI products comparaison page. Thanks.
+
 # 01-03-2017
 
 - https://hacks.mozilla.org/2017/02/using-neutrino-for-modern-javascript-development/ This Neutrino tool seems useful to start quickly and focus on the app, instead of the config.
