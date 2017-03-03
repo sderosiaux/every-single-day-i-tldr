@@ -13,6 +13,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://aws.amazon.com/message/41926/ Summary of the Amazon S3 Service Disruption in the Northern Virginia (US-EAST-1) Region. It all started with an human.
 - https://www.stev.org/post/shootingyourselfintheheadwiththreads Threads are bad, use Actors! _unrelated_
 - http://blog.codepipes.com/hosted-ci-comparison/hosted-ci-comparison.html That's an awesome complete CI products comparaison page. Thanks.
+- https://www.manning.com/books/java-testing-with-spock Hm, I should take a look at Spock, it seems way better than JUnit for Java projects. 
+- http://kompose.io/ Convert/run Docker Compose ymls to Kubernetes
+- https://cambridgespark.com/content/tutorials/interactively-analyse-100GB-of-JSON-data-with-Spark/index.html Analyse 100GB of JSON data with Spark with Amazon EMR and Zeppelin
 
 # 01-03-2017
 
