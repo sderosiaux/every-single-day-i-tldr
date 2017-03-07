@@ -17,6 +17,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://reedbeta.com/blog/programmers-intro-to-unicode/ Unicode is so unique. Nice dataviz of the unicode planes.
 - http://www.michaelpollmeier.com/ A nice blog about Scala and Akka mostly &lt;3
 - http://stackoverflow.com/questions/3912303/boolean-hashcode TIL the hashCode of Boolean: 1231 and 1237.
+- https://github.com/couchbaselabs/dcp-documentation Couchbase maintains some nice documentation about DCP
+- https://github.com/hseeberger/akka-sse Ahh, I love Akka and SSE to make quick stuff.
 
 # 03-03-2017
 
