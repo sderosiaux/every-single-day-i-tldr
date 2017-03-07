@@ -4,6 +4,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 07-03-2017
+
+- https://blog.risingstack.com/writing-a-javascript-framework-the-benefits-of-custom-elements/ Should we care about custom elements? (web components)
+- https://github.com/reddit/reddit The code that powers reddit.
+- https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9 Some interesting explanations around reddit's ranking algorithm
+- https://portworx.com/lcfs-speed-up-docker-commit/ A nice performant storage driver system for Docker, built specifically for containers
+- https://medium.com/@lhartikk/a-blockchain-in-200-lines-of-code-963cc1cc0e54 A blockchain in 200 lines of code in JS
+- https://harishnarayanan.org/writing/artistic-style-transfer/ It's always impressive to see that: style transfer with a photo and a painting. Deep learning, convolutional neural networks, 
+- https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A I stumbled upon this dude w-who creates a lot of content about TensorFlow, will definitely watch them someday!
+- https://github.com/tensorflow/tensorflow I think I need to get into all this excitation.
+- http://reedbeta.com/blog/programmers-intro-to-unicode/ Unicode is so unique. Nice dataviz of the unicode planes.
+- http://www.michaelpollmeier.com/ A nice blog about Scala and Akka mostly &lt;3
+- http://stackoverflow.com/questions/3912303/boolean-hashcode TIL the hashCode of Boolean: 1231 and 1237.
+
 # 03-03-2017
 
 - https://www.confluent.io/blog/confluent-3-2-apache-kafka-0-10-2-now-available/ Aggregate events into sessions based on periods of inactivity, a killer feature. Its KIP https://cwiki.apache.org/confluence/display/KAFKA/KIP-94+Session+Windows
