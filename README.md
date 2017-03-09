@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-03-2017
+
+- https://www.reddit.com/r/scala/comments/5y6sjo/microservices/ If you're starting with microservices in Scala
+- https://github.com/rtimush/sbt-updates Display SBT project's dependency updates.
+- https://github.com/japgolly/scalajs-react ReactJS with Scala.js. I should definitely try that, instead of outputing some raw html in my server ahah.
+- https://wikileaks.org/ciav7p1/cms/page_1179773.html "CIA Hacking Tools Revealed" "Git Tips & Tricks"
+- https://www.linux.com/blog/stageless-deployment-pipelines-how-containers-change-way-we-build-and-test-software This story about staging servers is so true. codefresh.io
+- https://pagghiu.github.io/dev/A-Node-Like-Api-for-C++-en/ A company writing a nodejs API in C++ for platform support reasons, controled perfs, low level.
+- https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff An interesting bug found on Google Maps in JS, based on their Protobuf serialization that let us make some XSS.
+- https://github.com/donnemartin/system-design-primer 4k stars! Lots of details about designing large scale systems.
+- https://www.confluent.io/blog/log-compaction-highlights-apache-kafka-stream-processing-community-march-2017/ Confluent is a great company moving on quickly on their platform, nice
+- https://data-artisans.com/drivetribe-cqrs-apache-flink/ Interesting reading about Kafka+Flink and CQRS, and blue/green architecture
+
 # 07-03-2017
 
 - https://blog.risingstack.com/writing-a-javascript-framework-the-benefits-of-custom-elements/ Should we care about custom elements? (web components)
