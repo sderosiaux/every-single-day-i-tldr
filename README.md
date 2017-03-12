@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 12-03-2017
+
+- https://blog.codinghorror.com/password-rules-are-bullshit/ Rules about passwords. Good to bookmark for reuse
+- http://www.eurogamer.net/articles/2017-03-10-inside-the-most-evil-rollercoaster-tycoon-park-ever-created  A crazy dude how made a astoning maze in RCT to see how guests are doing https://imgur.com/gallery/rgJmW 
+- https://github.com/tuan3w/visual_search That's definitely interesting/ Elasticsearch + tensorflow to have a Google Image's like, where you search from a picture and a confidence ratio.
+- https://www.youtube.com/watch?v=uOxEvqNLWuA Some tips about IntelliJ IDEA features
+- https://neilonsoftware.com/2017/03/10/my-response-to-how-to-never-complete-anything/ "standing instructions to my wife is that if the office door is closed, only open it if the house is on fire and you have reason to believe I would not survive it. This is what I know I need to get things done."
+
 # 09-03-2017
 
 - https://www.reddit.com/r/scala/comments/5y6sjo/microservices/ If you're starting with microservices in Scala
