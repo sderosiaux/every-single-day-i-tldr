@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 13-03-2017
+
+- https://ponyfoo.com/articles/observables-coming-to-ecmascript: rxjs is already enough, a lib can move faster than a browser impl; but js will reinvent a broken wheel again
+- http://pandoc.org/ This tool can convert any markup file to another markup format. markdown, reST, HTML, LaTeX, ...
+- https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn A lot of interesting notebooks dealing with classic problems to solve. Very interesting for datascientists!
+- http://www.javaworld.com/article/3172570/java-language/oracle-preps-developers-for-java-9-upgrade.html Java9 is coming!!!
+- http://docs.oracle.com/javase/9/migrate/toc.htm So much cleanup and things removed in Java9, impressive.
+- https://medium.com/@thejameskyle/react-loadable-2674c59de178 react-loadable, a very nice library to load asynchronously components https://github.com/thejameskyle/react-loadable
+
 # 12-03-2017
 
 - https://blog.codinghorror.com/password-rules-are-bullshit/ Rules about passwords. Good to bookmark for reuse
