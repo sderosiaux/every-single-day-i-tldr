@@ -4,6 +4,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 14-03-2017
+
+- https://github.com/ParallelSSH/parallel-ssh Asynchronous parallel SSH client library in Python
+- https://github.com/akumuli/Akumuli Another time-series database, no preconfigured rollup.
+- https://traefik.io/ HTTP reverse proxy and locad balancer to use with microservices, hm!
+- https://github.com/nodejs/node/issues/11835 node --install !?!?
+- http://blog.samaltman.com/keep-the-internet-open net neutrality in danger?
+- https://githubengineering.com/a-formal-spec-for-github-markdown/ the Spec of the GitHub flavored Markdown
+- https://www.graph.cool/ PaaS to create a GraphQL backend quickly with a proper interface to create and edit the schemas
+- https://lists.gnu.org/archive/html/emacs-devel/2017-03/msg00222.html one person is responsible for 10% of the 18500 Emacs bug reports
+- https://github.com/bcicen/ctop A "top" cli for containers. Very cool stuff, better than docker ps eh.
+- https://www.scala-lang.org/blog/2017/03/14/scala-native-0.1-is-here.html Exciting time for Scala :-)
+- https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid tldr: jwt is not secured, do not use it.
+
 # 13-03-2017
 
 - https://ponyfoo.com/articles/observables-coming-to-ecmascript: rxjs is already enough, a lib can move faster than a browser impl; but js will reinvent a broken wheel again
