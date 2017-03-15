@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-03-2017
+
+- https://backchannel.com/google-fiber-was-doomed-from-the-start-a5cdfacdd7f2 No more Google Fiber, because bad ROI. Go Wireless.
+- https://1vwjbxf1wko0yhnr.wordpress.com/2015/08/10/overclocking-tools-for-nvidia-gpus-suck-i-made-my-own/ Reverse engineering overclocking tools to make his own, nice.
+- https://medium.com/@robaboukhalil/a-tale-of-two-clouds-amazon-vs-google-4f2520516a38 AWS vs GCP. GCP wins.
+- http://ithare.com/tcp-peculiarities-as-applied-to-games-part-ii/ Nice explanations over TCP options
+- https://github.com/bugvm/bugvm Compiles JVM bytecode to native machine code, really
+- http://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html Some tips about ExecutorService in Java
+- http://www.rspective.com/blog/hunting-network-errors Funny story. Looking deeply into the network just to find the "bug" is due to a random generator in the code.
+- https://www.youtube.com/watch?v=O_2J6dPSHSo Akka Streams live demo, parsing files and inserting them in Cass'
+
 # 14-03-2017
 
 - https://github.com/ParallelSSH/parallel-ssh Asynchronous parallel SSH client library in Python
