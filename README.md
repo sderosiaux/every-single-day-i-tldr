@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-03-2017
+
+- http://mfglabs.github.io/akka-stream-extensions/ Some extensions to Akka Streams dealing with PostgreSQL, elasticsearch, AWS, Shapeless.
+- https://research.googleblog.com/2017/03/announcing-guetzli-new-open-source-jpeg.html Guetzli, the new open source jpeg encoder from Google. https://github.com/google/guetzli
+- https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html Studying Google results to know from which language we are moving to which one, in general. Interesting :)
+- https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html
+- https://www.linkedin.com/pulse/2-years-scala-microservices-galera-ansible-jason-paige 2 years doing Scala, making a small review about it: it rocks but it can get messy.
+- https://lkml.wtf/ A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm. Some are really great, thanks Linus.
+- https://blog.discordapp.com/how-discord-indexes-billions-of-messages-e3d5e9be866f Nice details given by the discord team about their infra (elastic, redis, cassandra) and how they handled the search part.
+- https://bold.co/public/why-y-combinator-made-all-the-zvgxjl A very interesting story of a company growing up with Y-Combinator
+- https://arstechnica.com/security/2017/03/hack-that-escapes-vm-by-exploiting-edge-browser-fetches-105000-at-pwn2own/ Exploit: From a website, to Edge, to Windows in a VM, to the host system. Wow!
+- https://www.youtube.com/watch?v=1EGk2rvZe8A Throw a missile to the person who broke the Jenkins' build :)
+
 # 15-03-2017
 
 - https://backchannel.com/google-fiber-was-doomed-from-the-start-a5cdfacdd7f2 No more Google Fiber, because bad ROI. Go Wireless.
