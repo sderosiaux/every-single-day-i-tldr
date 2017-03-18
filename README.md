@@ -4,6 +4,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-03-2017
+
+- https://whatwebcando.today/ An overview of the device integration HTML5 APIs. Very good stuff to be up to date.
+- http://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/ More about git filter-branch command
+- http://programtalk.com/java/java-9-new-features/ Another recap about Java9 features. Modules, reactive API, collections, jshell, better Process: ProcessHandler, HTTP/2 client (incubator), Stack-walking API. Local-var type inference in Java 10 only.
+- https://www.lucidchart.com/techblog/2017/02/22/upgrading-play-framework-2-3-play-2-5/ Very nice feedback about migrating apps from Play 2.3 to Play 2.5. I've been there but it was more simpler.
+
 # 18-03-2017
 
 - http://mfglabs.github.io/akka-stream-extensions/ Some extensions to Akka Streams dealing with PostgreSQL, elasticsearch, AWS, Shapeless.
