@@ -4,6 +4,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 20-03-2017
+
+- https://github.com/akarnokd/jmh-compare-gui Compare JMH results in an UI
+- https://www.youtube.com/watch?v=LhGq4HlozV4 The Eff Monad in Scala. DI at its best.
+- http://akarnokd.blogspot.fr/2016/12/the-reactive-scrabble-benchmarks.html Comparaison of Reactive Streams frameworks (Rx*, Akka Streams, Reactor..)
+- http://akarnokd.blogspot.fr/2017/03/java-9-flow-api-asynchronous-integer.html Using Java 9 Flow API to create a async integer range source. Not that straightforward.
+
 # 19-03-2017
 
 - https://whatwebcando.today/ An overview of the device integration HTML5 APIs. Very good stuff to be up to date.
