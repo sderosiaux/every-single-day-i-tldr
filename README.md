@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 21-03-2017
+
+- https://eng.uber.com/hoodie/ Parquet + Avro regular recompaction to parquet to keep the best usage of Parquet and simplify the data flow, love it. https://uber.github.io/hoodie/
+- https://github.com/jiaweihli/git-workflow-strategies-example Made me realize I'm always advocating rebase over merge, but actually, the best is both :), but with --no-ff!
+- http://www.edumobile.org/linux/best-15-unix-command-line-tools/ I learned some tools! ncdu, apropos
+- http://vertx.io/blog/scala-is-here/ Vert.x has now a Scala API for every modules, that's great news! One more Scala Reactive Framework.
+- https://lwn.net/SubscriberLink/717076/4c3593aa4cad8e66/ time_t (int, 32bits) will fail in 2038.
+
 # 20-03-2017
 
 - https://github.com/akarnokd/jmh-compare-gui Compare JMH results in an UI
