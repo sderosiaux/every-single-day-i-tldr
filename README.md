@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-03-2017
+
+- http://angularjs.blogspot.be/2017/03/angular-400-now-available.html Angular 4 is here!
+- https://github.com/lagom/lagom/pull/618/files/522fda54f10a1d952be9464e23880892c448163c Tons of fresh docs for Lagom
+- https://npf.io/2017/03/3.5yrs-500k-lines-of-go/ A recap of a guy that worked a lot with Go.
+- http://fabiensanglard.net/Compile_Like_Its_1992/index.php Compiling Wolfenstein 3D in DoxBox using Borland C++, yikes.
+- https://gsuiteupdates.googleblog.com/2017/03/updates-in-g-suite-to-streamline-hangouts-and-gmail.html Bye Google Talk. I even forgot you existed actually.
+- https://stackoverflow.com/insights/survey/2017/ The famous StackOverflow yearly survey about developers
+
 # 21-03-2017
 
 - https://eng.uber.com/hoodie/ Parquet + Avro regular recompaction to parquet to keep the best usage of Parquet and simplify the data flow, love it. https://uber.github.io/hoodie/
