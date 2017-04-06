@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 06-04-2017
+
+- Back from holidays!
+- https://github.com/brendangregg/perf-tools
+- https://www.youtube.com/playlist?list=PL055Epbe6d5ZsQVJRV2FQQvsgDt0Ci5Zy Strata + Hadoop World 2017 videos
+- https://www.slideshare.net/benstopford/the-power-of-the-log Nice slides about the immutable append-only logs strategy, and its sequential access, with optimisation to know where to read
+- https://github.com/luanfujun/deep-photo-styletransfer Georgeous Deep Photo Style Transfers
+
 # 24-03-2017
 
 - http://angularjs.blogspot.be/2017/03/angular-400-now-available.html Angular 4 is here!
