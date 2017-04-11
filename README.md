@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 11-04-2017
+
+- https://github.com/antirez/kilo "A text editor in less than 1000 LOC with syntax highlight and search." and a crazy walkthought to code it, step by step (in C). http://viewsourcecode.org/snaptoken/kilo/index.html
+- https://blog.getbotmetrics.com/150x-speedup-in-real-time-dashboards-with-postgres-9-5-2e987a5b906e Scaling by rolling up data, here with postgresql and triggers
+- https://github.com/tootsuite/mastodon A GNU Social-compatible microblogging server 
+- https://staltz.com/an-off-grid-social-network.html "Scuttlebutt", a p2p social system. With https://github.com/ssbc/patchwork to use it.
+- https://medium.freecodecamp.com/the-time-i-had-to-crack-my-own-reddit-password-a6077c0a13b4 Funny story about finding out a password based on a search engine.
+- http://www.pscheidl.cz/javaee/java-ee-fatjars-docker/ Fatjars, docker, and Java EE apps
+- https://github.com/thoughtbot/laptop A shell script which turns your macOS laptop into an awesome web development machine.
+- https://github.com/scala/bug/ Scala bugs were imported from Jira into Github !
+
 # 06-04-2017
 
 - Back from holidays!
