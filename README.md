@@ -22,7 +22,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.scottnonnenberg.com/better-git-configuration/ Some git tips, how to configure our .gitconfig
 - https://github.com/druid-io/druid/releases/tag/druid-0.10.0 Druid 0.10.0 out !! built-in sql query interface, and better perf in general.
 - https://balamaci.ro/kafka-streams-for-stream-processing/ A very good post about Kafka Streams, its processors, its states, some Rx references
-
+- https://www.cloudbees.com/blog/fileinputstream-fileoutputstream-considered-harmful For apps with lots of IO, better to use Files.newInput/OutputStream to avoid GC pressures, created by the old API.
 
 # 11-04-2017
 
