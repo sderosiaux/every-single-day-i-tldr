@@ -4,6 +4,26 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-04-2017
+
+- https://medium.com/@DmitrySoshnikov/regexp-tree-a-regular-expressions-parser-with-a-simple-ast-format-bcd4d5580df6 A RexExp parser to get the AST of a regex
+- https://github.com/gabru-md/StarMe-Bro/commit/1a56d120d2d7185d949df103a32f2ade64041a19 A simple JS code to register Github "bot". Basically, there is no capcha, no email check, so it's quite straightforward.
+- http://nibblestew.blogspot.fr/2017/04/why-dont-you-just-rewrite-it-in-x.html spoiler: Because it's very slow, boring, time consuming, and the business value is around 0.
+- https://mondaynote.com/apples-new-file-system-who-cares-3ba440cd4d84 I didn't even know their system was called APFS.
+- https://www.simple.com/engineering/a-change-data-capture-pipeline-from-postgresql-to-kafka Using CDC to push data to Redshift in their case. Compares to Bottledwater &lt3.
+- http://blog.cloudera.com/blog/2017/04/apache-kudu-read-write-paths/ Some insights about how Kudu works (WAL and scan)
+- https://medium.com/@mngrwl/everything-about-self-driving-cars-explained-for-non-engineers-f73997dcb60c As the title says! Deep learning, computer vision, robotics, navigation, explained with words.
+- https://motherboard.vice.com/en_us/article/princetons-ad-blocking-superweapon-may-put-an-end-to-the-ad-blocking-arms-race Using computer vision to block ads. Provides a Chrome extension but couldn't see it in action..
+- https://mathoverflow.net/questions/81960/the-dzhanibekov-effect-an-exercise-in-mechanics-or-fiction-explain-mathemat This is the famous effect observed in space where a rotating piece suddenly rotates on another axis by 180deg.
+- https://techiedelight.quora.com/500-Data-structures-and-algorithms-interview-questions-and-their-solutions To bookmark! So many algorithms and data structures.
+- https://blog.chromium.org/2017/04/real-world-javascript-performance.html Better measuring performances to improve performances.
+- http://thehackernews.com/2017/04/computer-in-prison.html Title says all: "Prison Inmates Built PCs from e-Waste and Connected Online Using Prison Network" Good guy!
+- https://publishers.brave.com/ If you own a website, you can set up yourself to brave, to get money!
+- https://blog.scottnonnenberg.com/better-git-configuration/ Some git tips, how to configure our .gitconfig
+- https://github.com/druid-io/druid/releases/tag/druid-0.10.0 Druid 0.10.0 out !! built-in sql query interface, and better perf in general.
+- https://balamaci.ro/kafka-streams-for-stream-processing/ A very good post about Kafka Streams, its processors, its states, some Rx references
+
+
 # 11-04-2017
 
 - https://github.com/antirez/kilo "A text editor in less than 1000 LOC with syntax highlight and search." and a crazy walkthought to code it, step by step (in C). http://viewsourcecode.org/snaptoken/kilo/index.html
