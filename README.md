@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-04-2017
+
+- https://github.com/citycide/babel-plugin-partial-application Scala _'s in JS, transformed by babel into lambda. Woot!
+- https://blogs.msdn.microsoft.com/oldnewthing/20170418-00/?p=95985 "a customer reported an error in the map used by Flight Simulator" Poor Microsoft and stupid people.
+- https://battle.net/download/getInstallerForGame?os=WIN&version=LIVE&gameProgram=STARCRAFT We can download Starcraft + Broodwar for free now!
+- http://cr.openjdk.java.net/~briangoetz/amber/pattern-match.html An overview of what the Java pattern matching would be (unofficial)
+- https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge The interesting evolution of IE/Edge and the DOM, speed, performance.
+- https://tech.zalando.com/blog/achieving-3.2x-faster-scala-compile-time/ Interesting compile time optimisation in Scala with Hydra https://triplequote.com/hydra/ 
+ - https://blog.docker.com/2017/04/introducing-the-moby-project/ The Moby Project: a standard framework for container. docker/docker is now moby/moby !
+- http://scala-lang.org/news/releases-1Q17.html Scala 2.11.11 is now the last of the 2.11 series! 2.13 in progress.
+- https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/ Funny and interesting study about people, stackoverflow, programmers: looking at pattern to find out when which langage is worked outside of business hours, as hobby, which hours, etc.
+
 # 18-04-2017
 
 - https://medium.com/@DmitrySoshnikov/regexp-tree-a-regular-expressions-parser-with-a-simple-ast-format-bcd4d5580df6 A RexExp parser to get the AST of a regex
