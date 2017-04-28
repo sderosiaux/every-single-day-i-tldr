@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 28-04-2017
+
+- http://blog.xebia.fr/2017/04/18/devoxx-france-2017-retour-sur-les-conferences-du-jour-3/
+- http://bfmbusiness.bfmtv.com/entreprise/cette-fois-amazon-commence-vraiment-a-inquieter-google-et-facebook-1141702.html Amazon, the new ads competitor? It knows what we really buy.
+- https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359 JS is full of crap, yes we know and we like it!
+- https://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring "Paying Technical Debt - How To Rescue Legacy Code through Refactoring" Some tips and step-by-step how to
+- https://github.com/airbnb/react-sketchapp Airbnb's open-sourced its lib to render React components to Sketch http://airbnb.io/react-sketchapp/
+- https://www.quora.com/Should-I-fire-a-software-engineer-for-always-working-on-his-side-projects-during-office-hours "Should I fire a software engineer for always working on his side projects during office hours?"
+- https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/ Some very, very stupid user/password security issues on (big) websites..
+
 # 19-04-2017
 
 - https://github.com/citycide/babel-plugin-partial-application Scala _'s in JS, transformed by babel into lambda. Woot!
