@@ -4,6 +4,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-05-2017
+
+- https://medium.com/smyte/streaming-similarity-search-for-fraud-detection-64d7476953d4 I love Smyte technical article! Smart peeps.
+- https://github.com/alexanderepstein/Insomnia Notify the dev to go to sleep before it's too late!
+- http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/ Some langages are not common and based on lesser-known paradigms.
+- https://medium.com/@tarkus/getting-started-with-relay-modern-for-building-isomorphic-web-apps-ae049e4e23c1 An interesting post resuming why/how to use Relay in a React app
+- https://medium.com/@wesharehoodies/simple-beginner-guide-for-webpack-2-0-from-scratch-part-ii-66beb5dbccc2 A simple intro to webpack 2 and its loaders.
+- https://www.youtube.com/watch?v=zbGiOcSeq1Y "Let the Scala compiler work for you" Some tips about scala types and implicits.
+- https://stefanheule.com/blog/how-many-x86-64-instructions-are-there-anyway/ I was sure it was complicated!
+- http://samsy.ninja/morphin/index.html An impressive canvas js demo
+- https://speakerdeck.com/aemcknig/image-performance-good-for-your-users-good-for-your-business Engineer from Etsy talking about reducing image size for better conversions.
+- http://typelevel.org/blog/2017/05/02/io-monad-for-cats.html A long post about casts-effect and the introduction of the "IO" monad, its purpose, usage and examples.
+- https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html Spark Streaming 2 How To
+- https://databricks.com/blog/2017/02/23/working-complex-data-formats-structured-streaming-apache-spark-2-1.html Playing with data types, structure, and streaming (api exploration)
+
 # 28-04-2017
 
 - http://blog.xebia.fr/2017/04/18/devoxx-france-2017-retour-sur-les-conferences-du-jour-3/
