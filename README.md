@@ -18,6 +18,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://typelevel.org/blog/2017/05/02/io-monad-for-cats.html A long post about casts-effect and the introduction of the "IO" monad, its purpose, usage and examples.
 - https://databricks.com/blog/2017/01/19/real-time-streaming-etl-structured-streaming-apache-spark-2-1.html Spark Streaming 2 How To
 - https://databricks.com/blog/2017/02/23/working-complex-data-formats-structured-streaming-apache-spark-2-1.html Playing with data types, structure, and streaming (api exploration)
+- http://blog.xebia.fr/2017/04/19/agile-smells-sprint-retrospective/ Bad smells in Agile retrospectives
+- https://developers.google.com/web/updates/2017/04/headless-chrome How to use the new headless Chrome
+
 
 # 28-04-2017
 
