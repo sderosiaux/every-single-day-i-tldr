@@ -20,7 +20,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://databricks.com/blog/2017/02/23/working-complex-data-formats-structured-streaming-apache-spark-2-1.html Playing with data types, structure, and streaming (api exploration)
 - http://blog.xebia.fr/2017/04/19/agile-smells-sprint-retrospective/ Bad smells in Agile retrospectives
 - https://developers.google.com/web/updates/2017/04/headless-chrome How to use the new headless Chrome
-- https://medium.com/@WebReflection/javascript-dynamic-import-export-b0e8775a59d4 Props to bring async exports (async import are already on its way https://www.chromestatus.com/feature/5684934484164608)
+- https://medium.com/@WebReflection/javascript-dynamic-import-export-b0e8775a59d4 Props to bring Javascript async exports (async import are already on its way https://www.chromestatus.com/feature/5684934484164608)
 
 
 # 28-04-2017
