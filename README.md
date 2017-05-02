@@ -4,6 +4,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-05-2017
+
+- https://staltz.com/why-we-actually-built-xstream.html To get hot obs only and and keep it small.
+- http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer Very good post about Web Workers and communication with them, using SharedArrayBuffer.
+- http://kazet.co/2016/04/29/temporary-hacks.html All code is temporary. And I never write "XXX".
+- https://docs.google.com/presentation/d/1kd2OluTSpqSW8HxmtIge7TLopYkw1DrtrI5m0UIVcUg/edit#slide=id.ge31b4dbb6_0_0 "A practical guide to monitoring and alerting with time series at scale"; by Google
+- https://medium.com/@cindysridharan/what-is-devops-5b0181fdb953 DevOps is not a person, but a philosophy.
+- http://blog.octo.com/etat-de-lart-des-solutions-cross-platform-mobile/ State of the art about mobile cross-platforms
+- https://capnproto.org/news/2017-05-01-capnproto-0.6-msvc-json-http-more.html Cap'n Proto 0.6 out! It's been a while.
+- https://youtube.com/new New Youtube style, again! Using polymer this time.
+- http://blog.sqlizer.io/posts/sql-43/ SQL, 43 years of existence! The Whys.
+- https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md Basecamp is so good. What is it hiding?
+- https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0 Looks awesome! A jupiter with JS. Not sure about real work, some command would need to be delegated to a server, but it seems okay anyway!
+
 # 01-05-2017
 
 - https://medium.com/smyte/streaming-similarity-search-for-fraud-detection-64d7476953d4 I love Smyte technical article! Smart peeps.
