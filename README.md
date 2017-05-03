@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 03-05-2017
+
+- http://waitbutwhy.com/2017/04/neuralink.html A HUGE story about the new Elon Musk's company Neuralink and mostly about brain/systems interactions. Explanations from the beginning.
+- https://github.com/facebook/prepack Again, Facebook released what looks like a awesome program, that evaluates what it can in a JS program to reduce the bundle size at the end and improve perf (because less things to evaluate for the browser).
+- https://github.com/danielstjules/swaddle Thanks to JS Proxy, automatically query an API by typing pure javascript methods (that does not really exist), but intercepted by the Proxy
+- https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f 45% better perf on functional components, just by not using JSX/React.createElement. Bam.
+- http://tpolecat.github.io/2017/04/25/scalac-flags.html Flags for Scalac, I love them!
+- http://latkin.org/blog/2017/05/02/when-the-scala-compiler-doesnt-help/ Never linked this type generalization neither. Causes only bugs..
+
 # 02-05-2017
 
 - https://staltz.com/why-we-actually-built-xstream.html To get hot obs only and and keep it small.
