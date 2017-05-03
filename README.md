@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 04-05-2017
+
+- https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c Introduction to timescaledb, a timeseries db on top of PostgreSQL.
+- https://github.com/scala/pickling Ser/deser ("pickle") anything with a generic Scala abstraction.
+- http://www.rankred.com/nasa-coding-rules/ I always try to apply the "Declare Data Objects at Smallest Level of Scope".
+- https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c Reminder: Webpack for apps, Rollup for libs.
+- https://softwaremill.com/comparing-scala-relational-database-access-libraries Wonderful and useful comparaison between Slick, Doobie, Quill, and ScalikeJDBC. Favor into Slick and Doobie, clearly.
+
 # 03-05-2017
 
 - http://waitbutwhy.com/2017/04/neuralink.html A HUGE story about the new Elon Musk's company Neuralink and mostly about brain/systems interactions. Explanations from the beginning.
