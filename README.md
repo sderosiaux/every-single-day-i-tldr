@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-05-2017
+
+- https://twitter.com/pomeranian99/status/858856994438094848 The only situation where you don't care of memory leaks: when the device is gonna explode!
+- https://akrzemi1.wordpress.com/2017/04/27/a-serious-bug-in-gcc/ Learned about the RAII resource management (ctor+dtor)
+- https://www.nasa.gov/aero/nasa-issues-a-challenge-to-speed-up-its-supercomputer-code "NASA is looking for qualified people who can ... analyze the performance bottlenecks" Fortran FTW!
+- http://www.cakesolutions.net/teamblogs/typelevel-1-typeclasses Another intro to typeclasses in Scala
+- https://stuff-gil-says.blogspot.fr/2017/05/zing-hits-trifecta.html The Azul JVM seems so good. Very fast optimized startup. Now backed by LLVM and its intrinsic optimisations.
+- http://blog.joda.org/2017/04/java-se-9-jpms-modules-are-not-artifacts.html Java Modules don't need external tools to manage dependencies. It's just about modules (namespaces), packages, classes, methods.. No group, organization, or version.
+- https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/ Really like this article about optimisation. Multiple techniques are used, API redesign, data structure changes, hashing technique (open addressing strategy), no division, caches optim. unsafe sections
+
 # 04-05-2017
 
 - https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c Introduction to timescaledb, a timeseries db on top of PostgreSQL.
