@@ -8,6 +8,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 - http://charlesleifer.com/blog/your-idea-sucks/ About the difficulty of managing an open-source project
 - http://formidable.com/blog/2017/infinite-state-composition-with-freactal/ Nice article about Freactal, a new state management system, based on FP, allowing composition, and is all-async (Promise).
+- https://github.com/chtefi/couchbase-bucket-listener Worked on this, fix some bugs, and added some features.
+- http://devteams.at/stop_the_daily_standup_meeting I like his solution: to find out if you need the standup, just stop it and see, instead of trying to find alternative means.
 
 # 05-05-2017
 
