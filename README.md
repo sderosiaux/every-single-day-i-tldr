@@ -4,6 +4,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 06-05-2017
+
+- http://charlesleifer.com/blog/your-idea-sucks/ About the difficulty of managing an open-source project
+- http://formidable.com/blog/2017/infinite-state-composition-with-freactal/ Nice article about Freactal, a new state management system, based on FP, allowing composition, and is all-async (Promise).
+
 # 05-05-2017
 
 - https://twitter.com/pomeranian99/status/858856994438094848 The only situation where you don't care of memory leaks: when the device is gonna explode!
