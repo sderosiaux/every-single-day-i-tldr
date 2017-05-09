@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-05-2017
+
+- https://cherubini.casa/why-i-shut-down-wizards-town-and-left-mastodon-6d4e631346b3 Porn on Mastodon is a complex story.
+- https://www.nytimes.com/2017/05/09/sports/polish-climbers-to-scale-deadly-k2-peak-in-winter.html Very interesting climbing stories.
+- https://github.com/benalexau/rpc-bench gRPC against Aeron and KryoNet. Aeron wins easy.
+- https://jcp.org/en/jsr/results?id=5959 No Jigsaw in Java9! (modules)
+- http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html CPU usage is composed of cpu instruction per cycle IPC (between 0 and 4/5 generally) + CPU stalled cycles (STL) (memory bound)
+- http://www.brendangregg.com/blog/2016-11-30/linux-bcc-tcplife.html Get tcp connection lengths (lifespan)
+- http://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses prepending json resp by some js code (while(1); for(;;)) to prevent Json hijacking
+- http://www.reuters.com/article/us-uber-tech-crime-exclusive-idUSKBN1802U1 "The technology was used partly to prevent fraud and protect drivers from harm, the company blog post said. If a ride request was deemed illegitimate, Uber's app showed bogus information and the requester would not be picked up, the employees told Reuters." Nice!
+
 # 06-05-2017
 
 - http://charlesleifer.com/blog/your-idea-sucks/ About the difficulty of managing an open-source project
