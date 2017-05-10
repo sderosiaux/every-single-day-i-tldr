@@ -4,6 +4,21 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 10-05-2017
+
+- https://github.com/Microsoft/TypeScript-React-Starter TS + React good starter guide
+- https://www.bloomberg.com/news/articles/2017-05-10/tesla-s-solar-roof-is-finally-ready-for-you-to-buy Tesla solar roof is just so great, because it can be textured, and is "cheap".
+- https://github.com/facebook/yoga Totally forgot about this project. "Implement" the flex norm to be used for anything outside css.
+- http://codepen.io/jlongster/pen/YVejaV A simple button, but neat idea: it skews according to where you click on it.
+- https://css-tricks.com/easing-linear-gradients/ Never noticed that linear-gradient actually sucks because there is no ease.
+- https://docs.microsoft.com/en-us/azure/cosmos-db/introduction On paper, CosmosDB seems just like the perfect DB. Running on Azure.
+- https://www.cockroachlabs.com/blog/cockroachdb-1-0-release/ CockroachDB seems very promising too. Distributed SQL.
+- https://en.wikipedia.org/wiki/PACELC_theorem Broader than CAP: "Else Consistency", or "Else Latency" (tradeoff when running normally). AP are trading off Latency (give up consistency for lower latency), CP are trading off Consistency (give up latency for consistency)
+- https://appelsiini.net/2017/reverse-engineering-location-services/ Interesting Reverse Engineering of the Location services from Apple. Protobuf inside. 
+- http://blog.hovland.xyz/2017-04-22-stop-overusing-interfaces/ DI using concrete class. Yes, same here, hopefully. Good read if you're using Ixxx everywhere.
+- https://www.infoq.com/articles/rest-anti-patterns Old article, but still valid, about REST anti-patterns to be aware of. 
+- http://blog.akka.io/typed/2017/05/05/typed-intro Akka typed!!!!!!!!!!!! Not fan of the "new" syntax. The untyped is so lighter, arg.
+
 # 09-05-2017
 
 - https://cherubini.casa/why-i-shut-down-wizards-town-and-left-mastodon-6d4e631346b3 Porn on Mastodon is a complex story.
