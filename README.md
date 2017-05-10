@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 11-05-2017
+
+- https://blog.cloudflare.com/anonymity-and-abuse-reports/ Cloudflare's transparency about their changing abuse reports model
+- https://developer.couchbase.com/documentation/server/current/architecture/services-archi-multi-dimensional-scaling.html Multi dimensional scaling with Couchbase. (scale its different services, differently)
+- https://developer.lightbend.com/blog/2017-05-08-cinnamon-2-4-with-opentracing-integration/ "Easy" tracing of Akka actors interactions. Seems so great. Would like to give a try! with Jaeger(uber) or Zipkin (UIs)
+- http://blog.colinbreck.com/patterns-for-streaming-measurement-data-with-akka-streams/ Nice tips about Akka Streams
+- https://www.confluent.io/blog/optimizing-apache-kafka-deployment/ A good whitebook about kafka producer/broker tuning
+
 # 10-05-2017
 
 - https://github.com/Microsoft/TypeScript-React-Starter TS + React good starter guide
