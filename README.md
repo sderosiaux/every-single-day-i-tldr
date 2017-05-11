@@ -11,6 +11,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://developer.lightbend.com/blog/2017-05-08-cinnamon-2-4-with-opentracing-integration/ "Easy" tracing of Akka actors interactions. Seems so great. Would like to give a try! with Jaeger(uber) or Zipkin (UIs)
 - http://blog.colinbreck.com/patterns-for-streaming-measurement-data-with-akka-streams/ Nice tips about Akka Streams
 - https://www.confluent.io/blog/optimizing-apache-kafka-deployment/ A good whitebook about kafka producer/broker tuning
+- http://www.thedailybeast.com/articles/2017/05/10/u-s-to-ban-laptops-in-all-cabins-of-flights-from-europe Title says all. Da hell.
+- http://blog.cloudera.com/blog/2017/05/hail-scalable-genomics-analysis-with-spark/ Spark can work with tremendous amount of data; here, DNA, with a special wrapper "Hail".
+- https://blog.acolyer.org/2017/05/02/corfu-a-distributed-shared-log/ Another append-only log software. Logs are mapped directly to the storage itself, you don't pass through a master, but just grab a token to know where to write and you do. https://github.com/CorfuDB/CorfuDB
+- https://github.com/pathikrit/scalgos Classic algos properly implemented in scala <3
+- https://dzone.com/articles/java-9-besides-modules Useful recap on java9 (no jigsaw)
+- https://medium.com/@qix/how-i-wasted-a-whole-day-trolling-with-assembly-32a3bbbc2d60 Funny trolling using asm, quite interesting and some nice "tips" in there
+- http://fluent.microsoft.com/ I don't know. A "design system".
+- https://sourcemaking.com/ Very nice website listing and resuming tons of designs pattenrs, antipatterns, refactoring techniques
+- https://www.techempower.com/benchmarks/ Round 14 of TechEmpower's web framework benchmarks
 
 # 10-05-2017
 
