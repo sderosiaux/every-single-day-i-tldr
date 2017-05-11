@@ -4,6 +4,11 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 12-05-2017
+
+- http://typelevel.org/scala/ Typelevel's Scala compiler is like babel stage 0 of the officiel Lightbend Scala compiler
+- https://www.youtube.com/watch?v=qwOyZifmi3Q Tuning Query Performance with N1QL in Couchbase => multidimensional scaling MDS (+ duplicate indexes), index service: more ram! for cache. explain the query, hint about indexes, create indexes. If mass update: use view query instead (not real time, batched). Ask for stale data if possible. Limit N to shortcut quickly.
+
 # 11-05-2017
 
 - https://blog.cloudflare.com/anonymity-and-abuse-reports/ Cloudflare's transparency about their changing abuse reports model
