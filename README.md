@@ -8,6 +8,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 - http://typelevel.org/scala/ Typelevel's Scala compiler is like babel stage 0 of the officiel Lightbend Scala compiler
 - https://www.youtube.com/watch?v=qwOyZifmi3Q Tuning Query Performance with N1QL in Couchbase => multidimensional scaling MDS (+ duplicate indexes), index service: more ram! for cache. explain the query, hint about indexes, create indexes. If mass update: use view query instead (not real time, batched). Ask for stale data if possible. Limit N to shortcut quickly.
+- https://fr.wikipedia.org/wiki/Jeddah_Tower The future tallest tower in the world. 1km.
+- https://kierantie.com/a/burnout/ A feedback about getting burnout.
+- https://lcamtuf.blogspot.fr/2014/11/pulling-jpegs-out-of-thin-air.html Generating JPG by a "fuzzer" http://lcamtuf.coredump.cx/afl/ ("use genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary")
 
 # 11-05-2017
 
