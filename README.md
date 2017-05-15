@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-05-2017
+
+- https://tools.ietf.org/html/rfc7807 How to deal with errors for HTTP APIs
+- https://www.rewritinghistorycasts.com/ Dude rewriting old (or not) C program such as cat, and git.
+- https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html By registereing a domain, the ransomware worm stops. Such tech.
+- https://www.youtube.com/watch?v=2742pWdUm6c A nice dive into Scalac, learned some stuff about the phases, good and funny talk.
+- https://www.youtube.com/watch?v=H28QqxO7Ihc "Move Over Free Monads: Make Way for Free Applicatives! — John de Goes" A bit complicated when you don't use them often :(
+- https://twitter.com/leeb/status/863903474576007169 Lee Byron asking if big companies are using GraphQL. Big companies' employee answer massively, yes!
+- https://github.com/fantasylandinst/fcop A Code Of Conduct. "Fantasyland [Institute] Code of Professionalism" for professional communities
+- https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2 AirBnb being transparent about their stack's updates and cleanup to react/redux/graphql, from RoR.
+
 # 12-05-2017
 
 - http://typelevel.org/scala/ Typelevel's Scala compiler is like babel stage 0 of the officiel Lightbend Scala compiler
