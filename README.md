@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-05-2017
+
+- https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770 Airbnb talks about its Dataportal tool, for employees to discover any datasource they can access, metadata, which user is using it, with what it is generally joined etc. Neo4j and ES in da place.
+- https://litmus.com/community/discussions/6489-using-css-grid-for-the-latest-litmus-newsletter-layout Using css grid in emails. In not supported, fallback to one column one. Very cool.
+- https://github.com/amark/gun Stumbled once again upon this db; I will definitely try to use it in a side project.
+- https://github.com/brysgo/graphql-gun Querying Gun with GraphQL, that's even better
+- http://blog.octo.com/vers-une-usine-de-developpement-2-0/ Les usines de développement. Bonne présentation.
+- https://github.com/knowbody/crra Create Reason React App ! Reason, reason.. should we "learn" it?
+- https://github.com/paulp/psp-std An alternative to the scala standard lib. (more lazy)
+
 # 15-05-2017
 
 - https://tools.ietf.org/html/rfc7807 How to deal with errors for HTTP APIs
