@@ -4,6 +4,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-05-2017
+
+- https://aiexperiments.withgoogle.com/drum-machine Using ML to sort similar sounds, interesting experiment!
+- https://panic.com/blog/stolen-source-code/ TLDR: always be on your guard when your os asks you security question :(
+- https://medium.com/@contact_16315/firebase-costs-increased-by-7-000-81dc0a27271d No thanks to Firebase. Never code against a particular service, abstraction please.
+- https://github.com/gmattie/Data-Pixels Pixel art made easy
+- http://www.hipstercode.com/blog/31/ "What I think of the ELM Programming Language" He find it useless. No end game usefulness. Not a ELM expert but disagreeing a bit. It will prevent losing time later and you must code right at least (functional!)
+- https://github.com/snowplow/scala-forex A lib to perform exchange rate lookups using openexchangerates.org ($$)
+- http://pyroclast.io/blog/2017/05/17/the-future-of-event-stream-processing.html The story was great: from database centric to log centric arch.
+- https://open.dgraph.io/post/badger/ A (better?) RocksDB (key-value store) ? In Go, specialized for SSDs.
+- https://adexchanger.com/platforms/dsps-ssps-clean-cut-off/ One can always play with auctions! DSP SSP AdExchanges.
+- http://blog.isquaredsoftware.com/2017/05/idiomatic-redux-tao-of-redux-part-1/ 
+- https://hackernoon.com/react-europe-2017-551961487403 A nice TLDR of React Europe confs
+- https://www.postgresql.org/about/news/1749/ PostgreSQL 10 incoming. Better scaling (replica, partitioning, parallelism, )
+- https://github.com/yandex/gixy Nginx configuration static analyzer. Always useful!
+
 # 17-05-2017
 
 - https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770 Airbnb talks about its Dataportal tool, for employees to discover any datasource they can access, metadata, which user is using it, with what it is generally joined etc. Neo4j and ES in da place.
