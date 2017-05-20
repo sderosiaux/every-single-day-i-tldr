@@ -4,6 +4,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 20-05-2017
+
+- https://aboveintelligent.com/using-tensorflow-to-classify-hotdogs-8494fb85d875 Using TensorFlow to classify hotdogs (Silicon Valley style)
+- https://customvision.ai/ By Microsoft: upload image with labels (or let Custom Vision add some), let it train, and use its REST API to evaluate. Crazy good stuff.
+- https://zeit.co/blog/next3-preview#next-export Next now support build without server to serve it (just plain static), and it will handle lazy components loading on the fly thanks to dynamic imports.
+- https://medium.com/@julsimon/create-your-own-basquiat-with-deep-learning-for-much-less-than-110-million-314aa07c9ba8 Basquiat is a painter. Use a neural network to create the same style for any picture.
+- https://github.com/developit/preact-cli PWA made easy! Seems so good to start a small perfect project. Every needed useful features bundled automatically.
+- https://github.com/prettier/prettier/pull/1636 Prettier will soon support css
+- https://github.com/stylelint/stylelint Never used this one. The css linter!
+- https://scastie.scala-lang.org/ Scastie out of beta! It was announced in Feb.
+- https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html This update (1.0.0) motivated me to update an existing app, cool new features!
+- https://yarnpkg.com/blog/2017/05/12/introducing-yarn/ "yarn create x y", just a shortcut for "yarn global add create-x; create-x y;"
+- https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/ Against integers pk, use uuid instead. I kinda agree! Let API generate the uuid.
+- http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html ftrace, execsnoop, kprobe, the perf-tools and bpf tools !
+- https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality/ Very interesting: the GC also reorganize memory to facilitate data sequential readings (better locality)
+
 # 18-05-2017
 
 - https://aiexperiments.withgoogle.com/drum-machine Using ML to sort similar sounds, interesting experiment!
