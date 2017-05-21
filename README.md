@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 21-05-2017
+
+- https://github.com/react-toolbox/react-toolbox Nice React components toolkit that follows Google Material Design specs.
+- https://github.com/glenpike/npm-g_nosudo Never install something globally, done. :P
+- http://www.midnightdba.com/Jen/2017/05/employers-let-people-work-home Definitely! I'm already enjoying this, 1d/week generally. Good enough.
+- https://daringfireball.net/linked/2017/05/20/gilbertson-amp Against Google AMP
+- https://medium.com/the-astronomer-journey/airflow-and-the-future-of-data-engineering-a-q-a-266f68d956a9 Airflow next Apache release and its future
+- https://www.microsoft.com/en-us/research/blog/p-programming-language-asynchrony/ https://github.com/p-org/P "P" is a new language by Microsoft. The program describes a events and state machines, is message-driven, and compile down to C. (and there is also P#)
+- https://dzone.com/refcardz/reactive-programming-akka Another intro to Akka's principles.. In Java
+- https://blog.cloudflare.com/standing-up-to-a-dangerous-new-breed-of-patent-troll/ Cloudflare pissed off about patent trolls company will retaliate.
+- https://github.com/lampepfl/dotty/issues/2491 Proposal by @odersky to implement an indentation-based parser for Scala
+- https://www.twitch.tv/sentdex A neural network playing GTA5, wonderful
+
 # 20-05-2017
 
 - https://aboveintelligent.com/using-tensorflow-to-classify-hotdogs-8494fb85d875 Using TensorFlow to classify hotdogs (Silicon Valley style)
