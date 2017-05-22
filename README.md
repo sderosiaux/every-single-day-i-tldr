@@ -4,6 +4,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 22-05-2017
+
+- https://vimeo.com/165922572 Monix: to compose async programs. Tasks.
+- http://symfony.com/blog/an-open-source-web-platform-for-the-new-president-of-france Finally, a website about politics using modern technology in France!
+- https://github.com/sindresorhus/copy-text-to-clipboard A simpler and lighter! way to do a copy in modern browser (tiny tiny!)
+- https://egghead.io/lessons/rxjs-convert-rxjs-subjects-to-observables Tips by Andre Staltz on RxJS
+- https://developer.github.com/v4/guides/ GitHub API going GraphQL
+- https://manuel.bernhardt.io/2017/05/22/akka-streams-notused/ At first, I was "wtf is dat" too. Not anymore.
+- https://github.com/ipselon/structor A UI builder in React? Tried it, not very fan (not a good ux)
+- https://formidable.com/open-source/spectacle-editor/ Stumbled upon their editor to create nice powerpoint prez in React
+- https://github.com/tj/react-batch Batch actions to avoid overflowing the syncness of current React (using a "Batch" component)
+- https://nickcraver.com/blog/2017/05/22/https-on-stack-overflow/ SO and all its sub/domains now full HTTPS: the story, and the mistakes
+- https://hpbn.co/ "High Performance Browser Networking" by Igor Grigorik. Need to read that one day :(
+- https://shipilev.net/jvm-anatomy-park/12-native-memory-tracking/ Track where the JVM memory goes (the heap is just a tiny part). Flags involved!
+- http://www.adaltas.com/en/2016/11/14/hive-calcite-and-druid/ Druid in Hive, can't wait to try that :-) But still a lot of ticket to do it seems https://cwiki.apache.org/confluence/display/Hive/Druid+Integration
+
 # 21-05-2017
 
 - https://github.com/react-toolbox/react-toolbox Nice React components toolkit that follows Google Material Design specs.
