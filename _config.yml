@@ -1,0 +1,8 @@
+title: Every-single-day-i-tldr
+description: Every day, I'm adding all the web links I've read and found useful or interesting.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
