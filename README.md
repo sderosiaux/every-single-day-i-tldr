@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-05-2017
+
+- https://blog.risingstack.com/packing-a-kubernetes-microservices-with-helm/ I didn't know this Helm thing, quite interesting! "The Kubernetes Package Manager"
+- https://github.com/spark-jobserver/spark-jobserver Start Spark jobs just by calling a REST API and retrieve results the same way, + jobs can share contexts and (named)rdds
+- https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html Not being able to use excel is no reason to use Hadoop, indeed ^^
+- https://hackernoon.com/integrate-structor-with-create-react-app-3e8be15bc395 Structor, a WYSIWYG for React Components
+- https://github.com/wulkano/kap A nice and slick screen recorder for OSX!
+- https://medium.com/@kevinj_50886/a-progressive-web-application-with-vue-js-webpack-material-design-part-2-a5f19e70e08b Using Vue and Firebase
+- https://blog.risingstack.com/getting-started-with-aws-lambda-and-node-js/ Creating a tiny nodejs lambda on AWS with "Serverless" https://github.com/serverless/serverless (generic to cloud providers, AWS, Google, Azure)
+
 # 22-05-2017
 
 - https://vimeo.com/165922572 Monix: to compose async programs. Tasks.
