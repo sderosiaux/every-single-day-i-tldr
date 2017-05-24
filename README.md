@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-05-2017
+
+- https://github.com/diegomura/react-pdf Easily create a pdf from some React components, very nice
+- https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/ Part 2 of the GVFS story for huge git repo, by Microsoft.
+- https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/ Some useful git aliases
+- https://watabou.itch.io/medieval-fantasy-city-generator A medieval city generator, good stuff
+- https://blog.heptio.com/ksonnet-intro-43f6183a97a6 "ksonnet: Simplify working with Kubernetes configurations" Generate the yaml config from a way simpler description http://ksonnet.heptio.com/ it also has a VisualStudioCode plugin
+
 # 23-05-2017
 
 - https://blog.risingstack.com/packing-a-kubernetes-microservices-with-helm/ I didn't know this Helm thing, quite interesting! "The Kubernetes Package Manager"
