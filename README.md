@@ -4,6 +4,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 26-05-2017
+
+- http://viktorklang.com/blog/Futures-in-Scala-protips-1.html Some simple tips about Future and ExecutionContext in Scala
+- https://github.com/ory/editor?branch=master A very nice WYSIWYG on top of slatejs (React)
+- https://github.com/ianstormtaylor/slate Rich Text Editor in React
+- https://medium.com/@ktruong008/absolute-imports-with-create-react-app-4338fbca7e3d No more ../../.. using NODE_PATH with create-react-app
+- https://flowartstation.com/2017/05/10/hilarious-winners-of-the-first-annual-comedy-wildlife-photography-awards/
+- https://web.archive.org/web/20070222084110/http://destraynor.com/serendipity/index.php?/archives/102-Programming-Theorems.html "The likelihood of Perl being involved in a system is directly proportional to the length of time the system has been in maintenance."
+- https://chadaustin.me/2017/05/writing-a-really-really-fast-json-parser/ really fast!
+- https://chao-tic.github.io/blog/2017/05/24/dirty-cow Deep explanation about Dirty Cow, and why it's named like this. https://dirtycow.ninja/
+- https://andreasgal.com/2017/05/25/chrome-won/ Not a surprise, but some graphs
+- http://mattwarren.org/2017/05/25/Lowering-in-the-C-Compiler/ Lowering means "desugaring". Even apparents simple expressions can be actually sugar.
+- https://www.reddit.com/r/javascript/comments/6dgdqv/is_it_yarn_still_in_demand_after_the_npm_release/ npm5 greatly improved since. Very good http://blog.npmjs.org/post/161081169345/v500
+- http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/ npm i memwatch-next heapdump 
+- http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/ Let's hack with tmux now! I'm so often ssh'ing anywhere and working on different stuff, that could help.
+
 # 24-05-2017
 
 - https://github.com/diegomura/react-pdf Easily create a pdf from some React components, very nice
