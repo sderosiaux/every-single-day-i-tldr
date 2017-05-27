@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/gitpitch/gitpitch AMAZING! add a file "PITCHME.md" (+.yaml for config) in your repo and use https://gitpitch.com/user/repo to get the corresponding generated slideshow.
 - https://github.com/yhatt/marp Markdown presentation writer using Electron. Slideshow in .md, nice! Then using gitpitch to show them anywhere :)
 - https://www.youtube.com/watch?v=aVuor-VAWTI Javascript Dates and Time APIs, and proposal for the future to fix all the existing crap
+- https://toddmotto.com/rxjs-observables-observers-operators Another simple and clear implementation of Observable, as a tutorial
 
 # 26-05-2017
 
