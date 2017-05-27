@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-05-2017
+
+- http://www.schveiguy.com/blog/2017/05/how-to-report-a-bug-to-microsoft/ Funny blog post about a guy desperate to have a competent person from the Microsoft support. He won't.
+- https://blogs.msdn.microsoft.com/oldnewthing/20080324-00/?p=23033 Difference between .COM and .EXE, good ol' times!
+- https://github.com/gitpitch/gitpitch AMAZING! add a file "PITCHME.md" (+.yaml for config) in your repo and use https://gitpitch.com/user/repo to get the corresponding generated slideshow.
+- https://github.com/yhatt/marp Markdown presentation writer using Electron. Slideshow in .md, nice! Then using gitpitch to show them anywhere :)
+- https://www.youtube.com/watch?v=aVuor-VAWTI Javascript Dates and Time APIs, and proposal for the future to fix all the existing crap
+
 # 26-05-2017
 
 - http://viktorklang.com/blog/Futures-in-Scala-protips-1.html Some simple tips about Future and ExecutionContext in Scala
