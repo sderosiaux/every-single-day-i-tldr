@@ -10,6 +10,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf A very good article/recap with pointers about GraphQL and its impls.
 - https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566 Some usage of recompose, all HoC for React functional components
 - http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html Enumerating some warts in Scala
+- https://medium.com/styled-components/announcing-v2-f01ef3766ac2 Style your components with.. style! Very good lib to do css-in-js (React)
 
 # 27-05-2017
 
