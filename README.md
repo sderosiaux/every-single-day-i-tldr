@@ -19,6 +19,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://nodejs.org/en/blog/release/v8.0.0/ That's a shitload of commits!
 - https://martinfowler.com/articles/continuousIntegration.html I couldn't live without continuous integration :-)
 - https://www.youtube.com/watch?v=EdFDJANJJLs V8 = TurboFan (perf) + Ignition (interpreter) pipeline. + WebAssembly compliant.
+- https://www.cs.princeton.edu/~rs/talks/AC11-Cardinality.pdf Cardinality Estimation. Very interesting slidedown talking about some algo to estimate a cardinality in a stream (exact or approx), finishing by the HyperLogLog and HyperBitBit.
 
 # 28-05-2017
 
