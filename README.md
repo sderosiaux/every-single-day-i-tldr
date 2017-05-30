@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-05-2017
+
+- https://medium.com/styled-components/announcing-v2-f01ef3766ac2 Style your components with.. style! Very good lib to do css-in-js (React)
+- https://hnpwa.com/ Tons of Hacker News reader implementation, as Progressive Web Apps (React, Preact, Angular, Vue..) and their Lighthouse score
+- https://github.com/facebook/jest/pull/3668/files How to switch jest from jasmine to a custom test runner
+- https://www.amazon.fr/4-Hour-Workweek-Expanded-Updated-Cutting-Edge/dp/0307465357 "The 4-Hour Workweek" I heard it's a must-read, to think about ourselves! By Tim Ferris.
+- https://jaxenter.com/know-your-scala-trivia-134395.html A tiny but interesting quizz around Scala
+- https://www.scala-lang.org/blog/2017/04/01/announcing-skala.html A funny easter egg about Scala with a proposal to switch the keywords to German and misc.
+- https://storybook.js.org/examples/ Tons of React components easily browseable, love it
+- http://scala-lang.org/blog/2017/05/30/tribulations-canbuildfrom.html Good reminder about breakOut when transforming collection, I rarely think about it :(
+- https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/ HTTP/2 Push seems so complicated because of the implementation differences :(
+- https://logrocket.com/ Another system to track client-side Javascript errors 
+
 # 28-05-2017
 
 - https://reviewable.io/ A review to help reviewing GitHub PRs. Looks like the advantage is it shows what changed since we last time we looked.
