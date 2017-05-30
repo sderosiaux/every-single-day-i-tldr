@@ -18,6 +18,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://logrocket.com/ Another system to track client-side Javascript errors 
 - https://nodejs.org/en/blog/release/v8.0.0/ That's a shitload of commits!
 - https://martinfowler.com/articles/continuousIntegration.html I couldn't live without continuous integration :-)
+- https://www.youtube.com/watch?v=EdFDJANJJLs V8 = TurboFan (perf) + Ignition (interpreter) pipeline. + WebAssembly compliant.
 
 # 28-05-2017
 
