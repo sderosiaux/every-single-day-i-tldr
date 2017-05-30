@@ -16,6 +16,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://scala-lang.org/blog/2017/05/30/tribulations-canbuildfrom.html Good reminder about breakOut when transforming collection, I rarely think about it :(
 - https://jakearchibald.com/2017/h2-push-tougher-than-i-thought/ HTTP/2 Push seems so complicated because of the implementation differences :(
 - https://logrocket.com/ Another system to track client-side Javascript errors 
+- https://nodejs.org/en/blog/release/v8.0.0/ That's a shitload of commits!
+- https://martinfowler.com/articles/continuousIntegration.html I couldn't live without continuous integration :-)
 
 # 28-05-2017
 
