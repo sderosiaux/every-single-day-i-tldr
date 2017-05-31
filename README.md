@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 31-05-2017
+
+- https://www.youtube.com/watch?v=EdFDJANJJLs V8 = TurboFan (perf) + Ignition (interpreter) pipeline. + WebAssembly compliant.
+- https://status.github.com/ Today GitHub had some issues, 89.6194% of availability!
+- https://github.com/rgbkrk/covfefe covfefe
+- https://www.youtube.com/watch?v=EAaweXzUVh4 We should encode our password with Argon2, because it's damn slow to compute, takes CPU and memory. npm i secure-password. https://github.com/emilbayes/secure-password
+- https://download.libsodium.org/doc/ The native crypto library used undernealth
+- https://yarnpkg.com/blog/2017/05/31/determinism/ npm5 now does its own lock file, no interop with yarn
+- http://kubernetesbyexample.com/ Some basic and clear explanations about the different items in kubernetes
+
 # 29-05-2017
 
 - https://medium.com/styled-components/announcing-v2-f01ef3766ac2 Style your components with.. style! Very good lib to do css-in-js (React)
