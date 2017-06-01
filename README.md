@@ -4,6 +4,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-06-2017
+
+- https://softwaremill.com/akka-monitoring-with-kamon-part-1/ Akka and Kamon, perfect match!
+- http://underscore.io/blog/posts/2017/05/29/why-we-open-sourced-our-books.html underscore (good scala consulting company) opened source its books (about scala, cats, play, slick..), nice gesture
+- http://www.scala-lang.org/blog/2017/05/31/first-dotty-milestone-release.html New cool features in Dotty, mostly about types (intersection, union), and true enums.
+- https://github.com/OpenHFT/SmoothieMap A better and more latency-consistent-less-garbage HashMap
+
 # 31-05-2017
 
 - https://www.youtube.com/watch?v=EdFDJANJJLs V8 = TurboFan (perf) + Ignition (interpreter) pipeline. + WebAssembly compliant.
