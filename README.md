@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-06-2017
+
+- http://www.infoworld.com/article/3199186/javascript/nodejs-8-brings-sanity-to-native-module-dependencies.html A recap about nodejs 8 (v8 upgrade, turbofan+ignition, native deps, buffers, whatwg url (new URL(..)), npm5, util.promisify to remove those crappy callbacks(err, success).
+- https://github.com/yandex/ClickHouse ClickHouse is a free analytic DBMS for big data. https://clickhouse.yandex
+- https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development How to start properly with VSCode, which plugins to install etc. to do some js
+- https://github.com/criteo/socco Create nice html page from commented source files
+- https://github.com/prettier/prettier/releases/tag/1.4.0 Typescript and CSS support, and tons of enhancement for Javascript formatting
+
 # 01-06-2017
 
 - https://softwaremill.com/akka-monitoring-with-kamon-part-1/ Akka and Kamon, perfect match!
