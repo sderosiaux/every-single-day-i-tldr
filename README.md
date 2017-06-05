@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-06-2017
+
+- https://github.com/ThoughtWorksInc/feature.scala Nice Scala utilities. Through implicit, get the Caller of any function, create a Factory from any type
+- http://blog.panoply.io/redis-vs-mongodb High level comparaison between Redis (speed, stable size) and MongoDB (scale, query model). 
+- https://www.youtube.com/watch?v=9lWrt6H6UdE "What's Different In Dotty" Scala 3.0 in 2019 !.
+- http://www.anishathalye.com/2017/06/04/testing-distributed-systems-for-linearizability/ Very interesting article about testing Linearizability (through linearization points)
+- https://vimeo.com/170796168 Nice code talk about Slick. From 0 to some queries, everything explained, good!
+- http://szymonkaliski.com/blog/2017-05-31-exploring-reasonml/ Dude exploring ReasonML to draw some balls :)
+- https://www.slideshare.net/HadoopSummit/working-with-the-scalding-type-safe-api Criteo working with the Scalding type safe API
+- https://vincent.bernat.im/fr/blog/2014-tcp-time-wait-state-linux A very interesting article about tcp time-wait connections (tcp_tw_reuse and tcp_tw_recycle effects)
+
 # 04-06-2017
 
 - https://github.com/phenomic/phenomic A gatsbyjs like project, to generate a static website from markdown pages+some reactjs code
