@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 04-06-2017
+
+- https://github.com/phenomic/phenomic A gastby like project, to generate a static website from markdown+some reactjs code
+- https://docs.microsoft.com/en-us/cognitive-toolkit/reasons-to-switch-from-tensorflow-to-cntk Microsoft abandonning TensorFlow in profit of their CNTK, for various reasons. (speed, accuracy, interop, ..)
+- https://community.qlik.com/blogs/qlikviewdesignblog/2017/05/31/who-do-the-kudu-that-you-do Qlik now has a Kudu connector!
+- https://zeit.co/tv zeit now centralize its videos (conf, tech talks..)
+- http://schd.ws/hosted_files/apachebigdata2016/fd/Introduction%20to%20Apache%20Kudu.pdf an "old" (0.8) presentation of Apache Kudu, but still valid and interesting
+- https://github.com/uber/react-map-gl Nice wrapper to do draggable maps with React, adding some layers etc.
+- http://2ality.com/2017/05/util-promisify.html util.promisify is a bit more than just a simple wrapper
+- http://uber.github.io/deck.gl/blog/2017/introducing-deckgl-v4 deckgl, a component when we can put inside a react-map-gl but not always!
+
 # 02-06-2017
 
 - http://www.infoworld.com/article/3199186/javascript/nodejs-8-brings-sanity-to-native-module-dependencies.html A recap about nodejs 8 (v8 upgrade, turbofan+ignition, native deps, buffers, whatwg url (new URL(..)), npm5, util.promisify to remove those crappy callbacks(err, success).
