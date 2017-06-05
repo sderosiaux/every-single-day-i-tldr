@@ -6,7 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 04-06-2017
 
-- https://github.com/phenomic/phenomic A gastby like project, to generate a static website from markdown+some reactjs code
+- https://github.com/phenomic/phenomic A gatsbyjs like project, to generate a static website from markdown pages+some reactjs code
 - https://docs.microsoft.com/en-us/cognitive-toolkit/reasons-to-switch-from-tensorflow-to-cntk Microsoft abandonning TensorFlow in profit of their CNTK, for various reasons. (speed, accuracy, interop, ..)
 - https://community.qlik.com/blogs/qlikviewdesignblog/2017/05/31/who-do-the-kudu-that-you-do Qlik now has a Kudu connector!
 - https://zeit.co/tv zeit now centralize its videos (conf, tech talks..)
