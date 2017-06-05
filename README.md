@@ -25,6 +25,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/uber/react-map-gl Nice wrapper to do draggable maps with React, adding some layers etc.
 - http://2ality.com/2017/05/util-promisify.html util.promisify is a bit more than just a simple wrapper
 - http://uber.github.io/deck.gl/blog/2017/introducing-deckgl-v4 deckgl, a component when we can put inside a react-map-gl but not always!
+- https://adriaanm.github.io/reveal.js/scala-2.12-2017.html Scala 2.12 & Beyond. Avoid Python 3! :-)
 
 # 02-06-2017
 
