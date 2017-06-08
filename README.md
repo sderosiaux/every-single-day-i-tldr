@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 07-06-2017
+
+- https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html After reading that, why would we use HDFS over S3 ? ;)
+- https://medium.com/@kennyalive/quake-3-vulkanized-245cc349fdcf A dude reimplemented the rendering of Quake 3 with the Vulkan rendering API in barely 3 months! the "next" OpenGL
+- https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb Really like the "list" to resolve any problem: understand the problem domain, enumerate candidate solutions, read paper for one candidate, know why/when it was created, its context; advatages against disadvantages; then think if you use it, what happens, and what could change your mind?
+- https://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html "Command-line Tools can be 235x Faster than your Hadoop Cluster" Catchy title of the Year. And I'm totally for this! We don't always need impala or spark or mapreduces. to process files.
+- https://dev.office.com/fabric I really like the Office component library, and they also "offers" best practices about how/when to use each component.
+- https://github.com/lloydmeta/enumeratum A better Scala enum? with name/value modifiers, macros that generates json boilerplates for any lib,. (play-json etc.)
+- https://github.com/theiterators/kebs in the same vein, kebs offers macros to replace boilerplates for [slick, play-json, akka-http] serde
+
 # 05-06-2017
 
 - https://github.com/ThoughtWorksInc/feature.scala Nice Scala utilities. Through implicit, get the Caller of any function, create a Factory from any type
