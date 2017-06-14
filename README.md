@@ -4,6 +4,24 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-06-2017
+
+- https://codewithoutrules.com/2017/06/14/how-to-name-your-software/ _how not to name your software_
+- https://github.com/gatsbyjs/gatsby/issues/419 gatsby 1.0 is coming, slowly
+- https://softwaremill.com/akka-monitoring-with-kamon-part-2/ A good part 2 post about Kamon features and akka-http.
+- https://github.com/scalalandio/chimney A small and maybe useful Scala lib to copy fields from one case class to another one (without specifying all field names), thanks to macros.
+- http://www.lurklurk.org/linkers/linkers.html Interesting explanations about the linkers logic (C/C++), unix and windows
+- http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found/ 
+
+# 14-06-2017
+
+- http://sortbenchmark.org/NADSort2016.pdf The famous 100TB CloudSort benchmark, done in 3000s, for 150$ on Alibaba Cloud
+- https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/ A nice intro to running a nodejs in kubernetes
+- https://github.com/eBay/parallec 
+- https://github.com/propensive/magnolia Magnolia is a generic macro for automatic derivation of typeclasses #scala
+- http://blog.colinbreck.com/ A very good blog, with inspiring article about scala, akka streams, and self introspection.
+- https://github.com/alibaba/react-intl-universal Another lib for i18n for React (but also vanilla it seems, who cares)
+
 # 07-06-2017
 
 - https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html After reading that, why would we use HDFS over S3 ? ;)
