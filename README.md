@@ -11,7 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://developer.lightbend.com/blog/2017-06-15-sbt-1-0-beta2/ sbt 1.0 beta2 !
 - https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/ I have no idea what am i using, because of auto indentation.
 - https://www.erikheemskerk.nl/c-sharp-7-2-and-8-0-uncertainty-awesomeness/ C# is becoming more javascript'ish and scala'ish :D
-- https://github.com/schemasafe/troy csql statically checked via macro in Scala.
+- https://github.com/schemasafe/troy csql statically checked via macro in Scala. It reminds me of https://github.com/spotify/scio which does the same but with BigQuery.
 
 # 15-06-2017
 
