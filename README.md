@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-06-2017
+
+- http://developer.lightbend.com/blog/2017-06-12-faster-scala-compiler/ Yes! More scalac speed.
+- https://12factor.net/ The Twelve-Factor App, some very nice and useful tips to apply in any project
+- http://developer.lightbend.com/blog/2017-06-15-sbt-1-0-beta2/ sbt 1.0 beta2 !
+- https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/ I have no idea what am i using, because of auto indentation.
+- https://www.erikheemskerk.nl/c-sharp-7-2-and-8-0-uncertainty-awesomeness/ C# is becoming more javascript'ish and scala'ish :D
+- https://github.com/schemasafe/troy csql statically checked via macro in Scala.
+
 # 15-06-2017
 
 - https://codewithoutrules.com/2017/06/14/how-to-name-your-software/ _how not to name your software_
