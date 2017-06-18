@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-06-2017
+
+- https://www.youtube.com/watch?v=8_DfwEpHE88 Martin Kleppmann - Conflict Resolution for Eventual Consistency (CRDTs)
+- http://scala-lang.org/blog/2016/10/24/scalafix.html Codemods for Scala to Dotty
+- https://www.youtube.com/watch?v=2ghtw7Bp0ME Colossus is a very performant scala microservice framework (tumblr)
+- https://www.infoq.com/presentations/event-sourcing-jvm Not really JVM, but mostly Event Sourcing presentation
+- https://www.infoq.com/presentations/reactor-3-java8 Reactor3, design, structure, reactive-streams, comparaison with RxJava, implementation in JS
+- https://developers.google.com/web/updates/2017/05/devtools-release-notes Lots of nice update in Chrome 60 (lighthouse, rt code coverage,  async debug by default, third party badges (ads!))
+- http://www.atrato.io/blog/2017/05/28/apex-kudu-output/ Writing into Kudu from Apache Apex
+- https://www.youtube.com/watch?v=NvCcNM2vp3k Optics (not profunctors eh!) with Monocle, with Scala https://github.com/julien-truffaut/Monocle
+
 # 16-06-2017
 
 - http://developer.lightbend.com/blog/2017-06-12-faster-scala-compiler/ Yes! More scalac speed.
