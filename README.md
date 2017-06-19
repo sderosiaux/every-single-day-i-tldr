@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-06-2017
+
+- https://github.com/boltdb/bolt A popular embedded key/value database for Go.
+- https://www.youtube.com/watch?v=-4Yp3j_jk8Q Write TLA+ (or PlusCal) specs (mathematically) of the code you're about to write, it can find subtle cases
+- https://github.com/kailashahirwar/cheatsheets-ai Many many cheatsheets about ML and DL (tensorflow, keras, numpy, pandas, sckikit-learn, pyspark..)
+- https://medium.com/front-end-hacking/being-rxjs-subjects-savvy-4aec5c8da99e Intro to rx subjects, publish/refcount, cold/hot obs. The article reminds me exactly of Andre Stalz's videos.
+- https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-1/ a VERY tiny intro to comparing akka streams and monix.
+- https://softwaremill.com/interval-based-rate-limiter/ implementing a rate limiter with akka streams
+- https://ratpack.io/ https://github.com/pledbrook/lazybones Ratpack is a set of Java libraries for building modern HTTP applications.. It's very good, not verbose, reactive, modular, has some spring, guice, rxjava, jackson, hystrix modules
+
 # 17-06-2017
 
 - https://www.youtube.com/watch?v=8_DfwEpHE88 Martin Kleppmann - Conflict Resolution for Eventual Consistency (CRDTs)
