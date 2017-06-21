@@ -15,6 +15,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.confluent.io/product/connectors/ So many connectors in Kafka Connect now. Just need to use their Schema Registry to enjoy ;(
 - https://fymhotsauce.rocks/blogs/news/my-uber-driver-robbed-me-so-i-took-uber-to-court-and-won Just use Uber to return from party, and you won't have troubles.
 - https://speakerdeck.com/jboner/without-resilience-nothing-else-matters Be and live with resilience.
+- https://shipilev.net/jvm-anatomy-park/7-initialization-costs/ Another super interesting article about jmh options, and JVM object initialization speed and optimization (through unsafe).
 
 # 18-06-2017
 
