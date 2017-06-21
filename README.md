@@ -8,10 +8,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 - http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html Tabs, spaces and salary. Part 2.
 - https://en.wikipedia.org/wiki/Synesthesia "neurological phenomenon in which stimulation of one sensory or cognitive pathway leads to automatic, involuntary experiences in a second sensory or cognitive pathway"
-- https://github.com/BranislavLazic/akka-cqrs-activator This inspires me to write some akka persistence thingy.
+- https://github.com/BranislavLazic/akka-cqrs-activator This inspires me to write some akka persistence thingy. #scala
 - https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b Webpack 3 with hoisting (finally); and dynamic import bundle naming
 - https://blog.teller.io/2017/06/12/the-api-for-your-bank-account-is-here.html An standard API over different Bank systems, glorious!
-- http://www.summaread.com/ a site with TLDR only! I should have done it first, damn :)
+- http://www.summaread.com/ a site with TLDRs only! I should have done it first, damn :)
 - https://www.confluent.io/product/connectors/ So many connectors in Kafka Connect now. Just need to use their Schema Registry to enjoy ;(
 - https://fymhotsauce.rocks/blogs/news/my-uber-driver-robbed-me-so-i-took-uber-to-court-and-won Just use Uber to return from party, and you won't have troubles.
 
