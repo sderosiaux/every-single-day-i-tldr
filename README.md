@@ -4,6 +4,24 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-06-2017
+
+- https://shipilev.net/jvm-anatomy-park/6-new-object-stages/ Optim: call functions after settings the var in the ctor, or you get a penalty (2 inits, one at 0, one at the value set in the ctor)
+- http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html A very great guide to gdb
+- https://www.lightbend.com/blog/lightbend-podcast-play-2-6-is-coming-and-its-faster-than-ever Play 2.6, akka http, jwt, twirl DI inside, https://playframework.com/documentation/2.6.x/Highlights26
+
+# 22-06-2017
+
+- https://www.youtube.com/watch?v=RZIkFuDpV20 A very cool review on the new Twitter's design
+- https://github.com/ThoughtWorksInc/each It can be quite handy hmm it converts imperative syntax to scalaz's monadic expressions
+- http://www.luna-lang.org/ A visual language, converted to text, and functional. I wonder if it's scale on a real project.
+- https://cloud.google.com/vision/docs/fulltext-annotations Detect text in pictures thanks to Google Vision
+- https://martinfowler.com/articles/refactoring-external-service.html Refactoring step by step, in a bahavior-preserving way.
+- http://www.cakesolutions.net/teamblogs/pitfalls-of-an-ungroomed-backlog Backlog Grooming, definitely necessary! You often clean up crap here :)
+- https://www.47deg.com/blog/fp-for-the-average-joe-part-1-scalaz-validation/ ValidationNel, a very nice monad to accumulate errors, Scalaz
+- https://blog.scalac.io/2017/05/25/scala-specialization.html I've never applied @specialized, i probably should have.
+
+
 # 21-06-2017
 
 - http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html Tabs, spaces and salary. Part 2.
