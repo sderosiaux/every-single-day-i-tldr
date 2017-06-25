@@ -4,6 +4,22 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 25-06-2017
+
+- http://docs.scala-lang.org/overviews/macros/overview.html it's time to dive into scala macros!
+- https://cloud.google.com/solutions/reliable-task-scheduling-compute-engine a "cron" system using pubsub to convey a message to trigger some functions
+- https://shinesolutions.com/2017/03/23/triggering-dataflow-pipelines-with-cloud-functions/ Triggering dataflow pipelines with cloud functions triggered by putting some files on google cloud storage
+- https://verylegit.link/ generate safe links from any url such as "http://not.verylegit.link/3R~.QuJR_Do>LR;og122virus)javaexploit.js.docm" ahah
+- https://blog.mozilla.org/blog/2017/06/21/2-million-prize-decentralize-web-apply-today/ Got an idea? $2M !
+- https://stackoverflow.com/a/32534239/529398 Oauth explained with donuts and a bank.
+- https://github.com/scalajs-css/core we have css in js, and now we have css in scalajs!
+- https://var.ci/ A new fresh github bot. Its commands are described through a .yml, can merge stuff etc.
+- https://lists.debian.org/debian-devel/2017/06/msg00308.html important bug found in opcodes of skulake & kaby lake, leading to unpredctable system behavior
+- https://github.com/alexandru/scala-best-practices i read them a long while ago, still useful to read them now :)
+- https://github.com/LMAX-Exchange/disruptor exchanging messages between thread, in a pub-sub fashion, with controlled latency (ie: how to wait)
+- http://blog.stackstate.com/the-container-monitoring-problem stackstate is a platform to monitor your containers, no matter the orchestration system (mesos, k8s, docker swarm..)
+- https://www.youtube.com/watch?v=yLbdw06tKPQ Awesome talk about scala cake pattern, how and why, and also covers its big issues (lots of fucked up things with scalac, order of evaluations, deadlocks;;)
+
 # 23-06-2017
 
 - https://shipilev.net/jvm-anatomy-park/6-new-object-stages/ Optim: call functions after settings the var in the ctor, or you get a penalty (2 inits, one at 0, one at the value set in the ctor)
