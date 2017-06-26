@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 26-06-2017
+
+- https://cloud.google.com/free/docs/map-aws-google-cloud-platform https://cloud.google.com/free/docs/map-azure-google-cloud-platform Map of Google services against AWS and Azure.
+- https://cloud.google.com/apis/design/ 
+- http://opentracing.io/documentation/ Create traces and "spans" of a request accross all the services (impls: jaeger, zipkin)
+- https://www.alexkras.com/i-decided-to-disable-amp-on-my-site/ interesting feedback and learnings about Google AMP
+- https://eng.uber.com/distributed-tracing/ I really need to use Jaeger, seems so great to monitor internals!
+- https://github.com/kubernetes/heapster Monitoring kubernetes nodes and containers (and sending the metrics anywhere)
+
 # 25-06-2017
 
 - http://docs.scala-lang.org/overviews/macros/overview.html it's time to dive into scala macros!
