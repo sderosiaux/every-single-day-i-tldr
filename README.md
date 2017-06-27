@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-06-2017
+
+- https://github.com/ChALkeR/notes/blob/master/Gathering-weak-npm-credentials.md Glorious "attack" on npm credentials
+- https://dribbble.com/shots/3605964-Airbnb-AR-Map-Concept an awesome design that uses augmented reality, maybe soon at airbnb's?
+- https://github.com/prettier/prettier/releases/tag/1.5.0 Who is not using Prettier yet?
+- https://coreos.com/blog/prometheus-and-kubernetes-up-and-running.html Just playing with prometheus, grafana, k8s. Loving stack.
+- https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/ Title says all!
+
 # 26-06-2017
 
 - https://cloud.google.com/free/docs/map-aws-google-cloud-platform https://cloud.google.com/free/docs/map-azure-google-cloud-platform Map of Google services against AWS and Azure.
