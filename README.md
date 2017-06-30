@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 28-06-2017
+
+- http://swreflections.blogspot.fr/2013/06/automated-tests-as-documentation.html Are tests are enough as documentation? As least, they're up to date!
+- http://www.enterpriseintegrationpatterns.com/ramblings/google_cloud_functions.html Using google cloud functions to listen/publish from/to pubsub
+- https://www.spantree.net/blog/2017/06/26/scala-native-for-cli-tools.html A few Scala Native learnings: %%%, and random is not random (!)
+- https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-2/ A small comparaison between akka streams and monix, some use-cases.
+- http://cloudmark.github.io/FSM/ Good post about Akka FSM (finite state machine) and impl of a "at most once" basic system)
+
 # 27-06-2017
 
 - https://github.com/ChALkeR/notes/blob/master/Gathering-weak-npm-credentials.md Glorious "attack" on npm credentials
