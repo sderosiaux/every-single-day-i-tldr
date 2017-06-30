@@ -4,7 +4,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
-# 28-06-2017
+# 30-06-2017
 
 - http://swreflections.blogspot.fr/2013/06/automated-tests-as-documentation.html Are tests are enough as documentation? As least, they're up to date!
 - http://www.enterpriseintegrationpatterns.com/ramblings/google_cloud_functions.html Using google cloud functions to listen/publish from/to pubsub
