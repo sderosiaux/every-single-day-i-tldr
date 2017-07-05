@@ -4,6 +4,20 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 04-07-2017
+
+- https://www.nasa.gov/sites/default/files/files/E_Christiansen-MMODriskOverview.pdf Space is dangerous, yeah.
+- https://github.com/patrick-steele-idem/morphdom An interesting way of patching the DOM, without virtual dom (just real dom against real dom)
+- https://github.com/yoshuawuyts/choo A simple and fast frontend framework that uses morphdom behind the scene
+- https://www.ianvisits.co.uk/blog/2017/06/10/cooling-the-tube-engineering-heat-out-of-the-underground/ Super interesting article about cooling the london tube. note: the heat is mostly caused by the brakes
+- https://github.com/ashleymcnamara/learn_to_code All the resources needed to learn any language
+- https://github.com/minio/minio Minio is an open source object storage server compatible with Amazon S3 APIs
+- https://github.com/edenhill/kafkacat an alternative to kafka console consumer/producer
+- https://stevesloka.com/2017/05/19/access-minikube-services-from-host/ Access kubernetes service ClusterIP types from outside by IP or service name. ie:  route add 10.0.0.0/24 $(minikube ip)
+- http://rancher.com/ A platform to manage containers. Similar to openshift. Can work with k8s. "Container as a Service"
+- http://blog.octo.com/la-ruee-vers-le-conteneur/ A fr article about Rancher
+- https://github.com/weaveworks/cortex A multitenant, horizontally scalable Prometheus as a Service, currently in beta
+
 # 30-06-2017
 
 - http://swreflections.blogspot.fr/2013/06/automated-tests-as-documentation.html Are tests are enough as documentation? As least, they're up to date!
