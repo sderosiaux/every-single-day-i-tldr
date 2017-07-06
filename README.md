@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 06-07-2017
+
+- https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html Making a virtual machine in Google Sheets. Create some registers, some memory, some instructions, and let gsheets execute it :o
+- https://adexchanger.com/international/china-challenge-lessons-criteos-quiet-exit/ China market: too closed, too secret, they don't want to share, Criteo out!
+- https://blog.mozilla.org/security/2017/06/28/analysis-alexa-top-1m-sites/ The security best practices is _very_ slowly being taken into account on the web
+- https://www.gatsbyjs.org/blog/gatsby-v1/ !! I can update my blog with this now. edit: migration path sucks :( No codemods, damnit!
+- https://blog.risingstack.com/mastering-async-await-in-nodejs/ Come on, async/await in JS is already so old.
+- https://blog.expo.io/expos-website-2680a1ac1a7 A builder of mobile React native apps
+
 # 04-07-2017
 
 - https://www.nasa.gov/sites/default/files/files/E_Christiansen-MMODriskOverview.pdf Space is dangerous, yeah.
