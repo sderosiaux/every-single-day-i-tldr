@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 08-07-2017
+
+- https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/ I totally forgot about that, a must read
+- https://github.com/blog/2392-introducing-code-owners Auto notifying the right people to do code reviews (based on file type, folders etc.)
+- http://whatthefuckisethereum.com/ explained differently according to who you are :) basically: you run program (on theplatform ethereum) on your comp', we pay you in ether.
+- https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1 Describing her experience to write open-source in front of everyone. Interesting, if you want to give a try!
+- https://medium.com/@anicolaspp/simplified-testing-with-scalatest-and-custom-matchers-bd5297128ebc A nice reminder that we should write custom matchers in tests
+- https://jvns.ca/blog/2017/07/05/linux-tracing-systems/ one thing to remember: perf trace.
+- https://mapr.com/blog/performance-tuning-kafka-spark-streaming-telecom/ Some tips about improving performance of a kafka/ignite/spark streaming workflow.
+- https://apacheignite.readme.io/docs/jvm-and-system-tuning Tuning Apache Ignite beucase it's important! Will definitely use it.
+- http://jcommander.org/ A really great Java cli parser library, based on annotations.
+
 # 06-07-2017
 
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html Making a virtual machine in Google Sheets. Create some registers, some memory, some instructions, and let gsheets execute it :o
