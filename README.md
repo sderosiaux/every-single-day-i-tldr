@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-07-2017
+
+- https://www.addthis.com/blog/2013/04/16/building-a-distributed-system-with-akka-remote-actors/ An old feedback about Akka Remote (when Akka Cluster was not even out)
+- https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition A wonderful example of #abstractAllTheThings to write a fizzbuzz program (almost 2k lines)
+- https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8 Don't overengineer things.
+- https://danluu.com/startup-options/ A long post talking about the "options" business in startup. It's quite complex, and basically, you're often screwed. :-D
+- https://gist.github.com/alexandru/55a6038c2fe61025d555/2bfa0e28b7b69fa0a7007b0c5d4fa6447b431d5f A reflection about Monix's Task, by its creator
+- https://www.youtube.com/watch?v=rwqwwn_46kA MobX into a state tree. New state management? https://github.com/mobxjs/mobx-state-tree
+- https://thenewstack.io/identifying-collecting-container-data/ Tools for monitoring containers (docker stats, cadvisor, prometheus, grafana, (c)sysdig, datadog, dynatrace..)
+- https://fullstackmark.com/post/11/better-software-design-with-clean-architecture A good intro to the Clean Architecture
+
 # 08-07-2017
 
 - https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/ I totally forgot about that, a must read
