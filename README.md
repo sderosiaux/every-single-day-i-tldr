@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 12-07-2017
+
+- https://github.com/segmentio/ksuid Kind of UUIDs orderable by time, hm (timestamp first)
+- https://en.wikipedia.org/wiki/Heat_death_of_the_universe Scary future. We won't be there to assist to that anyway.
+- https://segment.com/blog/exactly-once-delivery/ A very nice article about using kafka+rocksdb to eliminate duplicates inputs
+- https://github.com/shieldfy/API-Security-Checklist A useful list, that will probably grow, to check when designing an API
+- https://github.com/chtefi/checklists Needed to be done
+- http://www.bbc.com/news/business-40504764 An awesome story every IT dev want to do :-) "The man who built a $1bn firm in his basement"
+- https://qz.com/1019928/i-went-from-sedentary-academic-to-100-mile-marathon-runner-thanks-to-the-science-of-self-control/ A motivating post about self-control, and mental strength
+- https://seashells.io/ This is a win. Pipe output from any command to the interweb, and have a live-console in the browser, with an anonymous link to share.
+- https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/ The more core you have, the slower is it! Amdahl's law.
+- https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/ This is demential.
+
 # 09-07-2017
 
 - https://www.addthis.com/blog/2013/04/16/building-a-distributed-system-with-akka-remote-actors/ An old feedback about Akka Remote (when Akka Cluster was not even out)
