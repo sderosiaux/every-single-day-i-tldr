@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-07-2017
+
+- https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923 Starbucks API is now open :-)
+- https://github.com/databricks/scala-style-guide Tips from Databricks about coding in scala
+- https://www.atlantbh.com/blog/using-firebase-provide-real-time-notifications/ Using Firebase To Provide Real-Time Notifications on web (RealTime Database) and mobile (with Firebase Cloud Messaging)
+- http://www.scala-sbt.org/1.0/docs/sbt-1.0-Release-Notes.html So may changes in sbt 1.0.0-RC2. Lots of deprecated and removed stuff, performance..
+- http://scala-lang.org/blog/2017/07/12/second-dotty-milestone-release.html And Dotty is releasing 0.2.0-RC1
+- https://react-etc.net/entry/apache-foundation-bans-use-of-facebook-bsd-patents-licensed-libraries-like-react-js ASF projects not allowed to use Facebook licensed software
+- http://www.beyondthelines.net/computing/scala-future-and-execution-context/ Deep inside Scala's Futures and ExecutionContexts
+- http://august.nagro.us/jvm-startup.html TLDR: Nailgun to preload all the jars separately.
+- https://www.kernel.org/doc/html/latest/process/coding-style.html Linux kernel coding style with a lot of notes, some of them hilarious
+- https://github.com/Kristories/awesome-guidelines A new awesome repo, guidelines for languages, api, rest, json, ...
+
 # 12-07-2017
 
 - https://github.com/segmentio/ksuid Kind of UUIDs orderable by time, hm (timestamp first)
