@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-07-2017
+
+- https://blog.nightly.mozilla.org/2017/07/17/preview-storage-api-in-firefox-nightly/ "The global limit is calculated as 50% of free disk space"
+- https://twitter.com/svensauleau/status/887281075294281733 Pattern Matching in JS
+- https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/ Forward compat' between Kafka clients and brokers
+- https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0 Caching http pages in nodejs. Hello, my name is varnish, or even nginx do that. :/
+- https://blog.jetbrains.com/idea/2017/07/intellij-idea-2017-2-is-here-smart-sleek-and-snappy/ 
+- https://hire.google.com/ New Google Service to manage people hiring in a company (integration with calendar, gmail.) Only US
+- https://github.com/xori/gamblers-dice Excellent! A dice that respects the gambers fallacy dice. (the past alters the future)
+- https://www.byte.nl/blog/dont-run-this-on-any-system-you-expect-to-be-up-they-said-but-we-did-it-anyway Upgrading 2000 ubuntu servers from 12 to 16. Fully automatized.
+- https://www.confluent.io/blog/build-services-backbone-events/ https://www.confluent.io/blog/apache-kafka-for-service-architectures/ https://www.confluent.io/blog/building-real-time-streaming-etl-pipeline-20-minutes/ Confluent has really good articles about their platform and streaming in general. (and kafka ofc)
+
 # 17-07-2017
 
 - https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923 Starbucks API is now open :-)
