@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 21-07-2017
+
+- https://blog.scalac.io/improving-akka-dispatcher.html A new ExecutorService, lock-free, supposely faster, with a better core cache locality management
+- http://www.beyondthelines.net/computing/akka-streams-patterns/ An interesting and not so long presentation of akka streams, with clear points
+- https://medium.com/@drboolean/laziness-with-representable-functors-9bd506eae83f _Representable Functors_ and Reader monad
+- http://goldbergyoni.com/checklist-best-practice-of-node-js-in-production/ 
+- https://dev-blog.apollodata.com/the-next-step-for-realtime-data-in-graphql-b564b72eb07b Subscriptions spec incoming in GraphQL
+- https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/ Managing notifications and alerting using Kafka Streams
+- https://groups.google.com/forum/#!msg/redis-db/5Kh3viziYGQ/58TKLwX0AAAJ Redis 4.0 out !!
+
 # 19-07-2017
 
 - https://blog.nightly.mozilla.org/2017/07/17/preview-storage-api-in-firefox-nightly/ "The global limit is calculated as 50% of free disk space"
