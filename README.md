@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-07-2017
+
+- https://speakerdeck.com/thesandlord/kubernetes-best-practices Kubernetes Best Practices. non root. readonly fs. dumb-init. labels. istio, linkerd (service mesh).
+- https://github.com/Duhemm/sbt-errors-summary I didn't know we had a sbt plugin to have those nicer errors (was not added to the original sbt to not break compat with emacs ..)
+- https://www.reddit.com/r/scala/comments/6p550d/scalajs_vs_kotlin_compiled_to_javascript/ Some interesting point about Scala.js vs Kotlin/js. Scala.js way better for now. (interop, compat, )
+- https://github.com/google/pik Another lossy format image by Google. No more info still.
+- https://github.com/brannondorsey/wifi-cracking Always useful to know!
+- https://github.com/danielmiessler/SecLists A damn crazy repo with tons of passwords list, fuzzy words
+- http://pzemtsov.github.io/2017/07/23/the-slow-currenttimemillis.html currentTimeMillis() slow in Linux, ultra fast on Windows.
+
 # 21-07-2017
 
 - https://blog.scalac.io/improving-akka-dispatcher.html A new ExecutorService, lock-free, supposely faster, with a better core cache locality management
