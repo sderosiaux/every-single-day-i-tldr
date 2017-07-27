@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-07-2017
+
+- https://cloudplatform.googleblog.com/2017/07/three-steps-to-Compute-Engine-startup-time-bliss-Google-Cloud-Performance-Atlas.html
+- https://github.com/rikschennink/fitty Fit text in a particular area
+- https://www.theguardian.com/environment/2017/jul/25/google-enters-race-for-nuclear-fusion-technology Google is everywhere.
+- https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9 Excellent article sur le service cli d'über qualité de captain train.
+- https://github.com/github/brubeck brubeck is a simpler statsd
+- https://techblog.bozho.net/concerns-blockchain-technology/ Are blockchains gonna change the world?
+
 # 24-07-2017
 
 - https://speakerdeck.com/thesandlord/kubernetes-best-practices Kubernetes Best Practices. non root. readonly fs. dumb-init. labels. istio, linkerd (service mesh).
