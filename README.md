@@ -4,6 +4,19 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-07-2017
+
+- https://manuel.bernhardt.io/2017/07/26/a-new-adaptive-accrual-failure-detector-for-akka/ Benchmarking failure detection algorithms with Akka
+- https://github.com/graphcool/chromeless Run chrome automation in a lambda !
+- https://stateofjs.com/ 2017 is there!
+- https://medium.com/@duhroach/internal-ip-vs-external-ip-performance-76f15a650356 Never use public interfaces
+- https://github.com/scala/scala/releases/tag/v2.12.3 Scala 2.12.3 out ! Mostly around performance, yeah.
+- http://developer.lightbend.com/blog/2017-07-28-sbt-1-0-0-RC3-and-sbt-0-13-16/ and sbt 1.0 there in 2 weeks !
+- http://szelei.me/rpc-benchmark-part1/ "rpclib" is based on msgpack, very performant
+- https://fpj.me/2017/07/04/no-consensus-in-exactly-once/ Comparing Exactly once and consensus. Idempotence and transactions (with rollback) can provide exactly once.
+- https://github.com/micrometer-metrics/micrometer The slf4j of the metrics in Java :-)
+- https://about.sourcegraph.com/go/grpc-in-production-alan-shreve A nice recap of the features provided by gRPC, with lots of Go code
+
 # 27-07-2017
 
 - https://cloudplatform.googleblog.com/2017/07/three-steps-to-Compute-Engine-startup-time-bliss-Google-Cloud-Performance-Atlas.html
