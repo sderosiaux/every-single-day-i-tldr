@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-08-2017
+
+- https://github.com/blog/2409-build-a-game-in-13kb-or-less-with-js13kgames Impressive JS games in less than 13kB, totally crazy awesome.
+- https://tenso.rs/demos/fast-neural-style/ Style-transfer neural network in the browser! (tensorflow)
+- https://github.com/sivel/speedtest-cli Command line interface for testing internet bandwidth using speedtest.net. To automatize the thing!
+- https://forum.sublimetext.com/t/rfc-default-package-control-channel-and-package-telemetry/30157 A sublime plugin sending metrics to a startup :(
+- http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/ Searching in raw logs? Brute Force! It makes sense and simplify a lot the model.
+
 # 29-07-2017
 
 - https://manuel.bernhardt.io/2017/07/26/a-new-adaptive-accrual-failure-detector-for-akka/ Benchmarking failure detection algorithms with Akka
