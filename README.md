@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/sivel/speedtest-cli Command line interface for testing internet bandwidth using speedtest.net. To automatize the thing!
 - https://forum.sublimetext.com/t/rfc-default-package-control-channel-and-package-telemetry/30157 A sublime plugin sending metrics to a startup :(
 - http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/ Searching in raw logs? Brute Force! It makes sense and simplify a lot the model.
+- https://www.confluent.io/blog/chain-services-exactly-guarantees/ Another good post about Kafka transactions (valid inside Kafka, not outside, ofc)
 
 # 29-07-2017
 
