@@ -11,7 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://expo.io/tools From scratch to publish React Native app, Expo XDE make it easy to develop them
 - https://www.confluent.io/blog/messaging-single-source-truth/ A good post Event Sourcing in general, why it's useful, how to, the impact, the way of thinking
 - http://underscore.io/blog/posts/2014/07/27/readerwriterstate.html Using Reader and Writer monad to better manage the scope of things
-- https://github.com/humanmade/tachyon An interesting stack using lambdas and s3 to generate thumbnails on demand
+- https://github.com/humanmade/tachyon An interesting stack using lambdas and s3 to generate thumbnails on demand. Less powerful than https://github.com/thumbor/thumbor but way more lighter
 - https://github.com/alex/what-happens-when "... you type google.com into your browser's address box and press enter?" From the push on the key to the rendering.
 - https://github.com/akka/akka/pull/23367 A Akka Flow can know be restarted (by producing a new Flow)
 
