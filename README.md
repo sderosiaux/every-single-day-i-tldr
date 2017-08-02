@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-08-2017
+
+- https://medium.com/@Pinterest_Engineering/the-case-against-kotlin-2c574cb87953 A useful review about Kotlin, its lack and oddities (learning curve, build times, tools stability, static analysis tools..) but Google is behind!
+- https://github.com/atomashpolskiy/bt bittorrent lib + cli in Java
+- https://expo.io/tools From scratch to publish React Native app, Expo XDE make it easy to develop them
+- https://www.confluent.io/blog/messaging-single-source-truth/ A good post Event Sourcing in general, why it's useful, how to, the impact, the way of thinking
+- http://underscore.io/blog/posts/2014/07/27/readerwriterstate.html Using Reader and Writer monad to better manage the scope of things
+- https://github.com/humanmade/tachyon An interesting stack using lambdas and s3 to generate thumbnails on demand
+- https://github.com/alex/what-happens-when "... you type google.com into your browser's address box and press enter?" From the push on the key to the rendering.
+- https://github.com/akka/akka/pull/23367 A Akka Flow can know be restarted (by producing a new Flow)
+
 # 01-08-2017
 
 - https://github.com/blog/2409-build-a-game-in-13kb-or-less-with-js13kgames Impressive JS games in less than 13kB, totally crazy awesome.
