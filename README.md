@@ -14,6 +14,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/humanmade/tachyon An interesting stack using lambdas and s3 to generate thumbnails on demand. Less powerful than https://github.com/thumbor/thumbor but way more lighter
 - https://github.com/alex/what-happens-when "... you type google.com into your browser's address box and press enter?" From the push on the key to the rendering.
 - https://github.com/akka/akka/pull/23367 A Akka Flow can know be restarted (by producing a new Flow)
+- https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html WebGL using a JS lib: regl.
 
 # 01-08-2017
 
