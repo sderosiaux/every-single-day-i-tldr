@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-08-2017
+
+- http://www.jetbrains.org/ring-ui/README.html JetBrains has open-sourced some UI components. Angular1 style :( But very nice nonetheless!
+- https://github.com/Palindrom/JSONPatcherProxy Creating JSON-Patch (RFC6902) by observing objects through Proxies
+- https://softwaremill.com/sttp-streaming-uri-interpolator/ More details about the streaming capabilities of sttp (an http-api that can work with different backends)
+- https://blog.kowalczyk.info/article/wN9R/experience-porting-4.5k-loc-of-c-to-go-facebooks-css-flexbox-implementation-yoga.html Boring but useful. Experience porting 4.5k loc of C to Go. Translating the next commits to the original repo will be a pain.
+- https://blog.buildo.io/http-routes-at-buildo-1424250c41d3 Replacing static routes + bindings, with Scala macros and a unique decl+def in the code itself. https://buildo.github.io/wiro/ was born. "A Scala library for writing HTTP routes"
+- https://developers.google.com/web/updates/2017/07/devtools-release-notes Chrome 61 is out
+- http://typelevel.org/blog/2017/08/04/cats-1.0-mf.html cats almost 1.0.0! New types available ReaderWriterStateT, and existing updated to be stack-safe
+- http://virtuslab.com/blog/zinc-sbt-friendly-code/ Recap: never let unused imports, not use wildcard imports.
+- http://www.beyondthelines.net/programming/introduction-to-tagless-final/ This is just a wonderful article about the "tagless final" technique. Basically, you never hardcode which monad you use in your trait, and just work with HKT.
+
 # 02-08-2017
 
 - https://medium.com/@Pinterest_Engineering/the-case-against-kotlin-2c574cb87953 A useful review about Kotlin, its lack and oddities (learning curve, build times, tools stability, static analysis tools..) but Google is behind!
