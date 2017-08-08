@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 08-08-2017
+
+- http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html Detecting Chrome Headless in Javascript
+- https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/ Super interesting transition from ML to DL for languages translation
+- https://plugins.jetbrains.com/plugin/9792-key-promoter-x A damn good plugin to learn the shortcut of the things we used to click
+- https://www.ebayinc.com/stories/news/marko-ebays-cutting-edge-ui-tool-is-open-source-and-newly-updated/ "Marko". another UI framework, another dsl. By ebay. A mix of react and vuejs, kinda.
+- http://www.lihaoyi.com/post/ScalaVectoroperationsarentEffectivelyConstanttime.html Scala Vector ops are not "Effectively Constant" time. Some bigO and log operations to demonstrate we can't say that.
+- http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html the VERY importance of closing iterators that opens resources (and that need to be closed). by implementing "return" on iterator. It's called by for..of, destructuring automatically, but that's it. Must .return() explicitely otherwise.
+- https://martinfowler.com/articles/rise-test-impact-analysis.html analyzing the call-graph of the source code to work out which tests should be run after a change
+
 # 05-08-2017
 
 - http://www.jetbrains.org/ring-ui/README.html JetBrains has open-sourced some UI components. Angular1 style :( But very nice nonetheless!
