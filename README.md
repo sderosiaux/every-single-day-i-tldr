@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-08-2017
+
+- https://www.ctheu.com/2017/08/07/looking-at-kafka-s-consumers-offsets/ I've written this
+- https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02 "kea" a new way of doing things, based on redux, made for React
+- https://sentheon.com/blog/git-cheat-sheet.html A lot of "simple" git commands to know
+- https://gist.github.com/paf31/adfd15fbb1ac8b99fc68be2c9aca8427 "Why You Should Use PureScript" .. "hire remote PureScript developers (and be willing to train them if necessary) and you will have no shortage of qualified candidates." Well, i wonder what the bosses would think about that.
+- https://github.com/shekhargulati/building-java-web-apps-checklist The start of a checklist to create java front/back apps
+
+
 # 08-08-2017
 
 - http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html Detecting Chrome Headless in Javascript
