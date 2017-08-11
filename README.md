@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 11-08-2017
+
+- https://github.com/atlassian/react-beautiful-dnd Beautiful, accessible drag and drop for lists with reactjs
+- https://github.com/aksakalli/gtop a nodejs blessed "top" !
+- http://eu.battle.net/sc2/fr/blog/20944009 IA research were ongoing using Starcraft. Blizzard understood and creates a proper API for Starcraft 2 with full support!
+- http://save418.com/ 
+- https://medium.com/@rowillia/tautology-tests-7dabd81ade30 Be aware of how you are testing things, do not rewrite the impl in the test.
+- https://medium.com/@cindysridharan/small-functions-considered-harmful-91035d316c29 writing small functions is always a good point, but sometimes: wrong abstraction, hard to follow, loss of locality (functions dispatched all over files)
+
 # 09-08-2017
 
 - https://www.ctheu.com/2017/08/07/looking-at-kafka-s-consumers-offsets/ I wrote that
