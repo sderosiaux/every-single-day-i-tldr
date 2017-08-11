@@ -12,6 +12,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://save418.com/ 
 - https://medium.com/@rowillia/tautology-tests-7dabd81ade30 Be aware of how you are testing things, do not rewrite the impl in the test.
 - https://medium.com/@cindysridharan/small-functions-considered-harmful-91035d316c29 writing small functions is always a good point, but sometimes: wrong abstraction, hard to follow, loss of locality (functions dispatched all over files)
+- https://richardstartin.com/2017/07/23/still-true-in-java-9-handwritten-hash-codes-are-faster/ Unroll your array/string/collection hashCode custom method to be faster and remove some dependencies between iterations.
 
 # 09-08-2017
 
