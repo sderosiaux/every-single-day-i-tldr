@@ -4,6 +4,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 12-08-2017
+
+- https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/ The good rules of how to deal with passwords, from a client and application side. Mostly based on https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach. Microsoft has also a nice guide https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Microsoft_Password_Guidance-1.pdf
+- https://www.youtube.com/watch?v=PorfLSr3DDI "Give me 15 minutes & I'll change your view of GDB"
+- https://www.confluent.io/resources/kafka-the-definitive-guide/ A definitive great resources to grab :)
+
 # 11-08-2017
 
 - https://github.com/atlassian/react-beautiful-dnd Beautiful, accessible drag and drop for lists with reactjs
