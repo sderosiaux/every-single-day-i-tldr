@@ -9,6 +9,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/ The good rules of how to deal with passwords, from a client and application side. Mostly based on https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach. Microsoft has also a nice guide https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Microsoft_Password_Guidance-1.pdf
 - https://www.youtube.com/watch?v=PorfLSr3DDI "Give me 15 minutes & I'll change your view of GDB"
 - https://www.confluent.io/resources/kafka-the-definitive-guide/ A definitive great resources to grab :)
+- https://databricks.com/blog/2017/07/11/introducing-apache-spark-2-2.html A recap about Spark 2.2 features
 
 # 11-08-2017
 
