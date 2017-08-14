@@ -4,6 +4,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 14-08-2017
+
+- https://medium.com/@sbichenko/the-wrong-fizzbuzz-81cb8e67ef4a "Don’t implement the spec. Implement the logic behind the spec."
+- https://blog.godatadriven.com/practical-airflow-tutorial A useful recap about installing and setup some jobs in airflow
+- https://medium.com/@criccomini/so-you-want-to-build-a-kafka-connector-source-edition-357dce7d55f4 All the subtilities to handle when dealing with database CDC
+- http://debezium.io/ Another system to deal with CDC (à la bottledwater-pg). Distributed, and based on Kafka Connect.
+
 # 12-08-2017
 
 - https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/ The good rules of how to deal with passwords, from a client and application side. Mostly based on https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach. Microsoft has also a nice guide https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Microsoft_Password_Guidance-1.pdf
