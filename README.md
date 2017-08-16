@@ -4,6 +4,14 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-08-2017
+
+- http://developer.lightbend.com/blog/2017-08-14-cinnamon-2-5-with-akka-http-support/index.html Cinnamon (commercial feature) usage with HTTP metrics, OpenTracing and MDC.
+- http://developer.lightbend.com/guides/k8-akka-cluster/ Deploying a Akka cluster app to kubernetes and setting up proper env config
+- https://blog.figma.com/figma-2-0-now-with-prototyping-and-developer-handoff-1b309a5d025c Figma is a really good collaborative design tool for designers, on the web.
+- https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788 A frankly good resume and answer to the famous leaked Googler manifesto.
+- https://dev.to/kyle/a-first-look-at-google-cloudplatform A quick comparaison between AWS and GCP, mostly on the organization, the security, the storage and the nosql db.
+
 # 14-08-2017
 
 - https://medium.com/@sbichenko/the-wrong-fizzbuzz-81cb8e67ef4a "Don’t implement the spec. Implement the logic behind the spec."
