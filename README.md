@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://blog.figma.com/figma-2-0-now-with-prototyping-and-developer-handoff-1b309a5d025c Figma is a really good collaborative design tool for designers, on the web.
 - https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788 A frankly good resume and answer to the famous leaked Googler manifesto.
 - https://dev.to/kyle/a-first-look-at-google-cloudplatform A quick comparaison between AWS and GCP, mostly on the organization, the security, the storage and the nosql db.
+- https://www.youtube.com/watch?v=aFtpIShV60I A quick intro to Træfɪk: Load Balancing microservices 
 
 # 14-08-2017
 
