@@ -4,6 +4,18 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-08-2017
+
+- https://ponyfoo.com/articles/investigating-performance-object-prototype-to-string-es2015 A fast way to implement toString in JS
+- http://formidable.com/blog/2017/introducing-electron-webpack-dashboard/ A terrible tron-ish dashboard for webpack compilation
+- https://thenewstack.io/github-goes-kubernetes-tells/ Experience of GitHub slowly switching to k8s
+- https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/ Using Kafka Connect to do some CDC with MySQL
+- https://benedikt-bitterli.me/reverse/ Reverse engineering some malicious javascript. He could just have used jsnice and prepack to greatly simplify and evaluate the thing ;-)
+- https://blogs.msdn.microsoft.com/typescript/2017/08/17/announcing-typescript-2-5-rc/ Typescript is pursuing its way, 2.5 incoming, with some "try" improvements and misc internal fixes
+- https://github.com/twitter/reasonable-scala Twitter is working on a blazing fast Scala compiler. Come on, we already have Dotty incoming, and there is also Typelevel Scala compiler..
+- https://machinelearning.apple.com/2017/07/07/GAN.html Apple playing with eyes, and trying to improve the realism of synthetic images
+- https://www.sigmainfy.com/blog/protocol-buffers-encoding-and-message-structure.html Looking at Protobuf binary encoding (varint, zigzag..)
+
 # 16-08-2017
 
 - http://developer.lightbend.com/blog/2017-08-14-cinnamon-2-5-with-akka-http-support/index.html Cinnamon (commercial feature) usage with HTTP metrics, OpenTracing and MDC.
