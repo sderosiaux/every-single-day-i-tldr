@@ -9,6 +9,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://medium.com/@yaypie/cloudflare-thinks-they-can-be-neutral-they-cant-b46857f21c9a Where is the limit between hosting, and judging/acting about what you host.
 - http://www.oracle.com/technetwork/oracle-labs Oracle labs has some nice projects: a polyglot runtime for the JVM, GraalVM (that can interpret scripting languages such as Javascript, Ruby, R, and transforms them to a common AST Graal works with, thus provides all the JIT techniques), a Graph processing lib (Parallel Graph AnalytiX (PGX)) 
 - https://www.slideshare.net/martintoshev/jvm-the-graal-vm A recap of Graal. And Graal.js, 1.5x faster than V8 ?
+- https://yoric.github.io/post/binary-ast-newsletter-1/ The interesting future of Javascript being written directly to a binary AST to be sent over the wire
 
 # 17-08-2017
 
