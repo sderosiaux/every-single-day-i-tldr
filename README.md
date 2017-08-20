@@ -10,6 +10,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://www.oracle.com/technetwork/oracle-labs Oracle labs has some nice projects: a polyglot runtime for the JVM, GraalVM (that can interpret scripting languages such as Javascript, Ruby, R, and transforms them to a common AST Graal works with, thus provides all the JIT techniques), a Graph processing lib (Parallel Graph AnalytiX (PGX)) 
 - https://www.slideshare.net/martintoshev/jvm-the-graal-vm A recap of Graal. And Graal.js, 1.5x faster than V8 ?
 - https://yoric.github.io/post/binary-ast-newsletter-1/ The interesting future of Javascript being written directly to a binary AST to be sent over the wire
+- https://michael.stapelberg.de/Artikel/golang_favorite An opinion of why Go is great: code style, compilation speed, a good std lib, the associated tools
 
 # 17-08-2017
 
