@@ -4,6 +4,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 22-08-2017
+
+- https://www.youtube.com/watch?v=oeE2tuspdHg Always interesting to see how people codes live. Here, a React app using Vx (d3) to draw a bitcoin chart.
+- http://www.businessinsider.fr/us/employee-retention-rate-top-tech-companies-2017-8/ It seems 2 years is the avg time before getting bored in any company
+- http://degoes.net/articles/scalaz8-is-the-future Is scalaz8 is going to be more Intellij and compilation friendly? In any case, it seems to be a good revamp!
+- https://github.com/sksamuel/elastic4s A very good Scala library with DSL to use elasticsearch. Also provide a reactive streams impl.
+
 # 19-08-2017
 
 - https://medium.com/@yaypie/cloudflare-thinks-they-can-be-neutral-they-cant-b46857f21c9a Where is the limit between hosting, and judging/acting about what you host.
