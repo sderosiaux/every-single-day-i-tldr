@@ -4,6 +4,17 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-08-2017
+
+- https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 A React autocomplete component without UI at all, just the logic. Kinda like this idea! Separation of concerns, ftw.
+- https://medium.com/@gkossakowski/a-note-on-kentucky-mule-and-twitters-scala-compiler-announcement-3294b5baf2ea More details about the Kentucky Mule POC (ultra-fast scala typechecking)
+- https://thenewstack.io/node-js-forked-complaints-repeated-harassment/ nodejs forked again. iojs, the come-back: "ayo". because of repeated infringements to the code of conduct by some high-members https://github.com/ayojs/ayo 
+- https://handmade.network/forums/wip/t/2363-implementing_a_basic_png_reader_the_handmade_way A dude just wrote down a PNG reader in 300 lines, fully explained. Very nice.
+- https://dzone.com/articles/integrating-unmanaged-services-in-lagom-with-scala Tiny article about interacting with external services (unmanaged) in Lagom.
+- https://dzone.com/articles/akka-message-delivery-at-most-once-at-least-once-a No surprise, the at-most-once strategy is rarely voluntary used.
+- http://www.ssw.uni-linz.ac.at/Research/Papers/Marr/manlang17-grimmer-et-al-applying-optimizations-for-dynamically-typed-languages-to-java.pdf A big work using Truffle on GraalVM, to, mostly, avoid auto-boxing (caused by generics) by optimizing bytecode, to improve perfs.
+- https://advancedweb.hu/2017/03/01/jvm_optimistic_optimizations/ A very good article about Java inlining optimizations (x-morphic, branch prediction, and NPE impacts)
+
 # 22-08-2017
 
 - https://www.youtube.com/watch?v=oeE2tuspdHg Always interesting to see how people codes live. Here, a React app using Vx (d3) to draw a bitcoin chart.
