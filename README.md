@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-08-2017
+
+- https://blog.alaskaair.com/alaska-airlines/solar-eclipse/ Alaska Air explaining how they planned to see the eclipse from one of their plane, it is not that easy. Incredible.
+- https://underscore.io/blog/posts/2016/12/05/type-lambdas.html Why the kind projector exists in Scala
+- https://typelevel.org/cats/datatypes/functionk.html ~> in cats is equivalent to A => B for higher kinded types: F[_] => G[_] <=> F ~> G.
+- https://typelevel.org/cats/datatypes/freemonad.html You need to work with Free monads to understand them truly.
+- https://medium.com/towards-data-science/gradient-descend-with-free-monads-ebf9a23bece5 A very interesting Free monads usage: to compute a gradient descent
+- https://medium.com/@taitems/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9 We can find so many great stuff in open source now, licence plate recognition here
+- https://thenextweb.com/google/2017/08/28/google-japan-internet-blackout/ And they said the internet is decentralized.
+
 # 24-08-2017
 
 - https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 A React autocomplete component without UI at all, just the logic. Kinda like this idea! Separation of concerns, ftw.
