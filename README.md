@@ -11,6 +11,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://beam.apache.org/blog/2017/08/16/splittable-do-fn.html Easier to write custom sources in Beam thanks to SDF (Splittable DoFn)
 - https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/ Typescript introducing some method refactorings (finally..) in VSCode
 - https://medium.com/the-node-js-collection/async-hooks-in-node-js-illustrated-b7ce1344111f Not a clear post i find. Anyway, a new API to register callbacks tracking the lifetime of asynchronous resources created inside a Node.js. Useful to create "span" to analyse where the time is spent and what is going on behind the hood. 
+- https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/ A new distributed logs storage on its way, by Facebook.
 
 # 29-08-2017
 
