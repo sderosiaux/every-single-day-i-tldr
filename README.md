@@ -4,6 +4,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 31-08-2017
+
+- https://www.javagists.com/stack-walking-api-java-9 Simple article about the new Java9 stacktrace walking api. Quite rare to use it, but good to know.
+- https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/ Kafka to ES, made easy (with Kafka connect)
+- https://beam.apache.org/blog/2017/08/16/splittable-do-fn.html Easier to write custom sources in Beam thanks to SDF (Splittable DoFn)
+- https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/ Typescript introducing some method refactorings (finally..) in VSCode
+
 # 29-08-2017
 
 - https://blog.alaskaair.com/alaska-airlines/solar-eclipse/ Alaska Air explaining how they planned to see the eclipse from one of their plane, it is not that easy. Incredible.
