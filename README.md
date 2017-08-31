@@ -10,6 +10,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/ Kafka to ES, made easy (with Kafka connect)
 - https://beam.apache.org/blog/2017/08/16/splittable-do-fn.html Easier to write custom sources in Beam thanks to SDF (Splittable DoFn)
 - https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/ Typescript introducing some method refactorings (finally..) in VSCode
+- https://medium.com/the-node-js-collection/async-hooks-in-node-js-illustrated-b7ce1344111f Not a clear post i find. Anyway, a new API to register callbacks tracking the lifetime of asynchronous resources created inside a Node.js. Useful to create "span" to analyse where the time is spent and what is going on behind the hood. 
 
 # 29-08-2017
 
@@ -20,6 +21,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://medium.com/towards-data-science/gradient-descend-with-free-monads-ebf9a23bece5 A very interesting Free monads usage: to compute a gradient descent
 - https://medium.com/@taitems/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9 We can find so many great stuff in open source now, licence plate recognition here
 - https://thenextweb.com/google/2017/08/28/google-japan-internet-blackout/ And they said the internet is decentralized.
+- https://blog.buildo.io/data-driven-scala-programming-e50f07c4db35 Analyzing the errors you get when working, interesting to get insights about things you barely realize.
 
 # 24-08-2017
 
