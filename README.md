@@ -13,6 +13,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://medium.com/the-node-js-collection/async-hooks-in-node-js-illustrated-b7ce1344111f Not a clear post i find. Anyway, a new API to register callbacks tracking the lifetime of asynchronous resources created inside a Node.js. Useful to create "span" to analyse where the time is spent and what is going on behind the hood. 
 - https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/ A new distributed logs storage on its way, by Facebook.
 
+# 04-09-2017
+
+- https://github.com/satwikkansal/wtfpython#-examples JS is not the only one to be fucked up
+- http://www.reactos.com/project-news/reactos-046-released "14,238,159 unit test cases, failing just 18,419"
+- https://www.youtube.com/watch?v=A45uRzJiv7I KSQL: Streaming SQL for Kafka. Easy and powerful. Create tables from topics. Can't stop thinking about scaling? (when joining tables of millions?). It's backed up by Kafka Streams. The associated blog post: https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
+- https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/ https://github.com/apache/incubator-pulsar http://bookkeeper.apache.org/ We all know Kafka. But what about logdevice (fb), pulsar (yahoo), distributedlog/bookkeeper (twitter) ?
+
 # 29-08-2017
 
 - https://blog.alaskaair.com/alaska-airlines/solar-eclipse/ Alaska Air explaining how they planned to see the eclipse from one of their plane, it is not that easy. Incredible.
