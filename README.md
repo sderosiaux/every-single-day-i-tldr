@@ -2,7 +2,7 @@
 
 Here, I list every article, blog post, page, video I read or watch and find interesting. I add a little description for me to find it later, or as a TLDR.
 
-> Note for my employer: this is stuff I'm reading mostly off work of course. :angel:
+> Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
 # 04-09-2017
 
