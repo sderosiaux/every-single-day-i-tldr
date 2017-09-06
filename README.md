@@ -12,7 +12,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/facebook/buck I wonder if Buck could bring something truly useful on java non-android mvn projects (too bad it does not handle scala!) (from Google)
 - https://docs.bazel.build/versions/master/getting-started.html And what bout Bazel actually? Buck is based on it.
 - http://www.hanshq.net/eprime.html Several technics to find the first 10-digit prime in the digits of E (and computing E with billion of digits too..) Taylor and C inside!
-- https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/ How NYT deals with Kafka. Interesting. 1 partition on the main topic to get full order.
+- https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/ How NYT deals with Kafka. Interesting. 1 partition on the main topic to get total ordering. Kafka Streams, ES, and GCP/GCE/GKE inside.
 
 # 04-09-2017
 
