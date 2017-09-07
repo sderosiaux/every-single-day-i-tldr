@@ -10,6 +10,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/ Kafka implemented simili-Flume's interceptors to do simple stuff in the pipeline, without coding anything. (SMTs)
 - https://github.com/AssemblyScript/assemblyscript A subset of Typescript, compiling to webasm, good stuff, future is here.
 - https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9 An analysis of the GraphQL patent
+- https://github.com/nginx/unit nginx made easy?
 
 # 06-09-2017
 
