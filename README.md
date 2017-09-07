@@ -4,6 +4,13 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 07-09-2017
+
+- https://code.facebook.com/posts/274518539716230 Yarn 1.0 is out! Performance, workspaces (multi-projects in monorepo)
+- https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/ Kafka implemented simili-Flume's interceptors to do simple stuff in the pipeline, without coding anything. (SMTs)
+- https://github.com/AssemblyScript/assemblyscript A subset of Typescript, compiling to webasm, good stuff, future is here.
+- https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9 An analysis of the GraphQL patent
+
 # 06-09-2017
 
 - https://github.com/mr-mig/every-programmer-should-know Good list of things to know, and most to forget, but well..
