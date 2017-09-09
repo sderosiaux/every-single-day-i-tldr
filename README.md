@@ -4,6 +4,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-09-2017
+
+- http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html Excellent. Doing a C program using `const int main[] = {..}` Not conventional!
+- https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274 null >= 0 is true because null < 0 is false
+- https://leanpub.com/fpmortals/read "Functional Programming for Mortals" in Scala please. To read!
+
 # 07-09-2017
 
 - https://code.facebook.com/posts/274518539716230 Yarn 1.0 is out! Performance, workspaces (multi-projects in monorepo)
