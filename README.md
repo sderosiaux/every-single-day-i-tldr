@@ -9,6 +9,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html Excellent. Doing a C program using `const int main[] = {..}` Not conventional!
 - https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274 null >= 0 is true because null < 0 is false
 - https://leanpub.com/fpmortals/read "Functional Programming for Mortals" in Scala please. To read!
+- http://thoughts.davisjeff.com/2009/08/02/what-is-the-deal-with-nulls/ omg, NULL in SQL is like the most unconsistent and wary thing
 
 # 07-09-2017
 
