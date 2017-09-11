@@ -4,6 +4,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 11-09-2017
+
+- http://www.scala-lang.org/blog/2017/09/11/scalafix-v0.5.html Linting tool for Scala! And also some codemods for sbt (sbt-fix).
+- https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101 and https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102 Wonderful posts about batch and streaming engines, related to Apache Beam/Google Dataflow.
+- https://github.com/pureconfig/pureconfig Load typesafe configs into case classes easily and safely.
+
 # 09-09-2017
 
 - http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html Excellent. Doing a C program using `const int main[] = {..}` Not conventional!
