@@ -4,6 +4,15 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 13-09-2017
+
+- http://www.sublimetext.com/blog/articles/sublime-text-3-point-0 Sublime Text 3 is OUT OF BETA§ Unfortunately, I'm more fluent on VSCode since a while :-( (except for huge files)
+- https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec Never reference an external var from a closure, use arguments.
+- https://medium.com/@mikeal/modern-modules-d99b6867b8f1 Take away: use async/await, it's future-proof. Use r2 instead of request. 
+- https://v8project.blogspot.fr/2017/09/elements-kinds-in-v8.html JavaScript only knows "number", but the engine behind is smarter and packs numbers in array optimally. SMI: Small Integer. "Nowadays, the performance of both for-of and forEach is on par with the old-fashioned for loop."
+- http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/ Quick notes on what the webpack purpose is
+- https://jakearchibald.com/2017/lazy-async-svg/ A new feature in Chrome61: Zoomable lazy-rendered tiled SVG. Improve perf if the page plays a lot with SVGs.
+
 # 11-09-2017
 
 - http://www.scala-lang.org/blog/2017/09/11/scalafix-v0.5.html Linting tool for Scala! And also some codemods for sbt (sbt-fix).
