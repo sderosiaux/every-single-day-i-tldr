@@ -16,6 +16,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/ Just "preload" everything. https://github.com/chtefi/guidelines-to-create-a-strong-website
 - https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863 A cool article about Scala Phantom types. Make up your pizza.
 - http://norswap.com/fast-java-reflection/ In Java8, it's possible to use reflection as fast as direct calls, thanks to the new API LambdaMetafactory.
+- https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/ Many optimizations from hardware to high-level nginx. Many stuff i'll never used. :-D
 
 # 13-09-2017
 
