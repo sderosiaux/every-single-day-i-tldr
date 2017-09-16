@@ -15,6 +15,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://www.confluent.io/blog/okay-store-data-apache-kafka/ Storing all the data into Kafka. It's scary for some reasons. This post tries to remove some doubts.
 - https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/ Just "preload" everything. https://github.com/chtefi/guidelines-to-create-a-strong-website
 - https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863 A cool article about Scala Phantom types. Make up your pizza.
+- http://norswap.com/fast-java-reflection/ In Java8, it's possible to use reflection as fast as direct calls, thanks to the new API LambdaMetafactory.
 
 # 13-09-2017
 
