@@ -4,6 +4,16 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-09-2017
+
+- https://developers.google.com/web/updates/2017/08/devtools-release-notes Chrome 62 is there. Can await in the console, youhou.
+- https://adoptopenjdk.net/index.html?variant=openjdk9-openj9 Another "enterprise" JVM "OpenJ9" in the OpenJDK distrib, from IBM.
+- https://github.com/AaronJackson/vrn Construct a 3D visage from a 2D photo, impressive.
+- https://ma.tt/2017/09/on-react-and-wordpress/ React's patents continue to affect projects, here Wordpress decide to not use it anymore. (Apache did the same)
+- https://caddy.community/t/the-realities-of-being-a-foss-maintainer/2728/4 Caddy, an open-source auto-HTTPS server goes commercial, and that provokes good but mostly bad reactions. Matt Holt, a maintainer, decided to step up.
+- https://techcrunch.com/2017/09/15/why-dropbox-decided-to-drop-aws-and-build-its-own-infrastructure-and-network/ Dropbox, 1500 employees, 500PB to move from AWS to home-made.
+- https://www.confluent.io/blog/okay-store-data-apache-kafka/ Storing all the data into Kafka. It's scary for some reasons. This post tries to remove some doubts.
+
 # 13-09-2017
 
 - http://www.sublimetext.com/blog/articles/sublime-text-3-point-0 Sublime Text 3 is OUT OF BETA§ Unfortunately, I'm more fluent on VSCode since a while :-( (except for huge files)
