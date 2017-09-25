@@ -4,6 +4,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+~~ Holidays exist to make a break, right? ~~
+
 # 16-09-2017
 
 - https://developers.google.com/web/updates/2017/08/devtools-release-notes Chrome 62 is there. Can await in the console, youhou.
