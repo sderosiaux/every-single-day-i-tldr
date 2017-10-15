@@ -4,6 +4,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-10-2017
+
+- https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67?token=79fT3F-khJEaf3KX Great post explaining why we should probably not use annotations too much.
+- https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67 React 16 is a complete release, with massive improvements.
+- https://blog.kontena.io/event-sourcing-microservices-with-kafka/ Nothing new but just another perpective about Kafka for event sourcing
+
 ~~ Holidays exist to make a break, right? ~~
 
 # 16-09-2017
