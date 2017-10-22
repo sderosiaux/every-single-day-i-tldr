@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 22-10-2017
 
+- http://blog.ploeh.dk/2015/05/07/functional-design-is-intrinsically-testable/ Functional programming is very good for unit testability
 - https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/ An interesting feedback about software methodologies applications in companies.. not that easy, according to who is there.
 - https://webkit.org/blog/7675/intelligent-tracking-prevention/ Intelligent Tracking Prevention: cookies and website data from the sites a user does NOT interacts with (first party) and tracking data will be removed
 - https://vimeo.com/233975012 "Nature-inspired algorithms", a talk presenting some genetic algorithms and particle-swarm optimization, and the problem that the solvers are "blind", and often difficult to tune
