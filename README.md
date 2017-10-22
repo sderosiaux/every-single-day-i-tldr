@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 22-10-2017
+
+- https://blogs.dropbox.com/dropbox/2017/10/new-plan-dropbox-professional/ New tools to "showcase" a work, basically create a "landing" page to organize some Dropbox content
+
 # 15-10-2017
 
 - https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67?token=79fT3F-khJEaf3KX Great post explaining why we should probably not use annotations too much.
