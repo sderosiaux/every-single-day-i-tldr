@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 22-10-2017
 
+- https://webkit.org/blog/7675/intelligent-tracking-prevention/ Intelligent Tracking Prevention: cookies and website data from the sites a user does NOT interacts with (first party) and tracking data will be removed
 - https://vimeo.com/233975012 "Nature-inspired algorithms", a talk presenting some genetic algorithms and particle-swarm optimization, and the problem that the solvers are "blind", and often difficult to tune
 - https://hackernoon.com/why-isnt-agile-working-d7127af1c552 Basically, Agile needs lean, devops cultures, xp programming, and iterativity a LOT
 - https://www.mocky.io/ A new online tool to mock http response, always useful
