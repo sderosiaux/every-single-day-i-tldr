@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 22-10-2017
 
+- https://www.theverge.com/platform/amp/2017/10/19/16503076/oracle-vs-google-judge-william-alsup-interview-waymo-uber A Judge writing QuickBasic is obviously in a good position to judge tech cases <3
 - https://blogs.dropbox.com/dropbox/2017/10/new-plan-dropbox-professional/ New tools to "showcase" a work, basically create a "landing" page to organize some Dropbox content
 
 # 15-10-2017
