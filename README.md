@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 22-10-2017
 
+- https://vimeo.com/233975012 "Nature-inspired algorithms", a talk presenting some genetic algorithms and particle-swarm optimization, and the problem that the solvers are "blind", and often difficult to tune
 - https://hackernoon.com/why-isnt-agile-working-d7127af1c552 Basically, Agile needs lean, devops cultures, xp programming, and iterativity a LOT
 - https://www.mocky.io/ A new online tool to mock http response, always useful
 - https://cloudplatform.googleblog.com/2017/10/API-design-choosing-between-names-and-identifiers-in-URLs.html A page _should_ have a "human" friendly url, and a fixed permalink with ids
