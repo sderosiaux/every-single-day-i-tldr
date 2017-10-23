@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 24-10-2017
 
+- https://github.com/grafeas/grafeas The associated repo:" Cloud artifact metadata CRUD API and resource specifications"
 - https://cloudplatform.googleblog.com/2017/10/introducing-grafeas-open-source-api-.html Grafeas: An open-source API to audit and govern software supply chain
 
 # 23-10-2017
