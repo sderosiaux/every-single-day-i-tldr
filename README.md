@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 23-10-2017
 
+- https://stackify.com/java-thread-pools/ Java Thread Pool models revisited, FJP and classic TP.
 - https://www.confluent.io/blog/ranking-websites-real-time-apache-kafkas-streams-api/ Another usage of Kafka Streams running on AWS to compute page ranks.
 - https://labs.spotify.com/2017/10/16/big-data-processing-at-spotify-the-road-to-scio-part-1/ Spotify reexplaining how/why they used Dataflow and their scio framework (basically dataflow api in scala)
 - https://deepmind.com/blog/alphago-zero-learning-scratch/ a strong feat: algorithms learning from scratch are smarter than learning from humans
