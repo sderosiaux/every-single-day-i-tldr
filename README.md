@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-10-2017
+
+- https://cloudplatform.googleblog.com/2017/10/introducing-grafeas-open-source-api-.html Grafeas: An open-source API to audit and govern software supply chain
+
 # 23-10-2017
 
 - https://stackify.com/java-thread-pools/ Java Thread Pool models revisited, FJP and classic TP.
