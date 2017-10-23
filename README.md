@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-10-2017
+
+- https://buildazure.com/2017/10/20/swagger-is-now-the-openapi-specification/ Swagger is now the OpenAPI Specification
+
 # 22-10-2017
 
 - http://blog.ploeh.dk/2015/05/07/functional-design-is-intrinsically-testable/ Functional programming is very good for unit testability
