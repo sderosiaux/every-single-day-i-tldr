@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 24-10-2017
 
+- https://jepsen.io/analyses/hazelcast-3-8-3 Jepsen testing Hazelcast, and strongly recommand to use it only for non-critical data, because HZ can lose data, create duplicates, "mis-lock" locks and so on
 - https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/ got a way smaller image size with custom imagemagic tuning than with classic tools
 - https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/init-actions with DataProc, it's possible to install softwares (kafka, dbs..) automatically (master and slaves are distincts) through some .sh scripts
 - https://blog.fuzzing-project.org/60-Optionsbleed-HTTP-OPTIONS-method-can-leak-Apaches-server-memory.html Optionsbleed: HTTP OPTIONS method can leak Apache's server memory
