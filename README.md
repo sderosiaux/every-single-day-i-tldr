@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 24-10-2017
 
+- https://medium.com/@giuseppemaggiore/a-react-journey-from-vanilla-to-type-safe-to-monadic-41beaa386910 Quickly read this one. React from vanilla, to type-safe, to monadic (using monadic-react lib). Not fan of the "syntax" overall.
 - https://jepsen.io/analyses/hazelcast-3-8-3 Jepsen testing Hazelcast, and strongly recommand to use it only for non-critical data, because HZ can lose data, create duplicates, "mis-lock" locks and so on
 - https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/ got a way smaller image size with custom imagemagic tuning than with classic tools
 - https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/init-actions with DataProc, it's possible to install softwares (kafka, dbs..) automatically (master and slaves are distincts) through some .sh scripts
