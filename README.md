@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 24-10-2017
 
+- https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/ got a way smaller image size with custom imagemagic tuning than with classic tools
 - https://cloud.google.com/dataproc/docs/concepts/configuring-clusters/init-actions with DataProc, it's possible to install softwares (kafka, dbs..) automatically (master and slaves are distincts) through some .sh scripts
 - https://blog.fuzzing-project.org/60-Optionsbleed-HTTP-OPTIONS-method-can-leak-Apaches-server-memory.html Optionsbleed: HTTP OPTIONS method can leak Apache's server memory
 - https://akka.io/blog/news/2017/10/23/native-akka-streams-in-spring-web-and-boot-via-alpakka Akka Streams in Spring via Alpakka, just by adding a simple module, very nice!
