@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-10-2017
+
+- https://dzone.com/articles/disruptive-changes-to-gc-logging-in-java-9 The GC logging totally changed in Java 9, old options +PrintXXX are removed or deprecated
+
 # 28-10-2017
 
 - https://developer.couchbase.com/documentation/server/5.0/introduction/whats-new.html Couchbase 5 is out, with tons of new features and improvements (n1ql, text search, secu..)
