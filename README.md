@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 28-10-2017
 
+- https://developer.couchbase.com/documentation/server/5.0/introduction/whats-new.html Couchbase 5 is out, with tons of new features and improvements (n1ql, text search, secu..)
 - https://www.infoq.com/news/2017/10/azure-functions-java Azure Functions now supports Java. Only GCP CF are not now. :(
 - https://reasonml.github.io/community/blog/#reason-3 Reason 3 is out. Lots of syntax changes to feel more natural
 - https://medium.freecodecamp.org/lets-enhance-how-we-found-rogerkver-s-1000-wallet-obfuscated-private-key-8514e74a5433 Super interesting post about finding a private key from a blurred QR code to grab some bitcoins
