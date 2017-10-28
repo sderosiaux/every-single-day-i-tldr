@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 28-10-2017
+
+- https://medium.freecodecamp.org/lets-enhance-how-we-found-rogerkver-s-1000-wallet-obfuscated-private-key-8514e74a5433 Super interesting post about finding a private key from a blurred QR code to grab some bitcoins
+
 # 24-10-2017
 
 - https://medium.com/@giuseppemaggiore/a-react-journey-from-vanilla-to-type-safe-to-monadic-41beaa386910 Quickly read this one. React from vanilla, to type-safe, to monadic (using monadic-react lib). Not fan of the "syntax" overall.
