@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 29-10-2017
 
+- https://www.infoq.com/presentations/reactive-events-streaming-api Talk about Akka (persis, cluster, streams) to get from old-school app to a reactive system with micro-services
 - https://www.youtube.com/watch?v=YqOhBezMx1o Quick talk about v8 arch, from Crankshaft to Ignite+TurboFan, why
 - https://github.com/Microsoft/napajs Napa.js is a multi-threaded JavaScript runtime from Microsoft, built on top of V8. 
 - https://medium.com/@caspervonb/why-i-still-use-vim-67afd76b4db6 Atom and Code are so bad at resource consumption,like x100 than vim or sublime.
