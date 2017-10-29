@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 29-10-2017
 
+- https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482 The New York Times is Now Available as a Tor Onion Service
 - https://www.infoq.com/presentations/reactive-events-streaming-api Talk about Akka (persis, cluster, streams) to get from old-school app to a reactive system with micro-services
 - https://www.youtube.com/watch?v=YqOhBezMx1o Quick talk about v8 arch, from Crankshaft to Ignite+TurboFan, why
 - https://github.com/Microsoft/napajs Napa.js is a multi-threaded JavaScript runtime from Microsoft, built on top of V8. 
