@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 29-10-2017
 
+- https://medium.com/@caspervonb/why-i-still-use-vim-67afd76b4db6 Atom and Code are so bad at resource consumption,like x100 than vim or sublime.
 - https://dzone.com/articles/disruptive-changes-to-gc-logging-in-java-9 The GC logging totally changed in Java 9, old options +PrintXXX are removed or deprecated
 
 # 28-10-2017
