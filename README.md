@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 30-10-2017
 
+- https://squawker.org/technology/blockchain-just-became-obsolete-the-future-is-hashgraph/ Hashgraph, a evolution of BlockChain? But not open-sourced, and will be patented, so..
 - https://staltz.com/the-web-began-dying-in-2014-heres-how.html Interesting recap about Google FB and Amazon evolution, trends, and goal; way beyond the "web"
 - https://chriszetter.com/blog/2017/10/29/splitting-strings/ Interesting to know that .split does not behave the same in different languages (python and ruby here) when "".split("x") => ?
 
