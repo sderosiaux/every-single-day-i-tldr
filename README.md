@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 30-10-2017
+
+- https://chriszetter.com/blog/2017/10/29/splitting-strings/ Interesting to know that .split does not behave the same in different languages (python and ruby here) when "".split("x") => ?
+
 # 29-10-2017
 
 - https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482 The New York Times is Now Available as a Tor Onion Service
