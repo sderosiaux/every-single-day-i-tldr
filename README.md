@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-11-2017
+
+- http://notes.burke.libbey.me/metarepo/ Monorepo, Manyrepo, Metarepo
+
 # 01-11-2017
 
 - https://opensource.com/article/17/9/seven-stages-becoming-go-programmer 7 stages of becoming a Go programmer, from "oop to goroutines to interfaces to channels to wtf to zen attitude"
