@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 01-11-2017
 
+- http://danluu.com/programmer-moneyball/ A ex-Google-and-other-tech-company talks about tech companies hiring (bad) strategy for most (focusing on trendy ppl only)
 - https://www.confluent.io/blog/apache-kafka-goes-1-0/ Apache Kafka 1.0 out, now stable and back-compat? :-D
 
 # 30-10-2017
