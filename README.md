@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-11-2017
+
+- https://www.confluent.io/blog/apache-kafka-goes-1-0/ Apache Kafka 1.0 out, now stable and back-compat? :-D
+
 # 30-10-2017
 
 - https://www.troyhunt.com/the-6-step-happy-path-to-https/ HTTPS: tips, and mostly about using HSTS and CSP upgrade unsecured requests + rely on CloudFlare to do this for you
