@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 01-11-2017
 
+- https://github.com/Microsoft/vscode/wiki/Roadmap VS Code Roadmap 2018: better perfs, better workflow, better languages integrations, better extensions
 - https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ An awesome list of 12 points to know if you're properly developing softwares, love it!
 - https://en.wikipedia.org/wiki/Interprocedural_optimization Interprocedural optimization "IPO", compiler methods to optimize code globally
 - http://danluu.com/programmer-moneyball/ A ex-Google-and-other-tech-company talks about tech companies hiring (bad) strategy for most (focusing on trendy ppl only)
