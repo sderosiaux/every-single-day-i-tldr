@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 02-11-2017
 
+- https://docs.google.com/presentation/d/1TPrLLcVpmQf5ajSV9KuWGYUzkauy9tK2J0dmQ13-v98/ An alpakka presentation at ScalaIO 2017
 - http://notes.burke.libbey.me/metarepo/ Monorepo, Manyrepo, Metarepo
 
 # 01-11-2017
