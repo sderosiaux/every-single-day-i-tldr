@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 03-11-2017
 
+- https://medium.com/@peggyrayzis/why-i-cancelled-my-reactiveconf-talk-3a463bf14bd8 "Why I cancelled my ReactiveConf talk"—A bit too much; but clearly, communication is key, when organizers lacks of, it's never a good sign.
 - https://www.ifixit.com/Teardown/iPhone%2BX%2BTeardown/98975 iPhone X "internals", truly a masterpiece of dense tech inside
 
 # 02-11-2017
