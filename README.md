@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 03-11-2017
+
+- https://www.ifixit.com/Teardown/iPhone%2BX%2BTeardown/98975 iPhone X "internals", truly a masterpiece of dense tech inside
+
 # 02-11-2017
 
 - https://www.slideshare.net/PierreLaporte/pimp-my-gc Pimp my gc, old 2013 pres' from ScalaIO talking about GC tuning (quite high level)
