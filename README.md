@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 03-11-2017
 
+- https://speakerdeck.com/markus1189/let-the-compiler-help-you Very good talk explaining how to let the compiler help us (by writing smarter code) to check for errors at compile-time): from Exceptions to Eithers to Phantom Types to Refined lib
 - https://medium.com/@peggyrayzis/why-i-cancelled-my-reactiveconf-talk-3a463bf14bd8 "Why I cancelled my ReactiveConf talk"—A bit too much; but clearly, communication is key, when organizers lacks of, it's never a good sign.
 - https://www.ifixit.com/Teardown/iPhone%2BX%2BTeardown/98975 iPhone X "internals", truly a masterpiece of dense tech inside
 
