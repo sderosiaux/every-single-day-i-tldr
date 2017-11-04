@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 04-11-2017
 
+- http://www.scalaformachinelearning.com/2017/10/reinforcement-learning-in-scala.html Reinforcement learning in Scala
 - https://slack.engineering/rebuilding-slack-com-b124c405c193 Interesting insights and experience sharing from Slack.com redesigning their website
 - https://github.com/sksamuel/scapegoat an alternative to FindBugs or checkstyle, to do static code analysis
 - https://serverjs.io/ server.js looks like a good and easy alternative to expressjs/koa
