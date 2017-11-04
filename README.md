@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 04-11-2017
 
+- https://github.com/sksamuel/scapegoat an alternative to FindBugs or checkstyle, to do static code analysis
 - https://serverjs.io/ server.js looks like a good and easy alternative to expressjs/koa
 - https://blemoine.github.io/scala-io-effects/ Very good talk about managing side effects in Scala. Option, Either, Monad transformers, Eff monad.
 
