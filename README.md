@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 04-11-2017
+
+- https://blemoine.github.io/scala-io-effects/ Very good talk about managing side effects in Scala. Option, Either, Monad transformers, Eff monad.
+
 # 03-11-2017
 
 - https://speakerdeck.com/markus1189/let-the-compiler-help-you Very good talk explaining how to let the compiler help us (by writing smarter code) to check for errors at compile-time): from Exceptions to Eithers to Phantom Types to Refined lib
