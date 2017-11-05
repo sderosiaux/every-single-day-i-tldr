@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-11-2017
+
+- https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/ Simple HTTP/2 server in nodejs, with its http2 api.
+
 # 04-11-2017
 
 - https://www.cakesolutions.net/teamblogs/typesafety-101-knowing-your-types To resume: Option.get should not exists :-). Never break out from the original type.
