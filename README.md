@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 05-11-2017
 
+- https://research.googleblog.com/2017/11/automl-for-large-scale-image.html AutoML was applied for image classif and object detection, and it works really great
 - https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html ML to create better NN architecture
 - http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/ How works AlphaGo Zero: Monte-Carlo tree search with an neural net expert policy to avoid too much exploration "these AI's will only be human-level for a brief instant before blasting past us into superhuman territories"
 - https://www.youtube.com/watch?v=Fbhhc4jtGW4 Nice talk about doing micro-services with nodejs/docker/k8s/helm/prometheus/zipkin
