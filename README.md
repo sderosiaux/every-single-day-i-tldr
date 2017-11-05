@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 05-11-2017
 
+- https://www.youtube.com/watch?v=Fbhhc4jtGW4 Nice talk about doing micro-services with nodejs/docker/k8s/helm/prometheus/zipkin
 - https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0 nodejs 9 is starting. V8 integrates nodejs compat tests now.
 - https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/ Simple HTTP/2 server in nodejs, with its http2 api.
 
