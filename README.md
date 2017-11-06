@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 06-11-2017
 
+- https://sevagh.github.io/post/8months/ A "jq" for protobuf data: "pq" :-)
 - https://techcrunch.com/2017/11/03/snap-metamarkets/ Snap has acquired Metamarkets (Druid)
 
 # 05-11-2017
