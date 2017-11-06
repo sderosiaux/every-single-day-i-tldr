@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 06-11-2017
+
+- https://techcrunch.com/2017/11/03/snap-metamarkets/ Snap has acquired Metamarkets (Druid)
+
 # 05-11-2017
 
 - https://www.youtube.com/watch?v=bBC-nXj3Ng4 Best video? to explain how Bitcoin actually works
