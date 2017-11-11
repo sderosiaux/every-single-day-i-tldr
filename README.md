@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 11-11-2017
 
+- https://prometheus.io/blog/2017/11/08/announcing-prometheus-2-0/ Prometheus 2.0, storage and perfs revisited
 - http://esr.ibiblio.org/?p=7711 An ode to the end of C, by a C programmer. New language taking its place: Go, Rust
 - https://alexn.org/blog/2017/11/10/minitest-no-crap-scala-library.html a KISS Scala testing lib, by monix's author
 - https://blog.chromium.org/2017/11/expanding-user-protections-on-web.html More protection from abusive redirects on the web
