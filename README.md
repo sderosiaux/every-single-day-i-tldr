@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 11-11-2017
+
+- http://status.ovh.net/?do=details&id=15162#comment18119 The reasons of the OVH outage: SBG power grid is totally flawed and will be fixed
+
 # 06-11-2017
 
 - http://tonsky.me/blog/chrome-intervention/ Silent breaking change from Chrome team (on addEventListener..! by default, is "passive" (a new option) to improve perf)
