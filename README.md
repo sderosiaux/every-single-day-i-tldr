@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 11-11-2017
 
+- https://blog.chromium.org/2017/11/expanding-user-protections-on-web.html More protection from abusive redirects on the web
 - http://status.ovh.net/?do=details&id=15162#comment18119 The reasons of the OVH outage: SBG power grid is totally flawed and will be fixed
 
 # 06-11-2017
