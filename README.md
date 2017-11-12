@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 12-11-2017
 
+- http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/ Ports and Adapters—Business logic should be contained into pure functions
 - https://blog.samebug.io/creating-a-todo-application-using-akka-http-and-slick-chapter-1-24f77394a481 Creating a TODO application using Akka HTTP and Slick
 - http://www.gwern.net/Ads Banner Ads Considered Harmful (Here): he estimates AdSense reduces its traffic by ~14%
 - https://www.slideshare.net/etorreborre/specs2-from-starters-to-dessert-and-a-look-in-the-kitchen Specs2, never used it, i think i won't
