@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 12-11-2017
 
+- https://blog.samebug.io/creating-a-todo-application-using-akka-http-and-slick-chapter-1-24f77394a481 Creating a TODO application using Akka HTTP and Slick
 - http://www.gwern.net/Ads Banner Ads Considered Harmful (Here): he estimates AdSense reduces its traffic by ~14%
 - https://www.slideshare.net/etorreborre/specs2-from-starters-to-dessert-and-a-look-in-the-kitchen Specs2, never used it, i think i won't
 - https://blog.timescale.com/time-series-data-postgresql-10-vs-timescaledb-816ee808bac5 TimescaleDB, an extension in PostgreSQL, aims to be better as timeseries db than good ol' vanilla PostgreSQL, even with declarative partitioning
