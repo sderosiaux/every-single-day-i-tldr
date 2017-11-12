@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 12-11-2017
+
+- https://www.youtube.com/watch?v=a4PX8vksBFU The story of the world's first webcam. It was used to know if the coffee was ready.
+
 # 11-11-2017
 
 - https://www.youtube.com/watch?v=b_pEevMAC3I&list=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt&index=29 PromCon 2017: optimizations done in Prometheus 2.0, benchmarks, just mad results
