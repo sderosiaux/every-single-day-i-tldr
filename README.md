@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 12-11-2017
 
+- https://blog.timescale.com/scaling-partitioning-data-postgresql-10-explained-cd48a712a9a1 PostgreSQL 10 introduces declarative partitioning
 - https://www.youtube.com/watch?v=a4PX8vksBFU The story of the world's first webcam. It was used to know if the coffee was ready.
 
 # 11-11-2017
