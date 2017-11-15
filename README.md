@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 15-11-2017
 
+- http://www.zdnet.com/article/linux-totally-dominates-supercomputers/ Today, all 500 of the world's top 500 supercomputers are running Linux.
 - https://github.com/Heydon/REVENGE.CSS REVENGE CSS | A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
 
 # 12-11-2017
