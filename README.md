@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-11-2017
+
+- https://github.com/Heydon/REVENGE.CSS REVENGE CSS | A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
+
 # 12-11-2017
 
 - http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/ Ports and Adapters—Business logic should be contained into pure functions
