@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-11-2017
+
+- https://www.lucidchart.com/techblog/2017/11/16/converting-600k-lines-to-typescript-in-72-hours/ Converting 600k lines to TypeScript in 72 hours by Lucidchart; very very awesome :-)
+
 # 15-11-2017
 
 - http://www.zdnet.com/article/linux-totally-dominates-supercomputers/ Today, all 500 of the world's top 500 supercomputers are running Linux.
