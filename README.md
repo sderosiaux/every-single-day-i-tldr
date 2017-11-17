@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 17-11-2017
 
+- https://github.com/sbt/sbt-fresh plugin to create an opinionated fresh sbt project, "sbt fresh" and done!
 - https://0patch.blogspot.fr/2017/11/did-microsoft-just-manually-patch-their.html When you lost source code, just patch the existing binary; as Microsoft did.
 - https://www.lucidchart.com/techblog/2017/11/16/converting-600k-lines-to-typescript-in-72-hours/ Converting 600k lines to TypeScript in 72 hours by Lucidchart; very very awesome :-)
 
