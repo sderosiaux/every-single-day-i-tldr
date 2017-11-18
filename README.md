@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 18-11-2017
 
+- https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product A super interesting review about Facebook: from where, to where, the dangers, the advertisers, the humans, the product
 - https://www.confluent.io/blog/transactions-apache-kafka/ High overview of how transactions works in Apache Kafka 
 
 # 17-11-2017
