@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 18-11-2017
 
+- https://en.wikipedia.org/wiki/AOS_and_SOA Are you more Array of Structures or Structure of Arrays? Interesting question!
 - https://github.com/apache/kudu/blob/master/docs/design-docs/tablet.md#mvcc-mutations-in-memrowset Very well written design doc about Kudu's tablets, explaining the how mvcc works, the different places data are stored, the compactions, and advantage/drawback compared to others db such as bigtable, vertica, pg
 - https://www.nytimes.com/2017/11/02/magazine/how-facebooks-oracular-algorithm-determines-the-fates-of-start-ups.html A passionant story about a startup using Facebook's Ads to get started: how to succeed and pitfalls
 - https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product A super interesting review about Facebook: from where, to where, the dangers, the advertisers, the humans, the product
