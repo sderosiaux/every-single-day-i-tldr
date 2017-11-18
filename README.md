@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 18-11-2017
+
+- https://www.confluent.io/blog/transactions-apache-kafka/ High overview of how transactions works in Apache Kafka 
+
 # 17-11-2017
 
 - https://www.youtube.com/watch?v=evaMpdSiZKk React made "easy and simple" with Next.js; presenting the different associated babel-plugins (talk a bit confusing though)
