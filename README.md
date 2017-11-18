@@ -6,7 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 18-11-2017
 
-- https://www.nytimes.com/2017/11/02/magazine/how-facebooks-oracular-algorithm-determines-the-fates-of-start-ups.html A passionant story about a startup using Facebook's Ads to get started: how to success and pitfalls
+- https://www.nytimes.com/2017/11/02/magazine/how-facebooks-oracular-algorithm-determines-the-fates-of-start-ups.html A passionant story about a startup using Facebook's Ads to get started: how to succeed and pitfalls
 - https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product A super interesting review about Facebook: from where, to where, the dangers, the advertisers, the humans, the product
 - https://www.confluent.io/blog/transactions-apache-kafka/ High overview of how transactions works in Apache Kafka 
 
