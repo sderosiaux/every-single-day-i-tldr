@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-11-2017
 
+- https://blog.alexellis.io/introducing-functions-as-a-service/ OpenFaas, serverless on top on containers (docker swarm, k8s)
 - http://nats.io/about/ A messaging system for native cloud application developement, with connectors to tons of softwares 
 - https://www.youtube.com/watch?v=e59pTjaVPCs Some FaaS demos using Amazon/GCP/Azure. Nice stuff about Azure are bindings (js var bound to databases).
 - http://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html Reduce coupling between tests and production code (X doesn't mean there is XTest). Tests should be independent, seen as a client of the api.
