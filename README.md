@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-11-2017
 
+- https://www.elastic.co/guide/en/elasticsearch/reference/6.0/removal-of-types.html More details about mapping types removal and a way to migrate using the reindex api
 - https://www.elastic.co/blog/elasticsearch-6-0-0-released Globally faster, and mapping types indices are deprecated :o
 - http://heydonworks.com/revenge_css_bookmarklet/ Bookmarklet to wrap any malformed/deprecated html structures with a pink border in the current page <3
 - https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md Span<T>: a new .NET structure to avoid copying internally every time. Abstraction: it can reference managed/native/stack mem. Performance!
