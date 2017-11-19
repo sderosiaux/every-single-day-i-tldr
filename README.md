@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-11-2017
 
+- https://postverta.com/ An online IDE for nodejs apps, dealing with deployment, easy and all-managed
 - https://www.slideshare.net/szaheer/dimensional-modelling-basic-concept Example of DM (identify business (source), the grain (what does 1 row means?), the dim, and the facts
 - https://en.wikipedia.org/wiki/Dimensional_modeling Dimensional modeling is a design technique for databases intended to support end-user queries in a data warehouse (how to design a star/snowflake schema)
 - https://medium.freecodecamp.org/the-rise-of-the-data-engineer-91be18f1e603 Interesting insights about what is a "Data Engineer" nowadays
