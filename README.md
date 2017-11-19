@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-11-2017
 
+- http://heydonworks.com/revenge_css_bookmarklet/ Bookmarklet to wrap any malformed/deprecated html structures with a pink border in the current page <3
 - https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md Span<T>: a new .NET structure to avoid copying internally every time. Abstraction: it can reference managed/native/stack mem. Performance!
 
 # 18-11-2017
