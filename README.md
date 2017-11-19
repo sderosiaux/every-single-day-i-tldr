@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-11-2017
+
+- https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md Span<T>: a new .NET structure to avoid copying internally every time. Abstraction: it can reference managed/native/stack mem. Performance!
+
 # 18-11-2017
 
 - https://lemire.me/blog/2017/11/10/how-should-you-build-a-high-performance-column-store-for-the-2020s/ Technics to encode and compress data to get faster, and referencing Apache Arrow for good column store perf
