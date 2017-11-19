@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-11-2017
 
+- http://blog.cleancoder.com/uncle-bob/2017/10/03/TestContravariance.html Reduce coupling between tests and production code (X doesn't mean there is XTest). Tests should be independent, seen as a client of the api.
 - https://postverta.com/ An online IDE for nodejs apps, dealing with deployment, easy and all-managed
 - https://www.slideshare.net/szaheer/dimensional-modelling-basic-concept Example of DM (identify business (source), the grain (what does 1 row means?), the dim, and the facts
 - https://en.wikipedia.org/wiki/Dimensional_modeling Dimensional modeling is a design technique for databases intended to support end-user queries in a data warehouse (how to design a star/snowflake schema)
