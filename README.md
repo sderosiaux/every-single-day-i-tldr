@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 20-11-2017
 
+- http://www.lihaoyi.com/post/SowhatswrongwithSBT.html "What's wrong with SBT?" Everything! It's so meta, as explained here.
 - https://towardsdatascience.com/google-colaboratory-simplifying-data-science-workflow-c70059386323 Ask for your invite at Google Colaboratory !
 - https://medium.com/unsplash-unfiltered/scaling-unsplash-with-a-small-team-fbdd55571906?ref=reddit Very good article by the splash team showing their architecture, their choices. Very lean, love it. "Have you tried throwing money at it?"
 
