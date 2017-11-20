@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 20-11-2017
+
+- https://medium.com/unsplash-unfiltered/scaling-unsplash-with-a-small-team-fbdd55571906?ref=reddit Very good article by the splash team showing their architecture, their choices. Very lean, love it. "Have you tried throwing money at it?"
+
 # 19-11-2017
 
 - https://blog.alexellis.io/introducing-functions-as-a-service/ OpenFaas, serverless on top on containers (docker swarm, k8s)
