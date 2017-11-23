@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-11-2017
+
+- http://tldr.sh/ If you don't enjoy man pages because they are too long, you will love tldr !
+
 # 20-11-2017
 
 - http://www.lihaoyi.com/post/SowhatswrongwithSBT.html "What's wrong with SBT?" Everything! It's so meta, as explained here.
