@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 23-11-2017
 
+- https://stackoverflow.blog/2017/11/13/cliffs-insanity-dramatic-shifts-technologies-stack-overflow/ Dramatic Shifts in Technologies on Stack Overflow: swift, tensorflow, angular (!)
 - http://tldr.sh/ If you don't enjoy man pages because they are too long, you will love tldr !
 
 # 20-11-2017
