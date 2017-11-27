@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 27-11-2017
 
+- http://blog.erratasec.com/2017/11/a-thanksgiving-carol-how-those-smart.html A surprising story about unconfirmed twitter account that keeps receiving stuff for years without being email-confirmed
 - https://www.youtube.com/watch?v=Pu_WTjjmm-E Ben Sigelman: OpenTracing and its Applications
 
 # 23-11-2017
