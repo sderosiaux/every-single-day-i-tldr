@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 27-11-2017
 
+- https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow A very nice intro to Jenkins Pipeline
 - https://carlossg.github.io/presentations/2017-11_agiletestingdays/#/ k8s and Jenkins (Workflow) = <3
 - https://blog.csanchez.org/2017/05/31/running-a-jvm-in-a-container-without-getting-killed/ Beware of JVM running inside memory-limited containers, they do not respect it by default!
 - http://blog.erratasec.com/2017/11/a-thanksgiving-carol-how-those-smart.html A surprising story about unconfirmed twitter account that keeps receiving stuff for years without being email-confirmed
