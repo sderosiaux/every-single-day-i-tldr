@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-11-2017
+
+- https://www.youtube.com/watch?v=Pu_WTjjmm-E Ben Sigelman: OpenTracing and its Applications
+
 # 23-11-2017
 
 - https://www.developpez.com/actu/174643/Mozilla-a-silencieusement-deploye-la-fonctionnalite-First-Party-Isolation-empruntee-a-Tor-pour-endiguer-le-profilage-des-regies-publicitaires/ FPI (First Party Isolation) pour isoler les cookies thid-party par domaine first-party: plus d'aggrégation possible côté third.
