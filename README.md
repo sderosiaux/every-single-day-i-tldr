@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 29-11-2017
+
+- https://design.google/library/evolving-google-identity/ An old post from 2015 when Google redesigns its logo and style. Nice explanations.
+
 # 27-11-2017
 
 - https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow A very nice intro to Jenkins Pipeline
