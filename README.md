@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 29-11-2017
 
+- https://www.confluent.io/confluent-cloud/ Confluent Platform as a managed service now "Confluent Cloud"
 - http://steve-yegge.blogspot.fr/2007/06/rich-programmer-food.html everybody should know how compilers work because it's always useful one day or another
 - https://design.google/library/evolving-google-identity/ An old post from 2015 when Google redesigns its logo and style. Nice explanations.
 
