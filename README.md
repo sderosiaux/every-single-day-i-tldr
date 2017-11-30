@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 01-12-2017
 
+- https://norasandler.com/2017/11/29/Write-a-Compiler.html Writing a C Compiler from scratch
 - https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/ Writing DDD repositories with an event driven design
 - https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234 Always interesting to see how to write a Linux Kernel Module
 
