@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 30-11-2017
+
+- https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/ Analogy between functional programming and microservices
+
 # 29-11-2017
 
 - https://speakerdeck.com/bobbycalderwood/commander-better-distributed-applications-through-cqrs-event-sourcing-and-immutable-logs How to go to CQRS+Event Sourcing using Kafka Streams
