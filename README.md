@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 01-12-2017
+
+- https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234 Always interesting to see how to write a Linux Kernel Module
+
 # 30-11-2017
 
 - https://andreas.github.io/2017/11/29/type-safe-graphql-with-ocaml-part-1/ Type-Safe GraphQL with OCaml
