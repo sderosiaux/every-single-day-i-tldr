@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 30-11-2017
 
+- https://www.bloomberg.com/news/articles/2017-11-29/uber-s-third-quarter-loss-is-said-to-widen-to-1-46-billion Uber in trouble, causing early investors to sell
 - https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/ Analogy between functional programming and microservices
 
 # 29-11-2017
