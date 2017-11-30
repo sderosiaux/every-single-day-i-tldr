@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 30-11-2017
 
+- https://blog.jetbrains.com/idea/2017/11/intellij-idea-2017-3-smarter-coding-assistance-better-debugger-run-dashboard-frameworks-support-and-more/ IntelliJ IDEA 2017.3: Smarter Coding Assistance, Better Debugger, Run Dashboard, Frameworks Support ! Installed.
 - https://www.bloomberg.com/news/articles/2017-11-29/uber-s-third-quarter-loss-is-said-to-widen-to-1-46-billion Uber in trouble, causing early investors to sell
 - https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/ Analogy between functional programming and microservices
 
