@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 30-11-2017
 
+- https://andreas.github.io/2017/11/29/type-safe-graphql-with-ocaml-part-1/ Type-Safe GraphQL with OCaml
 - http://nickdrane.com/build-your-own-regex/ A very simple"regex" engine in Javascript, as a starter.
 - https://blog.jetbrains.com/idea/2017/11/intellij-idea-2017-3-smarter-coding-assistance-better-debugger-run-dashboard-frameworks-support-and-more/ IntelliJ IDEA 2017.3: Smarter Coding Assistance, Better Debugger, Run Dashboard, Frameworks Support ! Installed.
 - https://www.bloomberg.com/news/articles/2017-11-29/uber-s-third-quarter-loss-is-said-to-widen-to-1-46-billion Uber in trouble, causing early investors to sell
