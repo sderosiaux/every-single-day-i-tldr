@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 01-12-2017
 
+- http://scala-lang.org/blog/2017/11/30/bloop-release.html "bloop", a"build loop" tool. A CLI over Zinc and nailgun.
 - https://dailycodingproblem.com/2017/11/30/random-element.html The Reservoir Algorithm
 - https://norasandler.com/2017/11/29/Write-a-Compiler.html Writing a C Compiler from scratch
 - https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/ Writing DDD repositories with an event driven design
