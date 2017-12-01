@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 01-12-2017
 
+- https://cloudplatform.googleblog.com/2017/11/introducing-an-easy-way-to-deploy-containers-on-Google-Compute-Engine-virtual-machines.html a new gcloud command to deploy containers into a GCE vm "create-with-container"
 - https://www.lesnumeriques.com/tv-televiseur/que-va-changer-hdmi-2-1-n69037.html Ne pas oublier de se tenir au courant de l'audio-visuel aussi! HDMI 2.1 incoming! du 4k en 120Mhz.
 - http://scala-lang.org/blog/2017/11/30/bloop-release.html "bloop", a"build loop" tool. A CLI over Zinc and nailgun.
 - https://dailycodingproblem.com/2017/11/30/random-element.html The Reservoir Algorithm
