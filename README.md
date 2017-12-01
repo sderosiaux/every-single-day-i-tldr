@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 01-12-2017
 
+- https://www.lesnumeriques.com/tv-televiseur/que-va-changer-hdmi-2-1-n69037.html Ne pas oublier de se tenir au courant de l'audio-visuel aussi! HDMI 2.1 incoming! du 4k en 120Mhz.
 - http://scala-lang.org/blog/2017/11/30/bloop-release.html "bloop", a"build loop" tool. A CLI over Zinc and nailgun.
 - https://dailycodingproblem.com/2017/11/30/random-element.html The Reservoir Algorithm
 - https://norasandler.com/2017/11/29/Write-a-Compiler.html Writing a C Compiler from scratch
