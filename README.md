@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 02-12-2017
 
+- https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58 Akka Streams pitfalls to avoid — part 2 – WAY more interesting than part 1
 - https://blog.chromium.org/2017/11/reducing-chrome-crashes-caused-by-third.html It's not about third-party cookies this time, but third-party softwares!
 - https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ We did some great tech bach then! "After 37 years, Voyager 1 has fired up its trajectory thrusters."
 
