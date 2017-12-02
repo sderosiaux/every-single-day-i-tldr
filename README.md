@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 02-12-2017
+
+- https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ We did some great tech bach then! "After 37 years, Voyager 1 has fired up its trajectory thrusters."
+
 # 01-12-2017
 
 - https://cloudplatform.googleblog.com/2017/11/introducing-an-easy-way-to-deploy-containers-on-Google-Compute-Engine-virtual-machines.html a new gcloud command to deploy containers into a GCE vm "create-with-container"
