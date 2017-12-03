@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 03-12-2017
 
+- https://www.youtube.com/watch?v=4PgX3yBJEyw "Authenticating service-to-service calls with Google Cloud Endpoints"
 - https://www.infoq.com/news/2017/12/webassembly-browser-support WebAssembly is definitely going to spread faster and faster !
 - https://www.michielrook.nl/2016/11/strangler-pattern-practice/ The Strangler pattern in practice
 - https://www.martinfowler.com/bliki/StranglerApplication.html The Strangler Pattern—Or how to rewrite a legacy app iteratively
