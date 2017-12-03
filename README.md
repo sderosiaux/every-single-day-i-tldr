@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 03-12-2017
+
+- https://www.martinfowler.com/bliki/StranglerApplication.html The Strangler Pattern—Or how to rewrite a legacy app iteratively
+
 # 02-12-2017
 
 - https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58 Akka Streams pitfalls to avoid — part 2 – WAY more interesting than part 1
