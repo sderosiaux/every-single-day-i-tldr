@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 05-12-2017
+
+- https://github.com/spotify/apollo microservices tiny framework used by spotify
+
 # 04-12-2017
 
 - https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/ Spotify had some troubles with autoscaling on GCS with Pub/Sub Consumers (not using Dataflow ?!)
