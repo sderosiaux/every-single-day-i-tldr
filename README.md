@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 04-12-2017
 
+- https://medium.com/learning-rust Bookmark that when the time's come!
 - https://github.com/wanqizhu/pyfuck python using only those chars: [(+travels')]. yeah, whatever
 
 # 03-12-2017
