@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 04-12-2017
+
+- https://github.com/wanqizhu/pyfuck python using only those chars: [(+travels')]. yeah, whatever
+
 # 03-12-2017
 
 - https://www.youtube.com/watch?v=4PgX3yBJEyw "Authenticating service-to-service calls with Google Cloud Endpoints"
