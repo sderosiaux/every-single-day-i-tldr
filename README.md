@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 04-12-2017
 
+- https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/ Spotify had some troubles with autoscaling on GCS with Pub/Sub Consumers (not using Dataflow ?!)
 - https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/ This is a impressive and crazy Go bug debugging lecture
 - https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/ Very interesting with good pointers. s/gifs/mp4/
 - https://docs.google.com/document/d/1yRYfYR1DnHtgwC4HRR04ipVVhT1h5gkI6yPmKCgJkyQ/edit#heading=h.elxj4igk4k81 w3c proposal: "Hero Element Timing API" to be aware of when some critical elements (hero elements) are displayed on screen
