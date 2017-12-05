@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 05-12-2017
 
+- https://blog.doit-intl.com/replacing-mixpanel-with-bigquery-dataflow-and-kubernetes-b5f844710674 Catchy title, i like it ! Mixpanel, BQ, Dataflow, k8s.
 - https://github.com/spotify/apollo microservices tiny framework used by spotify
 
 # 04-12-2017
