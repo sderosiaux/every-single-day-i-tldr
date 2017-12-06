@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 06-12-2017
 
+- http://syncfree.github.io/antidote/index.html a new CRDT HA database 
 - https://reactos.org/project-news/reactos-047-released ReactOS continues its evolution, mirroring Windows but as FOSS (nothing to do with ReactJS eh)
 
 # 05-12-2017
