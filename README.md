@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 06-12-2017
+
+- https://reactos.org/project-news/reactos-047-released ReactOS continues its evolution, mirroring Windows but as FOSS (nothing to do with ReactJS eh)
+
 # 05-12-2017
 
 - https://parceljs.org/ Parcel is a html/js/css/xxx module bundler with 0 config and just need the html as source. Mostly made for hyper fast build-test-loop.
