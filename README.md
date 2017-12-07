@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 07-12-2017
 
+- https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4 Airbnb optimizing its React rendering
 - https://arxiv.org/pdf/1712.01815.pdf AlphaZero has learn to perfectly play chess within a few hours this time
 
 # 06-12-2017
