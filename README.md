@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 07-12-2017
 
+- https://www.washingtonpost.com/news/the-switch/wp/2017/12/07/amazon-wants-a-key-to-your-house-i-did-it-i-regretted-it/ I was not aware such a thing exist: electronic keys+cam for delivery guy to drop packages into the house
 - https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4 Airbnb optimizing its React rendering
 - https://arxiv.org/pdf/1712.01815.pdf AlphaZero has learn to perfectly play chess within a few hours this time
 
