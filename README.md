@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 07-12-2017
+
+- https://arxiv.org/pdf/1712.01815.pdf AlphaZero has learn to perfectly play chess within a few hours this time
+
 # 06-12-2017
 
 - http://syncfree.github.io/antidote/index.html a new CRDT HA database 
