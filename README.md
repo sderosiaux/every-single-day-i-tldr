@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 08-12-2017
+
+- https://github.com/sindresorhus/refined-twitter Simple but useful (can be done through Stylish too): simplify Twitter UI \o/
+
 # 07-12-2017
 
 - https://cloud.google.com/blog/big-data/2016/07/using-the-cloud-natural-language-api-to-analyze-harry-potter-and-the-new-york-times A very nice intro and easy usage of Google NLP API
