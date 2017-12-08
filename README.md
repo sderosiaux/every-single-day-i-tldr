@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 08-12-2017
 
+- https://ipdata.co/index.html a (free) IP Geolocation API, always good to have one
 - https://github.com/sindresorhus/refined-twitter Simple but useful (can be done through Stylish too): simplify Twitter UI \o/
 
 # 07-12-2017
