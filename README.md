@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 08-12-2017
 
+- https://www.youtube.com/watch?v=Y-cPVQaXlMw&list=PLjkHSzY9VuL8hRtytRxvO5gheXHWWdU9A&index=6 A really good FR talk about free monads and cooking
 - https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/MbXp16hQclY/bQjegyrbAgAJ dev will have the ability to "async" image processing to get better responsiveness.
 - https://ipdata.co/index.html a (free) IP Geolocation API, always good to have one
 - https://github.com/sindresorhus/refined-twitter Simple but useful (can be done through Stylish too): simplify Twitter UI \o/
