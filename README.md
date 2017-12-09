@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 09-12-2017
+
+- https://gist.github.com/staltz/08bf613199092eeb41ac8137d51eb5e6 People seems to forget about the "state" part in React to manage internal updates, interesting problematic inside anyway
+
 # 08-12-2017
 
 - https://www.youtube.com/watch?v=Y-cPVQaXlMw&list=PLjkHSzY9VuL8hRtytRxvO5gheXHWWdU9A&index=6 A really good FR talk about free monads and cooking
