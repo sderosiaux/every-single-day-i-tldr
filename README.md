@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 09-12-2017
 
+- https://brianmckenna.org/blog/constraints_are_for_methods A point in Scala explaining that Type constraints are for methods, not data (ie: not on the class itself)
 - https://gist.github.com/staltz/08bf613199092eeb41ac8137d51eb5e6 People seems to forget about the "state" part in React to manage internal updates, interesting problematic inside anyway
 
 # 08-12-2017
