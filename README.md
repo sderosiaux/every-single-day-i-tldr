@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 10-12-2017
 
+- https://blog.scalac.io/2016/06/02/overview-of-free-monad-in-cats.html This was an nice completary post to the cats Free doc. (note: the code in the post is based on a old cats version)
 - https://github.com/mil-tokyo/webdnn with webdnn, we can execute DNN pipelines in the browser
 - http://make.girls.moe/ An anime characters generators based on NN (we can pickup lots of aspects and ask for generation). 
 - https://medium.com/4iqdelvedeep/1-4-billion-clear-text-credentials-discovered-in-a-single-database-3131d0a1ae14 clear passwords are the biggest mistake in IT
