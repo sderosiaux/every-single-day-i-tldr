@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 10-12-2017
+
+- https://kerpanic.wordpress.com/2017/12/10/macbook-pro-2016-1-year-later-from-a-devs-perspective/ No GPU-accelerated Tensorflow on macbooks :-( (no nvidia)
+
 # 09-12-2017
 
 - https://brianmckenna.org/blog/constraints_are_for_methods A point in Scala explaining that Type constraints are for methods, not data (ie: not on the class itself)
