@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 10-12-2017
 
+- https://github.com/fosskers/scalaz-and-cats Comparisons and usage examples between Scalaz and Cats
 - https://kerpanic.wordpress.com/2017/12/10/macbook-pro-2016-1-year-later-from-a-devs-perspective/ No GPU-accelerated Tensorflow on macbooks :-( (no nvidia)
 
 # 09-12-2017
