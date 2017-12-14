@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 14-12-2017
 
+- https://nd4j.org/index.html Dealing with N-dimensional arrays in Java, supporting CUDA for some hyper-quick GPU computing
 - https://www.youtube.com/watch?time_continue=2&v=Bbw1ki-U-QY overview of AI Starcraft(s) bots techinics
 
 # 10-12-2017
