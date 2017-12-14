@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 14-12-2017
+
+- https://www.youtube.com/watch?time_continue=2&v=Bbw1ki-U-QY overview of AI Starcraft(s) bots techinics
+
 # 10-12-2017
 
 - https://blog.scalac.io/2016/06/02/overview-of-free-monad-in-cats.html This was an nice completary post to the cats Free doc. (note: the code in the post is based on a old cats version)
