@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 15-12-2017
 
+- https://developers.google.com/web/tools/chrome-user-experience-report/#best-practices A new public dataset on bigquery that exposes measurements of metrics across web (features, connections type, ...)
 - https://github.com/pauljamescleary/scala-pet-store An implementation of some classic store using http4s/doobie/circe
 - https://www.lyranthe.org/presentations/http4s_doobie_circe.pdf A presentation on http4s/doobie/circe used together
 
