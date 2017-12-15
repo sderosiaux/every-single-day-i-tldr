@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 15-12-2017
 
+- https://github.com/pauljamescleary/scala-pet-store An implementation of some classic store using http4s/doobie/circe
 - https://www.lyranthe.org/presentations/http4s_doobie_circe.pdf A presentation on http4s/doobie/circe used together
 
 # 14-12-2017
