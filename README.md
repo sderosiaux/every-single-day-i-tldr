@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 15-12-2017
+
+- https://www.lyranthe.org/presentations/http4s_doobie_circe.pdf A presentation on http4s/doobie/circe used together
+
 # 14-12-2017
 
 - https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers Dubsmash: Scaling To 200 Million Users With 3 Engineers, many technologies used + Amazon and Gcloud, very good team!
