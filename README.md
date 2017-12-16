@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 16-12-2017
+
+- https://github.com/facebook/Docusaurus Documentation made easy on gh-pages
+
 # 15-12-2017
 
 - https://developers.google.com/web/tools/chrome-user-experience-report/#best-practices A new public dataset on bigquery that exposes measurements of metrics across web (features, connections type, ...)
