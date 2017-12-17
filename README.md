@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 17-12-2017
 
+- https://www.youtube.com/watch?v=H28QqxO7Ihc Tagless final using Free applicatives
 - https://www.youtube.com/watch?v=MvQxNm5gn8g Quite clear explanations about the usage of the category theory, from a Scala programmer perpective
 - https://kubernetes.io/case-studies/blablacar/ BlaBlaCar case study of its k8s usage
 - http://blog.kubernetes.io/2017/12/kubernetes-19-workloads-expanded-ecosystem.html Kubernetes 1.9 out. Apps Workloads GA and Expanded Ecosystem
