@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 17-12-2017
+
+- http://blog.kubernetes.io/2017/12/kubernetes-19-workloads-expanded-ecosystem.html Kubernetes 1.9 out. Apps Workloads GA and Expanded Ecosystem
+
 # 16-12-2017
 
 - https://github.com/facebook/Docusaurus Documentation made easy on gh-pages
