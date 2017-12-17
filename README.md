@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 17-12-2017
 
+- https://kubernetes.io/case-studies/blablacar/ BlaBlaCar case study of its k8s usage
 - http://blog.kubernetes.io/2017/12/kubernetes-19-workloads-expanded-ecosystem.html Kubernetes 1.9 out. Apps Workloads GA and Expanded Ecosystem
 
 # 16-12-2017
