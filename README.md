@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-12-2017
 
+- https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html Is the future is mobile mesh networks?
 - https://github.com/Jam3/math-as-code a cheat-sheet for mathematical notation in code form, quite straight-forward
 
 # 17-12-2017
