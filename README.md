@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-12-2017
 
+- http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql Benefits and drawbacks of ORMs (+simplity/+complexity)
 - http://jonasboner.com/bla-bla-microservices-bla-bla/ "Asynchronous Communication, Isolation, Autonomicity, Single Responsibility, Exclusive State, and Mobility. These are the core traits of Microservices."
 - https://v8project.blogspot.fr/2017/12/v8-release-64.html V8 still adding some optimizations (bind, Weak*, slice/filter) and smaller memory footprint
 - https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html Is the future is mobile mesh networks?
