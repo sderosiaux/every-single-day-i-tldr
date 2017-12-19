@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 19-12-2017
+
+- https://github.com/Jam3/math-as-code a cheat-sheet for mathematical notation in code form, quite straight-forward
+
 # 17-12-2017
 
 - https://www.youtube.com/watch?v=H28QqxO7Ihc Tagless final using Free applicatives
