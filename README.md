@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 19-12-2017
 
+- http://jonasboner.com/bla-bla-microservices-bla-bla/ "Asynchronous Communication, Isolation, Autonomicity, Single Responsibility, Exclusive State, and Mobility. These are the core traits of Microservices."
 - https://v8project.blogspot.fr/2017/12/v8-release-64.html V8 still adding some optimizations (bind, Weak*, slice/filter) and smaller memory footprint
 - https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html Is the future is mobile mesh networks?
 - https://github.com/Jam3/math-as-code a cheat-sheet for mathematical notation in code form, quite straight-forward
