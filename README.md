@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 20-12-2017
+
+- https://www.justinobeirne.com/google-maps-moat A damn good article on the evolution of Google Maps quality
+
 # 19-12-2017
 
 - https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980 blockchain in the new TODO
