@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 20-12-2017
 
+- https://www.slideshare.net/HadoopSummit/hadoop-3-in-a-nutshell Basically Hadoop 3 in a cleanup of codebase and a big YARN refacto
 - https://www.justinobeirne.com/google-maps-moat A damn good article on the evolution of Google Maps quality
 
 # 19-12-2017
