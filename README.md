@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 21-12-2017
 
+- https://www.forbes.com/sites/thomasbrewster/2017/12/19/120m-american-households-exposed-in-massive-consumerview-database-leak/#1a73d6f07961 This is nuts. The company trying to minimize the impact of such leak.. what a shitty behavior.
 - https://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/ Very informative article about localhost loophole congestion
 - https://www.propublica.org/article/facebook-ads-age-discrimination-targeting Is it not better to prevent ppl you wouldn't hire to apply anyway?
 
