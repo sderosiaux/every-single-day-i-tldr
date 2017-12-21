@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 21-12-2017
 
+- https://www.youtube.com/watch?v=g_jP47HFpWA Daniel Spiewak talking about IO monad, very good
 - https://www.confluent.io/blog/ksql-december-release KSQL or writing streamers with SQL, love it!
 - https://www.youtube.com/watch?v=aWI7iU36qv0 Let's put a happy music in the background to explain microservices \o/
 - https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/ Apple strategy: underclocking phone's cpu according the battery age
