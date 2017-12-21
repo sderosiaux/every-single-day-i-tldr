@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 21-12-2017
 
+- https://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/ Very informative article about localhost loophole congestion
 - https://www.propublica.org/article/facebook-ads-age-discrimination-targeting Is it not better to prevent ppl you wouldn't hire to apply anyway?
 
 # 20-12-2017
