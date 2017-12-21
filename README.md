@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 21-12-2017
 
+- https://www.confluent.io/blog/ksql-december-release KSQL or writing streamers with SQL, love it!
 - https://www.youtube.com/watch?v=aWI7iU36qv0 Let's put a happy music in the background to explain microservices \o/
 - https://www.geekbench.com/blog/2017/12/iphone-performance-and-battery-age/ Apple strategy: underclocking phone's cpu according the battery age
 - https://www.forbes.com/sites/thomasbrewster/2017/12/19/120m-american-households-exposed-in-massive-consumerview-database-leak/#1a73d6f07961 This is nuts. The company trying to minimize the impact of such leak.. what a shitty behavior.
