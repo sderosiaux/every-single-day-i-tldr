@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 21-12-2017
+
+- https://www.propublica.org/article/facebook-ads-age-discrimination-targeting Is it not better to prevent ppl you wouldn't hire to apply anyway?
+
 # 20-12-2017
 
 - https://www.slideshare.net/HadoopSummit/hadoop-3-in-a-nutshell Basically Hadoop 3 in a cleanup of codebase and a big YARN refacto
