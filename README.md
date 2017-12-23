@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 23-12-2017
 
+- http://larahogan.me/blog/desk-moves/ Interesting insights over human emotions when managing them (here: around desk moves task)
 - http://2ality.com/2017/11/about-reasonml.html A nice series of post to discover ReasonML
 
 # 21-12-2017
