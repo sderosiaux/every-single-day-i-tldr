@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 24-12-2017
+
+- https://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/#Omf2eUtrEwXV06i0.97 Edge finally handle SWs by default, and they did a nice recap' of why SWs are useful
+
 # 23-12-2017
 
 - http://larahogan.me/blog/desk-moves/ Interesting insights over human emotions when managing them (here: around desk moves task)
