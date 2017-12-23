@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 23-12-2017
+
+- http://2ality.com/2017/11/about-reasonml.html A nice series of post to discover ReasonML
+
 # 21-12-2017
 
 - https://github.com/ballercat/walt Walt is a cool idea to write JavaScript-like syntax to be compiled to WebAssembly without the LLVM overhead
