@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 24-12-2017
 
+- http://www.chriskrycho.com/2017/chrome-is-not-the-standard.html Friendly reminder: Chrome is not the standard. The web platform is managed by several actors.
 - https://dzone.com/articles/reactive-spring-5-and-application-design-impact Reactive Spring 5: the reactive parts
 - https://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/#Omf2eUtrEwXV06i0.97 Edge finally handle SWs by default, and they did a nice recap' of why SWs are useful
 
