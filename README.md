@@ -4,6 +4,8 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 25-12-2017 :christmas_tree:
+
 # 24-12-2017
 
 - https://github.com/spotify/featran A nice and small Scala feature transformation library for ML
