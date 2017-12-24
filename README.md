@@ -4,7 +4,9 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
-# 25-12-2017 :christmas_tree:
+# 25-12-2017 
+- http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/ The Entity Service is an antipattern in the sense that the services are not autonomous (not context bound)
+christmas_tree:
 
 # 24-12-2017
 
