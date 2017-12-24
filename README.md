@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 24-12-2017
 
+- https://prepack.io/repl.html#BQMwrgdgxgLglgewgAmASmQbwFDOb5caeJZATQEMAnYAByoVoGcMc88qBTGMKlAHgrIAFlxABeTPUZMAdKM4gAvgD5+nALYqpDZrIgUNnJfwD0mtaYoqCSggSKxEKAELU6ullgIduvAQAmcABuaky0FChMMACeADackphQCHEIVABcyABEXAHZSqoAEpxcAORMyEJxcBAA1mbhkSpZ-JRUWLJd0sxKyKaWQaEA3Lb2eKamhOnIEAgA7gA0yPOcyFwAjmBwXMi1NRBrAGJp88ixtGuRczAUJBCVpDDCawwIMMgpGrRInBAwBEm0w6cBglR6lWAcBAew+wgolUiMTQDkgTlIRwQCA8MiymAUICy0SotQA5kpWD5kMFqJ9Ugl0ShxMgANpUvCYERiLIQ+RiZYGIxZbJHHbRZAASRgmmyyCUi3ZWC5ih5nj5igFhk4woAypwUhAApLpRpZfLFZyCaqZOqQJqhTkACrCHZGqUyuUK9jIAC6o29VK4PD4qEV-CGNm93uS9P191kGgotChJuQ4hUyH4bg6mC6slBmj6A2QaDsUczpgjVLQ-rl436U2ecEqzaqyHC+rgFDiyAAClwIlA6oQ0fcRFi6oDG-CPtK4nFKv3OIPh89XliPggYUIAEqcCiwOnfX7-c5cTgEAD6l64pOb0qoe4PMAAwghj4d-juN8BMQga-W8y1AECyyH+abIH+owUugwxAA Prepack now understands React components and can inline them (alpha)
 - http://www.chriskrycho.com/2017/chrome-is-not-the-standard.html Friendly reminder: Chrome is not the standard. The web platform is managed by several actors.
 - https://dzone.com/articles/reactive-spring-5-and-application-design-impact Reactive Spring 5: the reactive parts
 - https://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/#Omf2eUtrEwXV06i0.97 Edge finally handle SWs by default, and they did a nice recap' of why SWs are useful
