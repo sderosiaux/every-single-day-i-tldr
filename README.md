@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 24-12-2017
 
+- https://www.youtube.com/watch?v=1dchSsac3T4 Spotify's Scio
 - https://goo.gl/mn6ZJB Prepack now understands React components and can inline them (alpha)
 - http://www.chriskrycho.com/2017/chrome-is-not-the-standard.html Friendly reminder: Chrome is not the standard. The web platform is managed by several actors.
 - https://dzone.com/articles/reactive-spring-5-and-application-design-impact Reactive Spring 5: the reactive parts
