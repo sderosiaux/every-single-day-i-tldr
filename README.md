@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 25-12-2017
 
+- https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17 A nice presentation with code in JS of CQRS+ES
 - https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/ This time, comparing with "load balancer" pattern. I prefer Akka Streams on this one, it's way more explicit and clear
 - http://blog.soat.fr/2017/07/pourquoi-et-sous-quel-condition-utiliser-les-microservices/ microservices, microservices!
 - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html Netflix: What Happens When You Press Play? Video starts.
