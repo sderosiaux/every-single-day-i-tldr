@@ -5,6 +5,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
 # 25-12-2017 
+- https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/ This time, comparing with "load balancer" pattern. I prefer Akka Streams on this one, it's way more explicit and clear
 - http://blog.soat.fr/2017/07/pourquoi-et-sous-quel-condition-utiliser-les-microservices/ microservices, microservices!
 christmas_tree:
 
