@@ -4,14 +4,12 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
-# 25-12-2017 
+# 25-12-2017
+
 - https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/ This time, comparing with "load balancer" pattern. I prefer Akka Streams on this one, it's way more explicit and clear
 - http://blog.soat.fr/2017/07/pourquoi-et-sous-quel-condition-utiliser-les-microservices/ microservices, microservices!
-christmas_tree:
-
 - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html Netflix: What Happens When You Press Play? Video starts.
 - http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/ The Entity Service is an antipattern in the sense that the services are not autonomous (not context bound)
-christmas_tree:
 
 # 24-12-2017
 
