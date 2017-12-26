@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 26-12-2017
 
+- https://shipilev.net/jvm-anatomy-park/14-constant-variables/ eager "final" vars value is inline, lazy final values are not
 - https://medium.com/bread-and-circuses/how-i-got-paid-0-from-the-uber-security-bug-bounty-aa9646aa103f Uber Security Bug Bounty program looks like a joke. Dude found several important flaws and earned 0$.
 - https://github.com/aboul3la/Sublist3r subdomains enumeration tool for penetration testers
 - https://www.sans.org/reading-room/whitepapers/tools/os-application-fingerprinting-techniques-1891 OS and Application Fingerprinting Techniques
