@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 26-12-2017
 
+- https://github.com/akarnokd/async-enumerable asynchronous enumerable: moveNext() returns a Future[Boolean] and not just a Boolean
 - https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301 Apparently, k8s simulates some kind of genericity in its codebase through the usage of a custom "runtime.Object" that looks like Java's Object?
 - https://shipilev.net/jvm-anatomy-park/14-constant-variables/ eager "final" vars value is inline, lazy final values are not
 - https://medium.com/bread-and-circuses/how-i-got-paid-0-from-the-uber-security-bug-bounty-aa9646aa103f Uber Security Bug Bounty program looks like a joke. Dude found several important flaws and earned 0$.
