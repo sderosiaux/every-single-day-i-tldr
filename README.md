@@ -4,6 +4,10 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
 
+# 27-12-2017
+
+- https://www.youtube.com/watch?v=v7b4J2INq9c Microsoft Quantum Development Kit: Introduction
+
 # 26-12-2017
 
 - https://lemire.me/blog/2017/12/26/personal-reflections-on-2017/ More VR, more AI, data engineering is currently a mess, perf & latency greatly sucks (surprisingly), and other interesting stuff
