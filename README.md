@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 26-12-2017
 
+- https://lemire.me/blog/2017/12/26/personal-reflections-on-2017/ More VR, more AI, data engineering is currently a mess, perf & latency greatly sucks (surprisingly), and other interesting stuff
 - https://blog.alexellis.io/the-state-of-netbooting-raspberry-pi/  netbooting RPi is cool but full of terrors (unstable at boot, docker containers can't work because of its CoW filesystem which doesn't work through NFS..)
 - https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants/ JIT constants optimized
 - https://github.com/akarnokd/async-enumerable asynchronous enumerable: moveNext() returns a Future[Boolean] and not just a Boolean
