@@ -13,7 +13,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 - https://github.com/aboul3la/Sublist3r subdomains enumeration tool for penetration testers
 - https://www.sans.org/reading-room/whitepapers/tools/os-application-fingerprinting-techniques-1891 OS and Application Fingerprinting Techniques
 
-# 25-12-2017
+# 25-12-2017 :christmas_tree:
 
 - https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17 A nice presentation with code in JS of CQRS+ES
 - https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/ This time, comparing with "load balancer" pattern. I prefer Akka Streams on this one, it's way more explicit and clear
