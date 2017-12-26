@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 26-12-2017
 
+- https://github.com/aboul3la/Sublist3r subdomains enumeration tool for penetration testers
 - https://www.sans.org/reading-room/whitepapers/tools/os-application-fingerprinting-techniques-1891 OS and Application Fingerprinting Techniques
 
 # 25-12-2017
