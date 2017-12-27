@@ -1,8 +1,12 @@
 # *Almost* every single day I TLDR!
 
-Here, I list every article, blog post, page, video I read or watch and find interesting. I add a little description for me to find it later, or as a TLDR. It's mostly about Scala, Javascript, and technology. ⚡
+Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting.
 
-> Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :angel:
+To find it later, I add a little description, basically a TLDR for anyone else.
+
+It's mostly about Scala, Java, Javascript, backend and frontend in general, big data, and technology. :muscle:
+
+> Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
 # 27-12-2017
 
