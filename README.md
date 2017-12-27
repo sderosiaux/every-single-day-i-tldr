@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 27-12-2017
 
+- http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html Algolia’s architecture explained (from 2015), quite interesting
 - https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0 Very nice case study to review all what makes a performant webapp
 - https://danluu.com/input-lag/ Keyboard to screen latency, from 1977 to 2017. We didn't really improve /o\
 - https://www.theguardian.com/world/2017/apr/14/what-is-the-historical-evidence-that-jesus-christ-lived-and-died Always question believers facts
