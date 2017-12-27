@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-12-2017
 
+- https://cloud.google.com/blog/big-data/2017/12/busting-12-myths-about-bigquery Busting 12 myths about BigQuery. I wasn't aware of the point-in-time snapshot feature. But it makes sense, because bq is bigtable behind the scene.
 - http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html Algolia’s architecture explained (from 2015), quite interesting
 - https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0 Very nice case study to review all what makes a performant webapp
 - https://danluu.com/input-lag/ Keyboard to screen latency, from 1977 to 2017. We didn't really improve /o\
