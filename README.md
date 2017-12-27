@@ -2,7 +2,7 @@
 
 Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting.
 
-To find it later, I add a little description, basically a TLDR for anyone else.
+To find it later, I add a little description —or just a critique. It's like a huge shared bookmarks registry!
 
 It's mostly about Scala, Java, Javascript, backend and frontend in general, big data, and technology. :muscle:
 
