@@ -6,6 +6,7 @@ Here, I list every article, blog post, page, video I read or watch and find inte
 
 # 27-12-2017
 
+- https://www.youtube.com/watch?v=o7wtlMb_Qv0 Microservices, talk by Vaughn Vernon
 - https://www.youtube.com/watch?v=v7b4J2INq9c Microsoft Quantum Development Kit: Introduction
 
 # 26-12-2017
