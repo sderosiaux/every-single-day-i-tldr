@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-12-2017
 
+- https://www.youtube.com/watch?v=B37UbzPlSzw is IOTA the future "blockchain" err, "blockdag"? scalable, quantum resistant, no fees..
 - https://www.youtube.com/watch?v=1eg0ahHtxcQ Microservices & DDD
 - https://banzaicloud.com/blog/spark-monitoring/ Monitoring Apache Spark with Prometheus on Kubernetes. Buzzzzing!
 - http://blog.cloudera.com/blog/2017/12/faster-performance-for-selective-queries/ Combining partitioning+clustering (sort by (x, y, ..) in create ddl) for maximum partition pruning, very useful!
