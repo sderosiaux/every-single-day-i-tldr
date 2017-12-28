@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 28-12-2017
 
+- https://shipilev.net/jvm-anatomy-park/18-scalar-replacement/ HotSpot's Escape Analytics analyzed
 - http://slides.com/pdolega/slick-101#/ A nice presentation about Slick features, with monads and applicatives comparaison
 
 # 27-12-2017
