@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 28-12-2017
 
+- https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc Service mesh data plane vs. control plane. Thanks! Now i get it.
 - https://shipilev.net/jvm-anatomy-park/18-scalar-replacement/ HotSpot's Escape Analytics analyzed
 - http://slides.com/pdolega/slick-101#/ A nice presentation about Slick features, with monads and applicatives comparaison
 
