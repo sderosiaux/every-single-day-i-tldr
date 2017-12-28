@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-12-2017
+
+- http://slides.com/pdolega/slick-101#/ A nice presentation about Slick features, with monads and applicatives comparaison
+
 # 27-12-2017
 
 - https://www.youtube.com/watch?v=B37UbzPlSzw is IOTA the future "blockchain" err, "blockdag"? scalable, quantum resistant, no fees..
