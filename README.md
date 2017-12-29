@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-12-2017
+
+- https://github.com/lllyasviel/style2paints Any sketch images colorized and painted :o (CNN)
+
 # 29-12-2017
 
 - https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f A very nice review of the book: the Effective Engineer
