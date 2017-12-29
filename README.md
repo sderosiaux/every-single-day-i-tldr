@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 29-12-2017
 
+- https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef JVM optim: define the hot path, don't allocate in there, identity boxing, keep things monomorphics
 - https://medium.com/@fwbrasil/quill-spark-a-type-safe-scala-api-for-spark-sql-2672e8582b0d A type-safe Scala API for Spark SQL
 - https://www.iravid.com/posts/fp-and-spark.html Using Monix Task and cats StateT into Spark to make it more functional.
 - https://github.com/findify/scala-packed an interesting concept where classic Scala collections type are backed by bytes (to avoid case class overhead, header etc.), bytes efficient.
