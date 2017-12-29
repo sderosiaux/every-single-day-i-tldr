@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 29-12-2017
 
+- https://github.com/findify/scala-packed an interesting concept where classic Scala collections type are backed by bytes (to avoid case class overhead, header etc.), bytes efficient.
 - https://siliconangle.com/blog/2017/07/12/lightbend-startup-behind-scala-programming-language-bags-15m Lightbend raises $15M. More Scala! <3
 
 # 28-12-2017
