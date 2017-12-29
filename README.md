@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-12-2017
+
+- https://siliconangle.com/blog/2017/07/12/lightbend-startup-behind-scala-programming-language-bags-15m Lightbend raises $15M. More Scala! <3
+
 # 28-12-2017
 
 - https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc Service mesh data plane vs. control plane. Thanks! Now i get it.
