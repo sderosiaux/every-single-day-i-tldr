@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 30-12-2017
 
+- https://www.wsj.com/articles/the-worst-job-in-technology-staring-at-human-depravity-to-keep-it-off-facebook-1514398398 Content moderators on social networks: clearly not an easy job that can totally mess you up
 - https://github.com/lllyasviel/style2paints Any sketch images colorized and painted :o (CNN)
 
 # 29-12-2017
