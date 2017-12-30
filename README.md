@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 30-12-2017
 
+- https://softwaremill.com/applicative-functor/ Another explanation about the applicative functors
 - https://www.youtube.com/watch?v=1bNOO3xxMc0 Queue theory reminds me of reactive programming. Need to handle backpressure. Queues are everywhere. Gather metrics (queues, threads pools). Plan your app for "too much data".
 - https://www.wsj.com/articles/the-worst-job-in-technology-staring-at-human-depravity-to-keep-it-off-facebook-1514398398 Content moderators on social networks: clearly not an easy job that can totally mess you up
 - https://github.com/lllyasviel/style2paints Any sketch images colorized and painted :o (CNN)
