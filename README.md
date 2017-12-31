@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 31-12-2017
 
+- https://code.facebook.com/posts/1478526992216557/migrating-a-database-from-innodb-to-myrocks/ How Facebook migrates from InnoDB to MyRocks (mysql backed by rocksdb)
 - https://www.youtube.com/watch?v=Tkjg179M-Nc Talk about "Stream I/O" by Andre 'Staltz' Medeiros, where cycle.js idea comes from
 - https://www.slideshare.net/mpilquist/scalaz-13068563 A very nice prez on Scalaz, now I understand everything :-)
 
