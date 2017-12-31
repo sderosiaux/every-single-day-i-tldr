@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 31-12-2017
+
+- https://www.slideshare.net/mpilquist/scalaz-13068563 A very nice prez on Scalaz, now I understand everything :-)
+
 # 30-12-2017
 
 - https://softwaremill.com/applicative-functor/ Another explanation about the applicative functors
