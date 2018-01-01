@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-01-2018
+
+- https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/ a 36-bullet point that makes quite sense, to rea for any developer/software lead
+
 # 31-12-2017
 
 - https://code.facebook.com/posts/1478526992216557/migrating-a-database-from-innodb-to-myrocks/ How Facebook migrates from InnoDB to MyRocks (mysql backed by rocksdb)
