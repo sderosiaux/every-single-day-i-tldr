@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-01-2018
+
+- https://www.zachaysan.com/writing/2017-12-30-zero-width-characters Fingerprinting with Zero-Width Characters and homoglyths. Love it!
+
 # 02-01-2018
 
 - https://github.com/javascript-obfuscator/javascript-obfuscator JS obfuscators are getting back
