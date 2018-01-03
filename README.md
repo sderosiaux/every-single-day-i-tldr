@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 03-01-2018
 
+- https://www.youtube.com/watch?v=ewe3-mUku94 ASLR kernel attack using Javascript: performance.now() and SharedArrayBuffer. Unfortunately, the speaker is not good at all.
 - http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table The story of the "Address Space Layout Randomization" kernel attack; could lead to hypervisor privileges escalation
 - https://www.zachaysan.com/writing/2017-12-30-zero-width-characters Fingerprinting with Zero-Width Characters and homoglyths. Love it!
 
