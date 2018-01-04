@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-01-2018
+
+- https://kwark.github.io/refined-in-practice/ Refinement Types looks very interesting. The drawbacks are not important enough compared to the advantages! (basically validation on the type level)
+
 # 04-01-2018
 
 - https://googleprojectzero.blogspot.fr/2018/01/reading-privileged-memory-with-side.html Interesting details about the current global bug to read privileged memory with a side-channel. It's basically based on speculative execution+cache+timing to evaluate if 0 or 1
