@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-01-2018
+
+- http://pepegar.com/hammock/ Hammock is like sttp, a generic http client with different backends. And is also functional oriented (Free, IO) <3
+
 # 03-01-2018
 
 - https://www.youtube.com/watch?v=WscozkoXLHM Very good talk about exactly once kafka semantics
