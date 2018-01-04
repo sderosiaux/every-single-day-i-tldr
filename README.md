@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 04-01-2018
 
+- https://googleprojectzero.blogspot.fr/2018/01/reading-privileged-memory-with-side.html Interesting details about the current global bug to read privileged memory with a side-channel. It's basically based on speculative execution+cache+timing to evaluate if 0 or 1
 - http://pepegar.com/hammock/ Hammock is like sttp, a generic http client with different backends. And is also functional oriented (Free, IO) <3
 
 # 03-01-2018
