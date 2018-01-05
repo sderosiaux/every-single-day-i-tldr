@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-01-2018
+
+- https://font-display.glitch.me/ getting control of font appearance when font is not downloaded yet, using "font-display"
+
 # 05-01-2018
 
 - https://support.google.com/faqs/answer/7625886 Google providing Retpoline: a software construct for preventing branch-target-injection
