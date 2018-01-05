@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 05-01-2018
 
+- https://www.youtube.com/watch?v=IhVdU4Xiz2U A nice talk comparing Free monads and tagless final
 - https://kwark.github.io/refined-in-practice/ Refinement Types looks very interesting. The drawbacks are not important enough compared to the advantages! (basically validation on the type level)
 
 # 04-01-2018
