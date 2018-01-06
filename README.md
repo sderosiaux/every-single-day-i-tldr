@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-01-2018
 
+- https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/ No speculative execution on Rasp: no attack possible \o/
 - https://font-display.glitch.me/ getting control of font appearance when font is not downloaded yet, using "font-display"
 
 # 05-01-2018
