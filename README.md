@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-01-2018
 
+- http://psy-lob-saw.blogspot.fr/2013/05/know-thy-java-object-memory-layout.html TIL about False Sharing (adding padding in object to keep values in cache)
 - https://www.youtube.com/watch?v=wi97X8_JQUk Monix talk by Monix creator
 - https://www.youtube.com/watch?v=hr3UdktX-As Akka anti-patterns (use a hierarchy! supervision is there for this. never block, use pipe. never pass outside mutable state. etc.)
 - https://gist.github.com/djspiewak/7a81a395c461fd3a09a6941d4cd040f2 Good to know: the type parameters we expect users to vary should be declared the right-most.
