@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-01-2018
 
+- https://gist.github.com/djspiewak/7a81a395c461fd3a09a6941d4cd040f2 Good to know: the type parameters we expect users to vary should be declared the right-most.
 - https://developer.lightbend.com/blog/2018-01-05-kafka-streams-scala-goodies-part-2/ Provide a simili-global state from any node
 - https://github.com/raphaelsc/Am-I-affected-by-Meltdown Proof-of-concept / Exploit / checks whether system is affected by Variant 3: rogue data cache load (CVE-2017-5754), a.k.a MELTDOWN.
 - https://developer.lightbend.com/blog/2018-01-05-kafka-streams-scala-goodies-part-1/ If Lightbend has a Scala wrapper on top of kafka streams java, that means it will be maintained! +1
