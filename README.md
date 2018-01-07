@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-01-2018
 
+- https://www.youtube.com/watch?v=qwYs0J7xp78 type-safety in CQRS (linked model to events and commands types)
 - https://www.youtube.com/watch?v=778znDnjROg gRPC with ScalaPB newbie talk
 - https://www.youtube.com/watch?v=Z6_Nd7lu2PI Event Sourcing and CQRS using Lagom
 
