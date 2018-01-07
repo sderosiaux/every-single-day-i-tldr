@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-01-2018
+
+- https://www.youtube.com/watch?v=Z6_Nd7lu2PI Event Sourcing and CQRS using Lagom
+
 # 06-01-2018
 
 - http://psy-lob-saw.blogspot.fr/2013/05/know-thy-java-object-memory-layout.html TIL about False Sharing (adding padding in object to keep values in cache)
