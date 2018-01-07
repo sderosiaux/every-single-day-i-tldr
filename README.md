@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-01-2018
 
+- https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5 A definitely realistic post about the "easiness" of injecting any code on "any" website that uses npm packages. (thus stealing anything it wants)
 - https://github.com/0xAX/linux-insides Wonderful bits about Linux kernel. More than 800 pages of "bits" already.
 - https://www.youtube.com/watch?v=qwYs0J7xp78 type-safety in CQRS (linked model to events and commands types)
 - https://www.youtube.com/watch?v=778znDnjROg gRPC with ScalaPB newbie talk
