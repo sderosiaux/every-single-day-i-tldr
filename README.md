@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-01-2018
+
+- https://www.youtube.com/watch?v=jd5e71nFEZM This was a very good explanation about monad transformers
+
 # 07-01-2018
 
 - https://lwn.net/Articles/741897/ Demystifying container runtimes
