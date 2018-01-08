@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 08-01-2018
 
+- http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/ According to the author Kudu >> Parquet with Impala with some "minor" catches. Not the xp I got (size in kudu was ++, kudu couln't remove deleted data from disk, kudu was sometimes stuck and needed weekly reboot (despite plenty of mem)..)
 - https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/ How to Fix Facebook—Before It Fixes Us.  "Fear and anger produce a lot more engagement and sharing than joy." "The result is that everyone sees a different version of the internet tailored to create the illusion that everyone else agrees with them" Trump's Russia-gate.
 - https://www.youtube.com/watch?v=jd5e71nFEZM This was a very good explanation about monad transformers
 
