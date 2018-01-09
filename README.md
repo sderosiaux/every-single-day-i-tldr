@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-01-2018
 
+- https://www.youtube.com/watch?v=s3ljANN80R4 Speedup .scala compilation with Hydra (stil early access)
 - https://shipilev.net/jvm-anatomy-park/20-fpu-spills/ SSE instructions and xmm registers used as fast storage thanks the UseFPUForSpilling jvm flag (enablde by default): it avoids to use the "slower" L1 cache
 
 # 08-01-2018
