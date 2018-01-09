@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-01-2018
+
+- https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/ What Spectre and Meltdown Mean For WebKit
+
 # 09-01-2018
 
 - https://jobs.zalando.com/tech/blog/why-we-do-scala/ All the things we like using  Scala <3
