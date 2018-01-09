@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-01-2018
 
+- https://jobs.zalando.com/tech/blog/why-we-do-scala/ All the things we like using  Scala <3
 - https://zalando.github.io/tech-radar/ Zalando has a public "tech radar", awesome company !
 - https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html Free wildcard certifs for all \o/
 - https://www.smashingmagazine.com/2018/01/visual-studio-code/ Yeah, VSCode is a great editor full of features
