@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-01-2018
 
+- https://techcrunch.com/2018/01/08/james-damore-just-filed-a-class-action-lawsuit-against-google-saying-it-discriminates-against-white-male-conservatives/ James Damore just filed a class action lawsuit against Google, saying it discriminates against white male conservatives | It' a must read, especially the official lawsuit document. Tons of screenshots and discussions.
 - https://www.ultimategdprquiz.com/ The Ultimate GDPR Quiz— Not easy to get 10/10 :x
 - https://www.youtube.com/watch?v=s3ljANN80R4 Speedup .scala compilation with Hydra (stil early access)
 - https://shipilev.net/jvm-anatomy-park/20-fpu-spills/ SSE instructions and xmm registers used as fast storage thanks the UseFPUForSpilling jvm flag (enablde by default): it avoids to use the "slower" L1 cache
