@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-01-2018
+
+- https://shipilev.net/jvm-anatomy-park/20-fpu-spills/ SSE instructions and xmm registers used as fast storage thanks the UseFPUForSpilling jvm flag (enablde by default): it avoids to use the "slower" L1 cache
+
 # 08-01-2018
 
 - http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/ According to the author Kudu >> Parquet with Impala with some "minor" catches. Not the xp I got (size in kudu was ++, kudu couln't remove deleted data from disk, kudu was sometimes stuck and needed weekly reboot (despite plenty of mem)..)
