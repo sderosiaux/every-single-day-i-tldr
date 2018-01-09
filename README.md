@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-01-2018
 
+- https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html Free wildcard certifs for all \o/
 - https://www.smashingmagazine.com/2018/01/visual-studio-code/ Yeah, VSCode is a great editor full of features
 - http://blackswanfarming.com/cost-of-delay/ Thinking about cost and delay: what are they, how to know the impact of time on the outcomes
 - http://kroah.com/log/blog/2018/01/06/meltdown-status/ Meltdown and Spectre Linux kernel status - <3 to the kernel developers
