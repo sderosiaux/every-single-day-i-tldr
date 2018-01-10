@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 10-01-2018
 
+- https://www.youtube.com/watch?v=gH5mPaLU8_g Quelques raisons pour coder du Rust venant de Scala :-)
 - https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/ What Spectre and Meltdown Mean For WebKit
 
 # 09-01-2018
