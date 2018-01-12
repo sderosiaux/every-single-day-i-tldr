@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 12-01-2018
 
+- https://craftsmen.nl/memory-usage-6-popular-rest-server-frameworks-compared/ Comparing memory usage of Spring/Play/Vertex/Jersey/..
 - https://github.com/emilwallner/Screenshot-to-code-in-Keras a NN to convert mockups to actual HTML \o/
 
 # 10-01-2018
