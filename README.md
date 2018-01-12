@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 12-01-2018
+
+- https://github.com/emilwallner/Screenshot-to-code-in-Keras a NN to convert mockups to actual HTML \o/
+
 # 10-01-2018
 
 - https://www.youtube.com/watch?v=gH5mPaLU8_g Quelques raisons pour coder du Rust venant de Scala :-)
