@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 15-01-2018
+
+- https://www.washingtonpost.com/news/post-nation/wp/2018/01/14/hawaii-missile-alert-how-one-employee-pushed-the-wrong-button-and-caused-a-wave-of-panic/?utm_term=.cc967e072831 "Hawaii missile alert: How one employee ‘pushed the wrong button’ and caused a wave of panic" That's nuts
+
 # 12-01-2018
 
 - https://craftsmen.nl/memory-usage-6-popular-rest-server-frameworks-compared/ Comparing memory usage of Spring/Play/Vertex/Jersey/..
