@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 15-01-2018
 
+- http://blog.ploeh.dk/2018/01/15/unit-isomorphisms/ Unit isomorphisms
 - https://github.com/boopathi/babel-time-travel "Time travel through babel transformations one by one." Interesting to see the "way"
 - https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question/ "Should engineering managers write code? Wrong question." => "Where to write code?"
 - https://rreverser.com/writing-complex-macros-in-rust/ Writing complex macros in Rust: Reverse Polish Notation
