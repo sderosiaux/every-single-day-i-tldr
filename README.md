@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 15-01-2018
 
+- https://rreverser.com/writing-complex-macros-in-rust/ Writing complex macros in Rust: Reverse Polish Notation
 - https://www.washingtonpost.com/news/post-nation/wp/2018/01/14/hawaii-missile-alert-how-one-employee-pushed-the-wrong-button-and-caused-a-wave-of-panic/?utm_term=.cc967e072831 "Hawaii missile alert: How one employee ‘pushed the wrong button’ and caused a wave of panic" That's nuts
 
 # 12-01-2018
