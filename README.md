@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-01-2018
+
+- https://github.com/NervJS/nerv Another "blazing fast React alternative"
+
 # 16-01-2018
 
 - https://github.com/scala/collection-strawman/pull/342 New immutable hash set and map in Scala's collection-strawman (using CHAMP)
