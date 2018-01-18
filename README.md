@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 18-01-2018
 
+- https://github.com/Chymyst/curryhoward Generate code for full parametric functions (through macros) automatically from the function signature :o
 - https://github.com/NervJS/nerv Another "blazing fast React alternative"
 
 # 16-01-2018
