@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-01-2018
+
+- https://www.buzzfeed.com/tomphillips/twitterstorm-2018 This is a must-read. It traces how a twitterstorm appears from a tiny thing and gets totally out of control.
+
 # 18-01-2018
 
 - https://github.com/GoogleChrome/dialog-polyfill I didn't even remembered HTML had a <dialog> !
