@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-01-2018
 
+- https://github.com/benjojo/dnsfs dnsfs: Store your data in others DNS revolvers cache
 - https://www.buzzfeed.com/tomphillips/twitterstorm-2018 This is a funny must-read. It traces how a twitterstorm appears from a tiny thing and gets totally out of control. (it's fake but so "plausible" ahah)
 
 # 18-01-2018
