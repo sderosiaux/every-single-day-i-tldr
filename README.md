@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-01-2018
 
+- https://jakubstransky.com/2017/11/27/structure-of-java-virtual-machine-jvm/ Structure of Java Virtual Machine (JVM)
 - https://www.confluent.io/blog/put-several-event-types-kafka-topic/ Martin Kleppmann on "Should You Put Several Event Types in the Same Kafka Topic?": it's rarely the case
 - http://highscalability.com/blog/2018/1/16/monolith-or-microservices-which-should-you-start-with.html Monolith or Microservices: Which should you start with? Some very good advices. You know with it if you know them \o/
 - https://github.com/benjojo/dnsfs dnsfs: Store your data in others DNS revolvers cache
