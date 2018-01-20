@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-01-2018
+
+- https://www.slideshare.net/quipo/nosql-databases-why-what-and-when/ Very good slides from 2011 about consistency, distributed strategies, bigtable, nosql dbs..
+
 # 20-01-2018
 
 - https://www.youtube.com/watch?v=EDLAdgAVyFU Functional Foundation of Event Sourced Application (from Lagom team)
