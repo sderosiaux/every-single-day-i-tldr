@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-01-2018
 
+- http://kamon.io/teamblog/2018/01/18/kamon-1.0.0-is-out/ Kamon 1.0 is out! More Prometheus and Open Tracing oriented <3
 - https://intoli.com/blog/not-possible-to-block-chrome-headless/ Bypassing the Chrome Headless detector tests
 
 # 19-01-2018
