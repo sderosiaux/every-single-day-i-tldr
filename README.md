@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-01-2018
 
+- https://www.youtube.com/watch?v=EDLAdgAVyFU Functional Foundation of Event Sourced Application (from Lagom team)
 - https://www.youtube.com/watch?v=__zuECMFCRc From basic API to functional API
 - https://developer.lightbend.com/blog/2018-01-17-akka-multidc/ Akka Multi-DC: Akka persistence replicas across different DCs
 - http://docs.scala-lang.org/sips/pending/static-members.html.html SIP 25 - @static fields and methods in Scala objects
