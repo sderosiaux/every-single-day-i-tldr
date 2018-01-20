@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-01-2018
 
+- https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8 seq2seq models to predict github issues title from content
 - https://martinfowler.com/bliki/IntegrationTest.html Integration tests vs end-to-end tests
 - https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/ Streaming and tiering WebAssembly compiler in Firefox
 - http://kamon.io/teamblog/2018/01/18/kamon-1.0.0-is-out/ Kamon 1.0 is out! More Prometheus and Open Tracing oriented <3
