@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-01-2018
 
+- https://developer.lightbend.com/blog/2018-01-17-akka-multidc/ Akka Multi-DC: Akka persistence replicas across different DCs
 - http://docs.scala-lang.org/sips/pending/static-members.html.html SIP 25 - @static fields and methods in Scala objects
 - http://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/ MySQL to elastic and postgres, using debezium and kafka-connect
 - https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/ Cloud AutoML available, starting with Vision !
