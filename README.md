@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-01-2018
 
+- http://debezium.io/blog/2018/01/17/streaming-to-elasticsearch/ MySQL to elastic and postgres, using debezium and kafka-connect
 - https://www.blog.google/topics/google-cloud/cloud-automl-making-ai-accessible-every-business/ Cloud AutoML available, starting with Vision !
 - https://towardsdatascience.com/how-to-create-data-products-that-are-magical-using-sequence-to-sequence-models-703f86a231f8 seq2seq models to predict github issues title from content
 - https://martinfowler.com/bliki/IntegrationTest.html Integration tests vs end-to-end tests
