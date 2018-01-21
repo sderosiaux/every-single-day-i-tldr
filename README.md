@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-01-2018
 
+- http://blog.kubernetes.io/2017/10/using-rbac-generally-available-18.html RBAC GA since Kubernetes v1.8
 - https://www.youtube.com/watch?v=JHGkaShoyNs Great talk by Greg Young about CQRS and Event Sourcing
 - https://www.slideshare.net/quipo/nosql-databases-why-what-and-when/ Very good slides from 2011 about consistency, distributed strategies, bigtable, nosql dbs..
 
