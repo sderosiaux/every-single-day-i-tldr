@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-01-2018
+
+- https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403 Loading lazily packages instead of being eager: way less to dl=faster, and can work in a web browser now
+
 # 22-01-2018
 
 - https://github.com/etaty/scalacheck-magnolia generate random instances of case classes / ADT with ScalaCheck, priceless!
