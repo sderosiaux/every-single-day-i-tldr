@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-01-2018
+
+- https://www.youtube.com/watch?v=KaLROwp-VDY "How to get productive in a project in 24h": look at tests, coverage, cyclomatic complexities, git often changes files
+
 # 21-01-2018
 
 - https://blog.openai.com/scaling-kubernetes-to-2500-nodes/ "Scaling Kubernetes to 2,500 Nodes" Issues with etcd fluentd kubedns docker image pulls and arp caches
