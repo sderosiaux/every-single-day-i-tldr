@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 23-01-2018
 
+- https://en.fabernovel.com/insights/tech-en/akka-typed Another example of using Akka typed. Much more verbose but at least, it's compile-time type-checked!
 - https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403 Loading lazily packages instead of being eager: way less to dl=faster, and can work in a web browser now
 
 # 22-01-2018
