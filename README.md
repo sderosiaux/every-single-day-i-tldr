@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 22-01-2018
 
+- https://github.com/etaty/scalacheck-magnolia generate random instances of case classes / ADT with ScalaCheck, priceless!
 - https://www.youtube.com/watch?v=KaLROwp-VDY "How to get productive in a project in 24h": look at tests, coverage, cyclomatic complexities, git often changes files
 
 # 21-01-2018
