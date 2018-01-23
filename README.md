@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 23-01-2018
 
+- https://twitter.com/DasSurma/status/955484341358022657 Deep copying a JS object with clever means: the history API, or the MessageChannel for workers x_x
 - https://www.youtube.com/watch?v=CUVOBANHzpo Why Akka streams rocks for high throughput
 - https://dzone.com/articles/microprofile-enhances-microservices-for-java MicroProfile is a project to make jvm microservices-oriented (config, fault tolerance, health check, metrics, auth)
 - https://www.thoughtworks.com/radar ThoughtWorks has a really great tech radar split in several domains (techniques, tools, platforms, languages)
