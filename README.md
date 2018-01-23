@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-01-2018
+
+- https://medium.com/actualbudget/balancing-product-and-technology-e525dd82c05a Some feedback on product and technologu from a great developer. Looks like DDD.
+
 # 23-01-2018
 
 - https://github.com/developit/karmatic Automatic (headless) browser testing. Karma/Webpack/Jasmine. 0 config tools are the best.
