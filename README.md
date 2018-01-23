@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 23-01-2018
 
+- https://dzone.com/articles/microprofile-enhances-microservices-for-java MicroProfile is a project to make jvm microservices-oriented (config, fault tolerance, health check, metrics, auth)
 - https://www.thoughtworks.com/radar ThoughtWorks has a really great tech radar split in several domains (techniques, tools, platforms, languages)
 - https://en.fabernovel.com/insights/tech-en/akka-typed Another example of using Akka typed. Much more verbose but at least, it's compile-time type-checked!
 - https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403 Loading lazily packages instead of being eager: way less to dl=faster, and can work in a web browser now
