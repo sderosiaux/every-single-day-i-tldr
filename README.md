@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 23-01-2018
 
+- https://github.com/developit/karmatic Automatic (headless) browser testing. Karma/Webpack/Jasmine. 0 config tools are the best.
 - https://twitter.com/DasSurma/status/955484341358022657 Deep copying a JS object with clever means: the history API, or the MessageChannel for workers x_x
 - https://www.youtube.com/watch?v=CUVOBANHzpo Why Akka streams rocks for high throughput
 - https://dzone.com/articles/microprofile-enhances-microservices-for-java MicroProfile is a project to make jvm microservices-oriented (config, fault tolerance, health check, metrics, auth)
