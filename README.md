@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-01-2018
+
+- http://anthonycros.com/turn-scala-into-spark/ Very strong similitude between a plain Scala program using the stdlib and its Spark equivalent
+
 # 24-01-2018
 
 - https://adriaanm.github.io/reveal.js/scala-2.13-beyond.html#/7 Scala 2.14 will be so good! simpler, faster, stronger!
