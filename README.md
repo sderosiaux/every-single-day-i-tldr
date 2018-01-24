@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 24-01-2018
 
+- http://marxsoftware.blogspot.fr/2018/01/schopenhauers-law-immutability.html In Java, things are not Immutable but _Unmodifiable_ 
 - http://mail.openjdk.java.net/pipermail/jmh-dev/2018-January/002723.html JMH 1.20 out! fixes and impro, better java9 compat, perfasm on osx
 - https://medium.com/actualbudget/balancing-product-and-technology-e525dd82c05a Some feedback on product and technologu from a great developer. Looks like DDD.
 
