@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 25-01-2018
 
+- https://facebook.github.io/prophet/docs/quick_start.html Prophet forecasts data with uncertainty intervals (Python and R apis)
 - https://github.com/MfgLabs/akka-stream-extensions Some great Akka Stream extensions for postgresql, elasticsearch, shapeless, s3
 - http://di-in-scala.github.io/ Compile-time DI is so much better! No more Java runtime stuff stupidities.
 - http://anthonycros.com/turn-scala-into-spark/ Very strong similitude between a plain Scala program using the stdlib and its Spark equivalent
