@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 25-01-2018
 
+- https://v8project.blogspot.fr/2018/01/speedometer-2.html Optimization in V8 are quite remarkable
 - https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95 Parcel has such a huge momentum. Now includes: Source Maps, WebAssembly, Rust. No Config at all ! 
 - https://facebook.github.io/prophet/docs/quick_start.html Prophet forecasts data with uncertainty intervals (Python and R apis)
 - https://github.com/MfgLabs/akka-stream-extensions Some great Akka Stream extensions for postgresql, elasticsearch, shapeless, s3
