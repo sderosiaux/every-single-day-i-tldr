@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-01-2018
 
+- https://emails.hteumeuleu.com/email-accessibility-in-action-f7f9d945cf67 Add relevant alt on imgs, role="presentation" on <tables> used for layout (emails!), lang="xx" 
 - http://co.ntextu.al/ Write string interpolators with custom checks; provides classic ones such as email, hex, regex
 - https://to-ithaca.github.io/libra/ A dimensional analysis lib, to check if addition/product on types makes sense ("mass + speed" ?!). Basically: don't deal with simple Doubles everywhere.
 - https://contributors.scala-lang.org/t/whitebox-def-macros/1210 Debate about whitebox def macros, lots of good insights
