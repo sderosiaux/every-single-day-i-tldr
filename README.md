@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-01-2018
 
+- https://to-ithaca.github.io/libra/ A dimensional analysis lib, to check if addition/product on types makes sense ("mass + speed" ?!). Basically: don't deal with simple Doubles everywhere.
 - https://contributors.scala-lang.org/t/whitebox-def-macros/1210 Debate about whitebox def macros, lots of good insights
 
 # 25-01-2018
