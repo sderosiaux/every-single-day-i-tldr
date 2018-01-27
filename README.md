@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 27-01-2018
+
+- https://contributors.scala-lang.org/t/whitebox-def-macros/1210 Debate about whitebox def macros, lots of good insights
+
 # 25-01-2018
 
 - https://v8project.blogspot.fr/2018/01/speedometer-2.html Optimization in V8 are quite remarkable
