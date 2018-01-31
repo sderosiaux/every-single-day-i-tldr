@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 31-01-2018
 
+- https://github.com/google/xi-editor A new future awesome text (code?) editor (in Rust!) ?
 - https://github.com/developit/greenlet Multithreading made very easy and not verbose in js (ww)
 
 # 27-01-2018
