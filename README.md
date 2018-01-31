@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 31-01-2018
+
+- https://github.com/developit/greenlet Multithreading made very easy and not verbose in js (ww)
+
 # 27-01-2018
 
 - https://github.com/akka-js/akka.js Akka compliant to Scala.js Oo
