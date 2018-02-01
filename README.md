@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 01-02-2018
 
+- http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/ Some feedback and interrogation to ask yourself when dealing with microservices
 - http://www.rigacci.org/wiki/lib/exe/fetch.php/doc/appunti/linux/sa/iptables/conntrack.html how conntrack works (connections state in a memory state), use within iptables
 - https://queue.acm.org/detail.cfm?id=3096459 The Calculus of Service Availability - interesting insights from a Googler about SLO/SLA formula, dependencies, thresholds
 
