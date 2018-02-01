@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-02-2018
+
+- https://queue.acm.org/detail.cfm?id=3096459 The Calculus of Service Availability - interesting insights from a Googler about SLO/SLA formula, dependencies, thresholds
+
 # 31-01-2018
 
 - http://www.securityweek.com/microsoft-disables-spectre-mitigations-due-instability Spectre mitigations causing instabilities is disabled -_-
