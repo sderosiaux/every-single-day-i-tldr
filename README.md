@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 02-02-2018
 
+- https://sap1ens.com/blog/2018/01/03/message-enrichment-with-kafka-streams/ Very good post about message enrichment with Kafka Streams
 - https://github.com/lihaoyi/sourcecode Scala implicits to get source code metadata (filename,line, method name..)
 
 # 01-02-2018
