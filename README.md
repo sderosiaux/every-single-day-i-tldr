@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 02-02-2018
 
+- https://www.emnify.com/2018/02/01/monitoring-with-kamon-1-0/ kamon and prometheus ftw
 - https://developer.lightbend.com/blog/2018-02-01-sbt-1.2-roadmap/ sbt 1.2.0 roadmap
 - https://docs.scala-lang.org/sips/42.type.html Literal-types in Scala 2.13, useful for refined types or typed-key records (product types without case classes, hlist for instance)
 - https://docs.google.com/presentation/d/1_dxtzcBaf8OfYGM-vsAJnXUJvDgmFWZJM0tmtDJoVGU/ Feedback from Algolia about scaling up
