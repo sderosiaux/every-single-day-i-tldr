@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 02-02-2018
 
+- https://docs.scala-lang.org/sips/42.type.html Literal-types in Scala 2.13, useful for refined types or typed-key records (product types without case classes, hlist for instance)
 - https://docs.google.com/presentation/d/1_dxtzcBaf8OfYGM-vsAJnXUJvDgmFWZJM0tmtDJoVGU/ Feedback from Algolia about scaling up
 - https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/ Nice "guide" about contacting a company to reveal a data breach
 - https://sap1ens.com/blog/2018/01/03/message-enrichment-with-kafka-streams/ Very good post about message enrichment with Kafka Streams
