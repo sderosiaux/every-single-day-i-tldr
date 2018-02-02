@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-02-2018
+
+- https://github.com/lihaoyi/sourcecode Scala implicits to get source code metadata (filename,line, method name..)
+
 # 01-02-2018
 
 - https://github.com/jsverify/jsverify ScalaCheck/QuickCheck in JS :-) Property-based testing
