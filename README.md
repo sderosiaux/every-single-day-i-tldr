@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-02-2018
+
+- http://www.tomanthony.co.uk/blog/googlebot-javascript-random/ Identifying Googlebot by checking random() which is deterministic in its case
+
 # 02-02-2018
 
 - https://github.com/Gabriel439/slides/blob/master/bigtechday/slides.md Everything is a monoid
