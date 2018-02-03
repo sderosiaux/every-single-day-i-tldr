@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 03-02-2018
 
+- https://www.youtube.com/watch?v=_Cct8b8OO2E Measure everything with Kamon (1.0.0) + prom + spans (opentracing)
 - https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9 How to secure sensitive pages: csp is not enough: iframe, another domain, postMessage (iframe -> parent)
 - http://www.tomanthony.co.uk/blog/googlebot-javascript-random/ Identifying Googlebot by checking random() which is deterministic in its case
 
