@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-02-2018
+
+- http://www.corbinstreehouse.com/blog/2018/01/code-reviews-part-1-dont-do-them/ Surprising opinion: "Code reviews: don't do them"
+
 # 03-02-2018
 
 - https://www.youtube.com/watch?v=_Cct8b8OO2E Measure everything with Kamon (1.0.0) + prom + spans (opentracing)
