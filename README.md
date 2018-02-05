@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 05-02-2018
 
+- https://gravitational.com/blog/kubernetes-release-cycle/# The full-time job of keeping up with Kubernetes
 - https://github.com/facebook/osquery A damn good idea: query all your system parts using SQL
 - https://www.cakesolutions.net/teamblogs/demystifying-the-blocking-construct-in-scala-futures A complete post about the "blocking" in Scala. Only works with the global ExecutionContext (or you need to DIY)
 
