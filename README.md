@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-02-2018
 
+- http://enear.github.io/2016/09/27/bits-of-shapeless-2/ Generic Derivation in shapeless. The little tour about literal types is almost absolete thanks to the native integration in Scala 2.13!
 - https://github.com/graphcool/prisma easily implement a graphql server over any database
 - https://blog.mozilla.org/security/2018/01/31/preventing-data-leaks-by-stripping-path-information-in-http-referrers/ Firefox will automatically add a "Referrer Policy" to avoid leaking querystring and hash to third parties
 - https://tech.travelaudience.com/bigtable-storing-protobuf-bytes-in-one-column-vs-splitting-the-content-into-column-families-c231bdff8db7 Storing protobuf into one col (instead of splitting in numerous cols) uses less cpu (on bigtable) and is easier to deal with read pattern modification and evolution
