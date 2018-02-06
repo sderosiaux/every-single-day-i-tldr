@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-02-2018
+
+- https://speakerdeck.com/ianlewis/kubernetes-security-best-practices Kubernetes Security Best Practices
+
 # 06-02-2018
 
 - http://enear.github.io/2016/09/27/bits-of-shapeless-2/ Generic Derivation in shapeless. The little tour about literal types is almost absolete thanks to the native integration in Scala 2.13!
