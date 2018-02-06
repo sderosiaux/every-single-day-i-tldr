@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-02-2018
+
+- https://markmanson.net/how-to-let-go Life is a long series of losses. Think about it.
+
 # 05-02-2018
 
 - https://gravitational.com/blog/kubernetes-release-cycle/# The full-time job of keeping up with Kubernetes
