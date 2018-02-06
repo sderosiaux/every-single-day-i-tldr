@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-02-2018
 
+- https://tech.travelaudience.com/bigtable-storing-protobuf-bytes-in-one-column-vs-splitting-the-content-into-column-families-c231bdff8db7 Storing protobuf into one col (instead of splitting in numerous cols) uses less cpu (on bigtable) and is easier to deal with read pattern modification and evolution
 - https://markmanson.net/how-to-let-go Life is a long series of losses. Think about it.
 
 # 05-02-2018
