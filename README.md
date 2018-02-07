@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-02-2018
 
+- https://manuel.bernhardt.io/2017/07/26/a-new-adaptive-accrual-failure-detector-for-akka/ Another adaptive accrual failure detector for Akka
 - https://www.confluent.io/blog/handling-gdpr-log-forget/ No magic: compacted topics, CDC
 - https://speakerdeck.com/ianlewis/kubernetes-security-best-practices Kubernetes Security Best Practices
 
