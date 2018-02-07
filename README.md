@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-02-2018
 
+- https://www.confluent.io/blog/handling-gdpr-log-forget/ No magic: compacted topics, CDC
 - https://speakerdeck.com/ianlewis/kubernetes-security-best-practices Kubernetes Security Best Practices
 
 # 06-02-2018
