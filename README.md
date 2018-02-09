@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-02-2018
+
+- https://shipilev.net/talks/devoxx-Nov2012-perfMethodology.pdf A very good ("old" but still relevant) recap of how to monitor/understand/fix performance issues
+
 # 08-02-2018
 
 - https://trac.webkit.org/changeset/228266/webkit native .flatmap now in webkit! Soon, the monads.
