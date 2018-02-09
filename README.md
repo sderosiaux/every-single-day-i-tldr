@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-02-2018
 
+- http://www.bigeng.io/elasticsearch-scaling-multitenant/ A very interesting post about optimizing elasticsearch in a multitenant environment
 - https://velotio.com/blog/2017/7/5/http-load-balancing-in-kubernetes-with-ingress Simple Ingress on GCP
 - https://www.confluent.io/blog/enabling-exactly-kafka-streams/ How Exactly-Once works in Kafka Streams
 - https://github.com/milessabin/docs.scala-lang/blob/c6092426d3a8978613ce109d50026a9a0b496aeb/_sips/sips/2017-09-20-opaque-types.md Scala Value classes are sometimes not unwrapped at compile-time. opaque types to the rescue!
