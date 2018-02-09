@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-02-2018
 
+- https://www.youtube.com/watch?v=VaWgOCDBxYw More JMH evil
 - https://www.youtube.com/watch?v=Bi0E7w1ZFFA Quick intro to JMH powa
 - https://www.youtube.com/watch?v=YgGAUGC9ksk Very good talk about String methods, optimizations and tradeoffs
 - https://www.youtube.com/watch?v=wIyeOaitmWM Aleksey Shipilëv on Compact Strings; some parts are quite advanced, and it seems to be a real mess to optimize those Strings :)
