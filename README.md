@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-02-2018
 
+- https://github.com/milessabin/docs.scala-lang/blob/c6092426d3a8978613ce109d50026a9a0b496aeb/_sips/sips/2017-09-20-opaque-types.md Scala Value classes are sometimes not unwrapped at compile-time. opaque types to the rescue!
 - https://www.youtube.com/watch?v=VaWgOCDBxYw More JMH evil
 - https://www.youtube.com/watch?v=Bi0E7w1ZFFA Quick intro to JMH powa
 - https://www.youtube.com/watch?v=YgGAUGC9ksk Very good talk about String methods, optimizations and tradeoffs
