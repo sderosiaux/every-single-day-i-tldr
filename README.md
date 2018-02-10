@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 10-02-2018
 
+- http://scala-lang.org/blog/2018/02/09/collections-performance.html Performance about the "new" view-based Collections; also with some StrictOptimized* version
 - http://scala-lang.org/blog/2017/11/28/view-based-collections.html view based collections (lazy by default) for the new Scala collection
 
 # 09-02-2018
