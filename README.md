@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 11-02-2018
 
+- http://openjdk.java.net/jeps/282 JEP 282: jlink: The Java Linker— Nice to package "only what you need"; it relies on Java 9 modules
 - https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html The fateful date is coming: July 2018: HTTP = "Not secure"
 
 # 10-02-2018
