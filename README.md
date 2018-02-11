@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 11-02-2018
+
+- https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html The fateful date is coming: July 2018: HTTP = "Not secure"
+
 # 10-02-2018
 
 - https://thoughts.t37.net/migrating-a-130tb-cluster-from-elasticsearch-2-to-5-in-20-hours-with-0-downtime-and-a-rollback-39b4b4f29119 Migrating a 130TB Cluster from Elasticsearch 2 to 5, interesting insights
