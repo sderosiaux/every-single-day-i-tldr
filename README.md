@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 11-02-2018
 
+- https://ordina-jworks.github.io/microservices/2016/04/22/Lagom-First-Impressions-and-Initial-Comparison-to-Spring-Cloud.html Lagom's impression... in 2016! The Java version is just so verbose. :(
 - https://techbeacon.com/project-management-surefire-way-kill-your-software-product Sweet post critizing project management for being centered on the project, not the product. Projects metrics are not a measure of success. Product metrics (with customers) are. Guesstimate is useless.
 - https://www.pluralsight.com/blog/software-development/java-9-new-features Java 9: modules with proper resolution at startup (Jigsaw); jlink to create minimal image; jshell; new collections and stream methods; interface private methods; new HttpClient (handle h2) to replace HttpURLConnection; no more jre/ in jdk/.
 - http://openjdk.java.net/jeps/282 JEP 282: jlink: The Java Linker— Nice to package "only what you need"; it relies on Java 9 modules
