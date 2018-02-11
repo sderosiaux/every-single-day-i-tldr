@@ -10,7 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 11-02-2018
 
-- https://www.pluralsight.com/blog/software-development/java-9-new-features Java 9: modules with proper resolution at startup; jlink to create minimal image; jshell; new collections and stream methods; interface private methods; new HttpClient (handle h2) to replace HttpURLConnection
+- https://www.pluralsight.com/blog/software-development/java-9-new-features Java 9: modules with proper resolution at startup (Jigsaw); jlink to create minimal image; jshell; new collections and stream methods; interface private methods; new HttpClient (handle h2) to replace HttpURLConnection; no more jre/ in jdk/.
 - http://openjdk.java.net/jeps/282 JEP 282: jlink: The Java Linker— Nice to package "only what you need"; it relies on Java 9 modules
 - https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html The fateful date is coming: July 2018: HTTP = "Not secure"
 
