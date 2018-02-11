@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 12-02-2018
+
+- http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html Considerations and opinions about testing strategies in general, test should respects the same rules of quality and review as non-test code, dsls, unit vs integration (means nothing truly), example vs bulk (ie: scalacheck, prod data)
+
 # 11-02-2018
 
 - https://ordina-jworks.github.io/microservices/2016/04/22/Lagom-First-Impressions-and-Initial-Comparison-to-Spring-Cloud.html Lagom's impression... in 2016! The Java version is just so verbose. :(
