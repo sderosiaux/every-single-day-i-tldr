@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-02-2018
+
+- https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7 A comparaison between ClickHouse, Druid and Pinot (OLAP dbs)
+
 # 12-02-2018
 
 - https://www.opsian.com/blog/top-3-java-performance-improvements/ More to Java 10+: Value type "Valhalla" to avoid object reference (think C struct) and primitive specialization à la Scala; new GCs: Shenandoah and ZGC (low pauses on large heaps); and maybe NIO API improvements
