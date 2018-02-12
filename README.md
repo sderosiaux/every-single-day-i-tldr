@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 12-02-2018
 
+- http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/ Hilarious -fake- job interview of a person implementing fizzbuzz with tensorflow
 - http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html Considerations and opinions about testing strategies in general, test should respects the same rules of quality and review as non-test code, dsls, unit vs integration (means nothing truly), example vs bulk (ie: scalacheck, prod data)
 
 # 11-02-2018
