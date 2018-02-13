@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-02-2018
+
+- http://xcorpion.tech/2016/09/10/It-s-all-about-buffers-zero-copy-mmap-and-Java-NIO/ Some reminders about zero-copy and mmap
+
 # 13-02-2018
 
 - https://alexn.org/blog/2018/02/12/in-defense-oofp.html OO+FP. A regard on Scala Collection. I didn't get the whole code (when dealing with the Suspendable thing) but I get the idea.
