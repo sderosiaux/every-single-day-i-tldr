@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 13-02-2018
 
+- https://alexn.org/blog/2018/02/12/in-defense-oofp.html OO+FP. A regard on Scala Collection. I didn't get the whole code (when dealing with the Suspendable thing) but I get the idea.
 - https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7 A comparaison between ClickHouse, Druid and Pinot (OLAP dbs)
 
 # 12-02-2018
