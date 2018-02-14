@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 15-02-2018
+
+- https://cloud.google.com/blog/big-data/2017/06/introducing-cloud-dataflow-shuffle-for-up-to-5x-performance-improvement-in-data-analytic-pipelines I didn't noticed before but Google has an experimental mode for Dataflow shuffling, to run it outside our the Dataflow machine to reduce its strain.
+
 # 14-02-2018
 
 - http://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/ L'architecture hexagonale ftw !
