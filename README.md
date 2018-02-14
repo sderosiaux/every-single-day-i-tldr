@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 14-02-2018
 
+- https://github.com/propensive/kaleidoscope/ A new lib from propensive, to compile-time check strings in pattern matching
 - http://www.scylladb.com/2017/10/05/io-access-methods-scylla/ Different I/O access methods; mmap; sync/async direct io; tradeoffs with kernel, scheduling, cache control
 - http://xcorpion.tech/2016/09/10/It-s-all-about-buffers-zero-copy-mmap-and-Java-NIO/ Some reminders about zero-copy and mmap
 
