@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 15-02-2018
 
+- https://ops.tips/blog/nginx-http2-server-push/ Nginx now deals with HTTP2 Server Push! As a proxy, it transform h2 to http1 only (no h2 forwarding)
 - https://github.com/propensive/efflorescence A nice tiny lib to deal with Google DataStore properly: ie: transparently and strongly-typed
 - https://staltz.com/promises-are-not-neutral-enough.html JS Promises are like Futures in Scala. BAD! (well, Promises are worst)
 - https://cloud.google.com/blog/big-data/2017/06/introducing-cloud-dataflow-shuffle-for-up-to-5x-performance-improvement-in-data-analytic-pipelines I didn't noticed before but Google has an experimental mode for Dataflow shuffling, to run it outside our the Dataflow machine to reduce its strain.
