@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 15-02-2018
 
+- https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/ AMP for email is a terrible idea; goal: ads!
 - https://ops.tips/blog/nginx-http2-server-push/ Nginx now deals with HTTP2 Server Push! As a proxy, it transform h2 to http1 only (no h2 forwarding)
 - https://github.com/propensive/efflorescence A nice tiny lib to deal with Google DataStore properly: ie: transparently and strongly-typed
 - https://staltz.com/promises-are-not-neutral-enough.html JS Promises are like Futures in Scala. BAD! (well, Promises are worst)
