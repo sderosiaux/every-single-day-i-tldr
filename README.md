@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-02-2018
+
+- https://www.confluent.io/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data A wonderful article about using KSQL to create and exploit streams of data
+
 # 15-02-2018
 
 - https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/ AMP for email is a terrible idea; goal: ads!
