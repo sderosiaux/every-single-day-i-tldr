@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 16-02-2018
 
+- https://randomascii.wordpress.com/2018/02/04/what-we-talk-about-when-we-talk-about-performance/ A 90% reduction in time is a ten-times speedup. We often say "90% faster" (because we optimized something and get a 90% reduction in time) when it's truly 900% faster. So we should never use this formulation.
 - https://www.confluent.io/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data A wonderful article about using KSQL to create and exploit streams of data
 
 # 15-02-2018
