@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-02-2018
+
+- https://typelevel.org/blog/2017/02/13/more-types-than-classes.html Types are compile-time, and classes are runtime.
+
 # 19-02-2018
 
 - https://blogs.oracle.com/java/jdbc-next%3a-a-new-asynchronous-api-for-connecting-to-a-database Async JDBC incoming?
