@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-02-2018
 
+- https://blogs.oracle.com/java/jdbc-next%3a-a-new-asynchronous-api-for-connecting-to-a-database Async JDBC incoming?
 - https://fosdem.org/2018/schedule/event/zgc/attachments/slides/2211/export/events/attachments/zgc/slides/2211/ZGC_FOSDEM_2018.pdf The Z Garbage Collector - Bet: less than 10ms pauses, no matter the heap
 - https://www.youtube.com/watch?v=qBQtbkmURiQ Shenandoah GC: less STW (not on young gen), generational hypothesis is not needed, bigger mem footprint (fwdptr), more barriers, lower throughput
 - http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html Optimizing Javascript and V8 to get a 4x speedup, impressive profiling and fixes
