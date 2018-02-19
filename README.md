@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-02-2018
 
+- https://www.youtube.com/watch?v=qBQtbkmURiQ Shenandoah GC: less STW (not on young gen), generational hypothesis is not needed, bigger mem footprint (fwdptr), more barriers, lower throughput
 - http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html Optimizing Javascript and V8 to get a 4x speedup, impressive profiling and fixes
 - https://github.com/funfix/funfix The great author of monix is writting a fp library for js/ts inspired by monix and cats. Pretty sure it's a good quality!
 
