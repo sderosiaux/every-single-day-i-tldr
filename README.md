@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-02-2018
+
+- https://github.com/funfix/funfix The great author of monix is writting a fp library for js/ts inspired by monix and cats. Pretty sure it's a good quality!
+
 # 16-02-2018
 
 - https://randomascii.wordpress.com/2018/02/04/what-we-talk-about-when-we-talk-about-performance/ A 90% reduction in time is a ten-times speedup. We often say "90% faster" (because we optimized something and get a 90% reduction in time) when it's truly 900% faster. So we should never use this formulation.
