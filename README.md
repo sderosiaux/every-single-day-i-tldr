@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-02-2018
+
+- https://www.youtube.com/watch?v=Txf7swrcLYs Parsing a language using Monoid (in haskell here): how, and difficulties. Very insightful.
+
 # 20-02-2018
 
 - https://medium.com/google-cloud/tcp-bbr-magic-dust-for-network-performance-57a5f1ccf437 TCP BBR for a better throughput in congestioned/lossy networks
