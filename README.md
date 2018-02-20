@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-02-2018
 
+- https://cloudplatform.googleblog.com/2017/11/5-steps-to-better-GCP-network-performance.html GCP: the more cpus, the greater network throughput; use internal ips when you can
 - https://typelevel.org/blog/2017/02/13/more-types-than-classes.html Types are compile-time, and classes are runtime.
 
 # 19-02-2018
