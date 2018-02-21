@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-02-2018
 
+- https://dzone.com/articles/why-developers-should-bet-big-on-streaming Streaming is becoming main-stream (!)
 - https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/ 500M passwords from previous breach to download, and an free API to check if some pwd was already leaked (nice!)
 - https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525 I haven't write any css since a while but come on, it hasn't changed at the speed JS is changing at least ;-)
 - https://www.youtube.com/watch?v=Txf7swrcLYs Parsing a language using Monoid (in haskell here): how, and difficulties. Very insightful.
