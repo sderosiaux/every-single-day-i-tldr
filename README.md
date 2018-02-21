@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-02-2018
+
+- https://dzone.com/articles/deploying-java-apps-with-kubernetes-and-the-ambass Using ambassador.io on k8s to manage microservices communication
+
 # 21-02-2018
 
 - https://dzone.com/articles/why-developers-should-bet-big-on-streaming Streaming is becoming main-stream (!)
