@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 22-02-2018
 
+- https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb Java 10.0.2 (July 2018) will be the last free Oracle JDK.
 - https://www.youtube.com/watch?v=cCOL7MC4Pl0 Probably the best talk about javascript requestAnimatinFrame/tasks/micro-tasks processing
 - https://dzone.com/articles/deploying-java-apps-with-kubernetes-and-the-ambass Using ambassador.io on k8s to manage microservices communication
 
