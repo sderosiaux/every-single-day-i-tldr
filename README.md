@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 22-02-2018
 
+- https://www.youtube.com/watch?v=cCOL7MC4Pl0 Probably the best talk about javascript requestAnimatinFrame/tasks/micro-tasks processing
 - https://dzone.com/articles/deploying-java-apps-with-kubernetes-and-the-ambass Using ambassador.io on k8s to manage microservices communication
 
 # 21-02-2018
