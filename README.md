@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 23-02-2018
 
+- https://stripe.com/atlas/guides/business-of-saas A wonderful article about SaaS business models
 - https://blog.riseml.com/benchmarking-googles-new-tpuv2-121c03b71384 Google’s TPUv2 are faster, more expensive, but more cost efficient in the end (Tensorflow related)
 
 # 22-02-2018
