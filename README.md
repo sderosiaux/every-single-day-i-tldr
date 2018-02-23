@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-02-2018
+
+- https://blog.riseml.com/benchmarking-googles-new-tpuv2-121c03b71384 Google’s TPUv2 are faster, more expensive, but more cost efficient in the end (Tensorflow related)
+
 # 22-02-2018
 
 - https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb Java 10.0.2 (July 2018) will be the last free Oracle JDK.
