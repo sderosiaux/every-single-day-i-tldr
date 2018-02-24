@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 24-02-2018
 
+- http://www.bluemintmarketing.com/blog/remarketing/ A crazy long long about Remarketing, mostly using Adwords/GA
 - http://cockpit-project.org/ Easy administration of Linux servers via web browser
 - http://cloudplatform.googleblog.com/2018/02/how-Google-Cloud-Storage-offers-strongly-consistent-object-listing-thanks-to-Spanner.html Google Cloud Storage offers strongly consistent object listing thanks to Spanner
 
