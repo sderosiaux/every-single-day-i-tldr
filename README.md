@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-02-2018
+
+- http://cloudplatform.googleblog.com/2018/02/how-Google-Cloud-Storage-offers-strongly-consistent-object-listing-thanks-to-Spanner.html Google Cloud Storage offers strongly consistent object listing thanks to Spanner
+
 # 23-02-2018
 
 - https://stripe.com/atlas/guides/business-of-saas A wonderful article about SaaS business models
