@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 25-02-2018
 
+- https://adtoken.com/uploads/white-paper.pdf adChain, a protocol around the ethereum blockchain and its smart contract
 - https://medium.com/@anicolaspp/java-optional-is-complicated-d6dc5c061e57 Yeah, Java Optional is crap, no surprise.
 - https://lists.apache.org/thread.html/a9186930d46eba8136e6f2d29646efab33390b213515b76deea71c57@%3Cgeneral.incubator.apache.org%3E Druid into the Apache Incubator !
 - https://medium.com/swlh/effective-time-management-how-to-byo-productivity-system-ae3ac3672149 Time Management tips
