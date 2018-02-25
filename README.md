@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-02-2018
+
+- https://medium.com/swlh/effective-time-management-how-to-byo-productivity-system-ae3ac3672149 Time Management tips
+
 # 24-02-2018
 
 - http://www.bluemintmarketing.com/blog/remarketing/ A crazy long long about Remarketing, mostly using Adwords/GA
