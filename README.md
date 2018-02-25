@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 25-02-2018
 
+- https://lists.apache.org/thread.html/a9186930d46eba8136e6f2d29646efab33390b213515b76deea71c57@%3Cgeneral.incubator.apache.org%3E Druid into the Apache Incubator !
 - https://medium.com/swlh/effective-time-management-how-to-byo-productivity-system-ae3ac3672149 Time Management tips
 
 # 24-02-2018
