@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-02-2018
+
+- https://developers.google.com/speed/docs/insights/rules Basic checklist to ensure website speed
+
 # 25-02-2018
 
 - https://adtoken.com/uploads/white-paper.pdf adChain, a protocol around the ethereum blockchain and its smart contract
