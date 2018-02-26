@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 26-02-2018
 
+- https://support.google.com/adwords/answer/7544674 New strategy in adwords: parallel tracking. The user is directly redirected to the adservertiser website, no more redirect, better conversion
 - https://developers.google.com/speed/docs/insights/rules Basic checklist to ensure website speed
 
 # 25-02-2018
