@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-03-2018
+
+- http://www.scalactic.org/user_guide Scalactic, originated from ScalaTest, is a small lib providing simple and useful structures such as "Or" and "Every" to type like: "String Or One[Error]", left biased; provides some "===" and neat stuff.
+
 # 26-02-2018
 
 - https://www.cnbc.com/2018/02/26/apple-confirms-it-uses-google-cloud-for-icloud.html So Apple iCloud is using Google Storage ? -_-
