@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 01-03-2018
 
+- https://mtlynch.io/why-i-quit-google/ A ex-Googler talking about promotion in Google, metrics oriented instead of actual work-oriented
 - https://fsfe.org/freesoftware/basics/comparison.en.html Free Software, Open Source, FOSS, FLOSS - same same but different
 - https://contributors.scala-lang.org/t/the-state-of-then/1638/8 Are we gonna get "then" in Scala?
 - https://vimeo.com/224636602 Excellent court talk sur comment trouver sa valeur en tant qu'indépendant. D'une estimation à 150€ (en regardant son net/j), on passe facilement à 500€ pour garder le même niveau de vie (à cause des avantages qu'on avait grâce à l'employeur)
