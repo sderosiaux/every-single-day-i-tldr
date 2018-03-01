@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 01-03-2018
 
+- https://contributors.scala-lang.org/t/the-state-of-then/1638/8 Are we gonna get "then" in Scala?
 - https://vimeo.com/224636602 Excellent court talk sur comment trouver sa valeur en tant qu'indépendant. D'une estimation à 150€ (en regardant son net/j), on passe facilement à 500€ pour garder le même niveau de vie (à cause des avantages qu'on avait grâce à l'employeur)
 - https://cloudplatform.googleblog.com/2018/02/announcing-SSL-policies-for-HTTPS-and-SSL-proxy-load-balancers.html Create and link an SSL policy (custom or predefined) to a LB
 - https://cloudplatform.googleblog.com/2018/02/fully-managed-export-and-import-with-Cloud-Datastore-now-generally-available.html Export and import with Cloud Datastore now GA!
