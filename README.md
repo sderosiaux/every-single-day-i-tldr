@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 01-03-2018
 
+- http://www.lambdadays.org/static/upload/media/1519663154528176valentinkasasthese10000classesineverwrote.pdf A truly impressive case study using recursion schemes, ana/cata to build a hylomorphism, and convert parquet<->avro<->json<->anything in a generic way with the least possible code, with validation
 - https://mtlynch.io/why-i-quit-google/ A ex-Googler talking about promotion in Google, metrics oriented instead of actual work-oriented
 - https://fsfe.org/freesoftware/basics/comparison.en.html Free Software, Open Source, FOSS, FLOSS - same same but different
 - https://contributors.scala-lang.org/t/the-state-of-then/1638/8 Are we gonna get "then" in Scala?
