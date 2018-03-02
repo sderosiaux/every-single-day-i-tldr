@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 02-03-2018
 
+- https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/ A very interesting post about Dropbox's service proxy, with explications about requests dispatching strategies it handles
 - https://www.wired.com/story/github-ddos-memcached/ A 1.3Tbs DDoS hit GitHub on wednesday, the largest yet recorded; using memcached amplification.
 
 # 01-03-2018
