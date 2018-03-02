@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-03-2018
+
+- https://www.wired.com/story/github-ddos-memcached/ A 1.3Tbs DDoS hit GitHub on wednesday, the largest yet recorded; using memcached amplification.
+
 # 01-03-2018
 
 - https://www.youtube.com/watch?v=k9rwU8G1Oi0 A quick talk about typed actors, enough to get it. Actors are becoming "Behavior" following a protocol. The root ActorSystem also has get behavior now.
