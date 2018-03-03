@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-03-2018
+
+- https://cloudplatform.googleblog.com/2018/03/queue-based-scaling-made-easy-with-new-stackdriver-per-group-metrics.html Create a pool of workers on GCE which will scale according to the lag of a pubsub subcription, and easily monitor within StackDriver
+
 # 02-03-2018
 
 - http://openjdk.java.net/jeps/326 JEP 326: Raw String Literals using `...`, handle multilines ! \o/
