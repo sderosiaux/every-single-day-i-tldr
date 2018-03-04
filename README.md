@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 04-03-2018
 
+- https://akka.io/blog/news/2018/02/23/akka-2.5.10-released Many updates in Akka: Akka Typed is there, StreamRefs (RS over the network, finally!), Artery with TCP/TLS, not production ready but still.
 - http://the-paper-trail.org/blog/exactly-not-atomic-broadcast-still-impossible-kafka/#more-660 Theorical consensus can't be solved (thus no atomic broadcast, thus no exactly-once), but partial consensus can be, so Kafka can be.
 - https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/ Balance exploring new business with exploiting proven existing business models – and how to transition businesses successfully between these domains
 - https://barryoreilly.com/2016/01/13/lean-pmo-managing-the-innovation-portfolio/ Good post about the necessity of having a business Portfolio. Explore/Exploit/Sustain/Retire features and products. Classify them and act. Beware of the Feature Fallacy. (more features does not have necessary add value)
