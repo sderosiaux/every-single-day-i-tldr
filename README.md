@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 04-03-2018
 
+- https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/ Balance exploring new business with exploiting proven existing business models – and how to transition businesses successfully between these domains
 - https://barryoreilly.com/2016/01/13/lean-pmo-managing-the-innovation-portfolio/ Good post about the necessity of having a business Portfolio. Explore/Exploit/Sustain/Retire features and products. Classify them and act. Beware of the Feature Fallacy. (more features does not have necessary add value)
 - http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp Very interesting ebook. Helps you to get insights how to break down a company business into autonomous teams and bounded contexts; identify bottlenecks; all sort of schemas to pinpoint knowledge, boundaries, and organizational behavior.
 
