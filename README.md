@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-03-2018
+
+- http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp Very interesting ebook. Helps you to get insights how to break down a company business into autonomous teams and bounded contexts; identify bottlenecks; all sort of schemas to pinpoint knowledge, boundaries, and organizational behavior.
+
 # 03-03-2018
 
 - https://cloudplatform.googleblog.com/2018/03/queue-based-scaling-made-easy-with-new-stackdriver-per-group-metrics.html Create a pool of workers on GCE which will scale according to the lag of a pubsub subcription, and easily monitor within StackDriver
