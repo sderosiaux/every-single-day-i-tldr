@@ -20,7 +20,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 02-03-2018
 
-- http://openjdk.java.net/jeps/326 JEP 326: Raw String Literals using `...`, handle multilines ! \o/
+- http://openjdk.java.net/jeps/326 JEP 326: Raw String Literals using \`...\`, handle multilines ! \o/
 - https://www.prismagraphql.com/ Define your GraphQL entities, let Prisma do the rest
 - https://www.infoq.com/minibooks/emag-streaming-architecture This ebook contains several topics about streaming: dataflow, dynamicdb streams, confluent, and 2 case studies, the more interesting! One from Netflix migrating batch jobs to Flink, providing tons of advices and feedbacks. As they said: "batch failures have to be addressed urgently; streaming failures have to be addressed immediately" (a perfect monitoring and alerting is needed)
 - https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/ A very interesting post about Dropbox's service proxy, with explications about requests dispatching strategies it handles
