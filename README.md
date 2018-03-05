@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 05-03-2018
 
+- https://medium.com/nick-tune-tech-strategy-blog/managing-complexity-in-complex-adaptive-systems-with-domain-driven-design-eb79f0ca37bb Help modelling subdomains: Event Storming, Domain Story telling, Business Model Canvas
 - https://www.youtube.com/watch?v=5bgxzaHCyCs A talk by Nick Tune if you don't want to read its book :) (04-03-2018 designing-autonomous-teams-and-services)
 - https://www.iravid.com/posts/resource-management.html ManagedT, or how to compose resource management. Very useful and slick. Even works with a Monoid[ResourceType].
 - https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/ Type of macros in rust: function and attributes (derive to create boilerplate, and a more generic way, still in alpha). Why use them.
