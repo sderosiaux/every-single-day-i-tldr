@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-03-2018
 
+- https://www.reoptimize.io/ Control you GCP billing
 - https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82 kube-proxy is the "hidden" gem in k8s that manages internal traffic packets routing (using netfilter and iptables in kernel space to do the routing)
 
 # 05-03-2018
