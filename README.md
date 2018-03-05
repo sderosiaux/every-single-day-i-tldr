@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 05-03-2018
 
+- https://medium.com/google-cloud/this-week-in-google-cloud-platform-datastore-backups-configurable-ssl-a-new-billing-api-and-52cd3aeba9a2 Parquet with BigQuery is available! and other GCP-related gems
 - http://alistair.cockburn.us/Hexagonal+architecture The Hexagonal architecture. Basically, ports (what is exposed) and adapters (what is provided). Explicit the dependencies and get the ability to create mocks (of a repository for instance). Think by feature, not by tech.
 - https://medium.com/nick-tune-tech-strategy-blog/managing-complexity-in-complex-adaptive-systems-with-domain-driven-design-eb79f0ca37bb Help modelling subdomains: Event Storming, Domain Story telling, Business Model Canvas
 - https://www.youtube.com/watch?v=5bgxzaHCyCs A talk by Nick Tune if you don't want to read its book :) (04-03-2018 designing-autonomous-teams-and-services)
