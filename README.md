@@ -2,9 +2,9 @@
 
 Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting.
 
-To find it later, I add a little description —or just a critique. It's like a huge shared bookmarks registry!
+To find it later, I add a little description —or just a critique. It's like a huge shared bookmarks registry! Just need to Ctrl+F.
 
-It's mostly about Scala, Java, Javascript, backend and frontend in general, big data, and technology. :muscle:
+It's mostly about Scala, Java, Javascript, backend and frontend in general, big data, DDD, and technology. :muscle:
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
