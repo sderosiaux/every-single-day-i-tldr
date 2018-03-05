@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-03-2018
+
+- https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/ Type of macros in rust: function and attributes (derive to create boilerplate, and a more generic way, still in alpha). Why use them.
+
 # 04-03-2018
 
 - https://blog.envoyproxy.io/envoy-threading-model-a8d44b922310 Envoy threading model – locks, logging, stats, and.. i didn't got everything!
