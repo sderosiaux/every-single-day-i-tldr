@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-03-2018
+
+- https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82 kube-proxy is the "hidden" gem in k8s that manages internal traffic packets routing (using netfilter and iptables in kernel space to do the routing)
+
 # 05-03-2018
 
 - https://medium.com/google-cloud/this-week-in-google-cloud-platform-datastore-backups-configurable-ssl-a-new-billing-api-and-52cd3aeba9a2 Parquet with BigQuery is available! and other GCP-related gems
