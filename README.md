@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-03-2018
 
+- https://www.youtube.com/watch?v=hzf3hTUKk8U A 2014 talk about why functional programming is good! composability, modularity, genericity, less strain, happiness. But code could be complicated (yeah).
 - https://github.com/estatico/scala-newtype Haskell's "newtype" for Scala (to replace value classes and their undesired effects)
 - https://github.com/mathiasbynens/dotfiles useful dotfiles to use on macosx (tune them!). I discovered some nice shortcuts and tools in there.
 - https://github.com/kelseyhightower/kubernetes-the-hard-way Bootstraping Kubernetes manually on GCP, using GCE, VPC, subnetworks etc. Good if you truly wanna know how it works underneath
