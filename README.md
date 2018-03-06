@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-03-2018
 
+- https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/ A sweet article about understanding "how to make a union type" in Scala (without Either), and using contravariance
 - https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39 From Cassandra, to Cass+Cache, to compression/parallelization/chunkages to get better r/w latency, less Cass maintenance, less data size.
 - https://www.reoptimize.io/ Control you GCP billing
 - https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82 kube-proxy is the "hidden" gem in k8s that manages internal traffic packets routing (using netfilter and iptables in kernel space to do the routing)
