@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 06-03-2018
 
+- http://blog.effectivemessaging.com/2017/06/load-balancing-grpc-connections-in.html lb gRPC in k8s with Linkerd and Istio. I had this link for a while; now Istio is way more mature and even integrated in GCP: https://cloud.google.com/kubernetes-engine/docs/tutorials/istio-on-gke
 - https://medium.com/google-cloud/bigquery-performance-tips-searching-for-text-8x-faster-f9314927b8d2 Interesting BigQuery performance tips when using like '%x%'. Use regexp_contains or convert to bytes for better perf. (for now)
 - https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/ A sweet article about understanding "how to make a union type" in Scala (without Either), and using contravariance
 - https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39 From Cassandra, to Cass+Cache, to compression/parallelization/chunkages to get better r/w latency, less Cass maintenance, less data size.
