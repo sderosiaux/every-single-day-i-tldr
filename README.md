@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-03-2018
+
+- https://github.com/typelevel/machinist Avoid implicit class wrapping
+
 # 06-03-2018
 
 - https://www.youtube.com/watch?v=hzf3hTUKk8U A 2014 talk about why functional programming is good! composability, modularity, genericity, less strain, happiness. But code could be complicated (yeah).
