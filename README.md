@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-03-2018
 
+- https://github.com/Kanaka-io/play-monadic-actions Simplify (monadify) how to write Play! actions when dealing with services calls/http responses
 - https://www.youtube.com/watch?v=AGztKw580yQ Good talk about why Istio and several demos using plain JDK client/server (circuit breakeing, lb, force failure, a/b testing, monitoring, tracing)
 - https://failex.blogspot.fr/2017/04/the-high-cost-of-anyval-subclasses.html Value classes overhead VS tagged types (no overhead, 2 types = 1 class)
 - https://docs.google.com/spreadsheets/d/17bZrKTk8dOx5nomLrD1-93uBfajK5JS-v1o-nCLJmzE/edit#gid=0 Kubernetes Features OSS tracking board (1.10 release)
