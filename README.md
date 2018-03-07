@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-03-2018
 
+- http://docs.scala-lang.org/sips/pending/inline-meta.html SIP-2[89], a new block to replace macro: meta {... }; meta annotations; "inline" achieves guaranteed inlining, regardless of the backend (contrary to @inline); will whiteboxing will stay? (bring tons of complexity)
 - https://begin.com/ A Slack bot to declare on what you're working on and create task list other can see. Not sure it's the right way to go (Slack becoming a first class tool of your workflow?) but it can help i guess!
 - https://github.com/Kanaka-io/play-monadic-actions Simplify (monadify) how to write Play! actions when dealing with services calls/http responses
 - https://www.youtube.com/watch?v=AGztKw580yQ Good talk about why Istio and several demos using plain JDK client/server (circuit breakeing, lb, force failure, a/b testing, monitoring, tracing)
