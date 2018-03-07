@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-03-2018
 
+- https://githubengineering.com/ddos-incident-report/ DDoS through the open misconfigured memcached over the world.
 - https://github.com/typelevel/machinist Avoid implicit class wrapping
 
 # 06-03-2018
