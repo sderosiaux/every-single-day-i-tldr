@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-03-2018
 
+- https://docs.google.com/spreadsheets/d/17bZrKTk8dOx5nomLrD1-93uBfajK5JS-v1o-nCLJmzE/edit#gid=0 Kubernetes Features OSS tracking board (1.10 release)
 - https://githubengineering.com/ddos-incident-report/ DDoS through the open misconfigured memcached over the world.
 - https://github.com/typelevel/machinist Avoid implicit class wrapping
 
