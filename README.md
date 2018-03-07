@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 07-03-2018
 
+- https://failex.blogspot.fr/2017/04/the-high-cost-of-anyval-subclasses.html Value classes overhead VS tagged types (no overhead, 2 types = 1 class)
 - https://docs.google.com/spreadsheets/d/17bZrKTk8dOx5nomLrD1-93uBfajK5JS-v1o-nCLJmzE/edit#gid=0 Kubernetes Features OSS tracking board (1.10 release)
 - https://githubengineering.com/ddos-incident-report/ DDoS through the open misconfigured memcached over the world.
 - https://github.com/typelevel/machinist Avoid implicit class wrapping
