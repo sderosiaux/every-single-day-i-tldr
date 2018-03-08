@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 08-03-2018
 
+- http://blog.erratasec.com/2018/03/some-notes-on-memcached-ddos.html Find the vulnerable memcached instances using masscan and how to deal with it
 - http://degoes.net/articles/blockchain-myths You Know Nothing!
 - https://cloud.google.com/blog/big-data/2017/10/separation-of-compute-and-state-in-google-bigquery-and-cloud-dataflow-and-why-it-matters BigQuery and Dataflow use Google storage services instead of instance-attached storage to scale out easily and it leads to a better arch (better perf and reliability)
 - https://www.facebook.com/business/gdpr how Facebook handles GDPR (both a data controller & processor)
