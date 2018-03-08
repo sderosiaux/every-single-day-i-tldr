@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-03-2018
+
+- https://cloudplatform.googleblog.com/2018/03/optimizing-your-Cloud-Storage-performance-Google-Cloud-Performance-Atlas.html Some smart advices when using gsutil to improve up/download speed (parallelism -m, auto "chunkage" -o GSUtil:parallel_composite_upload_threshold=150M)
+
 # 07-03-2018
 
 - http://docs.scala-lang.org/sips/pending/inline-meta.html SIP-2[89], a new block to replace macro: meta {... }; meta annotations; "inline" achieves guaranteed inlining, regardless of the backend (contrary to @inline); will whiteboxing will stay? (bring tons of complexity)
