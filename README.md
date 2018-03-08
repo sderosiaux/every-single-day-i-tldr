@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 08-03-2018
 
+- http://degoes.net/articles/blockchain-myths You Know Nothing!
 - https://cloud.google.com/blog/big-data/2017/10/separation-of-compute-and-state-in-google-bigquery-and-cloud-dataflow-and-why-it-matters BigQuery and Dataflow use Google storage services instead of instance-attached storage to scale out easily and it leads to a better arch (better perf and reliability)
 - https://www.facebook.com/business/gdpr how Facebook handles GDPR (both a data controller & processor)
 - http://dotty.epfl.ch/blog/2018/03/05/seventh-dotty-milestone-release.html Better enum semantics, "erased" term to remove stuff at compile time (just used to type-check), better GADT support
