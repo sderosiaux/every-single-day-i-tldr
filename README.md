@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 08-03-2018
 
+- https://www.facebook.com/business/gdpr how Facebook handles GDPR (both a data controller & processor)
 - http://dotty.epfl.ch/blog/2018/03/05/seventh-dotty-milestone-release.html Better enum semantics, "erased" term to remove stuff at compile time (just used to type-check), better GADT support
 - https://cloudplatform.googleblog.com/2018/03/optimizing-your-Cloud-Storage-performance-Google-Cloud-Performance-Atlas.html Some smart advices when using gsutil to improve up/download speed (parallelism -m, auto "chunkage" -o GSUtil:parallel_composite_upload_threshold=150M)
 
