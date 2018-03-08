@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 08-03-2018
 
+- https://stripe.com/blog/operating-kubernetes Stripe extensively testing k8s mainly to run tons of cronjob, fixing bugs, and best "practices", the "game" day. Know how k8s behaves in case of different failures. Beware of etcd. Improve monitoring, 
 - https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95 Outage caused by 2 bugs: a bug in k8s and etcd client; and another with k8s Service without pods + linkerd "old" version (bug was fixed in next versions)
 - http://blog.erratasec.com/2018/03/some-notes-on-memcached-ddos.html Find the vulnerable memcached instances using masscan and how to deal with it
 - http://degoes.net/articles/blockchain-myths You Know Nothing!
