@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-03-2018
+
+- https://github.com/druid-io/druid/releases/tag/druid-0.12.0 Druid 0.12.0 out!
+
 # 08-03-2018
 
 - https://stripe.com/blog/operating-kubernetes Stripe extensively testing k8s mainly to run tons of cronjob, fixing bugs, and best "practices", the "game" day. Know how k8s behaves in case of different failures. Beware of etcd. Improve monitoring, 
