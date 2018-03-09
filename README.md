@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-03-2018
 
+- https://gist.github.com/odersky/f91362f6d9c58cc1db53f3f443311140 Some notes about metaprogramming in Scala by odersky. If you're brave.
 - http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/ Insightful post about microservices constraints and failures to deal with (latencies, timeouts., retries, routing, observability)
 - https://github.com/shekhargulati/hands-on-serverless-guide/tree/master/01-aws-lambda-serverless-framework A trully wonderful guide about building a pure serverless app using AWS api gateway -> lambdas -> ses for emails + dynamodb and its streams + s3 (with presigned urls)
 - https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589 Rockssandra, a combinaison of RocksDB and Cassandra to greatly improve (and stabilize) r/w latencies
