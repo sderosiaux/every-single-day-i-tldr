@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 09-03-2018
 
+- https://github.com/shekhargulati/hands-on-serverless-guide/tree/master/01-aws-lambda-serverless-framework A trully wonderful guide about building a pure serverless app using AWS api gateway -> lambdas -> ses for emails + dynamodb and its streams + s3 (with presigned urls)
 - https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589 Rockssandra, a combinaison of RocksDB and Cassandra to greatly improve (and stabilize) r/w latencies
 - https://github.com/druid-io/druid/releases/tag/druid-0.12.0 Druid 0.12.0 out!
 
