@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-03-2018
 
+- https://github.com/GoogleCloudPlatform/skaffold In the "same" vein, skaffold auto-runs the whole build/deploy pipeline on code change
 - https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/ Jenkins X: CI/CD with a new cli "jx" to create apps and handle the whole ci/cd cycle automatically (versioning, envs, builds (jenkinsfile, dockerfile, helm chart), deployments, pull requests, issues..). A sub-project of Jenkins.
 - http://jpetazzo.github.io/2018/03/13/appswitch-hyperlay-network-stack-future/ AppSwitch looks like a service mesh for anything (ie: outside containers), cross-machines, tiny overhead, very simple. Will it happen?
 - https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d A simple but useful revelation: querying using graphql can prevent you to code tons of Redux reducers and async stuff querying classic rest endpoints.
