@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-03-2018
 
+- https://community.akamai.com/community/web-performance/blog/2016/06/22/understanding-how-the-http2-protocol-is-negotiated Understanding how the HTTP/2 protocol is negociated
 - https://medium.com/@duhroach/improving-cloud-function-cold-start-time-2eb6f5700f6 GCP boot time: reduce dependencies, have 1 version of them (cached), lazy load them if possible (not needed at boot time).
 - http://benjiweber.co.uk/blog/2018/03/03/representing-the-impractical-and-impossible-with-jdk-10-var/ "var" in JDK10 is useful to define previously impossible types (mixes of interfaces or structural types)
 - https://www.linkedin.com/pulse/nightmare-letter-subject-access-request-under-gdpr-karbaliotis/ The (great) Nightmare Letter: A Subject Access Request under GDPR.
