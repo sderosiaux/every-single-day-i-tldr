@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-03-2018
 
+- http://jpetazzo.github.io/2018/03/13/appswitch-hyperlay-network-stack-future/ AppSwitch looks like a service mesh for anything (ie: outside containers), cross-machines, tiny overhead, very simple. Will it happen?
 - https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d A simple but useful revelation: querying using graphql can prevent you to code tons of Redux reducers and async stuff querying classic rest endpoints.
 - https://github.com/atlassian/react-beautiful-dnd/releases/tag/v6.0.0 v6 of react-beautiful-dnd, just an amazing work
 - https://meta.plasm.us/slides/circe/algebra/ Experimental circe-algebra: splitting decoding from interpreting (think Free), and using cursors.
