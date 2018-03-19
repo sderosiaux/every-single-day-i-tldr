@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-03-2018
 
+- http://benjiweber.co.uk/blog/2018/03/03/representing-the-impractical-and-impossible-with-jdk-10-var/ "var" in JDK10 is useful to define previously impossible types (mixes of interfaces or structural types)
 - https://www.linkedin.com/pulse/nightmare-letter-subject-access-request-under-gdpr-karbaliotis/ The (great) Nightmare Letter: A Subject Access Request under GDPR.
 - https://cloudplatform.googleblog.com/2018/03/introducing-GCPs-new-interactive-CLI.html CLI are some ubiquitous right now, gcloud offers a better alternative: "gcloud alpha interactive --update-cli-trees"
 - https://www.nginx.com/blog/nginx-1-13-10-grpc/ gRPC support in nginx
