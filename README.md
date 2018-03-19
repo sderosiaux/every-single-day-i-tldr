@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-03-2018
 
+- http://debezium.io/blog/2018/03/08/creating-ddd-aggregates-with-debezium-and-kafka-streams/ An aggregate user+addresses built with Debezium and Kafka Streams
 - https://images.guide/ The most complete guide to image optimization you can find. Very informative to be aware of every possibilities to optimize our pictures because #perfmatters.
 - https://insights.stackoverflow.com/survey/2018/ Stack Overflow Developer Survey 2018
 - https://community.akamai.com/community/web-performance/blog/2016/06/22/understanding-how-the-http2-protocol-is-negotiated Understanding how the HTTP/2 protocol is negociated
