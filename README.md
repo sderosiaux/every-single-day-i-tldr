@@ -12,6 +12,8 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 - https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en Google's own extension to block some websites to appear in search results. But the last Chrome version makes it useless, #willfixlater ?
 
+:ski:
+
 # 09-03-2018
 
 - https://lwn.net/Articles/679786/ Understanding cgroup v2
