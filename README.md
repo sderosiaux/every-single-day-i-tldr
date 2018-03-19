@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-03-2018
 
+- https://meta.plasm.us/slides/circe/algebra/ Experimental circe-algebra: splitting decoding from interpreting (think Free), and using cursors.
 - http://www.softwaredaily.com/ Software Daily podcasts
 - http://debezium.io/blog/2018/03/08/creating-ddd-aggregates-with-debezium-and-kafka-streams/ An aggregate user+addresses built with Debezium and Kafka Streams
 - https://images.guide/ The most complete guide to image optimization you can find. Very informative to be aware of every possibilities to optimize our pictures because #perfmatters.
