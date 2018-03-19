@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-03-2018
+
+- https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en Google's own extension to block some websites to appear in search results. But the last Chrome version makes it useless, #willfixlater ?
+
 # 09-03-2018
 
 - https://lwn.net/Articles/679786/ Understanding cgroup v2
