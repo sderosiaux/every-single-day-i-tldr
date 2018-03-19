@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 19-03-2018
 
+- https://www.nginx.com/blog/nginx-1-13-10-grpc/ gRPC support in nginx
 - https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en Google's own extension to block some websites to appear in search results. But the last Chrome version makes it useless, #willfixlater ?
 
 :ski:
