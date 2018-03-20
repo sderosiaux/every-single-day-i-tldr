@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-03-2018
 
+- https://qconlondon.com/system/files/presentation-slides/how_events_are_reshaping_modern_systems_-_qcon_london.pdf Event-first design and event logging advantages
 - http://psy-lob-saw.blogspot.fr/ All the posts are amazing, dealing with JVM performances and profiling, read some of them, but lost a bit my way into ahah.
 - http://psy-lob-saw.blogspot.fr/2013/05/using-jmh-to-benchmark-multi-threaded.html False sharing problem using jmh
 - https://github.com/jvm-profiling-tools/honest-profiler Profiling JVM apps without waiting for safepoints (+ lower overhead)
