@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-03-2018
+
+- https://cloudplatform.googleblog.com/2018/03/introducing-the-ability-to-connect-to-Cloud-Shell-from-any-terminal.html We can now access the Cloud Shell (was in-browser only before) from "gcloud alpha cloud-shell" command now (it comes with preinstalled stuff, to avoid polluting the local env)
+
 # 19-03-2018
 
 - https://cloudplatform.googleblog.com/2018/03/automatic-serverless-deployments-with-Cloud-Source-Repositories-and-Container-Builder.html Mirror git source into GCP Repo, and write a "build trigger" (yaml) in Container Builder to be triggered when source changes
