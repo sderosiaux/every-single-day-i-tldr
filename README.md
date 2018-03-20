@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-03-2018
 
+- http://psy-lob-saw.blogspot.fr/2018/01/what-difference-jvm-makes.html?spref=tw G1GC is the default in Java 9, that could lead to tremendous changes in benchmarks, as seen here; g1gc added locks to handle memory barriers
 - https://www.slideshare.net/RednaxelaFX/green-teajug-hotspotintrinsics02232013 Intrinsic Methods in HotSpot VM
 - https://monix.io/blog/2018/03/20/monix-vs-cats-effect.html Monix vs cats-effect, and some history about Monix and cats-effect and misc (cancellability, reactive streams, scalaz's Task, optimizations, monix's Iterant)
 - https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f Lesson learned: Never use exceptions for control flow in your hot code path
