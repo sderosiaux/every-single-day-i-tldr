@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-03-2018
 
+- https://rossabaker.github.io/boston-http4s/ Really great slideshow about http4s evolutions from simple stuff to Kleisli of Task/IO
 - https://www.opsian.com/blog/java-on-docker/ Java 10 will be easier to manage when Docker'ed
 - https://qconlondon.com/system/files/presentation-slides/how_events_are_reshaping_modern_systems_-_qcon_london.pdf Event-first design and event logging advantages
 - http://psy-lob-saw.blogspot.fr/ All the posts are amazing, dealing with JVM performances and profiling, read some of them, but lost a bit my way into ahah.
