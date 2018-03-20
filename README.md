@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-03-2018
 
+- https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f Lesson learned: Never use exceptions for control flow in your hot code path
 - https://cloudplatform.googleblog.com/2018/03/introducing-the-ability-to-connect-to-Cloud-Shell-from-any-terminal.html We can now access the Cloud Shell (was in-browser only before) from "gcloud alpha cloud-shell" command now (it comes with preinstalled stuff, to avoid polluting the local env)
 
 # 19-03-2018
