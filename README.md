@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-03-2018
 
+- http://psy-lob-saw.blogspot.fr/ All the posts are amazing, dealing with JVM performances and profiling, read some of them, but lost a bit my way into ahah.
 - http://psy-lob-saw.blogspot.fr/2013/05/using-jmh-to-benchmark-multi-threaded.html False sharing problem using jmh
 - https://github.com/jvm-profiling-tools/honest-profiler Profiling JVM apps without waiting for safepoints (+ lower overhead)
 - http://psy-lob-saw.blogspot.fr/2018/01/what-difference-jvm-makes.html?spref=tw G1GC is the default in Java 9, that could lead to tremendous changes in benchmarks, as seen here; g1gc added locks to handle memory barriers
