@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-03-2018
 
+- https://www.slideshare.net/RednaxelaFX/green-teajug-hotspotintrinsics02232013 Intrinsic Methods in HotSpot VM
 - https://monix.io/blog/2018/03/20/monix-vs-cats-effect.html Monix vs cats-effect, and some history about Monix and cats-effect and misc (cancellability, reactive streams, scalaz's Task, optimizations, monix's Iterant)
 - https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f Lesson learned: Never use exceptions for control flow in your hot code path
 - https://cloudplatform.googleblog.com/2018/03/introducing-the-ability-to-connect-to-Cloud-Shell-from-any-terminal.html We can now access the Cloud Shell (was in-browser only before) from "gcloud alpha cloud-shell" command now (it comes with preinstalled stuff, to avoid polluting the local env)
