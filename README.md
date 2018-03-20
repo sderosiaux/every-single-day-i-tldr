@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 20-03-2018
 
+- http://lptk.github.io/programming/2018/03/02/a-dual-to-iterator.html Compute any aggregations in one pass using for-comp syntax
 - https://www.dropbox.com/s/qmuwo7z0v9jmnwi/NEScala2018.pdf "Composing programs": explaining why the composition is the essence of functional programming. Also discuss some category theory elements (kleisli, functors, monads).
 - https://github.com/plokhotnyuk/jsoniter-scala ultra-fast JSON codecs in Scala
 - https://rossabaker.github.io/boston-http4s/ Really great slideshow about http4s evolutions from simple stuff to Kleisli of Task/IO
