@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-03-2018
 
+- http://mail.openjdk.java.net/pipermail/announce/2018-March/000247.html JDK 10 GA, tons of new features but mainly type inference (no pattern matching :()
 - https://github.com/scala/scala/releases/tag/v2.12.5 scalac -release 9 !!
 - https://www.youtube.com/watch?v=wfWYm0MYj_8 Java 10:  Panama (replace JNI, use JIT to generate the C layer), Amber: type inference, '_', pattern matching (+ scalaish sealed ADTs and extractors)
 - https://cloudplatform.googleblog.com/2018/03/understand-your-spending-at-a-glance-with-Google-Cloud-Billing-reports-beta.html GCP Billing reports: group by project and product (gae, bq, pubsub etc.) to see the trends, nice
