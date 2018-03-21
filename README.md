@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-03-2018
 
+- https://shipilev.net/blog/2014/safe-public-construction/ Double-checked locking in Java (quite subtle!), applied to the Singleton Factory pattern
 - http://wiki.jvmlangsummit.com/images/1/1e/2011_Goetz_Lambda.pdf JVM Strategy to convert lambdas to bytecode
 - https://www.youtube.com/watch?v=kglEJ5x8xR8 problèmatiques de scheduling à criteo, de lobster à cuddle: lib à embed, plein de "connectors" (sh, yarn, clouds, etc.), démo UI, backfilling
 - https://typelevel.org/blog/2016/09/30/subtype-typeclasses.html implicit resolutions and subtyping loopholes (think cat theory, functor etc.) and solutions (define levels of subtypes exposing the implicits to change the priorities; used in cats, scalaz etc.)
