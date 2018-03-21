@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-03-2018
 
+- http://blogs.perl.org/users/ovid/2010/08/what-to-know-before-debating-type-systems.html static and dynamic type systems (sound, perf, doc, analysis, correctness, more or less verbose); explicit vs inference; structural typing; duck typing; what is a type finally? "a label used by a type system to prove some properties of the program behavior"
 - http://mail.openjdk.java.net/pipermail/announce/2018-March/000247.html JDK 10 GA, tons of new features but mainly type inference and Graal (`-XX:+UnlockExperimentalVMOptions -XX:+UseJVMCICompiler`)  (no pattern matching :()
 - https://github.com/scala/scala/releases/tag/v2.12.5 scalac -release 9 !!
 - https://www.youtube.com/watch?v=wfWYm0MYj_8 Java 10:  Panama (replace JNI, use JIT to generate the C layer), Amber: type inference, '_', pattern matching (+ scalaish sealed ADTs and extractors)
