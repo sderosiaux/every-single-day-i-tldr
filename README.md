@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-03-2018
 
+- https://en.wikipedia.org/wiki/Quine_(computing) TIL about Quines and Multiquines. Programs that produce a copy of their own source code.
 - https://www.infoq.com/presentations/microservices-data-centric Very nice talk about microservices management and techniques of migration
 - https://shipilev.net/blog/2014/safe-public-construction/ Double-checked locking in Java (quite subtle!), applied to the Singleton Factory pattern
 - http://wiki.jvmlangsummit.com/images/1/1e/2011_Goetz_Lambda.pdf JVM Strategy to convert lambdas to bytecode
