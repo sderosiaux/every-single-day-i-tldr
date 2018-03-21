@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-03-2018
+
+- https://cloudplatform.googleblog.com/2018/03/understand-your-spending-at-a-glance-with-Google-Cloud-Billing-reports-beta.html GCP Billing reports: group by project and product (gae, bq, pubsub etc.) to see the trends, nice
+
 # 20-03-2018
 
 - http://lptk.github.io/programming/2018/03/02/a-dual-to-iterator.html Compute any aggregations in one pass using for-comp syntax
