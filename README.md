@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-03-2018
 
+- https://typelevel.org/blog/2016/10/26/edsls-part-2.html Introducing MonadError and MonadState
 - https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078 Services, nodeport, lb, ingresses
 - https://shipilev.net/blog/2014/heapdump-is-a-lie/ JVM objects size (JOL being the single source of truth)
 - http://blogs.perl.org/users/ovid/2010/08/what-to-know-before-debating-type-systems.html static and dynamic type systems (sound, perf, doc, analysis, correctness, more or less verbose); explicit vs inference; structural typing; duck typing; what is a type finally? "a label used by a type system to prove some properties of the program behavior"
