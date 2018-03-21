@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-03-2018
 
+- https://www.youtube.com/watch?v=wfWYm0MYj_8 Java 10:  Panama (replace JNI, use JIT to generate the C layer), Amber: type inference, '_', pattern matching (+ scalaish sealed ADTs and extractors)
 - https://cloudplatform.googleblog.com/2018/03/understand-your-spending-at-a-glance-with-Google-Cloud-Billing-reports-beta.html GCP Billing reports: group by project and product (gae, bq, pubsub etc.) to see the trends, nice
 
 # 20-03-2018
