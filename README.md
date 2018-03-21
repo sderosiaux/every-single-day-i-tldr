@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 21-03-2018
 
+- https://typelevel.org/blog/2016/09/30/subtype-typeclasses.html implicit resolutions and subtyping loopholes (think cat theory, functor etc.) and solutions (define levels of subtypes exposing the implicits to change the priorities; used in cats, scalaz etc.)
 - https://typelevel.org/blog/2016/10/26/edsls-part-2.html Introducing MonadError and MonadState
 - https://medium.com/google-cloud/understanding-kubernetes-networking-ingress-1bc341c84078 Services, nodeport, lb, ingresses
 - https://shipilev.net/blog/2014/heapdump-is-a-lie/ JVM objects size (JOL being the single source of truth)
