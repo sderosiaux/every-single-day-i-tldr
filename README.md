@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-03-2018
+
+- http://seg.phault.net/blog/2018/03/async-iterators-cancellation/ cancelling async iterators 
+
 # 21-03-2018
 
 - https://en.wikipedia.org/wiki/Quine_(computing) TIL about Quines and Multiquines. Programs that produce a copy of their own source code.
