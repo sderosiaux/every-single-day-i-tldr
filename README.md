@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 22-03-2018
 
+- https://functional.works-hub.com/learn/avoid-pattern-matching-with-list-in-scala-01c8e Careful of pattern matching List/Seq
 - https://slidr.io/mathiasbynens/what-s-new-in-es2018 ES2018: async generators and a demo to "act like" RxJs's Observable (fromEvent, filter, etc.), regexes, spread (finally!), finally in promise
 - http://seg.phault.net/blog/2018/03/async-iterators-cancellation/ cancelling async iterators 
 
