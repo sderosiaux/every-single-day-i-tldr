@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 22-03-2018
 
+- https://slidr.io/mathiasbynens/what-s-new-in-es2018 ES2018: async generators and a demo to "act like" RxJs's Observable (fromEvent, filter, etc.), regexes, spread (finally!), finally in promise
 - http://seg.phault.net/blog/2018/03/async-iterators-cancellation/ cancelling async iterators 
 
 # 21-03-2018
