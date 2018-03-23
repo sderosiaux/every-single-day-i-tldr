@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-03-2018
+
+- https://corecursive.com/009-throw-away-the-irrelevant-with-john-a-de-goes Interesting podcast with John A De Goes about functional programming in general, why is this useful, advantages (smaller scope to think about; more extensible than OOP with typeclasses) stacking monads is a perf-blow (and we should use MonadError, MonadState instead)
+
 # 22-03-2018
 
 - https://functional.works-hub.com/learn/avoid-pattern-matching-with-list-in-scala-01c8e Careful of pattern matching List/Seq
