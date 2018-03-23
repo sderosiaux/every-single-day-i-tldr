@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 23-03-2018
 
+- http://www.edc4it.com/blog/scala/io-monad-and-monad-transformers-for-rookies.html A simple example of using IO and EitherT monads
 - http://degoes.net/articles/kill-data Don't prematurely commit to specific datastructures
 - https://corecursive.com/009-throw-away-the-irrelevant-with-john-a-de-goes Interesting podcast with John A De Goes about functional programming in general, why is this useful, advantages (smaller scope to think about; more extensible than OOP with typeclasses) stacking monads is a perf-blow (and we should use MonadError, MonadState instead)
 
