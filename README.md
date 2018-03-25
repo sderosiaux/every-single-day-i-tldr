@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 25-03-2018
 
+- https://quickbooks-engineering.intuit.com/lessons-learnt-from-netflix-keystone-pipeline-with-trillions-of-daily-messages-64cc91b3c8ea Wow, immutable infra to the end. "Handling Config Changes as simulated failure: Changes to the Kafka cluster (code upgrades, topic scale up or scale down, moving partitions) are handled by failover to a new Kafka cluster." 
 - https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e Functors and monads explained with peanuts, you _will_ understand
 - https://typelevel.org/cats-effect/datatypes/io.html The Cats Effect's IO documentation is phenomenal. So many possibilities!
 
