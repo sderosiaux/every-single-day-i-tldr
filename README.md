@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 25-03-2018
 
+- https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e Functors and monads explained with peanuts, you _will_ understand
 - https://typelevel.org/cats-effect/datatypes/io.html The Cats Effect's IO documentation is phenomenal. So many possibilities!
 
 # 24-03-2018
