@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-03-2018
+
+- https://typelevel.org/cats-effect/datatypes/io.html The Cats Effect's IO documentation is phenomenal. So many possibilities!
+
 # 24-03-2018
 
 - https://blog.ycombinator.com/congratsdropbox/ Dropbox goes public. A small message from ycombinator, because it's dropbox's origin (2007!), impressive.
