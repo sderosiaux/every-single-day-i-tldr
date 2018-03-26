@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 26-03-2018
 
+- https://inviqa.com/blog/lagom-tutorial-using-event-sourcing-create-online-shopping-cart Small Lagom tutorial, properly explained from scratch
 - https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/ A nice explanation of a wonderful hack through PostgreSQL to mine minero
 - https://www.sqreen.io/checklists/saas-cto-security-checklist The SaaS CTO Security Checklist
 - https://docs.google.com/presentation/d/17opE2U2aIe1TFYJgr0Z8Dd2fJhy2x0YbReCVeCz6uhA/edit#slide=id.g137428a63f_2_75 BigGraphite by Criteo: Graphite backed up by Cassandra
