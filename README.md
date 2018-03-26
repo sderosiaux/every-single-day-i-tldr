@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 26-03-2018
 
+- https://kudu.apache.org/releases/1.7.0/docs/release_notes.html Kudu 1.7.0, tons of features and improvements
 - https://github.com/gkossakowski/kentuckymule/issues/6#issuecomment-375949236 Smart idea of how to detect cycles using queues (kentuckymule is a experimental fast Scala type-checker)
 
 # 25-03-2018
