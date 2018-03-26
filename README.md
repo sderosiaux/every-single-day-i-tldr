@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 26-03-2018
 
+- https://blog.clairvoyantsoft.com/guide-to-using-apache-kudu-and-performance-comparison-with-hdfs-453c4b26554f Starting with Kudu, and Performance comparison with HDFS (generallly better)
 - https://medium.com/@adirmashiach/apache-impala-my-insights-and-best-practices-8e0507089935 Impala vs the world, and best practices
 - https://kudu.apache.org/releases/1.7.0/docs/release_notes.html Kudu 1.7.0, tons of features and improvements
 - https://github.com/gkossakowski/kentuckymule/issues/6#issuecomment-375949236 Smart idea of how to detect cycles using queues (kentuckymule is a experimental fast Scala type-checker)
