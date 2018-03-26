@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 27-03-2018
+
+- https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f All the things about Data Engineering
+
 # 26-03-2018
 
 - https://inviqa.com/blog/lagom-tutorial-using-event-sourcing-create-online-shopping-cart Small Lagom tutorial, properly explained from scratch
