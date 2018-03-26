@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 26-03-2018
 
+- https://www.sqreen.io/checklists/saas-cto-security-checklist The SaaS CTO Security Checklist
 - https://docs.google.com/presentation/d/17opE2U2aIe1TFYJgr0Z8Dd2fJhy2x0YbReCVeCz6uhA/edit#slide=id.g137428a63f_2_75 BigGraphite by Criteo: Graphite backed up by Cassandra
 - https://databricks.com/blog/2018/03/20/low-latency-continuous-processing-mode-in-structured-streaming-in-apache-spark-2-3-0.html Continuous Processing mode: finally true streaming in Spark?
 - https://blog.clairvoyantsoft.com/guide-to-using-apache-kudu-and-performance-comparison-with-hdfs-453c4b26554f Starting with Kudu, and Performance comparison with HDFS (generallly better)
