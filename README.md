@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-03-2018
+
+- https://github.com/gkossakowski/kentuckymule/issues/6#issuecomment-375949236 Smart idea of how to detect cycles using queues (kentuckymule is a experimental fast Scala type-checker)
+
 # 25-03-2018
 
 - http://beckje01.com/talks/greach-2018-zipkin-light.html Small presentation about Zipkin, screenshots, demos
