@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-03-2018
 
+- https://www.youtube.com/watch?v=wZ7cxcU4iPE Long hexagonal arch explanation with examples
 - https://streaml.io/blog/pulsar-effectively-once/ Effectively(exactly)-once semantics in Apache Pulsar
 - https://eng.uber.com/queryparser/ To handle some columns migration, Uber parses all SQL querying their datawarehouse. They inspect the (anti-)patterns, notify the right users in case of changes on the tables (according to who uses them), determine the table lineage for incident purpose (RCA), and better understand how their DWH is used for optimization. All that in Haskell.
 - https://blog.cloudflare.com/how-cloudflare-analyzes-1m-dns-queries-per-second/ Cloudflare DNS queries serialized into Kafka (Cap'n Proto), then ingested into ClickHouse and visualize with Superset (ad-hoc) and Grafana (monitoring)
