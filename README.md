@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-03-2018
 
+- https://blog.cloudflare.com/how-cloudflare-analyzes-1m-dns-queries-per-second/ Cloudflare DNS queries serialized into Kafka (Cap'n Proto), then ingested into ClickHouse and visualize with Superset (ad-hoc) and Grafana (monitoring)
 - https://v8project.blogspot.fr/2018/03/background-compilation.html V8 compiles more into a background thread now, letting the main thread free = better perf
 - https://banzaicloud.com/blog/prometheus-application-monitoring/ Relabeling (crappy) metrics name at scrape time with Prometheus. It is nice because it avoids to do it repeatly in Grafana for instancec.
 - http://www.landoop.com/blog/2018/03/kafka-elasticsearch-kubernetes-iot/ From Spark Streaming to Kafka Connect on k8s
