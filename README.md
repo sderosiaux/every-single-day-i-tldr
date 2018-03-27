@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-03-2018
 
+- https://cloudplatform.googleblog.com/2018/03/kubernetes-engine-private-clusters-now.html Deploy GKE in a VPC to get a better isolation
 - https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f All the things about Data Engineering
 
 # 26-03-2018
