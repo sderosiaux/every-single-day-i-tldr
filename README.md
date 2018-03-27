@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 27-03-2018
 
+- https://banzaicloud.com/blog/prometheus-application-monitoring/ Relabeling (crappy) metrics name at scrape time with Prometheus. It is nice because it avoids to do it repeatly in Grafana for instancec.
 - http://www.landoop.com/blog/2018/03/kafka-elasticsearch-kubernetes-iot/ From Spark Streaming to Kafka Connect on k8s
 - https://medium.com/fullstack-academy/better-js-cases-with-sum-types-92876e48fd9f Very cool long article about sum and product types, comparing the feature in different nice languages (and js).
 - https://cloudplatform.googleblog.com/2018/03/kubernetes-engine-private-clusters-now.html Deploy GKE in a VPC to get a better isolation
