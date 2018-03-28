@@ -8,6 +8,10 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-03-2018
+
+- https://www.youtube.com/watch?v=O-LWbSUaEQU Property-Based testing overview, why, how
+
 # 27-03-2018
 
 - https://jakubstransky.com/2018/02/03/jvm-code-friendly-to-jit-optimisation/ Using jitwatch to analyze bytecode and inlining tips
