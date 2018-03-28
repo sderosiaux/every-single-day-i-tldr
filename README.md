@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-03-2018
 
+- https://blog.apnic.net/2018/01/29/measuring-quic-vs-tcp-mobile-desktop/ QUIC (by Google) vs TCP: QUIC is globally faster (and Chrome users use it when contacting Google!) except in some conditions (packets out-of-order, mobiles where resources are limited)
 - https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4 Good practices on how to write Dockerfiles for nodejs webapps
 - https://www.datanami.com/2018/02/07/erasure-coding-changes-hadoop-storage-economics/ Changing how HDFS store its data to make it more economic, causing a bit more network and cpu processing. Also leaving behind the "storage and compute" paradigm.
 - https://banzaicloud.com/blog/kafka-on-etcd/ Kafka fork using etcd instead of zk
