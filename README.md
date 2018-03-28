@@ -1,10 +1,8 @@
 # *Almost* every single day I TLDR!
 
-Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting.
+Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting. It's like a huge shared bookmarks registry with y'all! Or it's like a daily newsletter without newsletter.
 
-To find it later, I add a little description —or just a critique. It's like a huge shared bookmarks registry! Just need to Ctrl+F.
-
-It's mostly about Scala, Java, Javascript, backend and frontend in general, big data, DDD, and technology. :muscle:
+I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DDD, and technology. :muscle:
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
