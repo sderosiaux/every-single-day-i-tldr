@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 28-03-2018
 
+- https://www.datanami.com/2018/02/07/erasure-coding-changes-hadoop-storage-economics/ Changing how HDFS store its data to make it more economic, causing a bit more network and cpu processing. Also leaving behind the "storage and compute" paradigm.
 - https://banzaicloud.com/blog/kafka-on-etcd/ Kafka fork using etcd instead of zk
 - https://www.confluent.io/blog/write-user-defined-function-udf-ksql/ Create and package UDFs in ksql
 - https://blog.godatadriven.com/doobie-monix-jdbc-example Nice examples using Doobie to sql in Scala
