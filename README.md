@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 28-03-2018
 
+- https://banzaicloud.com/blog/kafka-on-etcd/ Kafka fork using etcd instead of zk
 - https://www.confluent.io/blog/write-user-defined-function-udf-ksql/ Create and package UDFs in ksql
 - https://blog.godatadriven.com/doobie-monix-jdbc-example Nice examples using Doobie to sql in Scala
 - https://cloudplatform.googleblog.com/2018/03/introducing-Cloud-Text-to-Speech-powered-by-Deepmind-WaveNet-technology.html Awesome Text-to-Speech + wavenet variation (en only) available on GCP
