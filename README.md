@@ -10,6 +10,7 @@ It's mostly about Scala, Java, Javascript, backend and frontend in general, big 
 
 # 28-03-2018
 
+- https://the-composition.com/why-you-need-a-software-delivery-machine-85e8399cdfc0 Tons of details about Atomist: why, how it works, which events it reacts to, how does it evolve etc. Support a project from scratch to delivery 100%.
 - https://www.youtube.com/watch?v=O-LWbSUaEQU Property-Based testing overview, why, how
 
 # 27-03-2018
