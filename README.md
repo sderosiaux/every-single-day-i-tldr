@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-03-2018
 
+- https://developers.google.com/web/updates/2018/01/paintapi CSS Paint API in Chrome: a dedicated js to register which can be referred in "background-image: paint(toto)" to return the content (using the canvas api). This fills a gap, nice.
 - https://sleeplessinslc.blogspot.fr/2018/02/inventory-microservice-example-with.html Sleepless in Salt Lake City: Inventory Microservice example with Kafka Streams and CQRS
 - https://coreos.com/etcd/docs/latest/learning/why.html etcd vs. other key-value stores
 - http://www.landoop.com/blog/2018/01/mqtt-influxdb/ Landoop showing off its (good) Lenses platform (a centralized UI to deal with Kafka*, query endpoints, see topology etc.), and using it to ingest (Kafka Connect) from some MQTT to InfluxDB
