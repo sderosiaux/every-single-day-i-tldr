@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-03-2018
 
+- https://medium.com/serialized-io/apache-kafka-is-not-for-event-sourcing-81735c3cf5c Some interesting points (challenged in the comments, to read) why Kafka does not fit event sourcing constraints.
 - https://developers.google.com/web/updates/2018/01/paintapi CSS Paint API in Chrome: a dedicated js to register which can be referred in "background-image: paint(toto)" to return the content (using the canvas api). This fills a gap, nice.
 - https://sleeplessinslc.blogspot.fr/2018/02/inventory-microservice-example-with.html Sleepless in Salt Lake City: Inventory Microservice example with Kafka Streams and CQRS
 - https://coreos.com/etcd/docs/latest/learning/why.html etcd vs. other key-value stores
