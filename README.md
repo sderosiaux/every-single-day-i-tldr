@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-03-2018
 
+- https://www.youtube.com/watch?v=9Wp_riP8LQw Implicit FunctionTypes soon in Scala? basically type Gimme[E] = implicitly Int => E, implicit is part of the type (for easy reusability)
 - https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a An ode to the functional data engineering: how to "data engineer" with functional principles
 - https://gtoonstra.github.io/etl-with-airflow/index.html A very good and complete documentation about Airflow and ETLs in general
 - https://github.com/confluentinc/schema-registry/pull/680/files It's now possible to save record using different Avro (without union, totally disjoint) records in one topic and let the SR knows about it
