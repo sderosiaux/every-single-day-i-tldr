@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-03-2018
+
+- https://cloudplatform.googleblog.com/2018/03/introducing-Stackdriver-APM-and-Stackdriver-Profiler-Distributed-tracing-debugging-and-profiling-for-your-performance-sensitive-applications.html GA: Stackdriver Profiler to analyze application cpu, mem etc. through flame charts; Debugger to easily debug (breakpoint) and log in prod (without redeploying); Trace to do trace (spans) analysis through the services (à la OpenTracing, with propagation, latency etc.).
+
 # 28-03-2018
 
 - https://blog.apnic.net/2018/01/29/measuring-quic-vs-tcp-mobile-desktop/ QUIC (by Google) vs TCP: QUIC is globally faster (and Chrome users use it when contacting Google!) except in some conditions (packets out-of-order, mobiles where resources are limited)
