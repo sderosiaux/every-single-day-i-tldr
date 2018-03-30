@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-03-2018
 
+- https://www.youtube.com/watch?v=v3msiBIny6s Nice talk about the pure push/pull flaws that lead to create Reactive Streams, and Akka Streams is one implementation. Here nicely presented by Viktor Klang.
 - https://thenewstack.io/microservices-running-containers-need-streaming-platform/ Microservices, Containers, and the upcoming of Streaming Platforms to handle all the technicals points (communication, pubsub, storage, failures etc.)
 - https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1 A large and clear overview of the Kafka streaming platform
 - https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9 Netflix is now using a smarter Consistent Hashing technique based on multiple weights to distribute resources into their heterogeneous servers
