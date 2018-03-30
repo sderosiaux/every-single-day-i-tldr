@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-03-2018
 
+- https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e Some nice pointers for data science in scala: Breeze (Analysis, NLP), Saddle (Analysis), Breeze-vis (dataviz), Vegas (dataviz), Smile (ML), and Spark stuff
 - https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html Spanner and its "external consistency" (strongly consistent + serializability): no trade-off in the apps!
 - https://www.youtube.com/watch?v=BgcJnurVFag Building a 400TB PostgreSQL clusters: tips and tricks
 - https://www.youtube.com/watch?v=v3msiBIny6s Nice talk about the pure push/pull flaws that lead to create Reactive Streams, and Akka Streams is one implementation. Here nicely presented by Viktor Klang.
