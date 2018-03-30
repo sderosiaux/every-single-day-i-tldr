@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-03-2018
 
+- https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1 A large and clear overview of the Kafka streaming platform
 - https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9 Netflix is now using a smarter Consistent Hashing technique based on multiple weights to distribute resources into their heterogeneous servers
 - https://www.youtube.com/watch?v=h48kuflGEDw Scala 2.12 (tech refactor) /13 (library refactor) /14 (remove features)/15 (to dotty) evolutions and improvements
 - https://www.slideshare.net/cloudera/performance-of-apache-impala Impala misc optimizations: codegen, smart joins + create bloomfilter if needed, preaggregation, cache hits
