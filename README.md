@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-03-2018
 
+- https://www.lightbend.com/blog/the-six-questions-architects-ask-about-using-akka-in-production Some points of why using Akka. It misses the part "why NOT".
 - https://github.com/envoyproxy/envoy/issues/2852 Sending req/res into Kafka within Envoy?
 - https://github.com/scala-native/scala-native/releases/tag/v0.3.7 Scala Native 0.3.7 and sbt-crossproject to compile a project to js/native/jvm
 
