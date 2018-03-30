@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-03-2018
+
+- https://github.com/scala-native/scala-native/releases/tag/v0.3.7 Scala Native 0.3.7 and sbt-crossproject to compile a project to js/native/jvm
+
 # 29-03-2018
 
 - https://www.youtube.com/watch?v=9Wp_riP8LQw Implicit FunctionTypes soon in Scala? basically type Gimme[E] = implicitly Int => E, implicit is part of the type (for easy reusability)
