@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 31-03-2018
+
+- http://openjdk.java.net/projects/amber/LVTIstyle.html Guidelines for when to use "var" in Java
+
 # 30-03-2018
 
 - https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e Some nice pointers for data science in scala: Breeze (Analysis, NLP), Saddle (Analysis), Breeze-vis (dataviz), Vegas (dataviz), Smile (ML), and Spark stuff
