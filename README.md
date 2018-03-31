@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-03-2018
 
+- https://cloud.google.com/blog/big-data/2017/12/analyzing-tweets-using-cloud-dataflow-pipeline-templates Creating a Dataflow template and launching it regularly via an appengine app + cron
 - https://slack.engineering/scaling-slacks-job-queue-687222e9d100 Kafka in front of Redis for queuing jobs to ensure resilience, sustain workload, better decoupling.
 - https://medium.com/@abinoda/how-teams-get-microservices-wrong-from-the-start-51777c99c059 Each team should define what a "microservice" is and what are the pros/cons of switching to it. (future replacement? teams organization? productivity boost? delivery boost?)
 - http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html Netflix: creating a cloud inside their cloud
