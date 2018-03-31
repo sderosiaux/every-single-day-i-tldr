@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-03-2018
 
+- http://shiroyasha.io/transaction-isolation-levels-in-postgresql.html Time to refresh what are the different transaction isolation levels
 - http://lucidsoftware.github.io/relate/ Relative: another blazing fast Scala SQL "framework" sql"SELECT xx".asList { _.string("name") }
 - https://cloud.google.com/blog/big-data/2017/12/analyzing-tweets-using-cloud-dataflow-pipeline-templates Creating a Dataflow template and launching it regularly via an appengine app + cron
 - https://slack.engineering/scaling-slacks-job-queue-687222e9d100 Kafka in front of Redis for queuing jobs to ensure resilience, sustain workload, better decoupling.
