@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-03-2018
 
+- http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html Netflix: creating a cloud inside their cloud
 - http://openjdk.java.net/projects/amber/LVTIstyle.html Guidelines for when to use "var" in Java
 
 # 30-03-2018
