@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-04-2018
 
+- https://alligator.io/graphql/graphql-yoga/ An easy way to spin-up a GraphQL server
 - https://medium.com/capital-one-developers/blazing-fast-data-lookup-in-a-microservices-world-dd3ae548ca45 Using a bloom filter to filter out bad emails
 - http://fluentbit.io/ A lightweight fluentd written in C container oriented?
 - https://medium.com/@adirmashiach/partition-index-selective-queries-on-really-big-tables-795fea737570 Maintaining a index table to know which partition to read (for a given PK) instead of doing a full scan
