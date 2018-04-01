@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-04-2018
+
+- https://www.apache.org/dist/kafka/1.1.0/RELEASE_NOTES.html Kafka 1.1.0 out; few new features but tons of fix and improv
+
 # 31-03-2018
 
 - https://graphcms.com/blog/gatsby-graphcms-plugin/ Combining Gatsby and GraphCMS (to host content) because Gatsby can fetch GraphQL endpoints to grab content
