@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-04-2018
 
+- https://medium.com/@adirmashiach/partition-index-selective-queries-on-really-big-tables-795fea737570 Maintaining a index table to know which partition to read (for a given PK) instead of doing a full scan
 - https://blog.cloudflare.com/announcing-1111/ 1.1.1.1 as (privacy-respected) DNS resolver ! (unfortunately, does work with Orange in France yet...)
 - https://www.apache.org/dist/kafka/1.1.0/RELEASE_NOTES.html Kafka 1.1.0 out; few new features but tons of fix and improv
 
