@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-04-2018
 
+- http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html Very cool feedback and archi about by ipdata (using aws gateway, dynamo, lambdas, kinesis, cloudwatch)
 - https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68?ref=hn322 Dealing with technical debt: always start naive, then refactor the past when it's more clear and patterns emerge
 - https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017 Multiple posts explaining how ios work, very interesting to get the base
 
