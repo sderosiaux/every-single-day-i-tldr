@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-04-2018
 
+- https://www.youtube.com/watch?v=YXDm3WHZT5g Devoxx Belgium 2017, Plain Functional Programming by Martin Odersky; example using Kleisli (for config) against implicit types (incoming)
 - https://github.com/mikolak-net/travesty Generating diagram for akka streams
 - https://alistapart.com/article/coding-with-clarity Single responsability principle, low coupling/high cohesion, with analogies to real-world example
 - http://akaptur.com/blog/2017/11/12/love-your-bugs/ Bits flip are real. Use feature flags. Don't DDOS yourself.
