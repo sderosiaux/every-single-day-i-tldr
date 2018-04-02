@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-04-2018
 
+- https://github.com/mikolak-net/travesty Generating diagram for akka streams
 - https://alistapart.com/article/coding-with-clarity Single responsability principle, low coupling/high cohesion, with analogies to real-world example
 - http://akaptur.com/blog/2017/11/12/love-your-bugs/ Bits flip are real. Use feature flags. Don't DDOS yourself.
 - https://medium.com/dailymotion-engineering/a-brief-history-of-apis-at-dailymotion-3c2c16001717 Quick post from Dailymotion explaining the switch of their API to GraphQL (mostly for performance purpose, less round-trip)
