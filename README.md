@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-04-2018
 
+- http://akaptur.com/blog/2017/11/12/love-your-bugs/ Bits flip are real. Use feature flags. Don't DDOS yourself.
 - https://medium.com/dailymotion-engineering/a-brief-history-of-apis-at-dailymotion-3c2c16001717 Quick post from Dailymotion explaining the switch of their API to GraphQL (mostly for performance purpose, less round-trip)
 - https://embano1.github.io/post/scratch/ Study of the "FROM scratch" image and explanations of the differences between the container image and one of its instance (OCI runtime specification)
 - http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html Very cool feedback and archi about by ipdata (using aws gateway, dynamo, lambdas, kinesis, cloudwatch)
