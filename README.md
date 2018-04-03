@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2018
 
+- https://zeit.co/blog/multi-dc now.sh is now multi-dc (sf + brussels)
 - https://www.youtube.com/watch?v=jrOS_UrIQI0 Building a serverless app with fnproject.io
 - https://www.youtube.com/watch?v=2oXqbLhMS_A Going from blocking to non-blocking with Netty and RxJava. Pros and cons.
 - https://typelevel.org/blog/2017/12/20/who-implements-typeclass.html More on typeclasses
