@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-04-2018
+
+- http://www.scanamo.org/ DynamoDB Scala wrapper
+
 # 02-04-2018
 
 - https://www.youtube.com/watch?v=YXDm3WHZT5g Devoxx Belgium 2017, Plain Functional Programming by Martin Odersky; example using Kleisli (for config) against implicit types (incoming)
