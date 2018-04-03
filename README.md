@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2018
 
+- https://www.youtube.com/watch?v=JMP6gI5mLHc Parallels between Category Theory definition (+ Functors) and languages (mostly Java)
 - https://blog.cloudflare.com/cloudflare-workers-unleashed/ JavaScript "lambdas" on Cloudflare with Workers
 - https://www.youtube.com/watch?v=HTmaTCLdb_U event sourcing composability with monads
 - https://zeit.co/blog/multi-dc now.sh is now multi-dc (sf + brussels)
