@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2018
 
+- https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79 WebAssembly improvements over JavaScript
 - http://korban.net/posts/postgres/2017-11-02-the-case-against-orms/ Case against ORMs (yeah)
 - https://github.com/lampepfl/dotty/pull/4153 Hot debate about Typeclass implemented with subtyping proposal in Scala
 - https://medium.com/@nex3/pubgrub-2fb6470504f Resolving package dependencies graph is far from trivial; here nice explanations about a new method implemented in the Dart package manager.
