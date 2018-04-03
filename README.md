@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2018
 
+- https://www.youtube.com/watch?v=3a5oE3p3jDA about SIP-35 / opaque types. Could replace Option and such "easy" type, also provide type tagging without overhead at runtime.
 - https://www.youtube.com/watch?v=JMP6gI5mLHc Parallels between Category Theory definition (+ Functors) and languages (mostly Java)
 - https://blog.cloudflare.com/cloudflare-workers-unleashed/ JavaScript "lambdas" on Cloudflare with Workers
 - https://www.youtube.com/watch?v=HTmaTCLdb_U event sourcing composability with monads
