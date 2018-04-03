@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2018
 
+- https://typelevel.org/blog/2017/12/20/who-implements-typeclass.html More on typeclasses
 - https://medium.com/anyjunk/fstring-string-lengths-at-compile-time-81f811750e9e Using types (as Nat from shapeless) to ensure a String maxLength (at compile-time)
 - https://blog.sessionstack.com/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it-d80945172d79 WebAssembly improvements over JavaScript
 - http://korban.net/posts/postgres/2017-11-02-the-case-against-orms/ Case against ORMs (yeah)
