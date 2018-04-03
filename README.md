@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2018
 
+- https://github.com/lampepfl/dotty/pull/4153 Hot debate about Typeclass implemented with subtyping proposal in Scala
 - https://medium.com/@nex3/pubgrub-2fb6470504f Resolving package dependencies graph is far from trivial; here nice explanations about a new method implemented in the Dart package manager.
 - http://www.scanamo.org/ DynamoDB Scala wrapper
 
