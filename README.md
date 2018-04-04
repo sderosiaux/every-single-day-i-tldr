@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-04-2018
+
+- https://cloudplatform.googleblog.com/2018/04/new-ways-to-manage-and-automate-your-Stackdriver-alerting-policies.html New API to manage Stackdriver alerting policies. Surprised it didn't existed before.
+
 # 03-04-2018
 
 - https://www.youtube.com/watch?v=3a5oE3p3jDA about SIP-35 / opaque types. Could replace Option and such "easy" type, also provide type tagging without overhead at runtime.
