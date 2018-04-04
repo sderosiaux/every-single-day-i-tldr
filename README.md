@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-04-2018
 
+- https://www.youtube.com/watch?v=po3wmq4S15A Intro to Effects in FP
 - https://www.youtube.com/watch?v=JFbYQGG2Nb4 Monix's Observable and Iterant
 - https://www.youtube.com/watch?v=JH_Ou17_zyU Bartosz Milewski's Category Theory crash course, he's very good at teaching.
 - https://cloudplatform.googleblog.com/2018/04/new-ways-to-manage-and-automate-your-Stackdriver-alerting-policies.html New API to manage Stackdriver alerting policies. Surprised it didn't existed before.
