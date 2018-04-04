@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-04-2018
 
+- https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e A very good guide: "How to solve 90% of NLP problems"
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/ Beware of the hidden distributed transactions in your systems. Some ways to "fix" them (a central service that retries, not a huge fan). Nowadays, it would be more about Event Sourcing, Sagas, or Kafka Streams/Connect.
 - https://github.com/kailuowang/mainecoon Transform and compose tagless final encoded algebras in scala
 - https://blog.hablapps.com/2017/06/26/functional-apis-an-oop-approach-to-fp/ An interesting approach to represent functional APIs (let's say a Free program) through OOP instead of ADTs
