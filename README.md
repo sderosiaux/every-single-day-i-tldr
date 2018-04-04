@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-04-2018
 
+- https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f anemic model to DDD
 - https://www.youtube.com/watch?v=po3wmq4S15A Intro to Effects in FP
 - https://www.youtube.com/watch?v=JFbYQGG2Nb4 Monix's Observable and Iterant
 - https://www.youtube.com/watch?v=JH_Ou17_zyU Bartosz Milewski's Category Theory crash course, he's very good at teaching.
