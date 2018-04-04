@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-04-2018
 
+- http://web.devopstopologies.com/ DevOps Topologies in a company (and "anti-patterns")
 - https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f anemic model to DDD
 - https://www.youtube.com/watch?v=po3wmq4S15A Intro to Effects in FP
 - https://www.youtube.com/watch?v=JFbYQGG2Nb4 Monix's Observable and Iterant
