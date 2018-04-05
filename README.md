@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-04-2018
+
+- https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/ The History of React.js on a Timeline. 
+
 # 04-04-2018
 
 - https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e A very good guide: "How to solve 90% of NLP problems"
