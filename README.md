@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-04-2018
 
+- https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/ Feedback of using the language "Pony" (actor based, gc per actor (no STW)) to write the Wallaroo framework (distributed data processing)
 - https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/ The History of React.js on a Timeline. 
 
 # 04-04-2018
