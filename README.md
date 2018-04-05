@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-04-2018
 
+- https://blog.manifold.co/graphql-fragments-are-the-best-match-for-ui-components-72b8f61c20fe Why we should use GraphQL Fragments
 - https://www.youtube.com/watch?v=0lw2zEQVe54 Quick talk about GraphQL, and demo of GraphQL Voyager, so nice.
 - https://github.com/APIs-guru/graphql-voyager look at any GraphQL API as an interactive graph, very cool
 - https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/ Feedback of using the language "Pony" (actor based, gc per actor (no STW)) to write the Wallaroo framework (distributed data processing)
