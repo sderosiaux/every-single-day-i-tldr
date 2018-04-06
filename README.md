@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-04-2018
 
+- https://medium.com/teads-engineering/give-meaning-to-100-billion-analytics-events-a-day-d6ba09aa8f44 From AWS Kafka to GCP Dataflow to BQ (transformations and rollups) (then back to AWS Redshift!)
 - https://stripe.com/blog/billing Stripe Billing to handle more complex billing models (recurrent)
 - https://cloudplatform.googleblog.com/2018/04/introducing-VPC-Flow-Logs-network-transparency-in-near-real-time.html New on GCP: VPC Flow Logs
 - https://www.binarylane.com.au/support/solutions/articles/1000055889-how-to-benchmark-disk-i-o How to benchmark disk I/O
