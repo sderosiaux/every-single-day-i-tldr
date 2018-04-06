@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-04-2018
 
+- https://github.com/Netflix/flamescope visualization tool for exploring different time ranges as Flame Graphs
 - https://github.com/oleg-py/better-monadic-for Desugaring scala `for` without implicit `withFilter`s / and less verbose in general
 - https://blog.grandstack.io/using-the-neo4j-graphql-plugin-in-neo4j-desktop-c8a60aa014d9 Querying Neo4j with GraphQL
 - https://medium.com/teads-engineering/give-meaning-to-100-billion-analytics-events-a-day-d6ba09aa8f44 From AWS Kafka to GCP Dataflow to BQ (transformations and rollups) (then back to AWS Redshift!)
