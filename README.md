@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-04-2018
+
+- https://www.binarylane.com.au/support/solutions/articles/1000055889-how-to-benchmark-disk-i-o How to benchmark disk I/O
+
 # 05-04-2018
 
 - https://medium.com/@unmeshvjoshi/service-discovery-with-crdts-fb02bb48cfff Using Akka Distributed Data to do Actors Service Discovery
