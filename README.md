@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-04-2018
 
+- https://cloudplatform.googleblog.com/2018/04/introducing-VPC-Flow-Logs-network-transparency-in-near-real-time.html New on GCP: VPC Flow Logs
 - https://www.binarylane.com.au/support/solutions/articles/1000055889-how-to-benchmark-disk-i-o How to benchmark disk I/O
 
 # 05-04-2018
