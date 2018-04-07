@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-04-2018
 
+- https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/ A sublime article every engineer should read
 - https://www.youtube.com/watch?v=HjbvMEfLrGk Introducing and "hiding" Writer Monad usages for easier learning curve
 - https://www.youtube.com/watch?v=Juuucx5xaCo Big Data at the Intersection of Typed FP and Category Theory / Algebra
 
