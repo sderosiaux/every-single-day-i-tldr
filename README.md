@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-04-2018
+
+- https://www.youtube.com/watch?v=Juuucx5xaCo Big Data at the Intersection of Typed FP and Category Theory / Algebra
+
 # 06-04-2018
 
 - https://medium.com/@PS_/image-processing-go-microservice-df423d1b8ddd Image processing not done in the classic serverless-way but with replicated pods in k8s and an internal LB.
