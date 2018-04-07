@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-04-2018
 
+- https://www.youtube.com/watch?v=HjbvMEfLrGk Introducing and "hiding" Writer Monad usages for easier learning curve
 - https://www.youtube.com/watch?v=Juuucx5xaCo Big Data at the Intersection of Typed FP and Category Theory / Algebra
 
 # 06-04-2018
