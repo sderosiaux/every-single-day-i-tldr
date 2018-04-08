@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-04-2018
 
+- https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/ Speed Reading
 - https://www.slideshare.net/paulszulc/illogical-engineers Why "Software Engineering"; links with the category theory and Howard-Curry theorem, usage in Scala ("= implement")
 - https://www.slideshare.net/LukaJacobowitz/traversals-for-all-ocasions The Traverse typeclass
 
