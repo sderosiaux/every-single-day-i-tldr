@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-04-2018
 
+- https://github.com/hablapps/stateless Optics which are not bound to in-memory data structures
 - https://artplusmarketing.com/how-i-write-10-000-words-per-day-every-day-818421c980f0 How I Write 10,000 Words Per Day, Every Day
 - https://baekdal.com/strategy/publishers-havent-realized-just-how-big-a-deal-gdpr-is/ "Publishers Haven't Realized Just How Big a Deal GDPR is."
 
