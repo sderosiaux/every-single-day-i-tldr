@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-04-2018
+
+- https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8 A nice review about several hashing techniques (classic consistent, jump, multi probe, rendezvous, maglev)
+
 # 09-04-2018
 
 - https://github.com/hablapps/stateless Optics which are not bound to in-memory data structures
