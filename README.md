@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-04-2018
+
+- https://baekdal.com/strategy/publishers-havent-realized-just-how-big-a-deal-gdpr-is/ "Publishers Haven't Realized Just How Big a Deal GDPR is."
+
 # 08-04-2018
 
 - https://labs.unacast.com/one-year-with-bigquery-e3ebd73749cd Feedback from using BigQuery. Awesome, less strain overall, but more responsability: $$$.
