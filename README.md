@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://github.com/sigalor/whatsapp-web-reveng Reverse engineering WhatsApp Web
 - https://github.com/akka/akka-grpc gRPC over Akka Streams !
 - https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html Cloud Firestore, a mix of Datastore and Firebase Realtime Database.
 - https://developers.google.com/web/updates/2017/09/abortable-fetch I miss that: "abortable fetch" thanks to a new AbortController().signal we can pass to fetch().
