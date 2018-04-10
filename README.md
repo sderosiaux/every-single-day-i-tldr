@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://developers.google.com/machine-learning/glossary/ An impressive glossary about Machine Learning
 - https://github.com/sigalor/whatsapp-web-reveng Reverse engineering WhatsApp Web
 - https://github.com/akka/akka-grpc gRPC over Akka Streams !
 - https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html Cloud Firestore, a mix of Datastore and Firebase Realtime Database.
