@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://developer.lightbend.com/blog/2018-04-09-profiling-JVM-applications/ Profiling JVM applications
 - https://cloudplatform.googleblog.com/2018/04/toward-better-phone-call-and-video-transcription-with-new-Cloud-Speech-to-Text.html Google continue to enhance its speech to text models, and that's awesome
 - https://developer.lightbend.com/blog/2018-04-09-sbt-1-1-4-hotfix/ Tons of improvements in sbt 1.1.4. (better filewatch on osx; faster build!) 
 - https://github.com/sgreben/jp plots from JSON in console :O
