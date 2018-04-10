@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://developers.google.com/web/updates/2017/09/abortable-fetch I miss that: "abortable fetch" thanks to a new AbortController().signal we can pass to fetch().
 - http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions Write architecture decisions (ADR) into files within the project
 - https://www.confluent.io/blog/using-kafka-streams-api-predictive-budgeting/ Pinterest trying to reduce the overdelivery of ads (according to a max budget, cpm or cpc) using kafka streams and predictive spend
 - https://pingcap.com/blog/2017-10-10-nextcon/ TiDB "NewSQL database": storage backed by RocksDB, gRPC between nodes, Raft protocol to handle data strong consistency.
