@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed Improving HAProxy with bounded-load consistent-hashing algorithm (classic CH + load factor taken into account)
 - https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering syslog and KSQL
 - https://www.confluent.io/blog/predicting-flight-arrivals-with-the-apache-kafka-streams-api/ ML model updates in Kafka Streams (using Mahout here)
 - https://developer.lightbend.com/blog/2018-04-09-profiling-JVM-applications/ Profiling JVM applications
