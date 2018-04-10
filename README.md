@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://developer.lightbend.com/blog/2018-04-09-sbt-1-1-4-hotfix/ Tons of improvements in sbt 1.1.4. (better filewatch on osx; faster build!) 
 - https://github.com/sgreben/jp plots from JSON in console :O
 - https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8 A nice review about several hashing techniques (classic consistent, jump, multi probe, rendezvous, maglev)
 
