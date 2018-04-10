@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://github.com/sgreben/jp plots from JSON in console :O
 - https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8 A nice review about several hashing techniques (classic consistent, jump, multi probe, rendezvous, maglev)
 
 # 09-04-2018
