@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-04-2018
 
+- https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/ Pagination technique in Postgres, from the basic to the exotic
 - https://developers.google.com/machine-learning/glossary/ An impressive glossary about Machine Learning
 - https://github.com/sigalor/whatsapp-web-reveng Reverse engineering WhatsApp Web
 - https://github.com/akka/akka-grpc gRPC over Akka Streams !
