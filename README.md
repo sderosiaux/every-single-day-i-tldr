@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 11-04-2018
+
+- https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69 Instead of ad-hoc error-prone human Canary version analysis, Kayenta relies on statistics (source of metrics, logs) and no human to decide if a canary is ready-for-prod.
+
 # 10-04-2018
 
 - https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/ Pagination technique in Postgres, from the basic to the exotic
