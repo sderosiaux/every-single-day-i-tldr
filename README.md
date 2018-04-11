@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-04-2018
 
+- https://blog.softwaremill.com/synchronous-or-asynchronous-and-why-wrestle-with-wrappers-2c5667eb7acf A long (too much, but some parts are still interesting) article about sync vs async, and coroutines (async/await)
 - https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax#merge_statement A new "MERGE" operator in BigQuery to merge one table into another (joined) while controlling the insertion/update clauses
 - https://techcrunch.com/2018/04/11/google-is-about-to-launch-a-gmail-web-redesign/ Can't wait for a redesign, Inbox is so damn slow (but the design is so good..)
 - https://www.dropbox.com/s/p7w9w904e6himdb/Leveraging%20Spire%20for%20complex%20time%20allocation%20logic.pdf?dl=0 Using Spire to deal with intervals (of anything! but mostly dates eh) in Scala
