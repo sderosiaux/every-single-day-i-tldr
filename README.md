@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-04-2018
 
+- https://techcrunch.com/2018/04/11/google-is-about-to-launch-a-gmail-web-redesign/ Can't wait for a redesign, Inbox is so damn slow (but the design is so good..)
 - https://www.dropbox.com/s/p7w9w904e6himdb/Leveraging%20Spire%20for%20complex%20time%20allocation%20logic.pdf?dl=0 Using Spire to deal with intervals (of anything! but mostly dates eh) in Scala
 - https://www.youtube.com/watch?v=QBatpIFii7M Presentation of IronDB (timeseries ddb), no consensus needed
 - https://www.youtube.com/watch?v=YSN__0VEsaw fs2 Stream
