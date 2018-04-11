@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-04-2018
 
+- https://www.infoq.com/articles/architecturally-aligned-testing Microservices, autonomy, and testing
 - https://medium.com/capital-one-developers/toward-a-functional-programming-analogy-for-microservices-ba6f49b94ad Microservices: OOP vs FP style (cqrs, es, explained with Kafka*)
 - https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69 Instead of ad-hoc error-prone human Canary version analysis, Kayenta relies on statistics (source of metrics, logs) and no human to decide if a canary is ready-for-prod.
 
