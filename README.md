@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-04-2018
 
+- https://www.youtube.com/watch?v=VGZi4nTgZxs Dealing with Duality using Category Theory
 - http://janbosch.com/blog/index.php/2017/11/25/structure-eats-strategy/ BAPO (business $$$ should define the arch/process/organization) vs OPAB (organization first, Conway's law!)
 - https://www.infoq.com/articles/architecturally-aligned-testing Microservices, autonomy, and testing
 - https://medium.com/capital-one-developers/toward-a-functional-programming-analogy-for-microservices-ba6f49b94ad Microservices: OOP vs FP style (cqrs, es, explained with Kafka*)
