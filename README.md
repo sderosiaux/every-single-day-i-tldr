@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-04-2018
 
+- https://www.youtube.com/watch?v=QBatpIFii7M Presentation of IronDB (timeseries ddb), no consensus needed
 - https://www.youtube.com/watch?v=YSN__0VEsaw fs2 Stream
 - https://www.youtube.com/watch?v=VGZi4nTgZxs Dealing with Duality using Category Theory
 - http://janbosch.com/blog/index.php/2017/11/25/structure-eats-strategy/ BAPO (business $$$ should define the arch/process/organization) vs OPAB (organization first, Conway's law!)
