@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 12-04-2018
+
+- https://jneem.github.io/merging/ A VCS with perfect merges (no more conflicts). Patches content forms a DAG that can be flatten into a regular file (lossy). The article is accessible, compared to the paper. "One could expect the free conservative finite cocompletion of L to be..."
+
 # 11-04-2018
 
 - https://blog.softwaremill.com/synchronous-or-asynchronous-and-why-wrestle-with-wrappers-2c5667eb7acf A long (too much, but some parts are still interesting) article about sync vs async, and coroutines (async/await)
