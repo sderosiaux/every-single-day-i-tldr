@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-04-2018
 
+- https://vimeo.com/233649102 Building a Company on Scala. Takeaways: mastering FP is not mandatory, there is no "one solution" in Scala, so be rigorous and consistent when adopting patterns; try to have a homogenous codebase (same level everywhere)
 - http://highscalability.com/blog/2017/9/18/evolution-of-data-structures-in-yandexmetrica.html How Yandex went to write ClickHouse (column oriented db)
 - http://www.chriscox.org.uk/why_gcp_compute/ Why GCE is good (network, disks iops)
 - https://www.youtube.com/watch?v=AHrCI9eSJGQ 30 Days Timelapse at Sea; a mesmerizing video to watch
