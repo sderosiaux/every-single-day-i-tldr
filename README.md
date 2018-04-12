@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-04-2018
 
+- http://www.chriscox.org.uk/why_gcp_compute/ Why GCE is good (network, disks iops)
 - https://www.youtube.com/watch?v=AHrCI9eSJGQ 30 Days Timelapse at Sea; a mesmerizing video to watch
 - http://highscalability.com/blog/2017/9/25/adcash-1-trillion-http-requests-per-month.html The evolution of Adcash (from php/mysql on one server to GCP and 1500 servers), too short :)
 - https://jneem.github.io/merging/ A VCS with perfect merges (no more conflicts). Patches content forms a DAG that can be flatten into a regular file (lossy). The article is accessible, compared to the paper. "One could expect the free conservative finite cocompletion of L to be..."
