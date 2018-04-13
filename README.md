@@ -8,7 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-04-2018
 
-- https://functional.works-hub.com/learn/the-science-behind-functional-programming-3b060 Category Theory applied in Kotlin using Arrow framework
+- https://functional.works-hub.com/learn/the-science-behind-functional-programming-3b060 Category Theory applied in Kotlin using Arrow library
 - https://bjankie1.github.io/blog/ Speculative Tasks using Monix
 - https://svs.gsfc.nasa.gov/4619 Tour of the Moon 4K Redux
 
