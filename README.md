@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-04-2018
 
+- https://bjankie1.github.io/blog/ Speculative Tasks using Monix
 - https://svs.gsfc.nasa.gov/4619 Tour of the Moon 4K Redux
 
 # 12-04-2018
