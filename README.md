@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-04-2018
 
+- https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html Long, long posts about serverless architecture and tons of feedback and experience (with bigtable, bigquery, cloud functions)
 - https://www.slideshare.net/jdegoes/scalaz-8-vs-akka-actors Man, those slides comparing Scalaz 8 and Akka Actors. Violent.
 - https://functional.works-hub.com/learn/the-science-behind-functional-programming-3b060 Category Theory applied in Kotlin using Arrow library
 - https://bjankie1.github.io/blog/ Speculative Tasks using Monix
