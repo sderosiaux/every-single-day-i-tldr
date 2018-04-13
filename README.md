@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-04-2018
 
+- https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d Tons of infos, details and tips about the "search" in general. The questions to ask yourself when you want to integrate it into your website/app. Every site has different needs, it's not just a matter of "we"ll add elasticsearch, done!"
 - https://medium.com/@ifesdjeen/on-ways-to-agree-part-2-path-to-atomic-broadcast-662cc86a4e5f More on consensus logic and Atomic Broadcast
 - https://cloudplatform.googleblog.com/2018/04/what-we-learned-doing-serverless-the-Smart-Parking-story.html Long, long posts about serverless architecture and tons of feedback and experience (with bigtable, bigquery, cloud functions)
 - https://www.slideshare.net/jdegoes/scalaz-8-vs-akka-actors Man, those slides comparing Scalaz 8 and Akka Actors. Violent.
