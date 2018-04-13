@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-04-2018
 
+- https://martinfowler.com/articles/microservice-testing/#conclusion-summary Testing Strategies in a Microservice Architecture. From Unit to Inte to Component to Contract to E2E.
 - https://www.youtube.com/watch?v=wi_vLNULh9Y The Design of the Scalaz 8 Effect System, looks really good.
 - https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d Tons of infos, details and tips about the "search" in general. The questions to ask yourself when you want to integrate it into your website/app. Every site has different needs, it's not just a matter of "we"ll add elasticsearch, done!"
 - https://medium.com/@ifesdjeen/on-ways-to-agree-part-2-path-to-atomic-broadcast-662cc86a4e5f More on consensus logic and Atomic Broadcast
