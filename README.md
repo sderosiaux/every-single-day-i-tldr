@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-04-2018
+
+- https://svs.gsfc.nasa.gov/4619 Tour of the Moon 4K Redux
+
 # 12-04-2018
 
 - http://degoes.net/articles/only-one-io Very good article on (the multiple) IO and Async monads in Scala-land
