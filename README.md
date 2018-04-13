@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-04-2018
 
+- https://www.deconstructconf.com/2017/caitie-mccaffrey-the-path-towards-simplifying-consistency-in-distributed-systems An overview of the (complex) distributed systems evolution: what about simplifying and forgetting a bit this consistency thing?
 - https://martinfowler.com/articles/microservice-testing/#conclusion-summary Testing Strategies in a Microservice Architecture. From Unit to Inte to Component to Contract to E2E.
 - https://www.youtube.com/watch?v=wi_vLNULh9Y The Design of the Scalaz 8 Effect System, looks really good.
 - https://medium.com/startup-grind/what-every-software-engineer-should-know-about-search-27d1df99f80d Tons of infos, details and tips about the "search" in general. The questions to ask yourself when you want to integrate it into your website/app. Every site has different needs, it's not just a matter of "we"ll add elasticsearch, done!"
