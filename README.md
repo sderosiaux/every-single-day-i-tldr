@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-04-2018
 
+- https://brianmckenna.org/blog/polymorphic_programming A generic and abstract language to generate the same functions but in any language?
 - https://github.com/promises-aplus/promises-spec/issues/94 Now, we know where the "Fantasy land" JavaScript library name comes from
 
 # 13-04-2018
