@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-04-2018
+
+- https://github.com/promises-aplus/promises-spec/issues/94 Now, we know where the "Fantasy land" JavaScript library name comes from
+
 # 13-04-2018
 
 - https://www.deconstructconf.com/2017/caitie-mccaffrey-the-path-towards-simplifying-consistency-in-distributed-systems An overview of the (complex) distributed systems evolution: what about simplifying and forgetting a bit this consistency thing?
