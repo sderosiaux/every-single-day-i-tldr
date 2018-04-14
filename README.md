@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-04-2018
 
+- http://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/ A sweet idea to deal with GDPR and Kafka/Event Sourcing. Encrypt user data, save the keys into a compacted topic. If need to erase the data: remove the key: data becomes garbages (can't decrypt).
 - https://brianmckenna.org/blog/constraints_are_for_methods Constraints are for methods, not data (ie: implicits on methods, not on the trait/class type parameters because some methods may no need it)
 - https://brianmckenna.org/blog/polymorphic_programming A generic and abstract language to generate the same functions but in any language?
 - https://github.com/promises-aplus/promises-spec/issues/94 Now, we know where the "Fantasy land" JavaScript library name comes from
