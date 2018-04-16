@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-04-2018
+
+- https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html Why JS's Promise sucks (it leaks memory on recursive calls). Very important when working in a FP mode where recursion is massively used..
+
 # 15-04-2018
 
 - https://www.ctheu.com/2018/04/12/an-ode-to-the-kind-projector-and-to-the-partial-unification-of-scala/ My own work this time: Scala's kind-projector and partial-unification demystified
