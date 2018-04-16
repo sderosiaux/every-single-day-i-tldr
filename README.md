@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-04-2018
 
+- http://blog.ploeh.dk/2018/04/16/endomorphic-composite-as-a-monoid/ Using Endo[A] to compose a list of endomorphisms A->A into single endomorphism
 - https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html Why JS's Promise sucks (it leaks memory on recursive calls). Very important when working in a FP mode where recursion is massively used..
 
 # 15-04-2018
