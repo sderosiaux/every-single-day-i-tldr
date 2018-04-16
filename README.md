@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-04-2018
 
+- https://medium.com/@hoffa/bigquery-beyond-sql-and-js-running-c-and-rust-code-at-scale-33021763ee1f A fix to the slowness of the previous article. 5B rows in 50s with a JS UDF, better. 
 - https://medium.com/@sourcedtech/calling-c-functions-from-bigquery-with-web-assembly-c19c023fc755 Calling C functions from BigQuery with Web Assembly
 - https://medium.com/@adirmashiach/hotspotting-in-hadoop-impala-case-study-6a8a613f14a1 Impala memory limit error on queries using small table due to data locality
 - https://medium.com/opentracing/the-difference-between-tracing-tracing-and-tracing-84b49b2d54ea Tracing is about multiple things: recording, describing (OpenTracing), analyzing/exposing (dashboards)
