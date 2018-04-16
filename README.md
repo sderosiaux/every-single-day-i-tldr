@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-04-2018
 
+- https://www.youtube.com/watch?v=Eihz7kqn6mU The hot talk: Scalaz 8 vs Akka actors
 - https://blog.algolia.com/building-real-time-analytics-apis/ Doing what's Druid do but using postgresql (distributed via Citus) and custom rollups
 - http://www.gamasutra.com/blogs/AvrahamSibon/20180410/316271/21_Million_Downloads_in_2_Months.php The why of the success story of the free game "Run Sausage, Run" (21 Million Downloads in 2 Months)
 - https://developer.atlassian.com/blog/2016/03/programming-with-algebra/ Thinking algebraic to test facts on our objects (scalacheck) and ensure laws
