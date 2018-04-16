@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-04-2018
 
+- http://blog.cloudera.com/blog/2017/08/implementing-temporal-graphs-with-apache-tinkerpop-and-hgraphdb/ Hbase as storage engine (as HGraphDB) for TinkerPop
 - https://medium.com/@Pinterest_Engineering/open-sourcing-doctorkafka-kafka-cluster-healing-and-workload-balancing-e51ad25b6b17 Open sourcing DoctorKafka: Kafka cluster healing and workload balancing
 - https://www.infoq.com/articles/vp-service-mesh Nice feedbacks from big companies representatives about service mesh
 - https://medium.com/@hoffa/bigquery-beyond-sql-and-js-running-c-and-rust-code-at-scale-33021763ee1f A fix to the slowness of the previous article. 5B rows in 50s with a JS UDF, better. 
