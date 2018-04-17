@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-04-2018
 
+- https://www.bleepingcomputer.com/news/government/russia-bans-18-million-amazon-and-google-ips-in-attempt-to-block-telegram/ Russia banned millions of ips from Amazon and GCP to block one app. -_-
 - https://newsroom.fb.com/news/2018/04/data-off-facebook/ "What Data Does Facebook Collect When I’m Not Using Facebook" Social plugins, analytics, ads!
 - https://github.com/uber/prototool "Your Swiss Army Knife for Protocol Buffers"
 - https://www.infoq.com/presentations/cloud-native-kafka-netflix At Netflix, scale and failover a Kafka Cluster by creating/destroying Kafka Clusters on the fly
