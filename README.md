@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-04-2018
 
+- https://www.infoq.com/articles/managing-data-microservices A large feedback about data independance managed by microservices; use events; sagas for "transactions".
 - https://dcgross.com/decide-what-to-build/ Realize you're thinking about a problem you could fix/simplify. Gather info from ppl (market). Tell friends. Start small. Release quickly. 
 - https://cloudplatform.googleblog.com/2018/04/introducing-kaniko-Build-container-images-in-Kubernetes-and-Google-Container-Builder-even-without-root-access.html Build Dockerfile images directly within k8s
 
