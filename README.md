@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-04-2018
 
+- https://newsroom.fb.com/news/2018/04/data-off-facebook/ "What Data Does Facebook Collect When I’m Not Using Facebook" Social plugins, analytics, ads!
 - https://github.com/uber/prototool "Your Swiss Army Knife for Protocol Buffers"
 - https://www.infoq.com/presentations/cloud-native-kafka-netflix At Netflix, scale and failover a Kafka Cluster by creating/destroying Kafka Clusters on the fly
 - https://www.infoq.com/articles/managing-data-microservices A large feedback about data independance managed by microservices; use events; sagas for "transactions".
