@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 17-04-2018
+
+- https://cloudplatform.googleblog.com/2018/04/introducing-kaniko-Build-container-images-in-Kubernetes-and-Google-Container-Builder-even-without-root-access.html Build Dockerfile images directly within k8s
+
 # 16-04-2018
 
 - http://yowconference.com.au/slides/yowwest2014/Morris-ParametricityTypesDocumentationCodeReadability.pdf Wonderful slideshow demonstrating that "FP à la Scala" has tons of caveats, and that type parametricity is a wonderful tool and documentation
