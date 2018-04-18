@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-04-2018
 
+- https://www.youtube.com/watch?v=7xSfLPD6tiQ Reading recursive data from database (using Doobie and recursion scheme)
 - https://medium.com/@olxc/catamorphisms-and-f-algebras-b4e91380d134 More on Catamorphisms
 - https://www.youtube.com/watch?v=I-5yvVp74Vk More recursion schemes: Going bananas with recursion schemes for fixed point data types
 - https://www.47deg.com/blog/basic-recursion-schemes-in-scala/ A very good introduction to Recursion Schemes: starting with hardcoded stuff, slowly making it generic.
