@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-04-2018
 
+- http://blog.christianposta.com/our-book-has-been-released-introducing-istio-service-mesh-for-microservices/ A fresh book about Istio!
 - https://github.com/fosskers/scalaz-and-cats#results Benchmarks between Scalaz and Cats updated with the new IO Bifunctor. (note: Haskell is so fast!)
 - https://www.reddit.com/r/haskell/comments/7ykrv3/xkcds_prediction_for_a_haskellrelated_cve_in_2018/dujbmid/?context=3 Discussion about referencial transparency in Haskell/Scala
 
