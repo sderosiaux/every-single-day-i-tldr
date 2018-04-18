@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-04-2018
+
+- https://www.reddit.com/r/haskell/comments/7ykrv3/xkcds_prediction_for_a_haskellrelated_cve_in_2018/dujbmid/?context=3 Discussion about referencial transparency in Haskell/Scala
+
 # 17-04-2018
 
 - https://www.bleepingcomputer.com/news/government/russia-bans-18-million-amazon-and-google-ips-in-attempt-to-block-telegram/ Russia banned millions of ips from Amazon and GCP to block one app. -_-
