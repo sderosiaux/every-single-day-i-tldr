@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-04-2018
 
+- https://www.infoq.com/presentations/java9-modules Live demo and explanations of how to migrate a spring+hibernate java 8 app to java 9 app, tons of caveats to deal with.
 - https://cloudplatform.googleblog.com/2018/04/Cloud-SQL-for-PostgreSQL-now-generally-available-and-ready-for-your-production-workloads.html CloudSQL backed by PostgreSQL is out of beta
 - https://www.youtube.com/watch?v=m663bWN8KkY A wonderful lib to work with Intervals (of anything) in Scala. Useful for calendar and time allocation logic.
 - https://medium.com/stashaway-engineering/running-a-modern-infrastructure-on-kubernetes-286ad6dab002 Presentation of the different parts needed to properly run a Kubernetes cluster (service discovery, dns, routing, monitoring, logging, deploying, ssl)
