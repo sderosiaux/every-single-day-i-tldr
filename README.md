@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-04-2018
+
+- https://medium.com/stashaway-engineering/running-a-modern-infrastructure-on-kubernetes-286ad6dab002 Presentation of the different parts needed to properly run a Kubernetes cluster (service discovery, dns, routing, monitoring, logging, deploying, ssl)
+
 # 18-04-2018
 
 - https://www.youtube.com/watch?v=7xSfLPD6tiQ Reading recursive data from database (using Doobie and recursion scheme)
