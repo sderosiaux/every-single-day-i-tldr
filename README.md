@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-04-2018
+
+- https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/ Update to the "chromatic number of the plane" problem: the answer is now 5 colors! (was 4 previously)
+
 # 19-04-2018
 
 - https://www.infoq.com/presentations/java9-modules Live demo and explanations of how to migrate a spring+hibernate java 8 app to java 9 app, tons of caveats to deal with.
