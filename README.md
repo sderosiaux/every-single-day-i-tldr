@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-04-2018
 
+- https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4 Using Amazon Athena (serverless db) to query S3 files to reduce costs (BigQuery can do it too); adding compression and caching to reduce costs again.
 - https://hackernoon.com/unethical-growth-hacks-a-look-into-the-growing-youtube-news-bot-epidemic-e1ef8c98b605 Youtube news videos automatically generated every few minutes, just to get revenue ahah, that exists.
 - http://www.scala-lang.org/blog/2018/04/19/scala-3.html Dotty will become Scala 3.0
 - http://americanexpress.io/eliminate-the-database-for-higher-availability/ The "No Database" strategy. Basically, horizontal scaling of in-memory stores (a service) taking their data from.. somewhere.
