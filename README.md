@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-04-2018
 
+- https://hackernoon.com/unethical-growth-hacks-a-look-into-the-growing-youtube-news-bot-epidemic-e1ef8c98b605 Youtube news videos automatically generated every few minutes, just to get revenue ahah, that exists.
 - http://www.scala-lang.org/blog/2018/04/19/scala-3.html Dotty will become Scala 3.0
 - http://americanexpress.io/eliminate-the-database-for-higher-availability/ The "No Database" strategy. Basically, horizontal scaling of in-memory stores (a service) taking their data from.. somewhere.
 - https://medium.com/google-cloud/bigquery-lazy-data-loading-ddl-dml-partitions-and-half-a-trillion-wikipedia-pageviews-cd3eacd657b6 Loading Wikipedia pageviews into a federated (external) table over csvs; a view to expose parsed lines; then creating a yearly partitioned table with the DDL; load data from the view into; query it!
