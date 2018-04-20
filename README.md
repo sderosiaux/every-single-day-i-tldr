@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-04-2018
 
+- https://www.breakdown-notes.com/makemap All the psychological biases we're dealing with :-(
 - https://github.com/apple/foundationdb Apple open-sourced FoundationDB: a (very great it seems according to HN) distributed transactional (external consistency) key-value store
 - https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/ Update to the "chromatic number of the plane" problem: the answer is now 5 colors! (was 4 previously)
 
