@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-04-2018
 
+- https://medium.com/google-cloud/bigquery-lazy-data-loading-ddl-dml-partitions-and-half-a-trillion-wikipedia-pageviews-cd3eacd657b6 Loading Wikipedia pageviews into a federated (external) table over csvs; a view to expose parsed lines; then creating a yearly partitioned table with the DDL; load data from the view into; query it!
 - https://www.breakdown-notes.com/makemap All the psychological biases we're dealing with :-(
 - https://github.com/apple/foundationdb Apple open-sourced FoundationDB: a (very great it seems according to HN) distributed transactional (external consistency) key-value store
 - https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/ Update to the "chromatic number of the plane" problem: the answer is now 5 colors! (was 4 previously)
