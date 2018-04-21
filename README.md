@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-04-2018
 
+- http://strategy-madlibs.herokuapp.com/ Business Strategy as a Service, randomly generated, and so real!
 - https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-how-and-why-to-build-small-container-images.html Using multi-build Dockerfile to largely reduce space of image (splitting build and run images); smaller containers also have a smaller attack surface.
 
 # 20-04-2018
