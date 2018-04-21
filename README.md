@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-04-2018
+
+- https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-how-and-why-to-build-small-container-images.html Using multi-build Dockerfile to largely reduce space of image (splitting build and run images); smaller containers also have a smaller attack surface.
+
 # 20-04-2018
 
 - https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4 Using Amazon Athena (serverless db) to query S3 files to reduce costs (BigQuery can do it too); adding compression and caching to reduce costs again.
