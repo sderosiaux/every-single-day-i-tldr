@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-04-2018
 
+- https://www.youtube.com/watch?v=_p9_Ut3caLA A truly wonderful talk about Sangria and mostly about GraphQL in general (pros and cons)
 - https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html Asynchronous Programming and Scala
 
 # 21-04-2018
