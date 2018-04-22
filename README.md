@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-04-2018
 
+- https://www.charlesproxy.com/ An alternative to fiddler, to monitor http(s) traffic on a machine (to debug)
 - https://www.youtube.com/watch?v=-4lB5EKS5Uk Nice talk about Freestyle lib in Scala (using Free & Tagless:) to separate concerns. A bit complex at the end for newcomers (running Frees in Frees).
 - https://www.youtube.com/watch?v=_p9_Ut3caLA A truly wonderful talk about Sangria and mostly about GraphQL in general (pros and cons)
 - https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html Asynchronous Programming and Scala
