@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-04-2018
+
+- https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html Asynchronous Programming and Scala
+
 # 21-04-2018
 
 - https://www.confluent.io/blog/apache-kafka-for-service-architectures/ A great article from July 2017 about Apache Kafka architecture
