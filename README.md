@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-04-2018
+
+- http://lampwww.epfl.ch/~doeraene/presentations/binary-compat-scala-sphere-2018 Designing libraries for source and binary compatibility can be hard
+
 # 22-04-2018
 
 - https://www.charlesproxy.com/ An alternative to fiddler, to monitor http(s) traffic on a machine (to debug)
