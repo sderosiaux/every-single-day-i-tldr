@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-04-2018
 
+- http://www.janvsmachine.net/2016/07/effective-typesafe-config.html How to deal properly with a (typesafe) config, naming, organization, units..
 - http://lampwww.epfl.ch/~doeraene/presentations/binary-compat-scala-sphere-2018 Designing libraries for source and binary compatibility can be hard
 
 # 22-04-2018
