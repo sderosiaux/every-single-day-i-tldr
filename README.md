@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-04-2018
 
+- https://www.oreilly.com/ideas/data-engineers-vs-data-scientists A post we could send to recruiters. Data engineers vs. Data scientists vs ML engineers.
 - http://www.lambdadays.org/static/upload/media/1520323372815660jarekratajskibeautyandthebeasthaskellonjvm.pdf Haskell on the JVM = Eta
 - https://ncatlab.org/nlab/show/category+theory A very good doc about category theory, its structures and theorems.
 - https://blog.ssanj.net/posts/2017-04-12-how-does-scalacheck-shrinking-work.html Property based testing shrinking explained. Unfortunately, doesn't talk about type vs integrated shrinking (which follows invariants).
