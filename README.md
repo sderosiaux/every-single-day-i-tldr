@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-04-2018
 
+- https://medium.com/videoamp/what-we-learned-migrating-off-cron-to-airflow-b391841a0da4 Yes, Cron should never be used to Data engineering production grade stuff.
 - https://medium.com/nikeengineering/becoming-a-nimble-giant-how-dynamo-db-serves-nike-at-scale-4cc375dbb18e Feedback from Nike using DynamoDB (how it works, partitioning strategy, need to deal with peaks, pre-scale when product launches etc.)
 - https://www.oreilly.com/ideas/data-engineers-vs-data-scientists A post we could send to recruiters. Data engineers vs. Data scientists vs ML engineers.
 - http://www.lambdadays.org/static/upload/media/1520323372815660jarekratajskibeautyandthebeasthaskellonjvm.pdf Haskell on the JVM = Eta
