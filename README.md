@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-04-2018
 
+- https://www.linkedin.com/pulse/mongodb-frankenstein-monster-nosql-databases-john-de-goes/ MongoDB issues
 - https://www.youtube.com/watch?v=4fFDFbi3toc They wrote a deterministic simulation (of network, disks, everything) to test and debug distributed systems. They had a lot of fun.
 - https://www.youtube.com/watch?v=Q1U6X1bYeuM Pick your frameworks/libraries: here an app using: http4s, fs2, cats-io, pureconfig, circe
 - https://medium.com/videoamp/what-we-learned-migrating-off-cron-to-airflow-b391841a0da4 Yes, Cron should never be used to Data engineering production grade stuff.
