@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-04-2018
 
+- https://www.youtube.com/watch?v=FBg7K6LKdVg macros: syntactif stuff, shapeless: structural stuff
 - https://www.youtube.com/watch?v=MDfeTNa6lBA Création d'instances de typeclasses automatique avec shapeless
 - https://www.youtube.com/watch?v=x1f7v0cI8VM case classes to/from maps using shapeless
 - https://www.linkedin.com/pulse/mongodb-frankenstein-monster-nosql-databases-john-de-goes/ MongoDB issues
