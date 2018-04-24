@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-04-2018
 
+- https://threadreaderapp.com/thread/987602838594445312.html Using SQL queries à la old school to reward or reengage customers. No need of ML to do that.
 - https://github.com/scalaz/scalaz/issues/1526 Scalaz 8 Roadmap: implement more and more category theory structures
 
 # 23-04-2018
