@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-04-2018
+
+- https://github.com/scalaz/scalaz/issues/1526 Scalaz 8 Roadmap: implement more and more category theory structures
+
 # 23-04-2018
 
 - http://www.janvsmachine.net/2016/07/effective-typesafe-config.html How to deal properly with a (typesafe) config, naming, organization, units..
