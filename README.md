@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-04-2018
 
+- https://www.youtube.com/watch?v=0vfFHMGESVQ Let's Talk About Invokedynamic
 - https://fpj.me/2017/07/04/no-consensus-in-exactly-once/ Consensus and exactly-once
 - https://medium.com/myheritage-engineering/kafka-to-bigquery-load-a-guide-for-streaming-billions-of-daily-events-cbbf31f4b737 Different strategies to send data from Kafka to BigQuery
 - http://philcalcado.com/2017/08/03/pattern_service_mesh.html Service Mesh explained
