@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-04-2018
 
+- https://dzone.com/articles/synchronous-or-asynchronous-and-why-wrestle-with-wrappers Synchronous and Asynchronous code, why, how
 - https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f Internet security at stake
 
 # 24-04-2018
