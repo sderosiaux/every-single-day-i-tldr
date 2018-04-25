@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-04-2018
 
+- https://fpj.me/2017/07/04/no-consensus-in-exactly-once/ Consensus and exactly-once
 - https://medium.com/myheritage-engineering/kafka-to-bigquery-load-a-guide-for-streaming-billions-of-daily-events-cbbf31f4b737 Different strategies to send data from Kafka to BigQuery
 - http://philcalcado.com/2017/08/03/pattern_service_mesh.html Service Mesh explained
 - http://philcalcado.com/2017/03/22/pattern_using_seudo-uris_with_microservices.html Thoughts about using urn-kind to globally identify a resource, ie: company:kind:id
