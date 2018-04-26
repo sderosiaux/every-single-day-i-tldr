@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-04-2018
 
+- https://www.infoq.com/presentations/linuxkit-agile-os unikernels, linuxkit, eBPF, where OS are going
 - https://cloudplatform.googleblog.com/2018/04/Accelerating-innovation-for-cloud-native-managed-databases.html Bigtable regional replication, Redis (Cloud Memorystore) as a managed service
 
 # 25-04-2018
