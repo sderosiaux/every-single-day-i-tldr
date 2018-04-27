@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 27-04-2018
+
+- https://cloudplatform.googleblog.com/2018/04/Introducing-Kubernetes-Catalog-and-GCP-Open-Service-Broker.html An addon to kubernetes on GCP to "find and connect services to your cloud-native apps". Not sure I understand the thing and the need.
+
 # 26-04-2018
 
 - https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/ Distributed cache using Akka Cluster on Kubernetes with StatefulSets
