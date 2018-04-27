@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-04-2018
 
+- http://tomasp.net/coeffects/ Coeffects and Comonad: Context-aware programming languages
 - https://thoughts.t37.net/designing-the-perfect-elasticsearch-cluster-the-almost-definitive-guide-e614eabc1a87 A nice guide about designing an elasticsearch cluster
 - https://www.infoq.com/news/2018/04/oracle-graalvm-v1 Interview from the Research Directory at Oracle Labs about GraalVM: why it exists, features, "concurrents", roadmap
 - https://github.com/lampepfl/dotty/issues/4389 A code fuzzer that blows up Dotty quite a lot.
