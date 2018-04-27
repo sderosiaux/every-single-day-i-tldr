@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-04-2018
 
+- https://github.com/lampepfl/dotty/issues/4389 A code fuzzer that blows up Dotty quite a lot.
 - https://cloud.google.com/kubernetes-engine/kubernetes-comic/ A gem: learn what is Kubernetes through a comic with the Goddess Athena.
 - https://cloudplatform.googleblog.com/2018/04/Introducing-Kubernetes-Catalog-and-GCP-Open-Service-Broker.html An addon to kubernetes on GCP to "find and connect services to your cloud-native apps". Not sure I understand the thing and the need.
 
