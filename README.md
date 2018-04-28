@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-04-2018
 
+- https://medium.com/neo4j/graph-visualization-with-neo4j-using-neovis-js-a2ecaaa7c379 Graph visualization with neo4j using neovis.js
 - https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html Organizing kubernetes with namespaces
 - https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/ Soon, a StackOverflow ISSUE_TEMPLATE for beginners
 
