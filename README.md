@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-04-2018
 
+- https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf NoSQL databases comparison (cassandra, couchbase, riak, mongodb, griddb)
 - https://downloads.ctfassets.net/oxjq45e8ilak/6eh2A72b4IyWsWOIcig4K0/cbb664566fe86672d92ddfb210623920/Chris_Thalinger_Twitter_s_quest_for_a_wholly_Graal_runtime.pdf Twitter and Graal in production, a long interesting story (since 2016) leading to cost saving (less cpu strain)
 - https://medium.com/neo4j/graph-visualization-with-neo4j-using-neovis-js-a2ecaaa7c379 Graph visualization with neo4j using neovis.js
 - https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html Organizing kubernetes with namespaces
