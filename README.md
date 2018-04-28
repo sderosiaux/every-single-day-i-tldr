@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-04-2018
+
+- https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/ Soon, a StackOverflow ISSUE_TEMPLATE for beginners
+
 # 27-04-2018
 
 - http://tomasp.net/coeffects/ Coeffects and Comonad: Context-aware programming languages
