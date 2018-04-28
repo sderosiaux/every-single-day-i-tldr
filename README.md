@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-04-2018
 
+- https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-4-12 A good and honest postmortem of a 22h outage on Fortnite, mostly centered around MongoDB
 - https://github.com/nhnent/tui.calendar A JavaScript calendar very similar to the Google Agenda's
 - https://www.youtube.com/watch?v=6nyGVgGEKdA Excellent talk presenting Optics
 - https://griddb.net/en/docs/NoSQL_Database_Architectural_Comparison.pdf NoSQL databases comparison (cassandra, couchbase, riak, mongodb, griddb)
