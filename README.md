@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-04-2018
 
+- https://www.youtube.com/watch?v=FnDHp3Qya6s JVM JIT for Dummies
 - https://www.youtube.com/watch?v=rPyqB1l4gko JVM Bytecode for Dummies (and the Rest of Us Too)
 - https://www.youtube.com/watch?v=_cltA0W-ehQ A Google talk from 2006 (!) about building large systems at Google (scalability, MR, bigtable, hardware)
 
