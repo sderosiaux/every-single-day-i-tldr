@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-04-2018
 
+- https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401 Graph Theory in practice
 - https://www.youtube.com/watch?v=s2ay9nEW3ak why do FP developers always talk about Algebras?
 - https://www.youtube.com/watch?v=FnDHp3Qya6s JVM JIT for Dummies
 - https://www.youtube.com/watch?v=rPyqB1l4gko JVM Bytecode for Dummies (and the Rest of Us Too)
