@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-04-2018
 
+- https://www.slideshare.net/jboner/scalability-availability-stability-patterns Long presentation about scalability, availability & stability patterns
 - https://www.youtube.com/watch?v=IOiZatlZtGU "Propositions as Types" by Philip Wadler. Links between theorem provers and programming languages.
 - https://www.youtube.com/watch?v=VCeHkcwfF9Q Shenandoah explained by Aleksey Shipilev
 - https://www.infoq.com/presentations/java-finserv Gil Tene, about JVM performance, hardware, JIT, optimizations
