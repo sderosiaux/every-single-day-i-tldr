@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-04-2018
 
+- https://www.youtube.com/watch?v=VCeHkcwfF9Q Shenandoah explained by Aleksey Shipilev
 - https://www.infoq.com/presentations/java-finserv Gil Tene, about JVM performance, hardware, JIT, optimizations
 - https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401 Graph Theory in practice
 - https://www.youtube.com/watch?v=s2ay9nEW3ak why do FP developers always talk about Algebras?
