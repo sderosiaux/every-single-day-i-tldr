@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-04-2018
+
+- https://www.youtube.com/watch?v=_cltA0W-ehQ A Google talk from 2006 (!) about building large systems at Google (scalability, MR, bigtable, hardware)
+
 # 28-04-2018
 
 - https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-4-12 A good and honest postmortem of a 22h outage on Fortnite, mostly centered around MongoDB
