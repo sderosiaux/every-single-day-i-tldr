@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-05-2018
+
+- http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/ I'm barely following the react scene nowaydays, and "Redux - Not Dead Yet!" Seems some FUD was spread.
+
 # 30-04-2018
 
 - https://dzone.com/articles/understanding-sunmiscunsafe Demystifying java's Unsafe
