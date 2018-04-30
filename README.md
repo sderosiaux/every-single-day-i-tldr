@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-04-2018
+
+- https://www.slideshare.net/tedmiston/momentum-dev-con-airflow-talk-final-version-pdf/tedmiston/momentum-dev-con-airflow-talk-final-version-pdf Modern Data Pipelines with Apache Airflow (Momentum Dev Con 2018)
+
 # 29-04-2018
 
 - https://www.slideshare.net/jboner/scalability-availability-stability-patterns Long presentation about scalability, availability & stability patterns
