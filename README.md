@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-04-2018
 
+- https://arstechnica.com/tech-policy/2018/04/france-seizes-france-com-from-man-whos-had-it-since-94-so-he-sues/ France seizes France.com from man who’s had it since ‘94, so he sues
 - https://github.com/scala/scala-collection-compat/ Already use Scala 2.13 Collection Compatibility in 2.12 ! 
 - https://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html In Java, every high performance app deals with memory allocation manually, creating a huge byte buffer, custom serde, and using Unsafe to play with it. 
 - https://srvaroa.github.io/java/jvm/unsafe/2016/08/28/sun-misc-cleaner.html Contention on Cleaner when creating tons of DirectByteBuffers
