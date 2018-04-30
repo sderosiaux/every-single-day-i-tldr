@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-04-2018
 
+- https://www.infoq.com/presentations/taking-back-swe Interesting talk about Software Engineering in general
 - https://github.com/airflow-plugins Tons of Airflow Plugins maintained by Astronomer, Inc
 - https://www.slideshare.net/tedmiston/momentum-dev-con-airflow-talk-final-version-pdf/tedmiston/momentum-dev-con-airflow-talk-final-version-pdf Modern Data Pipelines with Apache Airflow (Momentum Dev Con 2018)
 
