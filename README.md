@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-04-2018
 
+- https://srvaroa.github.io/java/jvm/unsafe/2016/08/28/sun-misc-cleaner.html Contention on Cleaner when creating tons of DirectByteBuffers
 - http://pveentjer.blogspot.fr/2017/01/final-static-boolean-jit.html Inlining depends on the original bytecode size, therefore JIT can have a surprising behavior
 - https://www.infoq.com/presentations/taking-back-swe Interesting talk about Software Engineering in general
 - https://github.com/airflow-plugins Tons of Airflow Plugins maintained by Astronomer, Inc
