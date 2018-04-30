@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2018
 
+- https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html Very cool features in React to suspend rendering and load anything async (+ display loaders if needed) data very cleanly
 - https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html Scala 3 macros update
 - http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/ I'm barely following the react scene nowaydays, and "Redux - Not Dead Yet!" Seems some FUD was spread.
 
