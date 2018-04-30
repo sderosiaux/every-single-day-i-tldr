@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2018
 
+- https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html Scala 3 macros update
 - http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/ I'm barely following the react scene nowaydays, and "Redux - Not Dead Yet!" Seems some FUD was spread.
 
 # 30-04-2018
