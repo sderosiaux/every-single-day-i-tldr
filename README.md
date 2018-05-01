@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2018
 
+- https://www.confluent.io/blog/introducing-confluent-platform-preview-releases/ a UI for KSQL (in Confluent Control Center), misc protections around deletion of kstreams, and more features, looks good
 - https://developers.google.com/web/updates/2018/05/bigint BigInt: arbitrary-precision integers in JavaScript
 - https://www.youtube.com/watch?v=V10hzjgoklA Category Theory by Philip Wadler
 - https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html Very cool features in React to suspend rendering and load anything async (+ display loaders if needed) data very cleanly
