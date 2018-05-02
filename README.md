@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-05-2018
 
+- https://news.ycombinator.com/item?id=16954306 A one-man startup shuts down because he can't assume GDPR regulations
 - https://spectrum.ieee.org/telecom/internet/your-guide-to-the-gdpr A clear guide to the GDPR
 - https://cloudplatform.googleblog.com/2018/05/regional-replication-for-cloud-bigtable.html Bigtable replications in multiple zones (same region)
 - https://github.com/cyanharlow/purecss-francine Come on, a portrait in pure css manually crafted. How on earth.
