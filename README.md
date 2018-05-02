@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-05-2018
 
+- https://cloudplatform.googleblog.com/2018/05/regional-replication-for-cloud-bigtable.html Bigtable replications in multiple zones (same region)
 - https://github.com/cyanharlow/purecss-francine Come on, a portrait in pure css manually crafted. How on earth.
 
 # 01-05-2018
