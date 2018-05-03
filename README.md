@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-05-2018
 
+- https://engineeringblog.yelp.com/2018/05/android-search-perf-improvements-part-1.html How Yelp improves its native app (less jank), because #perfmatters
 - https://akka.io/blog/news/2018/05/02/alpakka-team Alpakka has now its own team. EAI ftw.
 
 # 02-05-2018
