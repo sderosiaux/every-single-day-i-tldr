@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-05-2018
 
+- https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/ Confluent working on Kafka for Kubernetes
 - https://www.slideshare.net/jdegoes/scalaz-8-a-whole-new-game A damn good presentation about incoming Scalaz 8
 - https://medium.com/padlet-ink/an-honest-guide-to-the-san-francisco-startup-life-6df13d23689 Hialrious guide to San Francisco startup life
 - https://engineeringblog.yelp.com/2018/05/android-search-perf-improvements-part-1.html How Yelp improves its native app (less jank), because #perfmatters
