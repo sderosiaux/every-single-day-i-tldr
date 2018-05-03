@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-05-2018
+
+- https://akka.io/blog/news/2018/05/02/alpakka-team Alpakka has now its own team. EAI ftw.
+
 # 02-05-2018
 
 - https://news.ycombinator.com/item?id=16954306 A one-man startup shuts down because he can't assume GDPR regulations
