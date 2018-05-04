@@ -6,6 +6,12 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-05-2018
+
+Being on holidays in Norway :norway:, I won't post a lot of links during a few weeks.
+
+- https://medium.com/@mustafaakin/previewing-elasticsearch-6-3-sql-feature-2d3a1d60cab4 SQL in Elasticsearch, no more complex JSON language to memorize (i always forget it anyway).
+
 # 03-05-2018
 
 - https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/ Confluent working on Kafka for Kubernetes
