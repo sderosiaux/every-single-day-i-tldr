@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-05-2018
 
+- http://blog.leifbattermann.de/2017/04/21/12-things-you-should-know-about-event-sourcing/ A nice recap about ES
 - https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/ A kind of Airflow (ie: an ETL) dedicated to data processing
 - http://degoes.net/articles/effects-without-transformers Details about why MTL is a trade-off in Scala (large overhead), and even more when we want to get them stack-safe. Could be limited by using dedicated monads such as MonadState (instead of StateT), and IO of Scalaz8.
 - https://speakerdeck.com/dwestheide/the-essence-and-fundamentals-of-scala Scala for the newcomer
