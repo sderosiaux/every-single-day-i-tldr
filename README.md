@@ -6,6 +6,11 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-05-2018
+
+- https://speakerdeck.com/dwestheide/the-essence-and-fundamentals-of-scala Scala for the newcomer
+- https://slides.com/ivantopo/dtw/ A recent presentation of Kamon features. Soon, without AspectJ!
+
 # 04-05-2018
 
 Being on holidays in Norway :norway:, I won't post a lot of links during a few weeks.
