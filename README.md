@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-05-2018
 
+- https://www.slideshare.net/Odersky/preparing-for-scala-3 Updated slides about Scala 3 roadmap (very clear)
 - https://www.saastr.com/catfished-by-a-candidate/ A catfish candidate wouldn't appear in the code-tech industry!
 - https://github.com/chrissimpkins/Crunch Lossy PNG image optimization
 
