@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- http://degoes.net/articles/bifunctor-io Scalaz IO[E, A] distinguish between recoverable & non-recoverable errors, can represent IO that _won't_ fail (already .attempt for instance), make errors composition explicit, is a superset of the existing IO[A] so no need to worry about.
 - https://www.oreilly.com/ideas/how-will-the-gdpr-impact-machine-learning How will the GDPR impact machine learning?
 - https://medium.com/webpack/webpacks-new-cli-hotness-d6a2063168a8 I didn't used webpack in ages, but still nice to see its CLI getting very good!
 - https://www.youtube.com/watch?v=4tKSEKM64-c Ignition and Turbofan quickly explained in V8
