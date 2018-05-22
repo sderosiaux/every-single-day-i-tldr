@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- https://www.usenix.org/sites/default/files/conference/protected-files/srecon18americas_slides_brown.pdf How to prioritize and communicate risk (SRE)
 - https://cloudplatform.googleblog.com/2018/05/Defining-SLOs-for-services-with-dependencies-CRE-life-lessons.html Defining SLOs for services with dependencies
 - https://alexn.org/blog/2018/05/06/bifunctor-io.html An interesting critique of the Bifunctor IO leading to more harm than good (and especially not replacing the simple IO)
 - https://www.youtube.com/watch?v=nVcjaiTRgSY When a company is growing, it really needs to ensure it has a proper "design system" (a unique library of visual components and everything around to make it work with easily for everyone)
