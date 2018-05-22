@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- http://twicsy-blog.tumblr.com/post/174063770074/how-i-targeted-the-reddit-ceo-with-facebook-ads-to Using Facebook ads to target the Reddit CEO to make it read your own article, ahah
 - https://cloudplatform.googleblog.com/2018/05/Google-Kubernetes-Engine-1-10-is-generally-available-and-ready-for-the-enterprise.html GKE goes full scale: Regional PD and Regional Clusters (multi-masters)
 - https://medium.com/@sinisalouc/whats-new-in-scala-3-28d9c11eec30 A written recap of what's new in Scala 3
 
