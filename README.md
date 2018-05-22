@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-05-2018
+
+- https://medium.com/@sinisalouc/whats-new-in-scala-3-28d9c11eec30 A written recap of what's new in Scala 3
+
 # 21-05-2018 (back from :norway: :heart:)
 
 - http://eed3si9n.com/hot-source-dependencies-using-sbt-sriracha working with unpublished dependencies directy using the sources (to test newer scala version for instances)
