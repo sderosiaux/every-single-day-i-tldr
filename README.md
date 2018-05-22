@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- https://alexn.org/blog/2018/05/06/bifunctor-io.html An interesting critique of the Bifunctor IO leading to more harm than good (and especially not replacing the simple IO)
 - https://www.youtube.com/watch?v=nVcjaiTRgSY When a company is growing, it really needs to ensure it has a proper "design system" (a unique library of visual components and everything around to make it work with easily for everyone)
 - https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3 Zuul 2 is basically a Netty proxy where all traffic ins and outs. It adds monitoring, resiliency, debugging features, filtering, routing, and tons of smart behaviors for a huge-scale (canary testing, cold instances, anomaly detection.)
 - https://www.youtube.com/watch?v=ZmlQoeEycPc HTTPS is Dangerous: basically some troubles (certificate expiration, fakes) and probably some backdoors possible for SHA-breakage
