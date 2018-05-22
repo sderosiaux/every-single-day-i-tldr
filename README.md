@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- https://www.youtube.com/watch?v=ZmlQoeEycPc HTTPS is Dangerous: basically some troubles (certificate expiration, fakes) and probably some backdoors possible for SHA-breakage
 - https://www.youtube.com/watch?v=UD-ukjVoeLc Why URLs are troublesome (phishing, mis-identity, sharing non-understandable urls)
 - http://twicsy-blog.tumblr.com/post/174063770074/how-i-targeted-the-reddit-ceo-with-facebook-ads-to Using Facebook ads to target the Reddit CEO to make it read your own article, ahah
 - https://cloudplatform.googleblog.com/2018/05/Google-Kubernetes-Engine-1-10-is-generally-available-and-ready-for-the-enterprise.html GKE goes full scale: Regional PD and Regional Clusters (multi-masters)
