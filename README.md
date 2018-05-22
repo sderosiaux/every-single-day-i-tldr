@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- https://www.oreilly.com/ideas/how-will-the-gdpr-impact-machine-learning How will the GDPR impact machine learning?
 - https://medium.com/webpack/webpacks-new-cli-hotness-d6a2063168a8 I didn't used webpack in ages, but still nice to see its CLI getting very good!
 - https://www.youtube.com/watch?v=4tKSEKM64-c Ignition and Turbofan quickly explained in V8
 - https://www.youtube.com/watch?v=mIWCLOftfRw All modern JS features in Chrome (modules, bigint, regexes, for await, string functions, finally, spread, private class fields))
