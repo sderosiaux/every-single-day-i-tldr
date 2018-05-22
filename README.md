@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- https://medium.com/webpack/webpacks-new-cli-hotness-d6a2063168a8 I didn't used webpack in ages, but still nice to see its CLI getting very good!
 - https://www.youtube.com/watch?v=4tKSEKM64-c Ignition and Turbofan quickly explained in V8
 - https://www.youtube.com/watch?v=mIWCLOftfRw All modern JS features in Chrome (modules, bigint, regexes, for await, string functions, finally, spread, private class fields))
 - https://www.percona.com/blog/2018/04/30/a-look-at-myrocks-performance/ MyRocks, a write-optimized engine (forked from RocksDB) is a better fit where cpu and io are more constrained/costly (ie: cloud) (InnoDB consuming more of them); and has a better throughput for smaller datasets
