@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- https://www.percona.com/blog/2018/04/30/a-look-at-myrocks-performance/ MyRocks, a write-optimized engine (forked from RocksDB) is a better fit where cpu and io are more constrained/costly (ie: cloud) (InnoDB consuming more of them); and has a better throughput for smaller datasets
 - https://github.com/bodil/spectre-of-free-software/blob/master/script.org We can't allow knowledge to be lost, that's what free software and open source is all about
 - https://medium.com/@corychaplin/genesis-of-m6s-datalake-edf2524b7d67 I feel sad to see a new big stack emerging on a classic old scheme: hosted hadoop, puppet, hive, sqoop. The thing we escaped in my previous company because it was too time-consuming for nothing.
 - https://www.usenix.org/sites/default/files/conference/protected-files/srecon18americas_slides_brown.pdf How to prioritize and communicate risk (SRE)
