@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-05-2018
 
+- https://medium.com/@corychaplin/genesis-of-m6s-datalake-edf2524b7d67 I feel sad to see a new big stack emerging on a classic old scheme: hosted hadoop, puppet, hive, sqoop. The thing we escaped in my previous company because it was too time-consuming for nothing.
 - https://www.usenix.org/sites/default/files/conference/protected-files/srecon18americas_slides_brown.pdf How to prioritize and communicate risk (SRE)
 - https://cloudplatform.googleblog.com/2018/05/Defining-SLOs-for-services-with-dependencies-CRE-life-lessons.html Defining SLOs for services with dependencies
 - https://alexn.org/blog/2018/05/06/bifunctor-io.html An interesting critique of the Bifunctor IO leading to more harm than good (and especially not replacing the simple IO)
