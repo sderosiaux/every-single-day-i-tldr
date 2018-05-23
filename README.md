@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- http://www.thedevpiece.com/alpakka-akka-streams-vs-apache-camel-who-wins/ Clearly Akka Streams. Camel is awesome because it has tons of connectors, but the "type all with strings" is a big no.
 - https://github.com/opentracing-contrib/scala-concurrent OpenTracing instrumentation for Scala's Futures
 - https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4 prepack doesn't transform the input code, it executes it and write back the "leftover"/effectful code
 - https://blog.npmjs.org/post/173719309445/npm-audit-identify-and-fix-insecure "npm audit" is a really great tool to identify and fix insecure dependencies, to not be unsecured yourself
