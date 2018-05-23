@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/ Another explanation of Kafka Consumer Groups, used for scalability
 - https://github.com/monix/monix/pull/670 Task gets smarter about forking and async boundaries
 - https://cloudplatform.googleblog.com/2018/05/Using-Jenkins-on-Google-Compute-Engine-for-distributed-builds.html Google has developed the Jenkins GCE plugin to use it for slaves (and could preempt)
 - https://www.infoq.com/articles/data-leakage-hindsight-bias-machine-learning Demystifying Hindsight Bias in ML
