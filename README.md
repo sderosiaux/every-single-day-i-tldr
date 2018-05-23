@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://queue.acm.org/detail.cfm?id=3220266 A very good overview of btrees/lsmtrees/ssts
 - https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224 An Event Sourcing implementation
 - https://streaml.io/blog/pulsar-message-queue/ Pulsar = Kafka + RabbitMQ (backed by BookKeeper)
 - https://www.quora.com/What-is-the-most-sophisticated-piece-of-software-code-ever-written/answer/John-Byrd-2 is it a computer worm finding its way to uranium centrifuges to mess with them? (stuxnet)
