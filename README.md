@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://cloudplatform.googleblog.com/2018/05/Introducing-Cloud-Memorystore-A-fully-managed-in-memory-data-store-service-for-Redis.html Cloud Memorystore, backed by Redis
 - https://cloudplatform.googleblog.com/2018/05/SRE-vs-DevOps-competing-standards-or-close-friends.html SRE jobs: SRE implements DevOps, helps defining SLI/SLO/SLA, risk and error budgets
 - http://www.thedevpiece.com/alpakka-akka-streams-vs-apache-camel-who-wins/ Clearly Akka Streams. Camel is awesome because it has tons of connectors, but the "type all with strings" is a big no.
 - https://github.com/opentracing-contrib/scala-concurrent OpenTracing instrumentation for Scala's Futures
