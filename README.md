@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://cloudplatform.googleblog.com/2018/05/Three-steps-to-prepare-your-users-for-cloud-data-migration.html How to prepare your users for cloud data migration
 - https://sematext.com/blog/opentracing-jaeger-as-distributed-tracer/ Presenting Jaeger as Distributed Tracer (and soon, vs Zipkin)
 - http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/ Another explanation of Kafka Consumer Groups, used for scalability
 - https://github.com/monix/monix/pull/670 Task gets smarter about forking and async boundaries
