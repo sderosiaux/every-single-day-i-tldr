@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://techblog.bozho.net/gdpr-practical-guide-developers/ GDPR - A (very good) Practical Guide For Developers
 - https://jacquesmattheij.com/gdpr-hysteria GDPR myths busting
 - https://queue.acm.org/detail.cfm?id=3220266 A very good overview of btrees/lsmtrees/ssts
 - https://kickstarter.engineering/event-sourcing-made-simple-4a2625113224 An Event Sourcing implementation
