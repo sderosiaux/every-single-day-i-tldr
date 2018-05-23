@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-05-2018
+
+- https://github.com/olistic/warriorjs A programming game where your warrior has feeling
+
 # 22-05-2018
 
 - http://degoes.net/articles/bifunctor-io Scalaz IO[E, A] distinguish between recoverable & non-recoverable errors, can represent IO that _won't_ fail (already .attempt for instance), make errors composition explicit, is a superset of the existing IO[A] so no need to worry about.
