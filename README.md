@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html git new protocol, to reduce bandwidth usage for huge projects (tons of branches and tags)
 - https://techblog.bozho.net/gdpr-practical-guide-developers/ GDPR - A (very good) Practical Guide For Developers
 - https://jacquesmattheij.com/gdpr-hysteria GDPR myths busting
 - https://queue.acm.org/detail.cfm?id=3220266 A very good overview of btrees/lsmtrees/ssts
