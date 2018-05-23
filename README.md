@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://streaml.io/blog/pulsar-message-queue/ Pulsar = Kafka + RabbitMQ (backed by BookKeeper)
 - https://www.quora.com/What-is-the-most-sophisticated-piece-of-software-code-ever-written/answer/John-Byrd-2 is it a computer worm finding its way to uranium centrifuges to mess with them? (stuxnet)
 - http://blogs.harvard.edu/doc/2018/05/12/gdpr/ will GDPR pop the adtech bubble?
 - https://www.infoq.com/news/2018/05/gvisor-container-sandbox gVisor, another layer between an app in a container and the kernel. Implements a OCI runtime; intercepts and deals with system calls itself; made to reduce the surface attack.
