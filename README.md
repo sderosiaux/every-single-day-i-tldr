@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://www.infoq.com/news/2018/05/gvisor-container-sandbox gVisor, another layer between an app in a container and the kernel. Implements a OCI runtime; intercepts and deals with system calls itself; made to reduce the surface attack.
 - https://cloudplatform.googleblog.com/2018/05/Three-steps-to-prepare-your-users-for-cloud-data-migration.html How to prepare your users for cloud data migration
 - https://sematext.com/blog/opentracing-jaeger-as-distributed-tracer/ Presenting Jaeger as Distributed Tracer (and soon, vs Zipkin)
 - http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/ Another explanation of Kafka Consumer Groups, used for scalability
