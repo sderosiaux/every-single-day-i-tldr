@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://github.com/monix/monix/pull/670 Task gets smarter about forking and async boundaries
 - https://cloudplatform.googleblog.com/2018/05/Using-Jenkins-on-Google-Compute-Engine-for-distributed-builds.html Google has developed the Jenkins GCE plugin to use it for slaves (and could preempt)
 - https://www.infoq.com/articles/data-leakage-hindsight-bias-machine-learning Demystifying Hindsight Bias in ML
 - https://cloudplatform.googleblog.com/2018/05/Introducing-Cloud-Memorystore-A-fully-managed-in-memory-data-store-service-for-Redis.html Cloud Memorystore, backed by Redis
