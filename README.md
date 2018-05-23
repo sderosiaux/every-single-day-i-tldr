@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://cloudplatform.googleblog.com/2018/05/SRE-vs-DevOps-competing-standards-or-close-friends.html SRE jobs: SRE implements DevOps, helps defining SLI/SLO/SLA, risk and error budgets
 - http://www.thedevpiece.com/alpakka-akka-streams-vs-apache-camel-who-wins/ Clearly Akka Streams. Camel is awesome because it has tons of connectors, but the "type all with strings" is a big no.
 - https://github.com/opentracing-contrib/scala-concurrent OpenTracing instrumentation for Scala's Futures
 - https://gist.github.com/gaearon/d85dccba72b809f56a9553972e5c33c4 prepack doesn't transform the input code, it executes it and write back the "leftover"/effectful code
