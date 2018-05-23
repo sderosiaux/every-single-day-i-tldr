@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-05-2018
 
+- https://blog.npmjs.org/post/173719309445/npm-audit-identify-and-fix-insecure "npm audit" is a really great tool to identify and fix insecure dependencies, to not be unsecured yourself
 - https://www.reddit.com/r/tifu/comments/8kvias/tifu_by_getting_google_to_ban_our_entire_company/ "Getting Google to ban our entire company"
 - https://threadreaderapp.com/thread/998660806005768192.html @Suhail providing insights about becaming CEO
 - https://github.com/olistic/warriorjs A programming game where your warrior has feeling
