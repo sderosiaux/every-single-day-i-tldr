@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-05-2018
 
+- https://medium.com/containerum/how-to-setup-ci-cd-workflow-for-node-js-apps-with-jenkins-and-kubernetes-360fd0499556 How to setup CI/CD workflow for Node.js apps with Jenkins and Kubernetes
 - https://blog.playframework.com/play-on-graal/ Running Play on GraalVM gives better perfs (probably because of a better escape analysis)
 - https://www.youtube.com/watch?v=Pgo73GfHk0U Where State Monads comes from
 - https://www.youtube.com/watch?v=GzbravzRrBM react-navigation in demo, very great to develop react-native apps
