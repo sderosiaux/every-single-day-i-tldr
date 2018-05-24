@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-05-2018
 
+- https://www.youtube.com/watch?v=GzbravzRrBM react-navigation in demo, very great to develop react-native apps
 - https://www.slideshare.net/LukaJacobowitz/oh-all-the-things-youll-traverse Monoidal, Semigroupal, Traversable, all those things
 - http://appddeevvmeanderings.blogspot.fr/2018/05/cats-effect-and-webservice-composition.html Working with IOs/Option[T]/Validated as any classic webservices
 - http://www.geekabyte.io/2018/05/thoughts-on-dealing-with-having-another.html Monads in Future leads to crappy code, lifting everything into Futures, or monad transformers.
