@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-05-2018
 
+- http://www.geekabyte.io/2018/05/thoughts-on-dealing-with-having-another.html Monads in Future leads to crappy code, lifting everything into Futures, or monad transformers.
 - https://cloudplatform.googleblog.com/2018/05/Sharding-of-timestamp-ordered-data-in-Cloud-Spanner.html It suggests to add a new column "ShardedEntryId" used in an index to avoid index hotspots
 - https://www.slideshare.net/ItamarRavid/a-fistful-of-functors Variations of the functors (cov, contra, inv, pro)
 - https://speakerdeck.com/alexandru/cancelable-io Cancelable IO in cats-effect
