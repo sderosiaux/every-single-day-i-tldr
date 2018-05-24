@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-05-2018
+
+- https://cloudplatform.googleblog.com/2018/05/Better-cost-control-with-Google-Cloud-Billing-programmatic-notifications.html on GCP, budget now generates proper events we can react to (pubsub'ed)
+
 # 23-05-2018
 
 - https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html git new protocol, to reduce bandwidth usage for huge projects (tons of branches and tags)
