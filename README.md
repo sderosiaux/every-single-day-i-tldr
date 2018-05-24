@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-05-2018
 
+- https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html Sweet exploration of Tagless Final with fs2.Stream
 - https://github.com/scodec/scodec Working with binary data in Scala
 - https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80 Cool gist about tagless final vs initial encoding; and extensibility/transformations
 - https://medium.com/containerum/how-to-setup-ci-cd-workflow-for-node-js-apps-with-jenkins-and-kubernetes-360fd0499556 How to setup CI/CD workflow for Node.js apps with Jenkins and Kubernetes
