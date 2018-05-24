@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-05-2018
 
+- http://blog.leifbattermann.de/2017/04/21/12-things-you-should-know-about-event-sourcing/ How to do Event Sourcing
 - https://blog.softwaremill.com/scalar-2018-whiteboard-voting-results-c6f50f8fb16d Scalar 2018 whiteboard voting results, to know with what the community is working with, see if you're not far away
 - https://cloudplatform.googleblog.com/2018/05/Better-cost-control-with-Google-Cloud-Billing-programmatic-notifications.html on GCP, budget now generates proper events we can react to (pubsub'ed)
 
