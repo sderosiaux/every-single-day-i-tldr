@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-05-2018
 
+- https://thenewstack.io/gatsbyjs-the-open-source-react-based-ssg-creates-company-to-evolve-cloud-native-website-builds/ Gatsby is now a startup
 - https://www.youtube.com/watch?v=uZnHMhtMEbo "Implementation" of actors Actors using Cats Effect and FS2
 - http://blog.rekawek.eu/2017/02/09/coffee-gb/ Implementing a Gameboy emulator is the new Todo list, err, HN tutorial.
 
