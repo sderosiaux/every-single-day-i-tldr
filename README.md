@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-05-2018
+
+- https://apility.io/2018/05/25/gdpr-lazy-block-european-users-cloudflare-workers/ Block all European users. \o/
+
 # 25-05-2018
 
 - https://medium.com/@joang/a-cqrs-approach-with-kafka-streams-and-scala-49bfa78e4295 Simple API + CQRS using Kafka Streams
