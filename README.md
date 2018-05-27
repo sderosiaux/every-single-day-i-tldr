@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 27-05-2018
+
+- https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ The Importance of Deep Work & The 30-Hour Method for Learning a New Skill
+
 # 26-05-2018
 
 - https://eng.uber.com/deckgl-v5/ deck.gl v5: react-independant!
