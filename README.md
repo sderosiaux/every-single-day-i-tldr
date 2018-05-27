@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-05-2018
 
+- https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-mapping-external-services.html Access to an external resource from k8s: service without selector + endpoint, or ExternalName service to act as cname
 - https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ The Importance of Deep Work & The 30-Hour Method for Learning a New Skill
 
 # 26-05-2018
