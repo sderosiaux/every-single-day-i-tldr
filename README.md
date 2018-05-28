@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-05-2018
 
+- https://powerdns.org/hello-dns/ Guide to how DNS works
 - https://stripe.com/atlas/guides/saas-pricing Tons a case studies about pricing page
 - https://stripe.com/atlas/guides/business-of-saas Guide to SaaS, tons of infos and tips
 - https://www.infoq.com/presentations/lambda-streams-delta Feedback from monolith to event sourced arch, Kinesis issues compared to Kafka
