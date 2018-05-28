@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-05-2018
 
+- https://stripe.com/atlas/guides/business-of-saas Guide to SaaS, tons of infos and tips
 - https://www.infoq.com/presentations/lambda-streams-delta Feedback from monolith to event sourced arch, Kinesis issues compared to Kafka
 - https://www.infoq.com/presentations/crdt-distributed-consistency Talk by Martin Kelppmann about CRDTs guaranteeing convergence
 - https://www.infoq.com/presentations/async-event-arch Talk about 2 approaches to event-based arh. One with kafka decoupling, the other with ActiveMQ and actors
