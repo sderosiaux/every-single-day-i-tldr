@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-05-2018
 
+- https://www.infoq.com/presentations/crdt-distributed-consistency Talk by Martin Kelppmann about CRDTs guaranteeing convergence
 - https://www.infoq.com/presentations/async-event-arch Talk about 2 approaches to event-based arh. One with kafka decoupling, the other with ActiveMQ and actors
 - https://medium.com/@tshiran_81544/google-docs-for-all-data-sources-an-approach-using-open-source-tools-26278a2fb86c Dremio connects to any datasource and offers exploration and analytics tools
 - https://blog.acolyer.org/2018/05/23/pixie-a-system-for-recommending-3-billion-items-to-200-million-users-in-real-time/ How Pinterest recommends stuff to users in real-time (random walks taking bias, boosting, eartly stopping (realtime), into account)
