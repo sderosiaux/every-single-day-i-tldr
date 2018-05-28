@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-05-2018
+
+- https://speakerdeck.com/paf31/the-future-is-comonadic Comonads for user interfaces
+
 # 27-05-2018
 
 - https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-mapping-external-services.html Access to an external resource from k8s: service without selector + endpoint, or ExternalName service to act as cname
