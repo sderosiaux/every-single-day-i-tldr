@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-05-2018
 
+- http://chrisseaton.com/truffleruby/jokerconf17/ Graal is a masterpiece. A Java JIT, an AOT compiler (SubstrateVM), and with Truffle, a framework to get polyglottism on top of the JVM
 - http://eed3si9n.com/power-assert-with-expecty Expecty or exactly know why an assertion failed
 - https://powerdns.org/hello-dns/ Guide to how DNS works
 - https://stripe.com/atlas/guides/saas-pricing Tons a case studies about pricing page
