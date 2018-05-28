@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-05-2018
 
+- https://pgdash.io/blog/partition-postgres-11.html Finally, with the tons of improvements they did, the partitions in pg11 look useful!
 - https://speakerdeck.com/paf31/the-future-is-comonadic Comonads for user interfaces
 
 # 27-05-2018
