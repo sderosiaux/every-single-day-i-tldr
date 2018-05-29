@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-05-2018
 
+- http://joeduffyblog.com/2013/02/17/software-leadership-series/ Superb series about Software Leadership, a must-read
 - http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/ I've started with QBasic too, wonderful memories <3
 
 # 28-05-2018
