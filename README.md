@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-05-2018
+
+- http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/ I've started with QBasic too, wonderful memories <3
+
 # 28-05-2018
 
 - http://joeduffyblog.com/2015/11/03/blogging-about-midori/ HUGE amazing feedbacks about several parts of Midori, a (discontinued) project from Microsoft. From capabilities, asynchronous model, error model, concurrency, why, how etc. 
