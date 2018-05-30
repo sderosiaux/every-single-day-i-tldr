@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-05-2018
 
+- https://warpspire.com/posts/work-life-balance "How many hours you work" is not a useful metric
 - https://www.devmynd.com/blog/five-factor-testing/ Why write tests
 - https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439 Of the usage of UUIDs as PK
 - https://www.slideshare.net/julienledem/improving-python-and-spark-performance-and-interoperability-with-apache-arrow Arrow, or Parquet in-memory, as a standard in-memory columnar structure
