@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-05-2018
 
+- https://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/ Reduce customer pain, reduce lead time, estimates are useless, make developer feel the customer pain, have a tigh feedback loop
 - https://warpspire.com/posts/work-life-balance "How many hours you work" is not a useful metric
 - https://www.devmynd.com/blog/five-factor-testing/ Why write tests
 - https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439 Of the usage of UUIDs as PK
