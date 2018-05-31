@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-05-2018
 
+- https://www.youtube.com/watch?v=LhGq4HlozV4 What lead to the Eff monad, how to build and interpret it
 - https://www.infoq.com/presentations/ml-models-ab-tests Presentation and how to write SparkML pipelines to do ML
 - https://probablydance.com/2018/05/28/a-new-fast-hash-table-in-response-to-googles-new-fast-hash-table/ Designing fast hash table is an art
 - https://zachholman.com/talk/utc-is-enough-for-everyone-right Talking about history, timezones, UTC is always a fun story
