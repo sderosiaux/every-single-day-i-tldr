@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-05-2018
 
+- https://japgolly.blogspot.com/2017/06/dependently-typed-functions.html Dealing with dependently-typed functions
 - https://underscore.io/blog/posts/2017/06/02/uniting-church-and-state.html Monad is the church-encoding of Free (and Free is its reification)
 - https://www.youtube.com/watch?v=aKUQUIHRGec Writing Free from scratch
 - https://www.youtube.com/watch?v=LhGq4HlozV4 What lead to the Eff monad, how to build and interpret it
