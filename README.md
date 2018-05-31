@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-05-2018
 
+- https://cloudplatform.googleblog.com/2018/05/Cloud-Source-Repositories-more-than-just-a-private-Git-repository.html Cloud Source Repositories features: git (ofc), trigger auto-build (container, appengine), integrated with stackdriver debug
 - https://github.com/yandex/odyssey Another PostgreSQL connection pooler
 
 # 30-05-2018
