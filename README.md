@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-05-2018
 
+- https://www.w3.org/TR/websub/ WebSub, a new standard to deal with HTTP web hooks
 - http://shoutcloud.io/ SHOUTCLOUD: THE CLOUD THAT SHOUTS BACK
 - https://japgolly.blogspot.com/2017/06/dependently-typed-functions.html Dealing with dependently-typed functions
 - https://underscore.io/blog/posts/2017/06/02/uniting-church-and-state.html Monad is the church-encoding of Free (and Free is its reification)
