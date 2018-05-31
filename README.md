@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 31-05-2018
+
+- https://github.com/yandex/odyssey Another PostgreSQL connection pooler
+
 # 30-05-2018
 
 - https://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/ Reduce customer pain, reduce lead time, estimates are useless, make developer feel the customer pain, have a tigh feedback loop
