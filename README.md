@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-06-2018
 
+- https://www.useronboard.com/how-duolingo-onboards-new-users/ Duolingo onboarding
 - https://redis.io/topics/streams-intro Redis Streams: a concept similar to Kafka topics with consumers groups
 - https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91 Design for Non-Designers: reduce clutter, pick complementary colors, add whitespaces
 - http://www.goodweb.design/ The "best" landing pages, to help you
