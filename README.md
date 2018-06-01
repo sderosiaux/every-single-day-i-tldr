@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-06-2018
 
+- https://sake92.github.io/hepek/index.html A Scala static website generator
 - https://www.wrike.com/ A project management/kanban/gantt/etc. tools for your business
 
 # 31-05-2018
