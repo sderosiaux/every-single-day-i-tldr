@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-06-2018
 
+- https://speakerdeck.com/zoontek/manage-microservices-like-a-chef Manage microservices like a Chef: API Gateway, gRPC, GraphQL <3
 - https://functional.works-hub.com/learn/implicit-implications-part-3-the-future-is-functional-implicitly-c410c Implicit functions in-depth, and comparison with ReaderT usages
 - https://sake92.github.io/hepek/index.html A Scala static website generator
 - https://www.wrike.com/ A project management/kanban/gantt/etc. tools for your business
