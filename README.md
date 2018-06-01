@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-06-2018
 
+- https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91 Design for Non-Designers: reduce clutter, pick complementary colors, add whitespaces
 - http://www.goodweb.design/ The "best" landing pages, to help you
 - https://www.julian.com/guide/growth/landing-pages Magistral guide about landing pages writing & optimization
 - https://speakerdeck.com/zoontek/manage-microservices-like-a-chef Manage microservices like a Chef: API Gateway, gRPC, GraphQL <3
