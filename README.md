@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-06-2018
+
+- https://www.wrike.com/ A project management/kanban/gantt/etc. tools for your business
+
 # 31-05-2018
 
 - https://www.w3.org/TR/websub/ WebSub, a new standard to deal with HTTP web hooks
