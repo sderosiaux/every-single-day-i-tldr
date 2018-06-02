@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-06-2018
+
+- https://threadreaderapp.com/thread/1002103360646823936.html "How to Get Rich (without getting lucky)" AH! :)
+
 # 01-06-2018
 
 - http://www.mikaelmayer.com/2018/05/23/migrating-makefile-to-mill/ Migrating Makefile to Mill. Not convinced.
