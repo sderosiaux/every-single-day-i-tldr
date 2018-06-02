@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-06-2018
 
+- https://copyhackers.com/2017/09/cold-emails A story about cold emails
 - https://cloudplatform.googleblog.com/2018/06/Kubernetes-best-practices-upgrading-your-clusters-with-zero-downtime.html k8s upgrade: either do a rolling upgrade, or create a node pools and migrate yourself
 - https://threadreaderapp.com/thread/1002103360646823936.html "How to Get Rich (without getting lucky)" AH! :)
 
