@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-06-2018
 
+- https://www.julian.com/blog/what-you-should-do-with-your-life Assess your life: What you should do with your life
 - https://www.youtube.com/watch?v=jwG_qR6XmDQ Jeff Bezos about minimizing regrets: try or you'll always regret it
 - https://trac.torproject.org/projects/tor/wiki/org/meetings/2018Rome/Notes/FusionProject Merging Tor and Firefox, to avoid managing Tor's fork.
 
