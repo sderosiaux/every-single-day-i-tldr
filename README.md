@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-06-2018
+
+- https://trac.torproject.org/projects/tor/wiki/org/meetings/2018Rome/Notes/FusionProject Merging Tor and Firefox, to avoid managing Tor's fork.
+
 # 02-06-2018
 
 - https://gist.github.com/gvolpe/d4facceedf12ab7870934cbf9d6174e9 Shared state in fp, flatmap once and pass the ref!
