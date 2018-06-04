@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-06-2018
 
+- https://blog.jooq.org/2017/05/03/dont-use-the-string-concatenation-trick-in-sql-predicates/ TIL about "row constructors" in SQL: `where (a, b) in (select a, b from toto)`
 - https://jethro.io/hadoop-deployment-cheat-sheet/ This Hadoop Deployment Cheat Sheet brings memories!
 - https://monitor.gitlab.net/dashboard/db/github-importer?orgId=1 Lots of Github are migrating to GitLab. The graphs don't lie.
 - https://github.com/trueadm/ssr-with-prepack-hackathon Totally removing ReactJS source from the output using prepack (SSR)
