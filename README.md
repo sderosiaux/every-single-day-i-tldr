@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-06-2018
 
+- https://dev-blog.apollodata.com/graphql-over-rest-with-node-heroku-and-apollo-engine-fb8581f8d77f GraphQL over REST with Node, Heroku, and Apollo Engine
 - https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4 Medium is migrating to... *drum rolls* ReactJS and GraphQL.
 
 # 03-06-2018
