@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-06-2018
+
+- https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4 Medium is migrating to... *drum rolls* ReactJS and GraphQL.
+
 # 03-06-2018
 
 - https://www.youtube.com/watch?v=BT9hUusNKQ8 SaaS focus too much on customer acquisition; features cost less and less (because we have more and more SaaS, easier to build nowadays)
