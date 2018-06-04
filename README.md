@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-06-2018
 
+- https://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/ Basically, don't forget to add a connection pooler to your redis.
 - http://www.vertabelo.com/blog Tons of SQL modeling, from dating app, to restaurant delivery, to santa's!
 - https://blog.outlyer.com/top10-open-source-time-series-databases An "old" (2016) top 10 Time Series Databases with pros and cons.
 - https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/ Interesting debugging session with PostgreSQL and some joined tables. Solution was index (ofc), but quite subtle.
