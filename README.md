@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-06-2018
 
+- https://blog.insightdatascience.com/anatomy-of-an-elasticsearch-cluster-part-i-7ac9a13b05db Some insights about Elasticsearch internals
 - https://medium.com/google-cloud/paying-it-forward-how-bigquerys-data-ingest-breaks-tech-norms-8bfe2341f5eb About BigQuery's free ingestion model
 - https://blog.jooq.org/2017/05/03/dont-use-the-string-concatenation-trick-in-sql-predicates/ TIL about "row constructors" in SQL: `where (a, b) in (select a, b from toto)`
 - https://jethro.io/hadoop-deployment-cheat-sheet/ This Hadoop Deployment Cheat Sheet brings memories!
