@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-06-2018
 
+- https://www.indiehackers.com/@vbordo/from-failed-launch-to-going-viral-on-hacker-news-bdd734e742 If Show HN doesn't work the first time, try again
 - https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing Pool sizing performances
 
 # 04-06-2018
