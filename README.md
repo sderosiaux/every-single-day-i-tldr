@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-06-2018
 
+- https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life The steps to create a startup, from the name, to the validation, to the ppl, to the money
 - https://producthabits.com/how-to-design-a-sticky-product-experience/ How to Design a Sticky Product Experience—"In SaaS, your stickiest features won’t necessarily be the ones that are used the most often"
 - https://medium.com/tradecraft-traction/10-ways-to-use-trello-for-product-management-db520b95dd9d Ways to use Trello. I like the retrospective/paint points/grouping usage.
 - https://www.scala-lang.org/blog/2018/06/04/scalac-profiling.html scalac-profiling, a new tool to understand why compilation is slow (ie: macros and implicits resolution, ie2: shapeless)
