@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-06-2018
 
+- https://medium.com/@urish/thank-you-google-how-to-mine-bitcoin-on-googles-bigquery-1c8e17b04e62 Mining Bitcoin on Google’s BigQuery Oo
 - https://www.confluent.io/blog/may-preview-release-advancing-ksql-and-schema-registry/ KSQL and Schema Registry integration into Confluent Platform
 - https://flagtheory.com/stripe-atlas/ Why is Stripe Atlas is Bad for Foreigners? because it's damn complicated
 
