@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-06-2018
+
+- https://plokhotnyuk.github.io/jsoniter-scala/ jsoniter-scala has tons of public benchmarks. It just beats 'em all (throughput, mem alloc, gc..)
+
 # 06-06-2018
 
 - https://www.slideshare.net/jdegoes/blazing-fast-pure-effects-without-monads-lambdaconf-2018 New type in scalaz8: KleisliIO, to dispatch effects with performance
