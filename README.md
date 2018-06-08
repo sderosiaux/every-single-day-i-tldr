@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-06-2018
 
+- https://github.com/testcontainers/testcontainers-scala Docker containers for testing in scala!
 - https://github.com/Netflix/atlas Netflix built an in-memory time series database, need to test it!
 - https://streaml.io/blog/pulsar-topic-compaction/ Pulsar now can compact topics too
 - https://www.jetbrains.com/research/devecosystem-2018/scala/ A very odd Scala survey (30% on 2.13? 26% on java9? 25% are not using any lib to do webdev?)
