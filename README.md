@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-06-2018
 
+- https://www.jetbrains.com/research/devecosystem-2018/scala/ A very odd Scala survey (30% on 2.13? 26% on java9? 25% are not using any lib to do webdev?)
 - https://plokhotnyuk.github.io/jsoniter-scala/ jsoniter-scala has tons of public benchmarks. It just beats 'em all (throughput, mem alloc, gc..)
 
 # 06-06-2018
