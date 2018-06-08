@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-06-2018
 
+- https://www.youtube.com/watch?v=HssczgaY9BM Andre Staltz explains how he got the idea of "callbag". Basically, a consumer/producer system which can talk to each other (about anything)
 - https://github.com/testcontainers/testcontainers-scala Docker containers for testing in scala!
 - https://github.com/Netflix/atlas Netflix built an in-memory time series database, need to test it!
 - https://streaml.io/blog/pulsar-topic-compaction/ Pulsar now can compact topics too
