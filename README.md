@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-06-2018
 
+- https://cloudplatform.googleblog.com/2018/06/Introducing-sole-tenant-nodes-for-Google-Compute-Engine.html GCP now provides machines for yourself!
 - https://kubuszok.com/2018/speed-up-things-in-scalac-and-sbt/ Tons of tips to improve scalac/sbt compilation speed. graal, CI caches, CI database optimized to not write to disk, scala parallelism, more modules, no snapshot, less macros, (kentuckymule/hydra if motivated)
 - https://www.youtube.com/watch?v=HssczgaY9BM Andre Staltz explains how he got the idea of "callbag". Basically, a consumer/producer system which can talk to each other (about anything)
 - https://github.com/testcontainers/testcontainers-scala Docker containers for testing in scala!
