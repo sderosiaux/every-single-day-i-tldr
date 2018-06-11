@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-06-2018
 
+- https://www.youtube.com/watch?v=SV-cgdobtTA Learning Deep Learning in JS
 - https://gist.github.com/SystemFw/deb56c93e37af6a1fb1b48f878256b6b Explaining some of the mechanics of interpretation of Free programs
 - https://medium.com/@simon.aubury/using-ksql-apache-kafka-a-raspberry-pi-and-a-software-defined-radio-to-find-the-plane-that-wakes-14f6f9e74584 Using KSQL to track planes
 - https://brandur.org/graphql Why REST is still a thing, and what GraphQL solves
