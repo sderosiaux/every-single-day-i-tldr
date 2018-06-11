@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 11-06-2018
+
+- https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history octopus merge in git! (more than 2 parents)
+
 # 08-06-2018
 
 - https://medium.com/google-cloud/google-kubernetes-engine-load-testing-and-auto-scaling-with-locust-ceefc088c5b3 "workshop": playing with GKE and do some load-testing using Locust, then k8s auto-scaling
