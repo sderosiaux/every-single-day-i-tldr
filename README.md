@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-06-2018
 
+- https://medium.com/@simon.aubury/using-ksql-apache-kafka-a-raspberry-pi-and-a-software-defined-radio-to-find-the-plane-that-wakes-14f6f9e74584 Using KSQL to track planes
 - https://brandur.org/graphql Why REST is still a thing, and what GraphQL solves
 - https://medium.com/@andy.bryant/kafka-streams-work-allocation-4f31c24753cc Understanding how Kafka Streams tasks allocation works
 - https://restoreprivacy.com/google-alternatives/ Alternatives to Google Products, privacy-oriented
