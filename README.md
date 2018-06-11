@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-06-2018
 
+- https://brandur.org/graphql Why REST is still a thing, and what GraphQL solves
 - https://medium.com/@andy.bryant/kafka-streams-work-allocation-4f31c24753cc Understanding how Kafka Streams tasks allocation works
 - https://restoreprivacy.com/google-alternatives/ Alternatives to Google Products, privacy-oriented
 - https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history octopus merge in git! (more than 2 parents)
