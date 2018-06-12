@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-06-2018
 
+- https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/ Using autocannon (load tester) and clinic to analyze and improve a nodejs server using frame graphs
 - http://rea.tech/use-the-decorator-pattern-for-clean-i-o-boundaries/ Using decorator pattern for separation of concerns and in particular here, I/O boundaries
 - https://www.loriskumo.com/journal/guide-typographique-de-base Guide typographique de base, ou l'écriture pour les pros.
 - https://blog.softwaremill.com/scalaz-8-io-vs-akka-typed-actors-vs-monix-part-1-5672657169e1 Scalaz 8 IO vs Akka (typed) actors vs Monix; using a rate limiter example.
