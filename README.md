@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 12-06-2018
+
+- https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html Preventing Secrets in Source Code by looking for high entropy strings: smart
+
 # 11-06-2018
 
 - https://www.youtube.com/watch?v=SV-cgdobtTA Learning Deep Learning in JS
