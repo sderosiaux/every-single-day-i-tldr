@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-06-2018
+
+- https://medium.com/@olxc/catamorphisms-and-f-algebras-b4e91380d134 Catamorphisms and F-Algebras
+
 # 12-06-2018
 
 - https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/ Using autocannon (load tester) and clinic to analyze and improve a nodejs server using frame graphs
