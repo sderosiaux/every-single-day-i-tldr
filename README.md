@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-06-2018
 
+- https://www.scala-lang.org/blog/2018/06/13/scala-213-collections.html Sweet and short summary of Scala 2.13’s Collections changes
 - https://cloudplatform.googleblog.com/2018/06/Now-you-can-deploy-your-Node-js-app-to-App-Engine-standard-environment.html node.js into App Engine standard
 - https://medium.com/@olxc/ethereum-and-smart-contracts-basics-e5c84838b19 Ethereum and smart contracts basics
 - https://medium.com/@olxc/catamorphisms-and-f-algebras-b4e91380d134 Catamorphisms and F-Algebras
