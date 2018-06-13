@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-06-2018
 
+- https://medium.com/@olxc/ethereum-and-smart-contracts-basics-e5c84838b19 Ethereum and smart contracts basics
 - https://medium.com/@olxc/catamorphisms-and-f-algebras-b4e91380d134 Catamorphisms and F-Algebras
 
 # 12-06-2018
