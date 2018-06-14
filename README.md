@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-06-2018
 
+- https://www.slideshare.net/avleenvig/elk-mooseively-scaling-your-log-system Scaling out ELK stack
 - https://cloudplatform.googleblog.com/2018/06/Introducing-QUIC-support-for-HTTPS-load-balancing.html You should now enable QUIC support on your HTTPS load balancers
 - https://www.microsoft.com/developerblog/2016/05/26/creating-universal-windows-apps-with-react-native/ I didn't see that one: react-native-windows
 - https://twitter.com/thelarkinn/status/1006746626617008128?s=21 Microsoft going almost-full-typescript (Skype, Office 365..)
