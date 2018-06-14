@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-06-2018
+
+- https://twitter.com/thelarkinn/status/1006746626617008128?s=21 Microsoft going almost-full-typescript (Skype, Office 365..)
+
 # 13-06-2018
 
 - https://www.scala-lang.org/blog/2018/06/13/scala-213-collections.html Sweet and short summary of Scala 2.13’s Collections changes
