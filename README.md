@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-06-2018
 
+- https://cloudplatform.googleblog.com/2018/06/Behind-the-scenes-with-the-Dragon-Ball-Legends-GCP-backend.html Dragon Ball Legends is GCP backed! Spanner, Google Network for low latency using its PoPs, PubSub, Dataflow, BigQuery. Scalability to the max!
 - https://github.com/Netflix/pollyjs/ Record, Replay, and Stub HTTP Interactions.
 - https://kubuszok.com/2018/sbt-tips-and-tricks/ A sweet recap of sbt how-to and useful plugins
 
