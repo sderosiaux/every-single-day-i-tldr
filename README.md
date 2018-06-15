@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-06-2018
 
+- https://github.com/Netflix/pollyjs/ Record, Replay, and Stub HTTP Interactions.
 - https://kubuszok.com/2018/sbt-tips-and-tricks/ A sweet recap of sbt how-to and useful plugins
 
 # 14-06-2018
