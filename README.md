@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-06-2018
 
+- https://medium.freecodecamp.org/the-top-contributors-to-github-2017-be98ab854e87 Always interesting to know the "big names" doing open sources
 - https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018 React Native goes into a refactoring process (for the better)
 
 # 15-06-2018
