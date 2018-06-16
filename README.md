@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-06-2018
+
+- https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018 React Native goes into a refactoring process (for the better)
+
 # 15-06-2018
 
 - https://www.cybertec-postgresql.com/en/index-decreases-select-performance/# Postgres sometimes think using a given index will be faster, but it's not always the case
