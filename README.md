@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2018
 
+- http://www.r2d3.us/visual-intro-to-machine-learning-part-2/ Decision trees under and overfitting
 - https://www.infoq.com/news/2018/06/observability-microservices dtracing ftw. "Most failures in the microservices space occur during the interactions between services, ..."
 - https://www.oreilly.com/ideas/microservices-events-and-upside-down-databases Each service has its own database. To share tons of events (equivalent of a fat select *), you can use simply use streaming (kafka here)
 - https://blog.gojekengineering.com/kafka-4066a4ea8d0d Feedback about the need to have a frontier kafka to deal with failures (backed with Redis)
