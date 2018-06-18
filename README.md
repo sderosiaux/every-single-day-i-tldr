@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2018
 
+- https://www.infoq.com/presentations/liberty-monolith-ddd-microservices Deconstructing Monoliths with Domain-driven Design
 - https://www.scala-lang.org/blog/2018/06/15/bsp.html The day DSP fully works will be blessed (because currently, in Intellij, it's.........)
 - http://highscalability.com/blog/2018/6/18/how-ably-efficiently-implemented-consistent-hashing.html Consistent Hashing explained
 - https://www.youtube.com/watch?v=MLRrFIfR5B0 Overview of shapeless then fs2 (with @SystemFw, 45min)
