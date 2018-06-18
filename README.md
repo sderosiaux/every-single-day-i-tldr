@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-06-2018
+
+- https://nrinaudo.github.io/workshop-minimum-git/#1 Nice slides to ensure you know the "bare minimum" of git
+
 # 16-06-2018
 
 - https://medium.freecodecamp.org/the-top-contributors-to-github-2017-be98ab854e87 Always interesting to know the "big names" doing open sources
