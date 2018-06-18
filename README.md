@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2018
 
+- https://www.incapsula.com/blog/zero-to-account-takeover-how-i-impersonated-someone-else-using-auth0.html Phishing attack using Auth0
 - http://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/ Recording its own screen to watch and analyze it later, to improve how to think, yeah
 - http://www.r2d3.us/visual-intro-to-machine-learning-part-2/ Decision trees under and overfitting
 - https://www.infoq.com/news/2018/06/observability-microservices dtracing ftw. "Most failures in the microservices space occur during the interactions between services, ..."
