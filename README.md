@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2018
 
+- https://www.youtube.com/watch?v=MLRrFIfR5B0 Overview of shapeless then fs2 (with @SystemFw, 45min)
 - https://github.com/bytefish/PgBulkInsert Java library for efficient Bulk Inserts to PostgreSQL using the Binary COPY Protocol.
 - https://www.incapsula.com/blog/zero-to-account-takeover-how-i-impersonated-someone-else-using-auth0.html Phishing attack using Auth0
 - http://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/ Recording its own screen to watch and analyze it later, to improve how to think, yeah
