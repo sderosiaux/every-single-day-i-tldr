@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2018
 
+- https://www.oreilly.com/ideas/microservices-events-and-upside-down-databases Each service has its own database. To share tons of events (equivalent of a fat select *), you can use simply use streaming (kafka here)
 - https://blog.gojekengineering.com/kafka-4066a4ea8d0d Feedback about the need to have a frontier kafka to deal with failures (backed with Redis)
 - https://pierangeloc.github.io/blog/2018/06/01/on-RT-and-FP Sweet recap about why referential transparency is necessary to have a local and easy reasoning
 - https://nrinaudo.github.io/workshop-minimum-git/#1 Nice slides to ensure you know the "bare minimum" of git
