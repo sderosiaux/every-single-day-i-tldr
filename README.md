@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-06-2018
 
+- http://www.unixguide.net/unix/faq/1.3.shtml "What does {some strange unix command name} stand for?" some are good to remember
 - https://gregable.com/2010/09/why-you-should-know-just-little-awk.html Awk can tremendously help just by knowing so little
 
 # 18-06-2018
