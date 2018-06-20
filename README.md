@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-06-2018
+
+- https://github.com/dylanaraps/pure-bash-bible You think you know bash?
+
 # 19-06-2018
 
 - https://stripe.com/atlas/guides/ama-tom-blomfield A nice AMA with Monzo, a modern-day bank.
