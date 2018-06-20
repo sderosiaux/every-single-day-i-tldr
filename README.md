@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-06-2018
 
+- https://jakearchibald.com/2018/i-discovered-a-browser-bug/ Bypassing CORS to get data from other websites :o
 - https://cloudplatform.googleblog.com/2018/06/Cloud-TPU-now-offers-preemptible-pricing-and-global-availability.html Preemptible Cloud TPUs ftw. Cost--.
 - https://github.com/dylanaraps/pure-bash-bible You think you know bash?
 
