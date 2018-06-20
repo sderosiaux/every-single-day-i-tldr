@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-06-2018
 
+- https://typelevel.org/blog/2018/06/15/typedapi.html How to derive clients and servers from types. Shapeless inside.
 - https://www.smashingmagazine.com/2018/06/placeholder-attribute/ Don’t Use The Placeholder Attribute; a11y, translation, interop, help
 - https://blog.softwaremill.com/akka-vs-zio-vs-monix-part-2-communication-9ce7261aa08c A web crawler implements with Akka vs ZIO vs Monix.
 - https://jakearchibald.com/2018/i-discovered-a-browser-bug/ Bypassing CORS to get data from other websites :o
