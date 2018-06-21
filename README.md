@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-06-2018
 
+- http://blog.karumi.com/replacing-creational-patterns-for-testing-with-property-based-generators/ Scalacheck generators ftw
 - https://v8project.blogspot.com/2018/06/v8-release-68.html Speed & memory improvements in V8!
 - https://medium.com/netflix-techblog/simplifying-media-innovation-at-netflix-with-archer-3f8cbb0e2bcb Archer: media processing at scale, make easy
 - https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html YAML sucks
