@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-06-2018
 
+- https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html YAML sucks
 - https://samnewman.io/patterns/architectural/bff/ When to use or not use Backends For Frontends pattern (BFF)
 
 # 20-06-2018
