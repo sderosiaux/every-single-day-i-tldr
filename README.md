@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-06-2018
 
+- https://www.youtube.com/watch?v=JZPXzJ5tp9w Nice talk about functors, contra & profunctors
 - https://cloudplatform.googleblog.com/2018/06/How-to-connect-Stackdriver-to-external-monitoring.html using webhooks called by StackDriver to monitor external resources
 
 # 21-06-2018
