@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-06-2018
+
+- https://cloudplatform.googleblog.com/2018/06/How-to-connect-Stackdriver-to-external-monitoring.html using webhooks called by StackDriver to monitor external resources
+
 # 21-06-2018
 
 - http://blog.karumi.com/replacing-creational-patterns-for-testing-with-property-based-generators/ Scalacheck generators ftw
