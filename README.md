@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-06-2018
 
+- https://www.scylladb.com/2018/06/21/impact-virtualization-database/ "The Impact of Virtualization on Your Database": bare metal have ~30% better throughput, use way less cpu, and way lower read latencies
 - https://bettereveryday.vc/how-much-traction-do-you-really-need-to-raise-a-seed-or-series-a-round-5fb0cf532201 Some thresholds to know about, in order to seed or series A, according to the type of business
 - https://www.youtube.com/watch?v=JZPXzJ5tp9w Nice talk about functors, contra & profunctors
 - https://cloudplatform.googleblog.com/2018/06/How-to-connect-Stackdriver-to-external-monitoring.html using webhooks called by StackDriver to monitor external resources
