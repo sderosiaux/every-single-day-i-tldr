@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-06-2018
+
+- https://www.bloomberg.com/news/articles/2018-06-21/states-can-require-internet-tax-collection-supreme-court-rules-jiomtl5c More taxes for online retailers such as amazon, ebay, etsy etc.
+
 # 22-06-2018
 
 - https://www.scylladb.com/2018/06/21/impact-virtualization-database/ "The Impact of Virtualization on Your Database": bare metal have ~30% better throughput, use way less cpu, and way lower read latencies
