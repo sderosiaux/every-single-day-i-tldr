@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-06-2018
 
+- https://www.computerworld.com/article/3162416/data-center/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer.html Booted up in 1993, this server was still running last year :o
 - https://vincent.bernat.im/en/blog/2017-ipv4-route-lookup-linux IPv4 routes are stored as Patricia trie (a compressed trie)
 - https://www.bloomberg.com/news/articles/2018-06-21/states-can-require-internet-tax-collection-supreme-court-rules-jiomtl5c More taxes for online retailers such as amazon, ebay, etsy etc.
 
