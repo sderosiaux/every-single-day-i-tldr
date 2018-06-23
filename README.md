@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-06-2018
 
+- https://vincent.bernat.im/en/blog/2017-ipv4-route-lookup-linux IPv4 routes are stored as Patricia trie (a compressed trie)
 - https://www.bloomberg.com/news/articles/2018-06-21/states-can-require-internet-tax-collection-supreme-court-rules-jiomtl5c More taxes for online retailers such as amazon, ebay, etsy etc.
 
 # 22-06-2018
