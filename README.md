@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-06-2018
+
+- https://blog.stephanbehnke.com/3-years-on-google-app-engine-an-epic-review/ 3 years on Google App Engine. An Epic Review (from 2016 !).
+
 # 23-06-2018
 
 - https://www.computerworld.com/article/3162416/data-center/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer.html Booted up in 1993, this server was still running last year :o
