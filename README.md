@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-06-2018
 
+- https://making.pusher.com/how-pusher-channels-has-delivered-10000000000000-messages/index.html LB, sharding, fan-out with Redis to deliver tons of messages per sec
 - https://blog.stephanbehnke.com/3-years-on-google-app-engine-an-epic-review/ 3 years on Google App Engine. An Epic Review (from 2016 !).
 
 # 23-06-2018
