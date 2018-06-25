@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-06-2018
+
+- https://github.com/facebookresearch/DensePose mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
+
 # 24-06-2018
 
 - https://making.pusher.com/how-pusher-channels-has-delivered-10000000000000-messages/index.html LB, sharding, fan-out with Redis to deliver tons of messages per sec
