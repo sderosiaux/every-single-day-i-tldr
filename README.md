@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-06-2018
 
+- https://www.gethighlights.co/blog/what-to-optimize-landing-page/ What to Optimize in a landing page
 - https://cldellow.com/2018/06/22/sqlite-parquet-vtable.html Comparing CSV import in postgresql and sqlite and sqlite+parquet, really good
 - https://medium.com/futuretech-industries/postgres-raffle-10k-connections-35-mo-part-two-b4c2e0c86e37 Demonstrating the usage of PgBouncer and its options
 - https://www.citusdata.com/blog/2018/06/14/scalable-incremental-data-aggregation/ Rollups using Citus
