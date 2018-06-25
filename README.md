@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-06-2018
 
+- https://medium.com/futuretech-industries/postgres-raffle-10k-connections-35-mo-part-two-b4c2e0c86e37 Demonstrating the usage of PgBouncer and its options
 - https://www.citusdata.com/blog/2018/06/14/scalable-incremental-data-aggregation/ Rollups using Citus
 - https://github.com/facebookresearch/DensePose mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 
