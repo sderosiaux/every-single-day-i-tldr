@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-06-2018
 
+- https://prospect.io/blog/cold-email-illegal/ Cold email and laws: where it is okay, where it is not
 - https://dev.to/indy_singh_uk/strings-are-evil-9f9 Parsing a csv, from 8GB memory to 32kb (using the same byte buffer over and over, avoid StringBuffer, split..)
 - https://javelin.com/ Javalin is a really nice "all-in-one" software for startups and innovation teams, helping you defining the necessary steps to launch
 - https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen JWT is just a string containing some json only the server can decrypt. If someone else uses it client-side, you're screwed.
