@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-06-2018
 
+- https://developer.okta.com/blog/2018/06/20/what-happens-if-your-jwt-is-stolen JWT is just a string containing some json only the server can decrypt. If someone else uses it client-side, you're screwed.
 - https://www.gethighlights.co/blog/what-to-optimize-landing-page/ What to Optimize in a landing page
 - https://cldellow.com/2018/06/22/sqlite-parquet-vtable.html Comparing CSV import in postgresql and sqlite and sqlite+parquet, really good
 - https://medium.com/futuretech-industries/postgres-raffle-10k-connections-35-mo-part-two-b4c2e0c86e37 Demonstrating the usage of PgBouncer and its options
