@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-06-2018
 
+- https://blog.zenika.com/2018/04/27/traefik-comme-reverse-proxy-sur-gke/ Traefik on GKE with letsencrypt
 - https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b?gi=8e8fac87cdc New operators in Javascript incoming. ? ?? |>
 - https://mapr.com/blog/how-guide-getting-started-apache-drill/ A long overview of Apache Drill
 - https://www.infoq.com/articles/C4-architecture-model The C4 Model for Software Architecture, 4 types of diagrams: "Context, Containers, Components, Code (uml)"
