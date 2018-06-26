@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-06-2018
+
+- https://docs.scala-lang.org/overviews/compiler-options/index.html New page: Scala Compiler Options, so many options we never use
+
 # 25-06-2018
 
 - https://prospect.io/blog/cold-email-illegal/ Cold email and laws: where it is okay, where it is not
