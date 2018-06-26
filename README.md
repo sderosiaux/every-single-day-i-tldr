@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-06-2018
 
+- https://www.infoq.com/articles/C4-architecture-model The C4 Model for Software Architecture, 4 types of diagrams: "Context, Containers, Components, Code (uml)"
 - https://docs.scala-lang.org/overviews/compiler-options/index.html New page: Scala Compiler Options, so many options we never use
 
 # 25-06-2018
