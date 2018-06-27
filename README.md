@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-06-2018
 
+- https://slideslive.com/38908147/unshaped-protos-beyond-code-generation-for-protocol-buffers Exploration to deal with custom classes in ScalaPB (manual, shapeless, macros)
 - https://eng.uber.com/h3/ City mapping and bucketing with hexagons instead of classic squares
 - https://www.youtube.com/watch?v=CIPGZzbPpeg John A. De Goes, about the Design of the Scalaz 8 Effect System (IO, Fiber)
 - https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325 Taking control of IoTs through DNS Rebinding, yikes
