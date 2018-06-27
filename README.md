@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-06-2018
 
+- https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325 Taking control of IoTs through DNS Rebinding, yikes
 - https://cloudplatform.googleblog.com/2018/06/New-Cloud-Filestore-service-brings-GCP-users-high-performance-file-storage.html Filestore: a new high-performance filesystem for GCP to bind to VMs
 
 # 26-06-2018
