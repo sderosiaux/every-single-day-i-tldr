@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-06-2018
 
+- https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953 Threads in nodejs !
 - https://css-tricks.com/drawing-images-with-css-gradients/ Drawing Images with CSS Gradients (linear and radial)
 - https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf A study of Google/Facebook/Microsoft UI/UX using "dark patterns" to discourage users from exercising rights to privacy
 - https://nickjanetakis.com/blog/docker-tip-60-what-really-happens-when-you-run-docker-compose-up?mkt_tok=eyJpIjoiWmpFeE5HUTROR1UyTnpkaSIsInQiOiJYOUNNdlpnTm9XUEhhem8rWDhPXC9GQXJPa3VZNTBxcnFsQmlGRFFtUjZuSXlvaUZHa1N0amZkcXBBS2RDSmtDaVJLQllCc1lJY09xQ1wvVVwvMGxnUEQ2bXJlbStUTThsMGsyZkNtT2RiaE1QbDNnUFYwaWtqdkJndzh2c0s1V25jQSJ9 What Really Happens When You Run docker-compose up?
