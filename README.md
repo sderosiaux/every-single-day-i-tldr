@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-06-2018
+
+- https://www.cambus.net/oldest-domains-in-the-com-net-and-org-tlds/ Oldest domains in the .com, .net, and .org TLDs: mostly short names btw
+
 # 27-06-2018
 
 - https://slideslive.com/38908147/unshaped-protos-beyond-code-generation-for-protocol-buffers Exploration to deal with custom classes in ScalaPB (manual, shapeless, macros)
