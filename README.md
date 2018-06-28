@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-06-2018
 
+- https://slideslive.com/38907884/adding-kindpolymorphism-to-the-scala-programming-language Kind polymorphism in scala!
 - https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953 Threads in nodejs !
 - https://css-tricks.com/drawing-images-with-css-gradients/ Drawing Images with CSS Gradients (linear and radial)
 - https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf A study of Google/Facebook/Microsoft UI/UX using "dark patterns" to discourage users from exercising rights to privacy
