@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-06-2018
 
+- https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale.html The Infrastructure Behind Twitter
 - https://speakerdeck.com/tpolecat/functional-programming-with-effects?slide=157 Sweet presentation of effects in FP by tpolecat
 
 # 28-06-2018
