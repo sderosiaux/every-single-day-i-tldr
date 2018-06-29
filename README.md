@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-06-2018
 
+- https://www.youtube.com/watch?v=hUwNgxwN_pE NerdWallet website: from 0 to 1m Monthly Visitors thanks to SEO and good content
 - http://tech.marksblogg.com/billion-nyc-taxi-rides-sqlite-parquet-hdfs.html 1.1 Billion Taxi Rides with SQLite, Parquet & HDFS
 - https://news.umich.edu/u-m-researchers-create-worlds-smallest-computer/ 0.3 mm: this is very small computer
 - https://speakerdeck.com/jboner/designing-events-first-microservices Designing Events-first Microservices @jboner
