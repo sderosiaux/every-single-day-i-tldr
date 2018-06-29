@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-06-2018
+
+- https://speakerdeck.com/tpolecat/functional-programming-with-effects?slide=157 Sweet presentation of effects in FP by tpolecat
+
 # 28-06-2018
 
 - https://slideslive.com/38907884/adding-kindpolymorphism-to-the-scala-programming-language Kind polymorphism in scala!
