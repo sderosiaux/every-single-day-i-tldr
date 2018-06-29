@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-06-2018
 
+- http://tech.marksblogg.com/billion-nyc-taxi-rides-sqlite-parquet-hdfs.html 1.1 Billion Taxi Rides with SQLite, Parquet & HDFS
 - https://news.umich.edu/u-m-researchers-create-worlds-smallest-computer/ 0.3 mm: this is very small computer
 - https://speakerdeck.com/jboner/designing-events-first-microservices Designing Events-first Microservices @jboner
 - https://medium.com/google-cloud/airflow-for-google-cloud-part-1-d7da9a048aa4 Using Airflow to insert data into BigQuery (going through Avro)
