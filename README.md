@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-06-2018
 
+- https://news.umich.edu/u-m-researchers-create-worlds-smallest-computer/ 0.3 mm: this is very small computer
 - https://speakerdeck.com/jboner/designing-events-first-microservices Designing Events-first Microservices @jboner
 - https://medium.com/google-cloud/airflow-for-google-cloud-part-1-d7da9a048aa4 Using Airflow to insert data into BigQuery (going through Avro)
 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale.html The Infrastructure Behind Twitter
