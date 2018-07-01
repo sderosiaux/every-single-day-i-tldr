@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-07-2018
+
+- https://medium.com/@serverpunch/why-you-should-not-use-google-cloud-75ea2aec00de A crazy story where the whole GCP project was shut down unexpectedly by Google Oo
+
 # 29-06-2018
 
 - https://www.youtube.com/watch?v=hUwNgxwN_pE NerdWallet website: from 0 to 1m Monthly Visitors thanks to SEO and good content
