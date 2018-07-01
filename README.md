@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-07-2018
 
+- https://www.slideshare.net/piggybox/migration-from-redshift-to-spark Migration from Redshift to Spark on EMR
 - https://medium.com/@serverpunch/why-you-should-not-use-google-cloud-75ea2aec00de A crazy story where the whole GCP project was shut down unexpectedly by Google Oo
 
 # 29-06-2018
