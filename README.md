@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-07-2018
 
+- https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/ Top 10 Performance Tuning Tips for Amazon Athena: mostly about partitioning, clustering, optimum file size, file format (parquet), some sql tips
 - https://www.infoq.com/presentations/55-new-features-jdk-9 55 New Features in JDK 9; a lot of things
 - http://bytes.schibsted.com/bigdata-sql-query-engine-benchmark/ Athena wins again
 - https://www.edrawsoft.com/google-cloud-platform-software.php Drawingi GCP Diagram with edrawsoft
