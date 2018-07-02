@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-07-2018
+
+- http://tayler.io/jobs-to-be-done-summary/ Formulate outcome statements as ‘[direction], [metric], [object of control], [optional: contextual clarifier]’
+
 # 01-07-2018
 
 - https://www.slideshare.net/piggybox/migration-from-redshift-to-spark Migration from Redshift to Spark on EMR
