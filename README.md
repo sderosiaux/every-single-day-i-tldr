@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-07-2018
 
+- https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes Tips about architecting applications for Kubernetes
 - https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/ An cool feedback from developer to CTO managing more than 100 engineers
 - https://www.rittmanmead.com/blog/2017/04/sql-on-hadoop-impala-vs-drill/ Similarities between Impala and Drill
 - https://aws.amazon.com/blogs/big-data/top-10-performance-tuning-tips-for-amazon-athena/ Top 10 Performance Tuning Tips for Amazon Athena: mostly about partitioning, clustering, optimum file size, file format (parquet), some sql tips
