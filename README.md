@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-07-2018
 
+- https://www.infoq.com/presentations/java-jvm-scalability Java itself from the smallest usage (JavaCard) to the biggest (cloud, love the: "-Xmx=100$") + understanding what the Java Language Spec is for. JVMs must focus on ML capabilities / specialized hardware (gpu, asic, etc.)
 - https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b never used npx before, cool stuff to avoid global package, and nice features like reading from a gist
 
 # 02-07-2018
