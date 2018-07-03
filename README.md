@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-07-2018
+
+- https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b never used npx before, cool stuff to avoid global package, and nice features like reading from a gist
+
 # 02-07-2018
 
 - https://github.com/scalaz/scalaz-plugin Excellent compiler plugin to ensure a better fp-oriented code. (no null, no *instanceOf, no side-effects, no equals, toString etc.)
