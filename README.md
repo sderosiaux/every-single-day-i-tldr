@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-07-2018
 
+- https://slideslive.com/38908182/functional-interpreters-and-you Interpreters used with the free monad and tagless final encoding
 - https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/ "Stylish" browser extension is a piece of shit: steals all your internet history
 
 # 03-07-2018
