@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-07-2018
+
+- https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/ "Stylish" browser extension is a piece of shit: steals all your internet history
+
 # 03-07-2018
 
 - https://remotemarketing.org/4-million/ Really cool feedback about their road to $4 million ARR
