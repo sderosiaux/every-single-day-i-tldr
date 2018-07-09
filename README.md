@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-07-2018
 
+- https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2 Providing a type-safe Scala APIs (typeclasses+shapeless for derivation) based on a Java API
 - https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 Compiling Scala Faster with GraalVM. Demonstrating GraalVM CE and native-image for Scala.
 
 # 04-07-2018
