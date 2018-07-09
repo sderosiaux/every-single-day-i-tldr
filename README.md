@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-07-2018
 
+- https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684 Vue.js: the good, the meh, and the ugly
 - https://typelevel.org/blog/2018/06/27/optimizing-tagless-final-2.html Optimizing Tagless Final by generalizing using FunctorK and CartesianK
 - https://medium.com/dailyjs/webpack-4-splitchunks-plugin-d9fbbe091fd0 Webpack 4: SplitChunks instead of CommonsChunkPlugin
 - https://blog.cloudflare.com/how-to-drop-10-million-packets/ How to drop 10 million packets per second- Networking is fun
