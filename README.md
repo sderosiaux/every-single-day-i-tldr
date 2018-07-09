@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-07-2018
 
+- https://typelevel.org/blog/2018/06/27/optimizing-tagless-final-2.html Optimizing Tagless Final by generalizing using FunctorK and CartesianK
 - https://medium.com/dailyjs/webpack-4-splitchunks-plugin-d9fbbe091fd0 Webpack 4: SplitChunks instead of CommonsChunkPlugin
 - https://blog.cloudflare.com/how-to-drop-10-million-packets/ How to drop 10 million packets per second- Networking is fun
 - https://github.com/dotty-staging/dotty/blob/7c961ad933d159ae1e58cee242dfbb4fbdeba93e/docs/docs/typelevel.md proposal about new keyword "transparent" and some more syntax (implicit match) to code using a powerful typelevel paradigm
