@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-07-2018
+
+- https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 Compiling Scala Faster with GraalVM. Demonstrating GraalVM CE and native-image for Scala.
+
 # 04-07-2018
 
 - https://medium.com/google-cloud/kubernetes-w-lets-encrypt-cloud-dns-c888b2ff8c0e Kubernetes w/ Let’s Encrypt & Cloud DNS
