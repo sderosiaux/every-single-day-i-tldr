@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-07-2018
 
+- https://github.com/dotty-staging/dotty/blob/7c961ad933d159ae1e58cee242dfbb4fbdeba93e/docs/docs/typelevel.md proposal about new keyword "transparent" and some more syntax (implicit match) to code using a powerful typelevel paradigm
 - https://www.youtube.com/watch?v=-f-7l8X716k Bootstrap a Simple REST API with Spring Data REST and Spring Boot 2. - Yeah, annotations and runtime magic everywhere!
 - https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2 Providing a type-safe Scala APIs (typeclasses+shapeless for derivation) based on a Java API
 - https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 Compiling Scala Faster with GraalVM. Demonstrating GraalVM CE and native-image for Scala.
