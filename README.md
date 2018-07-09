@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-07-2018
 
+- https://nothingventured.rocks/agile-story-grooming-checklist-75d953ea863b A story and checklist to do story grooming to avoid simplicity bias, mental fatigue, and team incomfort
 - https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684 Vue.js: the good, the meh, and the ugly
 - https://typelevel.org/blog/2018/06/27/optimizing-tagless-final-2.html Optimizing Tagless Final by generalizing using FunctorK and CartesianK
 - https://medium.com/dailyjs/webpack-4-splitchunks-plugin-d9fbbe091fd0 Webpack 4: SplitChunks instead of CommonsChunkPlugin
