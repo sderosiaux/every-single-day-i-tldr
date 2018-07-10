@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-07-2018
 
+- http://sellmysite.com/keyword-research/ SEO Keywords research done right
 - https://github.com/annoy4s/annoy4s Approximate Nearest Neighbors in Scala, JNA wrapper around spotify/annoy
 
 # 09-07-2018
