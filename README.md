@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-07-2018
 
+- https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html Jib: build & publish Java Docker image from mvn
 - https://www.youtube.com/watch?v=lIWCxRBaQG8 Bartosz Milewski - Free Monoidal Functors
 - http://sellmysite.com/keyword-research/ SEO Keywords research done right
 - https://github.com/annoy4s/annoy4s Approximate Nearest Neighbors in Scala, JNA wrapper around spotify/annoy
