@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-07-2018
+
+- https://github.com/annoy4s/annoy4s Approximate Nearest Neighbors in Scala, JNA wrapper around spotify/annoy
+
 # 09-07-2018
 
 - https://nothingventured.rocks/agile-story-grooming-checklist-75d953ea863b A story and checklist to do story grooming to avoid simplicity bias, mental fatigue, and team incomfort
