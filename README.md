@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 11-07-2018
+
+- https://www.karllhughes.com/posts/plumbing "The Bulk of Software Engineering in 2018 is Just Plumbing"
+
 # 10-07-2018
 
 - https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html Jib: build & publish Java Docker image from mvn
