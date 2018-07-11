@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-07-2018
 
+- http://kangax.github.io/compat-table/es6/#graalvm GraalVM added to the famous ECMAScript 6 compatibility table!
 - https://blog.softwaremill.com/supervision-error-handling-in-zio-akka-and-monix-part-3-series-summary-abe75f964c2a Supervision & error handling in ZIO, Akka and Monix. 
 - https://segment.com/blog/goodbye-microservices/ From Microservices to Monolith.
 - https://hpbn.co/ Finally, I've read what I wanted from this reference: High Performance Browser Networking
