@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-07-2018
 
+- https://www.youtube.com/watch?v=v8IQ-X2HkGE The problem with Scala (academic, not business oriented, too many features, oop should be removed and focus on fp)
 - https://css-tricks.com/the-css-paint-api/ The Awesome CSS Paint API !
 - https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/ Where are we with the Web Components in 2018 (is this going somewhere?)
 - http://kangax.github.io/compat-table/es6/#graalvm GraalVM added to the famous ECMAScript 6 compatibility table!
