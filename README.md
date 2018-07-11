@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-07-2018
 
+- https://blog.softwaremill.com/supervision-error-handling-in-zio-akka-and-monix-part-3-series-summary-abe75f964c2a Supervision & error handling in ZIO, Akka and Monix. 
 - https://segment.com/blog/goodbye-microservices/ From Microservices to Monolith.
 - https://hpbn.co/ Finally, I've read what I wanted from this reference: High Performance Browser Networking
 - https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60 Spark performance tuning
