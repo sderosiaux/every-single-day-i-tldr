@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-07-2018
 
+- https://hpbn.co/ Finally, I've read what I wanted from this reference: High Performance Browser Networking
 - https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60 Spark performance tuning
 - https://www.karllhughes.com/posts/plumbing "The Bulk of Software Engineering in 2018 is Just Plumbing"
 
