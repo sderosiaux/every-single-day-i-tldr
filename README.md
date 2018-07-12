@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-07-2018
 
+- https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/ Google Cloud Platform - The Good, Bad, and Ugly
 - https://www.youtube.com/watch?v=QM86Ab3lL20 Nice talk about generalizing the more (don't commit to an impl just yet) we can to simplify our code (using cats-mtl here)
 - https://www.youtube.com/watch?v=RySodlS3cSI Beyond MonadError, change types when we know errors are handled
 - https://jvns.ca/blog/2018/07/11/netdev-day-1--ipsec/ Some IPsec knowledge, basically a TLS for ips
