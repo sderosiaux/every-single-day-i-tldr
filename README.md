@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-07-2018
 
+- http://blog.memsql.com/nosql/ From SQL to NoSQL to NewSQL
 - https://www.gethighlights.co/blog/choose-right-analytics-platform/ Study of the available Analytics platforms (Google, Mixpanel, Amplitude, Heap, Flurry, Pendo, Hotjar..)
 - https://medium.com/@duhroach/the-impact-of-blocksize-on-persistent-disk-performance-7e50a85b2647 Throughput (M/sB) = IOPS * Blocksize
 - https://medium.com/bigpanda-engineering/understanding-parametricity-in-scala-520f9f10679a Why Parametricity is good to use: less features space, less mistakes
