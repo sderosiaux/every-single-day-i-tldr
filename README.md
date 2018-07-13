@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-07-2018
+
+- https://medium.com/bigpanda-engineering/understanding-parametricity-in-scala-520f9f10679a Why Parametricity is good to use: less features space, less mistakes
+
 # 12-07-2018
 
 - https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/ Google Cloud Platform - The Good, Bad, and Ugly
