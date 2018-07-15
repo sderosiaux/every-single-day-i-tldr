@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 15-07-2018
+
+- http://degoes.net/articles/fpoop-vs-fp FP-OOP vs FP: the case of IO
+
 # 13-07-2018
 
 - http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/ Why You Should Never Use MongoDB: documents are for self-contained content only
