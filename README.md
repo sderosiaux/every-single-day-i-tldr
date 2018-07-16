@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-07-2018
 
+- https://fosdem.org/2018/schedule/event/datastore/attachments/slides/2618/export/events/attachments/datastore/slides/2618/designing_distributed_datastore_in_go_timbala.pdf Designing and building a distributed timeseries datastore in Go: Timbala
 - https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/ A simple illustrated explanation of the CAP Theorem
 - https://github.com/andyburgin/hadoopi Hadoop over Raspberry Pi 3's \o/
 
