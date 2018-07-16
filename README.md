@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-07-2018
 
+- https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/ A simple illustrated explanation of the CAP Theorem
 - https://github.com/andyburgin/hadoopi Hadoop over Raspberry Pi 3's \o/
 
 # 15-07-2018
