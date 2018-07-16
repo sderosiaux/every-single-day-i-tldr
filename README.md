@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-07-2018
+
+- https://github.com/andyburgin/hadoopi Hadoop over Raspberry Pi 3's \o/
+
 # 15-07-2018
 
 - http://degoes.net/articles/fpoop-vs-fp FP-OOP vs FP: the case of IO
