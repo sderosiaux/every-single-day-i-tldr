@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 17-07-2018
+
+- https://cloudplatform.googleblog.com/2018/07/cloud-spanner-adds-import-export-functionality-to-ease-data-movement.html Cloud Spanner adds import/export functionality (avro)
+
 # 16-07-2018
 
 - https://fosdem.org/2018/schedule/event/datastore/attachments/slides/2618/export/events/attachments/datastore/slides/2618/designing_distributed_datastore_in_go_timbala.pdf Designing and building a distributed timeseries datastore in Go: Timbala
