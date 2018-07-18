@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-07-2018
 
+- https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/ Kafka vs. Enterprise Service Bus (ESB)
 - https://medium.com/google-design/google-photos-45b714dfbed1 Building the Google Photos Web UI
 - https://leanpub.com/esversioning/read#leanpub-auto-general-versioning-concerns Read Versioning in an Event Sourced System
 - https://github.com/hasura/graphql-engine GraphQL APIs over Postgres with fine grained access control
