@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-07-2018
+
+- https://github.com/imbrn/v8n A sweet and fluent Javascript validation library
+
 # 18-07-2018
 
 - https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/ Kafka vs. Enterprise Service Bus (ESB)
