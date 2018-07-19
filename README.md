@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-07-2018
 
+- https://www.imaging-resource.com/news/2018/07/17/pixels-for-geeks-a-peek-inside-nikons-super-secret-sensor-design-lab A peek inside Nikon’s super-secret sensor design lab
 - https://github.com/imbrn/v8n A sweet and fluent Javascript validation library
 
 # 18-07-2018
