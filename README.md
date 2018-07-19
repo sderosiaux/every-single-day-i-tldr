@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-07-2018
 
+- http://blog.christianposta.com/istio-workshop Workshop with Kubernetes, Envoy, and Istio
 - https://github.com/OptimalBits/bull Queue system over Redis, in nodejs
 - http://jxnblk.com/writing/posts/defining-component-apis-in-react/ Tips about writing ReactJS components
 - https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/ 11 Ways (Not) to Get Hacked - Kubernetes
