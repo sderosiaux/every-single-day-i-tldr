@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-07-2018
 
+- http://jxnblk.com/writing/posts/defining-component-apis-in-react/ Tips about writing ReactJS components
 - https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/ 11 Ways (Not) to Get Hacked - Kubernetes
 - https://en.wikipedia.org/wiki/Timeline_of_the_far_future Timeline of the far future (yeah, it's dark)
 - https://github.com/prometheus/prometheus/blob/master/documentation/internal_architecture.md Internal Architecture of Prometheus
