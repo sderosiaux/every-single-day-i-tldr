@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-07-2018
 
+- https://github.com/lihaoyi/requests-scala A Scala port of the Python Requests HTTP client
 - https://blog.drone.io/ CI/CD made _very_ easy using GCE
 - https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d How Vue's "Reactivity" (bindings) works
 - https://www.youtube.com/watch?v=zVt55i2UkcU A new build tool for Scala: Fury by Jon Pretty
