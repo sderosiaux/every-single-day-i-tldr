@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-07-2018
 
+- https://blog.softwaremill.com/why-scala-a6ac8c98c541 Scala FTW
 - https://www.inderapotheke.de/blog/farewell-google-maps Alternative to Google Maps
 
 # 19-07-2018
