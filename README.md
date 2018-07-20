@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-07-2018
+
+- https://www.inderapotheke.de/blog/farewell-google-maps Alternative to Google Maps
+
 # 19-07-2018
 
 - http://blog.christianposta.com/istio-workshop Workshop with Kubernetes, Envoy, and Istio
