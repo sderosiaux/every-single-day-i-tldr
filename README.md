@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-07-2018
+
+- https://github.com/unisonweb/unison Haskell-like programming platform, distributed-systems oriented
+
 # 20-07-2018
 
 - https://github.com/lihaoyi/requests-scala A Scala port of the Python Requests HTTP client
