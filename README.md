@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-07-2018
+
+- https://www.xaprb.com/slides/how-to-monitor-your-database/ How to Monitor Your Database
+
 # 22-07-2018
 
 - https://github.com/unisonweb/unison Haskell-like programming platform, distributed-systems oriented
