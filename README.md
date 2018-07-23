@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-07-2018
 
+- https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8 We often create and try to resolve Imaginary problems
 - https://medium.com/@pankajroark/sorting-and-parquet-3a382893cde5 According to your reading pattern, sorting by a column in parquet can be a win
 - https://code.fb.com/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/ Location-Aware Distribution as a replacement for zookeeper (p2p-based, and sharded)
 - https://www.xaprb.com/slides/how-to-monitor-your-database/ How to Monitor Your Database
