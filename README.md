@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-07-2018
 
+- https://code.fb.com/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/ Location-Aware Distribution as a replacement for zookeeper (p2p-based, and sharded)
 - https://www.xaprb.com/slides/how-to-monitor-your-database/ How to Monitor Your Database
 
 # 22-07-2018
