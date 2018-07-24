@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-07-2018
+
+- https://github.com/GoogleChromeLabs/ndb Another nodejs debugger, using a standalone Chrome DevTools
+
 # 23-07-2018
 
 - https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8 We often create and try to resolve Imaginary problems
