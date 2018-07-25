@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-07-2018
 
+- https://landing.google.com/sre/book.html The new "Site Reliability Engineering" book from Google
 - https://cloudplatform.googleblog.com/2018/07/announcing-resource-based-pricing-for-google-compute-engine.html More discounts with GCE!
 - https://kubuszok.com/2018/scala-fud-faq-for-newbies/ Scala FUD FAQ for newbies
 - https://jvns.ca/blog/2018/07/24/ip-addresses-routing/ Subnets and having fun with iptables
