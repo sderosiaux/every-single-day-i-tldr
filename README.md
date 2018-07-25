@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-07-2018
 
+- https://jvns.ca/blog/2018/07/24/ip-addresses-routing/ Subnets and having fun with iptables
 - https://kubernetes.io/blog/2018/07/24/feature-highlight-cpu-manager/ Adding CPU Affinity through the CPU Manager (to share caches, and other things)
 
 # 24-07-2018
