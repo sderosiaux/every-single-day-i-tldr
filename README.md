@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-07-2018
 
+- https://developers.google.com/web/updates/2018/07/site-isolation Why we should enable CORB (CORB, not CORS!)
 - http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html A guide about respecting semver (respecting the users, the major/minor/patch cycle, the deprecations..)
 - https://medium.com/@jeffrey.allen.lewis/http-requests-compared-why-axios-is-better-than-node-fetch-more-secure-can-handle-errors-better-39fde869a4a6 I remember using Axios, a loong time ago.
 
