@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-07-2018
+
+- https://medium.com/@jeffrey.allen.lewis/http-requests-compared-why-axios-is-better-than-node-fetch-more-secure-can-handle-errors-better-39fde869a4a6 I remember using Axios, a loong time ago.
+
 # 25-07-2018
 
 - https://cloud.google.com/bigtable/docs/keyvis-overview When dataviz meet Bigtable. Key Visualizer 
