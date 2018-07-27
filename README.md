@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-07-2018
 
+- https://www.youtube.com/watch?v=uiorT754IwA Martin Odersky: Implicit contexts in the types
 - https://www.infoq.com/articles/system-behaviour-time-series-ml Understanding Software System Behaviour With ML and Time Series Data
 - https://kubuszok.com/compiled/implicits-type-classes-and-extension-methods/ Implicits, type classes, and extension methods
 - http://lampwww.epfl.ch/~doeraene/thesis/doeraene-thesis-2018-cross-platform-language-design.pdf The ScalaJS Thesis by Sébastien Doeraene (June, 2018)
