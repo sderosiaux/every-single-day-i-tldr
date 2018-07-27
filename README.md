@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-07-2018
 
+- https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html The official post about BigQuery ML
 - https://github.com/yipeeio/kubeiql A GraphQL interface for Kubernetes. :heart:
 - https://yokota.blog/2018/07/23/kafka-graphs-graph-analytics-with-apache-kafka/ A new lib: Kafka Graphs, to work with Kafka Streams
 - https://japgolly.blogspot.com/2018/07/enforcing-rules-at-compile-time-example.html Enforcing rules at compile-time using implicit type evidence
