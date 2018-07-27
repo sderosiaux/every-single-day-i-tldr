@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 27-07-2018
+
+- http://lampwww.epfl.ch/~doeraene/thesis/doeraene-thesis-2018-cross-platform-language-design.pdf The ScalaJS Thesis by Sébastien Doeraene (June, 2018)
+
 # 26-07-2018
 
 - https://developers.google.com/web/updates/2018/07/site-isolation Why we should enable CORB (CORB, not CORS!)
