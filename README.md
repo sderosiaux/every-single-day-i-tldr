@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-07-2018
+
+- https://www.infoq.com/news/2018/07/conduit-merges-linkerd2 Conduit was merged into Linkerd: Linkerd2
+
 # 27-07-2018
 
 - https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html The official post about BigQuery ML
