@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-07-2018
 
+- http://debezium.io/blog/2018/07/19/advantages-of-log-based-change-data-capture/ Change Data Capture vs Polling. No match here.
 - https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste 8 Fallacies of Distributed Systems: why and solutions
 
 # 28-07-2018
