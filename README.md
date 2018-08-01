@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-08-2018
+
+- http://enear.github.io/2018/07/30/Play-Framework-in-Scala-Action-Composition/ Play Framework in Scala - Action Composition
+
 # 30-07-2018
 
 - https://www.infoq.com/news/2018/07/knative-kubernetes-serverless Knative: A Kubernetes Framework to Build, Deploy, and Manage Serverless Workloads
