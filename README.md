@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-08-2018
 
+- https://www.quora.com/Why-were-weakly-typed-programming-languages-created/answer/Bartosz-Milewski?share=799ea4c2 Why were weakly-typed programming languages created? "an evolutionary aberration"
 - https://www.youtube.com/watch?v=J31o0ZMQEnI Project Loom: Fiber in Java, how to deal with the existing, Threads etc.
 - https://www.youtube.com/watch?v=sxudIMiOo68 John De Goes - FP to the Max. Really nice video to know how to translate an imperative-flawed program to a FP program.
 - http://enear.github.io/2018/07/30/Play-Framework-in-Scala-Action-Composition/ Play Framework in Scala - Action Composition
