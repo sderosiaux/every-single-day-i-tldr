@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-08-2018
+
+- https://www.robinwieruch.de/react-pass-props-to-component/ A nice recap article to React props/state/context and more
+
 # 01-08-2018
 
 - https://blog.softwaremill.com/keep-your-domain-clean-in-event-sourcing-5db6ddc26fe4 Keep your domain clean in Event Sourcing
