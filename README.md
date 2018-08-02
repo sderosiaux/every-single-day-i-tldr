@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-08-2018
 
+- https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial Puppeteer tips and tricks
 - http://marxsoftware.blogspot.com/2018/08/single-file-java-source-code-programs.html JDK 11: #!/bin/java programs
 - https://www.robinwieruch.de/react-pass-props-to-component/ A nice recap article to React props/state/context and more
 
