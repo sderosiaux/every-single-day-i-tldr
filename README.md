@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-08-2018
 
+- https://blog.joegreen.pl/Scala-imitating-case-class-apply.html TIL case class extends FunctionN
 - https://issues.apache.org/jira/browse/SPARK-14220 Spark on Scala 2.12, huge!!
 
 # 02-08-2018
