@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-08-2018
 
+- https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/ Amazon Aurora VS RDS MySQL
 - https://blog.timescale.com/sql-vs-flux-influxdb-query-language-time-series-database-290977a01a8a SQL vs. Flux (InfluxDB query language). Flux was made to avoid verbosity but you can just hide it even in SQL.
 - https://blog.joegreen.pl/Scala-imitating-case-class-apply.html TIL case class extends FunctionN
 - https://issues.apache.org/jira/browse/SPARK-14220 Spark on Scala 2.12, huge!!
