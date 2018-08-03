@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-08-2018
+
+- https://issues.apache.org/jira/browse/SPARK-14220 Spark on Scala 2.12, huge!!
+
 # 02-08-2018
 
 - https://www.infoq.com/presentations/serverless-patterns-antipatterns Cool talk presenting different architectures around serverless apps
