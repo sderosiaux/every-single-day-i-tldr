@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-08-2018
 
+- https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe ƒîîîกี้ð Ĥéééļþ ÖÖกี้ļîîîกี้ééé
 - https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f Bad code leads to bugs, no surprise here
 - https://richardimaoka.github.io/blog/akka-http-operation-scope/ Akka HTTP request/response scope operations, vs. Deferred operations
 - https://www.infoq.com/presentations/rust-network-infrastructure Next Gen Networking Infrastructure with Rust. I learned some interesting facts about Rust!
