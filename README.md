@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-08-2018
+
+- https://blog.godatadriven.com/multiformat-spark-partition Spark PR to deal with multiple partition formats (avro & parquet)
+
 # 03-08-2018
 
 - https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/ TypeScript 3 is out. New features, better error messages. And... the new "unknown" type forcing you to cast later. Wth don't you have a proper sum type/tagged union beforehands.
