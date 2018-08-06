@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-08-2018
 
+- https://blog.gojekengineering.com/sakaar-taking-kafka-data-to-cloud-storage-at-go-jek-7839da20b5f3 Sakaar: another at-least once cloud storage saver
 - https://blog.godatadriven.com/multiformat-spark-partition Spark PR to deal with multiple partition formats (avro & parquet)
 
 # 03-08-2018
