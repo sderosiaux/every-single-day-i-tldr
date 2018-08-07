@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-08-2018
+
+- https://blog.acolyer.org/2018/08/07/bleak-automatically-debugging-memory-leaks-in-web-applications/ BLeak: automatically debugging memory leaks in web applications
+
 # 06-08-2018
 
 - https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe ƒîîîกี้ð Ĥéééļþ ÖÖกี้ļîîîกี้ééé
