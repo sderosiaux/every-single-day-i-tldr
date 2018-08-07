@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-08-2018
 
+- https://logallthethings.com/2016/06/28/how-to-read-to-the-end-of-a-kafka-topic/ How to know when you're at the end of a Kafka topic
 - https://v8project.blogspot.com/2018/08/v8-release-69.html Memory savings, WASM speedups, in Javascript V8
 - https://blog.acolyer.org/2018/08/07/bleak-automatically-debugging-memory-leaks-in-web-applications/ BLeak: automatically debugging memory leaks in web applications
 
