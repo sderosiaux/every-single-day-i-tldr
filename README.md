@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-08-2018
+
+- http://marxsoftware.blogspot.com/2018/08/jdk-12-merging-collectors-naming-challenge.html The Challenge of Naming
+
 # 07-08-2018
 
 - https://logallthethings.com/2016/06/28/how-to-read-to-the-end-of-a-kafka-topic/ How to know when you're at the end of a Kafka topic
