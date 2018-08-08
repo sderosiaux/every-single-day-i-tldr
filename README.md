@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-08-2018
 
+- https://www.confluent.io/blog/getting-started-apache-kafka-kubernetes/ Helm templates for Apache Kafka 
 - https://dawn.cs.stanford.edu/2018/08/07/sparser/ Impressive: Filtering before parsing data = massive speedup. JSON/Parquet/Avro/etc. 
 - https://www.image-charts.com/ A drop-in replacement for Google Image Charts (deprecated)
 - http://marxsoftware.blogspot.com/2018/08/jdk-12-merging-collectors-naming-challenge.html The Challenge of Naming
