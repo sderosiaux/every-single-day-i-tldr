@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-08-2018
 
+- https://www.image-charts.com/ A drop-in replacement for Google Image Charts (deprecated)
 - http://marxsoftware.blogspot.com/2018/08/jdk-12-merging-collectors-naming-challenge.html The Challenge of Naming
 
 # 07-08-2018
