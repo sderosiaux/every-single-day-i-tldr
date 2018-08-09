@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-08-2018
 
+- https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript/ Setup your own Webpack 4 config for React with Typescript
 - https://medium.freecodecamp.org/how-to-work-with-react-the-right-way-to-avoid-some-common-pitfalls-fc9eb5e34d9e AbortController to cancel xhr/fetch
 - https://spectrum.ieee.org/nanoclast/semiconductors/nanotechnology/new-approach-to-stmenabled-memory-promises-thousand-times-more-data-storage 138TB in 6cm2
 - https://wsargent.github.io/ocaps/slides/#1 Security in Scala: Refined Typed and Object Capabilities
