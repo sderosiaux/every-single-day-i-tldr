@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-08-2018
 
+- https://www.lightbend.com/reactive-programming-versus-reactive-systems Reactive Programming versus Reactive Systems
 - https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab By getting their bot's API github token from their public Jenkins :o
 - https://www.spinellis.gr/blog/20180805/ from 380h with MariaDB to 12h with two Unix commands
 - https://sevketyalcin.com/blog/setup-your-own-webpack-config-for-react-with-typescript/ Setup your own Webpack 4 config for React with Typescript
