@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-08-2018
 
+- https://moz.com/blog/beginners-guide-to-seo-chapter-4 SEO, On-Page Optimization
 - http://marxsoftware.blogspot.com/2018/08/apis-to-be-removed-from-java-11.html APIs & modules To Be Removed from Java 11, lean!
 
 # 08-08-2018
