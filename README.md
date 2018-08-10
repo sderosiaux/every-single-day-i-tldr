@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-08-2018
 
+- https://cloud.google.com/blog/products/gcp/expanding-the-cloud-firestore-beta-to-more-users DataStore will be more consistent under Cloud Firestore
 - https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/ Types in Scala
 - https://hackernoon.com/python-tricks-101-2836251922e0 Python Tricks, i keep learning a bit.
 
