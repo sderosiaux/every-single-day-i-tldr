@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-08-2018
 
+- https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/ Types in Scala
 - https://hackernoon.com/python-tricks-101-2836251922e0 Python Tricks, i keep learning a bit.
 
 # 09-08-2018
