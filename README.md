@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-08-2018
 
+- https://blog.cloudera.com/blog/2018/08/robust-message-serialization-in-apache-kafka-using-apache-avro-part-3/ Storing Avro Schemas into Kafka instead of another backend (SR)
 - https://news.ycombinator.com/item?id=17700360 General consensus: Kubernetes on Azure sucks
 - https://movingfulcrum.com/horrors-of-using-azure-kubernetes-service-in-production/ Horrors of using Azure Kubernetes Service in production: ouch!
 
