@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-08-2018
 
+- https://news.ycombinator.com/item?id=17700360 General consensus: Kubernetes on Azure sucks
 - https://movingfulcrum.com/horrors-of-using-azure-kubernetes-service-in-production/ Horrors of using Azure Kubernetes Service in production: ouch!
 
 # 10-08-2018
