@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-08-2018
 
+- https://blog.bugsnag.com/bug-day-race-condition-therac-25/ A bug causing several patients to die. No good at all.
 - https://github.com/umpox/TinyEditor TinyEditor: A functional HTML/CSS/JS editor in less than 400 bytes. Nuts!
 - https://azure.microsoft.com/en-us/blog/how-microsoft-drives-exabyte-analytics-on-the-world-s-largest-yarn-cluster/ How Microsoft drives exabyte analytics on the world’s largest YARN cluster
 - https://medium.com/@hoffa/bigquery-optimized-cluster-your-tables-65e2f684594b Limit time and cost: Cluster your BigQuery tables
