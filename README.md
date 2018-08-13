@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-08-2018
+
+- https://movingfulcrum.com/horrors-of-using-azure-kubernetes-service-in-production/ Horrors of using Azure Kubernetes Service in production: ouch!
+
 # 10-08-2018
 
 - https://cloud.google.com/blog/products/gcp/expanding-the-cloud-firestore-beta-to-more-users DataStore will be more consistent under Cloud Firestore
