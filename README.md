@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-08-2018
 
+- https://www.youtube.com/watch?v=dRiQIo9moSw The latest Scala Plugin Improvements in IntelliJ IDEA 2018.2 are very good! Implicits ftw
 - https://richardimaoka.github.io/blog//akka-http-marshalling-details/ How Akka HTTP marshalling works. Marshallable, Marshalling, Marshaller. Repeat 3x.
 - https://cloud.google.com/blog/products/gcp/introducing-headless-chrome-support-in-cloud-functions-and-app-engine GCP: headless Chrome support in Cloud Functions and App Engine. So good!!
 - https://www.sqlite.org/draft/releaselog/current.html SQLite adds window functions, huge!
