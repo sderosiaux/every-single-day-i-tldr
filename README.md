@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-08-2018
 
+- https://cloud.google.com/blog/products/gcp/introducing-headless-chrome-support-in-cloud-functions-and-app-engine GCP: headless Chrome support in Cloud Functions and App Engine. So good!!
 - https://www.sqlite.org/draft/releaselog/current.html SQLite adds window functions, huge!
 
 # 13-08-2018
