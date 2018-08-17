@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 17-08-2018
+
+- https://www.datadoghq.com/blog/engineering/introducing-kafka-kit-tools-for-scaling-kafka/ Kafka-Kit: Tools for repartition a topic on brokers (it's a pain manually)
+
 # 16-08-2018
 
 - https://www.youtube.com/watch?v=dRiQIo9moSw The latest Scala Plugin Improvements in IntelliJ IDEA 2018.2 are very good! Implicits ftw
