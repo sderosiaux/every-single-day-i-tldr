@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-08-2018
+
+- https://www.confluent.io/blog/build-udf-udaf-ksql-5-0 How to Build a UDF and/or UDAF in KSQL
+
 # 17-08-2018
 
 - https://www.datadoghq.com/blog/engineering/introducing-kafka-kit-tools-for-scaling-kafka/ Kafka-Kit: Tools for repartition a topic on brokers (it's a pain manually)
