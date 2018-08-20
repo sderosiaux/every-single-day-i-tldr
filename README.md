@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-08-2018
+
+- https://clemenswinter.com/2018/08/13/how-read-100s-of-millions-of-records-per-second-from-a-single-disk/ LocustDB, backed by RocksDB
+
 # 18-08-2018
 
 - https://www.confluent.io/blog/build-udf-udaf-ksql-5-0 How to Build a UDF and/or UDAF in KSQL
