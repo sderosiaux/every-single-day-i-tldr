@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-08-2018
 
+- https://engineering.pandora.com/using-memsql-at-pandora-79a86cb09b57 Good insights about their call to use MemSQL
 - https://clemenswinter.com/2018/08/13/how-read-100s-of-millions-of-records-per-second-from-a-single-disk/ LocustDB, backed by RocksDB
 
 # 18-08-2018
