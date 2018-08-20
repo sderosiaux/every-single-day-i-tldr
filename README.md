@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-08-2018
 
+- https://kubuszok.com/2018/kinds-of-types-in-scala-part-3/ Kinds of types in Scala, part 3— Love it!
 - https://medium.com/@chandukavar/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c Testing in Airflow
 - https://www.infoq.com/news/2018/08/Prometheus-Graduates-CNCF Prometheus "Graduates" from the Cloud Native Computing Foundation
 - https://engineering.pandora.com/using-memsql-at-pandora-79a86cb09b57 Good insights about their call to use MemSQL
