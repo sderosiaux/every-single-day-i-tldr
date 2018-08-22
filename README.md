@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-08-2018
+
+- https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3 What’s new in MariaDB 10.3
+
 # 20-08-2018
 
 - https://kubuszok.com/2018/kinds-of-types-in-scala-part-3/ Kinds of types in Scala, part 3— Love it!
