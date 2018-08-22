@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-08-2018
 
+- https://blog.colinbreck.com/maximizing-throughput-for-akka-streams/ Maximizing Throughput for Akka Streams
 - https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html Spark on a Single Node Machine, comparaison between Pandas and PySpark (the latter wins easy)
 - http://tech.trello.com/why-we-chose-kafka/# From RabbitMQ to Kafka: more resilient, less cost.
 - https://www.taniarascia.com/getting-started-with-react/ A fresh "Getting Started with React"
