@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-08-2018
 
+- https://www.taniarascia.com/getting-started-with-react/ A fresh "Getting Started with React"
 - https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3 What’s new in MariaDB 10.3
 
 # 20-08-2018
