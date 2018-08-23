@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-08-2018
+
+- https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/ Better mocking in NodeJS: aws s3, server mock, generic http requests/response, module mocking, file system, dates and timers
+
 # 22-08-2018
 
 - https://developers.google.com/web/updates/2018/08/web-performance-made-easy #webperfmatters optimizing a front-end
