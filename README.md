@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-08-2018
 
+- https://medium.com/@duhroach/datastore-lexicographical-contention-fc02fb4864e9 Basic lesson: never use a timestamp as key in Datastore
 - https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node nodejs REST API and OAuth 2.0
 - https://www.digitalocean.com/community/tutorials/how-to-develop-a-node-js-tcp-server-application-using-pm2-and-nginx-on-ubuntu-16-04 Nginx and tcp client/servers using "stream"
 - https://dejanseo.com.au/competitor-hack/ "How I recorded user behaviour on my competitor's websites"
