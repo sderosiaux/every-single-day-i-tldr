@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-08-2018
 
+- https://dejanseo.com.au/competitor-hack/ "How I recorded user behaviour on my competitor's websites"
 - https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/ Better mocking in NodeJS: aws s3, server mock, generic http requests/response, module mocking, file system, dates and timers
 
 # 22-08-2018
