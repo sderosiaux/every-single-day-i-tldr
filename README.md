@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-08-2018
+
+- https://github.com/mafintosh/turbo-json-parse Turbocharged JSON.parse for type stable JSON data
+
 # 23-08-2018
 
 - https://medium.com/@duhroach/datastore-lexicographical-contention-fc02fb4864e9 Basic lesson: never use a timestamp as key in Datastore
