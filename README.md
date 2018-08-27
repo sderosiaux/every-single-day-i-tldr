@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-08-2018
 
+- http://blog.ploeh.dk/2018/08/27/on-constructor-over-injection/ constructor over-injection=bad smell / break of Single Resp principle
 - https://streaml.io/blog/introducing-pulsar-io How to use Pulsar IO framework
 - https://medium.com/@copyconstruct/health-checks-in-distributed-systems-aa8a0e8c1672 Health Checks and Graceful Degradation in Distributed Systems
 - https://speakerdeck.com/copyconstructor/prometheus-a-whirlwind-tour?slide=191 Very nice overview of Prometheus
