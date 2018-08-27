@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-08-2018
 
+- https://streaml.io/blog/introducing-pulsar-io How to use Pulsar IO framework
 - https://medium.com/@copyconstruct/health-checks-in-distributed-systems-aa8a0e8c1672 Health Checks and Graceful Degradation in Distributed Systems
 - https://speakerdeck.com/copyconstructor/prometheus-a-whirlwind-tour?slide=191 Very nice overview of Prometheus
 - https://www.percona.com/blog/2018/08/20/using-aws-ec2-instance-store-vs-ebs-for-mysql-how-to-increase-performance-and-decrease-cost/ AWS EC2 instance store vs EBS for MySQL: better perf, less cost
