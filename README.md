@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-08-2018
 
+- https://towardsdatascience.com/tracking-nyc-citi-bike-real-time-utilization-using-kafka-streams-1c0ea9e24e79 Kafka Streams usage and code
 - https://medium.com/@jerolba/persisting-fast-in-database-1af4a281e3a Batching operations in Hibernate for better throughput
 - http://blog.ploeh.dk/2018/08/27/on-constructor-over-injection/ constructor over-injection=bad smell / break of Single Resp principle
 - https://streaml.io/blog/introducing-pulsar-io How to use Pulsar IO framework
