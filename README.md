@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 27-08-2018
+
+- https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a Feedback about Event Sourcing and CQRS.
+
 # 26-08-2018
 
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/ Remote Code Execution on a Facebook server; ~15 lines, $5000!
