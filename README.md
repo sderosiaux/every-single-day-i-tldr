@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-08-2018
+
+- https://github.com/vectos/goedverhaal Saga in Scala for effects which have a cats.effect.Sync instance.
+
 # 27-08-2018
 
 - https://towardsdatascience.com/tracking-nyc-citi-bike-real-time-utilization-using-kafka-streams-1c0ea9e24e79 Kafka Streams usage and code
