@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-08-2018
 
+- https://speakerdeck.com/copyconstructor/prometheus-a-whirlwind-tour A very good tour about Prometheus
 - https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html Gttp4s error handling with Cats Meow MTL
 
 # 29-08-2018
