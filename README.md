@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-08-2018
+
+- https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html Gttp4s error handling with Cats Meow MTL
+
 # 29-08-2018
 
 - https://github.com/vectos/goedverhaal Saga in Scala for effects which have a cats.effect.Sync instance.
