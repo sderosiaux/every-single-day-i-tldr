@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-09-2018
 
+- http://degoes.net/articles/modern-fp-part-2 Higher order category theory
 - https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/ Java's new Z Garbage Collector (ZGC)
 
 # 30-08-2018
