@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-09-2018
+
+- https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/ Java's new Z Garbage Collector (ZGC)
+
 # 30-08-2018
 
 - https://speakerdeck.com/copyconstructor/prometheus-a-whirlwind-tour A very good tour about Prometheus
