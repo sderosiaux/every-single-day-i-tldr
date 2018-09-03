@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-09-2018
+
+- https://jvns.ca/blog/2018/09/03/editing-my-blog-s-http-headers-with-cloudflare-workers/ A weird header bug fixed thanks to Cloudflare workers
+
 # 02-09-2018
 
 - http://degoes.net/articles/modern-fp-part-2 Higher order category theory
