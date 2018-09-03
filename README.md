@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-09-2018
 
+- https://github.com/electronicarts/ea-async async-await methods in the JVM!
 - https://jvns.ca/blog/2018/09/03/editing-my-blog-s-http-headers-with-cloudflare-workers/ A weird header bug fixed thanks to Cloudflare workers
 
 # 02-09-2018
