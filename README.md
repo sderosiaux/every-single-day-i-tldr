@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-09-2018
 
+- https://www.confluent.io/blog/putting-power-apache-kafka-hands-data-scientists/ Another story switching to the Kafka platform to help Data Scientists
 - http://marxsoftware.blogspot.com/2018/09/jdk-12-switch-expressions-in-action.html JDK 12's new switch as expression
 
 # 03-09-2018
