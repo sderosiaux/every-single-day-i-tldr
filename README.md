@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-09-2018
 
+- https://www.youtube.com/watch?v=vpcKnqyNdSQ Why FP matters, how to introduce the FP world in a company
 - https://michaelzg.com/akka/2018/09/03/akka-actor-fsm-comparison-part1/ Comparing Akka Untyped, FSM, and Typed Actors
 - https://www.youtube.com/watch?v=xtYI67fy0wc Data modeling tradeoffs with Druid
 - https://www.infoq.com/articles/refactoring-deeper-model Feedback about refactoring following some DDD principles and patterns
