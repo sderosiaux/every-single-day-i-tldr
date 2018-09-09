@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-09-2018
 
+- https://www.youtube.com/watch?v=xtYI67fy0wc Data modeling tradeoffs with Druid
 - https://www.infoq.com/articles/refactoring-deeper-model Feedback about refactoring following some DDD principles and patterns
 - https://www.youtube.com/watch?v=_BNIkw4Ao9w Why Static Website must use HTTPS: multiple examples of Man In The Middle attacks: that's why
 - https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d Interesting notes about Software Engineering (we could almost talk about Software Craftmanship)
