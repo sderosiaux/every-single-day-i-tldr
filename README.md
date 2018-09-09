@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-09-2018
+
+- http://marxsoftware.blogspot.com/2018/09/jdk-12-switch-expressions-in-action.html JDK 12's new switch as expression
+
 # 03-09-2018
 
 - https://github.com/electronicarts/ea-async async-await methods in the JVM!
