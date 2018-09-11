@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 11-09-2018
+
+- https://v8project.blogspot.com/2018/09/10-years.html 10 years for V8 JavaScript Engine
+
 # 09-09-2018
 
 - https://www.slideshare.net/jdegoes/zio-queue ZIO Queue
