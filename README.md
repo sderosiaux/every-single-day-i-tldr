@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-09-2018
 
+- https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved EU Copyright Directive vote: Articles 11 and 13 approved
 - https://www.infoq.com/articles/ddd-do-over DDD feedback
 
 # 11-09-2018
