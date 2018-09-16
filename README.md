@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-09-2018
 
+- https://martinfowler.com/articles/extract-data-rich-service.html Migrating from monolith to services by extracting data-rich services
 - https://www.youtube.com/watch?v=hzf3hTUKk8U Functional Programming was Terrible in Scala 2014
 - https://www.youtube.com/watch?v=GqmsQeSzMdw Constraints Liberate, Liberties Constrain — Runar Bjarnason
 - https://gist.github.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53 Algebraic Effects and Continuations
