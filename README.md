@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-09-2018
 
+- https://gist.github.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53 Algebraic Effects and Continuations
 - https://www.slideshare.net/wiemzin/psug-zio-queue ZIO queue talk
 - https://www.slideshare.net/johanandren/next-generation-actors-with-akka Akka Typed presentation
 - https://www.infoq.com/news/2018/09/ddd-not-done It's only the beginning of DDD
