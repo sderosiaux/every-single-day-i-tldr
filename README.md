@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-09-2018
+
+- https://www.infoq.com/presentations/event-flow-distributed-systems Complex Event Flows in Distributed Systems
+
 # 15-09-2018
 
 - https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved EU Copyright Directive vote: Articles 11 and 13 approved
