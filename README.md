@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-09-2018
 
+- https://about.sourcegraph.com/go/gophercon-2018-from-prototype-to-production-lessons-from-building-and/ Building and Scaling Reddit's Ad Serving Platform (with Go). From 90ms to 10ms.
 - https://www.infoq.com/presentations/event-flow-distributed-systems Complex Event Flows in Distributed Systems
 
 # 15-09-2018
