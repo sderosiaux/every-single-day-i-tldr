@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-09-2018
 
+- https://www.infoq.com/news/2018/09/ddd-not-done It's only the beginning of DDD
 - https://code.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/ Developers soon replaced by Infer/Sapienz/SapFix :-)
 - https://about.sourcegraph.com/go/gophercon-2018-from-prototype-to-production-lessons-from-building-and/ Building and Scaling Reddit's Ad Serving Platform (with Go). From 90ms to 10ms.
 - https://www.infoq.com/presentations/event-flow-distributed-systems Complex Event Flows in Distributed Systems
