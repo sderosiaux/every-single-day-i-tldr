@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-09-2018
 
+- https://blog.cloudflare.com/distributed-web-gateway/ IPFS, the future of the web?
 - https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a Tips to know how to act as a engineering manager
 
 # 16-09-2018
