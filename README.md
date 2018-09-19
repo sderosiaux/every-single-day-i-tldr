@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-09-2018
 
+- https://v8project.blogspot.com/2018/09/dataview.html Greatly Improving DataView performance in V8 compared to TypedArrays
 - https://www.missingfaktor.me/writing/2018/08/12/composable-table-updates-in-slick/ Composable table updates in Slick
 - http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/ "Falling in love with Rust" this article makes me want to write some Rust
 - https://blog.cloudflare.com/distributed-web-gateway/ IPFS, the future of the web?
