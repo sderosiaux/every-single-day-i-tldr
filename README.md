@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-09-2018
+
+- https://github.com/chrishtr/display-locking Display Locking spec: look an element, modify it, and release it
+
 # 19-09-2018
 
 - https://v8project.blogspot.com/2018/09/dataview.html Greatly Improving DataView performance in V8 compared to TypedArrays
