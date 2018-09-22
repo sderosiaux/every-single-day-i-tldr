@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-09-2018
 
+- https://philipwalton.com/articles/idle-until-urgent/ Mixing requestIdleCallback and lazy behavior in JS
 - https://github.com/yahoo/HaloDB A new Java fast key-value storage engine
 - https://cloud.google.com/blog/products/ai-machine-learning/simplifying-ml-predictions-with-google-cloud-functions Cloud Functions + ML Engine at Google
 - https://www.sqlstyle.guide/ A very nice SQL style guide I agree to
