@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-09-2018
 
+- https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514 scalafmt and the git pre-commit hook
 - http://www.geekabyte.io/2018/09/easing-into-cats-and-case-for-category.html cats is the de-facto lib to use in Scala (Scala)
 - https://philipwalton.com/articles/idle-until-urgent/ Mixing requestIdleCallback and lazy behavior in JS
 - https://github.com/yahoo/HaloDB A new Java fast key-value storage engine
