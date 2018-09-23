@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-09-2018
 
+- https://ipfs.io/ipns/Qme48wyZ7LaF9gC5693DZyJBtehgaFhaKycESroemD5fNX/post/putting_this_blog_on_ipfs/ Putting This Blog on IPFS
 - https://phoboslab.org/log/2018/09/underrun-making-of Making a sublime 13kb webgl game
 
 # 22-09-2018
