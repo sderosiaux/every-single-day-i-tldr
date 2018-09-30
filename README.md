@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-09-2018
+
+- https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd Modeling Uncertainty With Reactive DDD
+
 # 23-09-2018
 
 - https://ipfs.io/ipns/Qme48wyZ7LaF9gC5693DZyJBtehgaFhaKycESroemD5fNX/post/putting_this_blog_on_ipfs/ Putting This Blog on IPFS
