@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-10-2018
+
+- https://reactjs.org/blog/2018/10/01/create-react-app-v2.html Create React App 2.0 out! So many improvements
+
 # 30-09-2018
 
 - https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd Modeling Uncertainty With Reactive DDD
