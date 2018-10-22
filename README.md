@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-10-2018
 
+- https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3 Dotty's Opaque types FTW
 - https://developers.google.com/web/updates/2018/10/nic70?linkId=58284450 New in Chrome 70
 - https://www.madewithtea.com/using-monix-with-kafka-avro-and-schema-registry.html Using Monix with Kafka, Avro and Schema Registry
 - https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8 Machine learning & Kafka KSQL stream processing
