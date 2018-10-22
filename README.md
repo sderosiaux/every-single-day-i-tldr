@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-10-2018
+
+- https://dotty.epfl.ch/blog/2018/10/10/10th-dotty-milestone-release.html Dotty 0.10.0-RC1 !
+
 # 20-10-2018
 
 - https://reactjs.org/blog/2018/10/01/create-react-app-v2.html Create React App 2.0 out! So many improvements
