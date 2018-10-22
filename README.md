@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-10-2018
 
+- https://www.infoq.com/news/2018/10/gcp-cloud-spanner-bigtable Google's Cloud Spanner DML Updates and Cloud Bigtable's New Key Visualization Feature
 - https://dotty.epfl.ch/blog/2018/10/10/10th-dotty-milestone-release.html Dotty 0.10.0-RC1 !
 
 # 20-10-2018
