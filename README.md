@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-10-2018
 
+- https://developers.google.com/web/updates/2018/10/nic70?linkId=58284450 New in Chrome 70
 - https://www.madewithtea.com/using-monix-with-kafka-avro-and-schema-registry.html Using Monix with Kafka, Avro and Schema Registry
 - https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8 Machine learning & Kafka KSQL stream processing
 - https://www.infoq.com/news/2018/10/gcp-cloud-spanner-bigtable Google's Cloud Spanner DML Updates and Cloud Bigtable's New Key Visualization Feature
