@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-10-2018
 
+- https://lambda.grofers.com/why-physical-storage-of-your-database-tables-might-matter-74b563d664d9 Very interesting post about tuning how spark writes data to be read by postgresql
 - https://medium.com/@pang.xin/spark-study-notes-core-concepts-visualized-5256c44e4090 Spark study notes: core concepts visualized
 - https://medium.com/adobetech/creating-the-adobe-experience-platform-pipeline-with-kafka-4f1057a11ef The Adobe Experience Platform "Pipeline" to work with Kafka at scale
 - https://www.confluent.io/blog/apache-kafka-kubernetes-could-you-should-you If you're already working with k8s, yes you should.
