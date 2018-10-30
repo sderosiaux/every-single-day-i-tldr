@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-10-2018
 
+- https://kubernetes.io/blog/2018/10/01/health-checking-grpc-servers-on-kubernetes/ Health checking gRPC servers on Kubernetes
 - https://cloud.google.com/blog/products/data-analytics/how-to-transfer-bigquery-tables-between-locations-with-cloud-composer Using Cloud Composer to transfer BigQuery tables between locations
 - https://cloud.google.com/blog/products/networking/network-controls-in-gcp-vs-on-premises-not-so-different-after-all Network controls in GCP vs. on-premises
 - https://lambda.grofers.com/why-physical-storage-of-your-database-tables-might-matter-74b563d664d9 Very interesting post about tuning how spark writes data to be read by postgresql
