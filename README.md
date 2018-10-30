@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-10-2018
 
+- https://www.confluent.io/blog/apache-kafka-kubernetes-could-you-should-you If you're already working with k8s, yes you should.
 - https://typelevel.org/blog/2018/11/02/semirings.html Semirings and their relation to other structures such as Monoid
 
 # 27-10-2018
