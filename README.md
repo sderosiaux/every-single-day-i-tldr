@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-10-2018
 
+- https://hackernoon.com/distributed-log-analytics-using-apache-kafka-kafka-connect-and-fluentd-303330e478af Distributed log analytics using Apache Kafka, Kafka Connect and Fluentd
 - https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment Apache Kafka: Ten Best Practices to Optimize Your Deployment
 - https://kubernetes.io/blog/2018/10/01/health-checking-grpc-servers-on-kubernetes/ Health checking gRPC servers on Kubernetes
 - https://cloud.google.com/blog/products/data-analytics/how-to-transfer-bigquery-tables-between-locations-with-cloud-composer Using Cloud Composer to transfer BigQuery tables between locations
