@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-11-2018
 
+- https://speakerdeck.com/ogirardot/high-performance-privacy-by-design-using-matryoshka-and-spark Matryoshka & Spark, a not-trivial talk
 - https://www.awsgeek.com/ Impressive collection of cool diagrams & notes about AWS services
 
 # 30-10-2018
