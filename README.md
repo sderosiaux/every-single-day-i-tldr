@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-11-2018
 
+- https://jvican.github.io/post/overload-methods-with-more-parameter-lists/ Relying on linearization to overload methods with extra parameters
 - https://www.justinobeirne.com/new-apple-maps A long study of Apple’s "New Map" (better but still..)
 
 # 01-11-2018
