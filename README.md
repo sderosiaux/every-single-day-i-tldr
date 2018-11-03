@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-11-2018
+
+- https://www.justinobeirne.com/new-apple-maps A long study of Apple’s "New Map" (better but still..)
+
 # 01-11-2018
 
 - https://speakerdeck.com/ogirardot/high-performance-privacy-by-design-using-matryoshka-and-spark Matryoshka & Spark, a not-trivial talk
