@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-11-2018
 
+- https://mixitconf.org/2018/bug-free-by-design Bug free. By design - En gros, du clean code, et du typage :-)
 - https://medium.com/@sankar.p/how-grpc-convinced-me-to-chose-it-over-rest-30408bf42794 Why gRPC is great
 - https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/ Scala compiler phases
 - http://www.lihaoyi.com/post/Fastparse2EvenFasterScalaParserCombinators.html Fastparse 2 compared to Fastparse 1
