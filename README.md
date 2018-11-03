@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-11-2018
 
+- https://medium.com/@sankar.p/how-grpc-convinced-me-to-chose-it-over-rest-30408bf42794 Why gRPC is great
 - https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/ Scala compiler phases
 - http://www.lihaoyi.com/post/Fastparse2EvenFasterScalaParserCombinators.html Fastparse 2 compared to Fastparse 1
 - https://jvican.github.io/post/overload-methods-with-more-parameter-lists/ Relying on linearization to overload methods with extra parameters
