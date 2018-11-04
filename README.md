@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-11-2018
 
+- https://medium.com/capital-one-tech/toward-a-functional-programming-analogy-for-microservices-ba6f49b94ad Microservices and FP
 - https://github.com/wagoodman/dive A tool for exploring each layer in a docker image
 
 # 03-11-2018
