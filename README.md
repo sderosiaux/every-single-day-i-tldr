@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-11-2018
+
+- https://github.com/wagoodman/dive A tool for exploring each layer in a docker image
+
 # 03-11-2018
 
 - https://mixitconf.org/2018/bug-free-by-design Bug free. By design - En gros, du clean code, et du typage :-)
