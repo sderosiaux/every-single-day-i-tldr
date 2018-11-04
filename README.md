@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-11-2018
 
+- https://medium.com/graalvm/under-the-hood-of-graalvm-jit-optimizations-d6e931394797 GraalVM JIT optimizations: powerful inlining strategies
 - https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4 A usage of reactive streams wih Akka HTTP, to track user behavior at Paypal
 - https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/ Stacked Diffs Versus Pull Requests. Pretty sure it's useful, but couldn't get through the article.
 - https://medium.com/capital-one-tech/toward-a-functional-programming-analogy-for-microservices-ba6f49b94ad Microservices and FP
