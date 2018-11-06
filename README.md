@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-11-2018
 
+- https://cloud.google.com/blog/products/storage-data-transfer/hdfs-vs-cloud-storage-pros-cons-and-migration-tips HDFS vs. Cloud Storage: Pros, cons and migration tips
 - https://actualite.housseniawriting.com/science/intelligence-artificielle/2015/05/22/peur-de-lintelligence-artificielle-ou-la-theorie-du-basilic-de-roko/4303/ Le Basilic de Roko. Are you scared of AI?
 
 # 04-11-2018
