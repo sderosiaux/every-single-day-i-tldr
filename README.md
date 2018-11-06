@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-11-2018
+
+- https://actualite.housseniawriting.com/science/intelligence-artificielle/2015/05/22/peur-de-lintelligence-artificielle-ou-la-theorie-du-basilic-de-roko/4303/ Le Basilic de Roko. Are you scared of AI?
+
 # 04-11-2018
 
 - https://medium.com/graalvm/under-the-hood-of-graalvm-jit-optimizations-d6e931394797 GraalVM JIT optimizations: powerful inlining strategies
