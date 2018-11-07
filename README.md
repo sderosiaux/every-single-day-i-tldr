@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-11-2018
+
+- https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/ gRPC Load Balancing on Kubernetes with linkerd
+
 # 06-11-2018
 
 - https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302 Explanations around Apache Kafka’s Controller job
