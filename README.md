@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-11-2018
 
+- https://developer.lightbend.com/blog/2018-11-01-the-scala-2.12-2.13-inliner-and-optimizer/index.html Interesting article about Scalac's Inliner and Optimizer
 - https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/ More on Hexagonal Architecture
 - https://jvns.ca/blog/2018/10/27/envoy-basics/ A sweet article about Envoy basics
 
