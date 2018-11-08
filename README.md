@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-11-2018
 
+- https://www.ebayinc.com/stories/blogs/tech/sre-case-study-mysterious-traffic-imbalance/ A funny SRE Case Study: Mysterious Traffic Imbalance
 - https://databricks.com/blog/2018/11/08/introducing-apache-spark-2-4.html Spark 2.4: Scala 2.12 support! and a better k8s support
 - https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster In Kafka 1.1+, one broker, up to 4000 partitions. One cluster, up to 200k partitions
 - https://developer.lightbend.com/blog/2018-11-01-the-scala-2.12-2.13-inliner-and-optimizer/index.html Interesting article about Scalac's Inliner and Optimizer
