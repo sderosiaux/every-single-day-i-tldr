@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-11-2018
 
+- http://mjk.space/git-aliases-i-cant-live-without/ Git aliases I can't live without – Just sweet shortcuts. I prefer the long version. \o/
 - https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8 A recap of all console.*() in JS
 
 # 08-11-2018
