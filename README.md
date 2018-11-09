@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-11-2018
 
+- https://medium.freecodecamp.org/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa sbt-native-packager and Docker
 - https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c React’s new Hooks API
 - https://medium.com/@LightspeedHQ/google-cloud-spanner-the-good-the-bad-and-the-ugly-5795f37a7684 Google Cloud Spanner: the good, the bad and the ugly
 - http://mjk.space/git-aliases-i-cant-live-without/ Git aliases I can't live without – Just sweet shortcuts. I prefer the long version. \o/
