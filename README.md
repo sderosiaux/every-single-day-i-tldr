@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-11-2018
+
+- https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8 A recap of all console.*() in JS
+
 # 08-11-2018
 
 - https://www.ebayinc.com/stories/blogs/tech/sre-case-study-mysterious-traffic-imbalance/ A funny SRE Case Study: Mysterious Traffic Imbalance
