@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-11-2018
 
+- https://www.caida.org/research/id-consumption/whois-map/images/whois-20071001.png The same but better and larger!
 - http://maps.measurement-factory.com/ IPv4 address space
 - https://medium.freecodecamp.org/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa sbt-native-packager and Docker
 - https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c React’s new Hooks API
