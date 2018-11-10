@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-11-2018
+
+- https://www.cortes.design/post/best-saas-landing-page-examples-inspiration The Best SaaS Landing page examples
+
 # 09-11-2018
 
 - https://www.caida.org/research/id-consumption/whois-map/images/whois-20071001.png The same but better and larger!
