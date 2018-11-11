@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-11-2018
 
+- https://www.youtube.com/watch?v=YFXoNTp6YmM Scala Compilation explained
 - https://www.youtube.com/watch?v=onQSHiafAY8 ZIO Schedule: composable to the max
 
 # 10-11-2018
