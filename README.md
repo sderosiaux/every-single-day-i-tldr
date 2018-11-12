@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 12-11-2018
+
+- https://v8.dev/blog/fast-async Faster async functions and promises · V8
+
 # 11-11-2018
 
 - https://www.youtube.com/watch?v=YFXoNTp6YmM Scala Compilation explained
