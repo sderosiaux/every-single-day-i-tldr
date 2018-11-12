@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-11-2018
 
+- https://blog.cloudflare.com/the-road-to-quic/ Cloudflare already talked about it: the Road to QUIC
 - https://daniel.haxx.se/blog/2018/11/11/http-3/ HTTP/3 will run over UDP
 - https://v8.dev/blog/fast-async Faster async functions and promises · V8
 
