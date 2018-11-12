@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-11-2018
 
+- https://www.premieroctet.com/blog/plongee-dans-les-hooks-react/ les Hooks React
 - https://nrinaudo.github.io/talk-scala-best-practices/#1 Scala Best Practices I Wish Someone'd Told Me About; I learned some stuff :)
 - https://paidy.github.io/talks/scalaio2018/ A nice talk about side-effects (IO Monad) and abstracting parts of a program
 - https://blog.cloudflare.com/the-road-to-quic/ Cloudflare already talked about it: the Road to QUIC
