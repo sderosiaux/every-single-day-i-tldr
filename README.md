@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-11-2018
 
+- https://web.dev/measure Lighthouse as a service
 - https://status.cloud.google.com/incident/container-engine/18005 3 days of outage for GKE :o
 
 # 12-11-2018
