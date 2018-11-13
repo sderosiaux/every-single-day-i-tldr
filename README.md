@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-11-2018
+
+- https://status.cloud.google.com/incident/container-engine/18005 3 days of outage for GKE :o
+
 # 12-11-2018
 
 - https://www.premieroctet.com/blog/plongee-dans-les-hooks-react/ les Hooks React
