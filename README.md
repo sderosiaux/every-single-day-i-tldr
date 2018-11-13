@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-11-2018
 
+- https://www.youtube.com/watch?v=MmLezWRI3Ys The Rebalance Protocol of Apache Kafka is generic and can be used for anything
 - https://web.dev/measure Lighthouse as a service
 - https://status.cloud.google.com/incident/container-engine/18005 3 days of outage for GKE :o
 
