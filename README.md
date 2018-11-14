@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-11-2018
 
+- https://github.com/sokra/rawact A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
 - https://github.com/ikhoon/functional-programming-jargon.scala Jargon from the functional programming world
 - https://sematext.com/blog/elasticsearch-ingest-node-vs-logstash-performance/ Elasticsearch Ingest vs Logstash Performance
 
