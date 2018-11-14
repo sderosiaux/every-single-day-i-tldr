@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-11-2018
+
+- https://sematext.com/blog/elasticsearch-ingest-node-vs-logstash-performance/ Elasticsearch Ingest vs Logstash Performance
+
 # 13-11-2018
 
 - https://www.youtube.com/watch?v=MmLezWRI3Ys The Rebalance Protocol of Apache Kafka is generic and can be used for anything
