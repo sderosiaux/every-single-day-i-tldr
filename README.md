@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-11-2018
 
+- https://www.scala-lang.org/blog/2018/11/16/scalafix-scalameta.html New websites for Scalameta and Scalafix!!
 - https://databricks.com/blog/2018/11/16/introducing-new-built-in-functions-and-higher-order-functions-for-complex-data-types-in-apache-spark.html New Built-in and HOF in Apache Spark 2.4
 
 # 14-11-2018
