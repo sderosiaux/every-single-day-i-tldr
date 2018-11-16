@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-11-2018
+
+- https://databricks.com/blog/2018/11/16/introducing-new-built-in-functions-and-higher-order-functions-for-complex-data-types-in-apache-spark.html New Built-in and HOF in Apache Spark 2.4
+
 # 14-11-2018
 
 - https://github.com/sokra/rawact A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
