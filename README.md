@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-11-2018
 
+- https://www.elastic.co/blog/elasticsearch-6-5-0-released Tons of nice improvements for Elasticsearch 6.5.0 (a new snapshot strategy, new filters, SQL, JDK11 and G1GC)
 - https://medium.com/earnest-engineering/using-applicative-style-to-increase-compositionality-part-ii-266472396795 Applicatives (and Alternatives) to compose logics
 - https://github.com/pulumi/pulumi SDK for cloud native infrastructure as code. No Yaml.
 - https://www.scala-lang.org/blog/2018/11/16/scalafix-scalameta.html New websites for Scalameta and Scalafix!!
