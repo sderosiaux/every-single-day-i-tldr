@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-11-2018
 
+- https://www.youtube.com/watch?v=v-jdlc5YdDc SystemD en profondeur (3h!)
 - https://typelevel.org/blog/2018/10/06/intro-to-mtl.html cats-mtl FTW
 - https://queue.acm.org/detail.cfm?ref=rss&id=2611829 Mostly functional programming does not exist
 - https://typelevel.org/blog/2018/09/29/monad-transformer-variance.html Why Monad Transformers are invariant
