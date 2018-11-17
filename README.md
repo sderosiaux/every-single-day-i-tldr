@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-11-2018
 
+- https://blog.vlovgr.se/post/2018-09-24-io-and-logging-capabilities/ IO & Logging Capabilities. Fasten your seatbelt.
 - https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/ The design and implementation of modern column-oriented database systems
 - https://vimeo.com/295103410 A sweet recap of Scala 3 features and demo of Fury by Jon Pretty
 - https://github.com/lampepfl/dotty/blob/25b84a9e30c723cde2e5d2ba36b12a5c71e93d8c/docs/docs/reference/witnesses/witnesses.md#witnesses-as-typeclass-instances Typeclasses encoding using "witness"
