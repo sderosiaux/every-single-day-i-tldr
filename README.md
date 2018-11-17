@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-11-2018
 
+- https://github.com/lampepfl/dotty/blob/25b84a9e30c723cde2e5d2ba36b12a5c71e93d8c/docs/docs/reference/witnesses/witnesses.md#witnesses-as-typeclass-instances Typeclasses encoding using "witness"
 - https://www.youtube.com/watch?v=wXLf18DsV-I React With Hooks— Ryan Florence
 - https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030 It's always good to reread about ReactJS evols
 
