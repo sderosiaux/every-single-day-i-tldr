@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-11-2018
+
+- https://gist.github.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53 Algebraic Effects and Continuations
+
 # 17-11-2018
 
 - https://www.youtube.com/watch?v=v-jdlc5YdDc SystemD en profondeur (3h!)
