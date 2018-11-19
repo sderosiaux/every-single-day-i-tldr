@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-11-2018
 
+- https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c Druid @ Airbnb Data Platform
 - https://blog.erratasec.com/2018/11/some-notes-about-http3.html Some notes about HTTP/3
 
 # 18-11-2018
