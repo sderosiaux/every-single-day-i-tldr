@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-11-2018
+
+- https://blog.erratasec.com/2018/11/some-notes-about-http3.html Some notes about HTTP/3
+
 # 18-11-2018
 
 - https://gist.github.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53 Algebraic Effects and Continuations
