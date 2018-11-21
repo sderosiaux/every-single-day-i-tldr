@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-11-2018
 
+- https://drive.google.com/file/d/1vq1tcLk4FWK7BKRG5cEhOzbeXoy65hUK/view Event Driven Microservices with Apache Kafka
 - https://medium.com/dailyjs/goodbye-electron-hello-desktop-pwas-f316b8f39882 Back to Desktop PWAs
 
 # 19-11-2018
