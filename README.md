@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-11-2018
+
+- https://medium.com/dailyjs/goodbye-electron-hello-desktop-pwas-f316b8f39882 Back to Desktop PWAs
+
 # 19-11-2018
 
 - https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c Druid @ Airbnb Data Platform
