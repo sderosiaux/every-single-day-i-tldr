@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-11-2018
+
+- http://www.aston.ac.uk/news/releases/2018/november/scientists-improve-smart-phone-battery-life-by-up-to-60-percent/ Simple idea to save phones' batteries: move the computing part over the cloud, just let the phone send the "program" over there
+
 # 22-11-2018
 
 - https://sdd-manifesto.org/ "The Software Defined Delivery Manifesto" Delivery code must be the same quality as application code
