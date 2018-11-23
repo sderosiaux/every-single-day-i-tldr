@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-11-2018
 
+- https://medium.com/@boriscoder/peeking-under-the-hood-of-redesigned-gmail-dd84b532e0f5 I hope a rewrite of gmail with modern tech is in progress
 - http://www.aston.ac.uk/news/releases/2018/november/scientists-improve-smart-phone-battery-life-by-up-to-60-percent/ Simple idea to save phones' batteries: move the computing part over the cloud, just let the phone send the "program" over there
 
 # 22-11-2018
