@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-11-2018
 
+- https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81 Correlation IDs in Scala using Monix
 - https://stackoverflow.com/questions/20918650/what-are-the-benefits-of-javas-types-erasure What are the benefits of Java's types erasure?
 - https://zeit.co/blog/ncc ncc: Node.js Compiler Collection. Easily package a js app, like for serverless programs
 
