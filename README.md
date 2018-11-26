@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-11-2018
+
+- https://zeit.co/blog/ncc ncc: Node.js Compiler Collection. Easily package a js app, like for serverless programs
+
 # 23-11-2018
 
 - https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a A small FS2 introduction
