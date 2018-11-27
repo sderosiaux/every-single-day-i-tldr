@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-11-2018
 
+- https://www.youtube.com/watch?v=XO55cz7fg-g BDX I/O 2018 - Mon premier service en Rust - Francois Teychene
 - https://www.infoq.com/news/2018/11/google-squoosh-pwa-webassembly Squoosh! Image Compression PWA labs
 
 # 26-11-2018
