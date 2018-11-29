@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2018
 
+- https://reactjs.org/blog/2018/11/27/react-16-roadmap.html React 16.x Roadmap
 - https://github.com/gvolpe/http4s-tracer End-to-end tracing system for Http4s
 - https://wordsandbuttons.online/fortran_is_still_a_thing.html [About Fortran] Many thought that the competition will never start due to the lack of applicants. In fact, it was cancelled for the exact opposite reason.
 - https://nginxconfig.io/ Generate nginx config easily
