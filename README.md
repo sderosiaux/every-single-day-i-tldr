@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-11-2018
+
+- https://github.com/BcRikko/NES.css NES-style CSS Framework
+
 # 27-11-2018
 
 - https://www.youtube.com/watch?v=XO55cz7fg-g BDX I/O 2018 - Mon premier service en Rust - Francois Teychene
