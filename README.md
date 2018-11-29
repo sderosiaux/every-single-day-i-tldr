@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2018
 
+- https://wordsandbuttons.online/fortran_is_still_a_thing.html [About Fortran] Many thought that the competition will never start due to the lack of applicants. In fact, it was cancelled for the exact opposite reason.
 - https://nginxconfig.io/ Generate nginx config easily
 - https://github.com/BcRikko/NES.css NES-style CSS Framework
 
