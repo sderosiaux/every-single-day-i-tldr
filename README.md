@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2018
 
+- https://nginxconfig.io/ Generate nginx config easily
 - https://github.com/BcRikko/NES.css NES-style CSS Framework
 
 # 27-11-2018
