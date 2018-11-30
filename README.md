@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-12-2018
+
+- https://underscore.io/blog/posts/2018/03/20/fs2.html Tips for working with FS2
+
 # 30-11-2018
 
 - https://blog.cloudflare.com/cloud-computing-without-containers/ No Containers but V8 Isolated environments
