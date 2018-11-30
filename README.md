@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-12-2018
 
+- https://speakerdeck.com/mpilquist/concurrency-with-cats-effect Concurrency with Cats Effect
 - https://underscore.io/blog/posts/2018/03/20/fs2.html Tips for working with FS2
 
 # 30-11-2018
