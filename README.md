@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-11-2018
 
+- https://blog.cloudflare.com/cloud-computing-without-containers/ No Containers but V8 Isolated environments
 - https://blog.golang.org/go2-here-we-come Go 2!
 
 # 29-11-2018
