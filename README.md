@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-12-2018
 
+- https://www.youtube.com/watch?v=A8IO7QdEOGI Akka Streams to ES ingestion
 - https://www.youtube.com/watch?v=x3GLwl1FxcA Compose your program flow with fs2.Stream
 - https://databricks.com/blog/2018/11/30/apache-avro-as-a-built-in-data-source-in-apache-spark-2-4.html Reading Avro 2 times faster with builtin avro Spark module
 - https://speakerdeck.com/mpilquist/concurrency-with-cats-effect Concurrency with Cats Effect
