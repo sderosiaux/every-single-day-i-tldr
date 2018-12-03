@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-12-2018
+
+- https://blog.zenika.com/2018/12/03/tdd-est-mort-longue-vie-tcr/ TCR: test && commit || revert
+
 # 02-12-2018
 
 - https://blog.kubukoz.com/what-makes-a-function-pure What makes a function pure?
