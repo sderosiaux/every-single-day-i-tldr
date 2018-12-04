@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-12-2018
 
+- https://github.com/wepay/kafka-connect-bigquery A Kafka Connect BigQuery sink connector
 - https://stripe.com/atlas/guides/scaling-eng Stripe Atlas: Guide to scaling engineering organizations / recruiting process
 
 # 03-12-2018
