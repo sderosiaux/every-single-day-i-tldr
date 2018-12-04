@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-12-2018
 
+- https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html Twitter going from their DistributedLog to Kafka. Better p99 latency. Forgetting the separation serving/storage layer (It's the same for Kafka)
 - https://github.com/wepay/kafka-connect-bigquery A Kafka Connect BigQuery sink connector
 - https://stripe.com/atlas/guides/scaling-eng Stripe Atlas: Guide to scaling engineering organizations / recruiting process
 
