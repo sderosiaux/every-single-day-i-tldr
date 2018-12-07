@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-12-2018
 
+- https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8 Packaging a JavaFX app with Java Packager in JDK 11
 - https://overreacted.io/why-do-react-elements-have-typeof-property/ Interesting story of why Do React Elements Have a $$typeof Property?
 - https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms Predictions: React, GraphQL, TypeScript. ORLY?
 - https://blogs.msdn.microsoft.com/typescript/2018/12/05/intellicode-for-typescript-javascript/ ML incoming in our IDE: IntelliCode for TypeScript/JavaScript
