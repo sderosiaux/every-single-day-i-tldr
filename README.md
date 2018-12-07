@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-12-2018
 
+- https://blogs.msdn.microsoft.com/typescript/2018/12/05/intellicode-for-typescript-javascript/ ML incoming in our IDE: IntelliCode for TypeScript/JavaScript
 - https://scalameta.org/metals/ Metals, an LSP for Scala, integrated with VSCode <3
 
 # 04-12-2018
