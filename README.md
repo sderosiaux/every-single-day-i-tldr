@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-12-2018
 
+- https://kubukoz.github.io/talks/ocado-concurrency-cats/slides/ Concurrency with Cats
 - https://stackoverflow.com/questions/53451103/java-using-much-more-memory-than-heap-size-or-size-correctly-docker-memory-limi/53624438#53624438 Sizing JVM memory and link with the containers
 - https://chrilves.github.io/hugo/posts/folds/ Let's meet the charming fold family
 
