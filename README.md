@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-12-2018
+
+- https://chrilves.github.io/hugo/posts/folds/ Let's meet the charming fold family
+
 # 08-12-2018
 
 - https://vimeo.com/294736344 Why Ref[F, A] rocks, compared to the State monad
