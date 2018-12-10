@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-12-2018
 
+- https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html Error handling in Http4s with classy optics, very interesting!
 - https://www.lightbend.com/stateful-cloud-native-services-with-akka-and-kubernetes Akka + Kubernetes
 
 # 09-12-2018
