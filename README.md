@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-12-2018
 
+- http://enear.github.io/2018/12/11/imposing-invariants-in-scala/ Imposing invariants in Scala
 - https://tpolecat.github.io/2014/06/09/methods-functions.html Methods (not values) or functions (values)?
 - https://www.youtube.com/watch?v=vKrCdO5NgrA Functional Domain Modeling with Effects
 - https://underscore.io/blog/posts/2018/12/12/bridges.html Bridging Scala and the Front-End: generate typescript or flow types from Scala
