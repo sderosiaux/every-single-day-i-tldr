@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-12-2018
 
+- https://github.com/softwaremill/tapir Generate akka-http or openapi client from a Scala val. Very nice, compile-time check. 
 - http://enear.github.io/2018/12/11/imposing-invariants-in-scala/ Imposing invariants in Scala
 - https://tpolecat.github.io/2014/06/09/methods-functions.html Methods (not values) or functions (values)?
 - https://www.youtube.com/watch?v=vKrCdO5NgrA Functional Domain Modeling with Effects
