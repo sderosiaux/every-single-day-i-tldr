@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-12-2018
 
+- https://www.youtube.com/watch?v=vKrCdO5NgrA Functional Domain Modeling with Effects
 - https://underscore.io/blog/posts/2018/12/12/bridges.html Bridging Scala and the Front-End: generate typescript or flow types from Scala
 
 # 10-12-2018
