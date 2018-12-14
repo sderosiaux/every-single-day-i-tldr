@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-12-2018
+
+- https://www.cockroachlabs.com/blog/2018_cloud_report/ AWS Outperforms GCP in the 2018 Cloud Report, uh
+
 # 12-12-2018
 
 - https://github.com/softwaremill/tapir Generate akka-http or openapi client from a Scala val. Very nice, compile-time check. 
