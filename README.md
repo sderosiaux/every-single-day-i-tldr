@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-12-2018
 
+- https://blog.buildo.io/anatomy-of-a-scala-quirk-b8c086b56423 wtf with: List("a", "b", "c").toSet() + "d"
 - https://www.cockroachlabs.com/blog/2018_cloud_report/ AWS Outperforms GCP in the 2018 Cloud Report, uh
 
 # 12-12-2018
