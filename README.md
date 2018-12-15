@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2018
 
+- https://github.com/grafana/loki Like Prometheus, but for logs.
 - https://github.com/GoogleChromeLabs/quicklink Add  <link prefetch> for all <a> in the page, to improve load time of next pages
 - https://jakearchibald.com/2018/when-packages-go-bad/ When packages (npm) go bad
 - https://m.signalvnoise.com/give-it-five-minutes-b8115d6f2361 Give it five minutes <3
