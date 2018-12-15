@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2018
 
+- https://jakearchibald.com/2018/when-packages-go-bad/ When packages (npm) go bad
 - https://m.signalvnoise.com/give-it-five-minutes-b8115d6f2361 Give it five minutes <3
 
 # 14-12-2018
