@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-12-2018
 
+- https://skillsmatter.com/skillscasts/12811-introduction-to-kafka-streaming Using Kafka Streams to process __consumer_offsets
 - https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond Cats Effect, Tagless Final & beyond
 - https://skillsmatter.com/skillscasts/13304-kotlin-vs-scala Still not convined why would I use Kotlin instead of Scala :|
 
