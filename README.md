@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-12-2018
 
+- https://kubuszok.com/2018/different-ways-to-understand-a-monad/ monads, free monads, monad transformers, the whole thing
 - https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe Functional references: Lens and other Optics in Scala
 
 # 16-12-2018
