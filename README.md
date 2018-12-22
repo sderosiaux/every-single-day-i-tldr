@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-12-2018
 
+- http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html The Configuration Complexity Clock: from hardcoded values to config to rules to dsl to hard coded
 - https://www.youtube.com/watch?v=WtPFvLfHYtM Adding kind-polymorphism to the Scala programming language
 - https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/ Using Discipline to test Tagless final code in Scala, very convincing
 
