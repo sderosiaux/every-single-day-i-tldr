@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-12-2018
+
+- https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/ Using Discipline to test Tagless final code in Scala, very convincing
+
 # 21-12-2018
 
 - https://cloud.google.com/blog/products/gcp/every-gcp-blog-post-2018 "557 GCP blog posts from 2018" OMG!
