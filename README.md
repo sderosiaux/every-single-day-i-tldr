@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-12-2018
 
+- https://www.youtube.com/watch?v=WtPFvLfHYtM Adding kind-polymorphism to the Scala programming language
 - https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/ Using Discipline to test Tagless final code in Scala, very convincing
 
 # 21-12-2018
