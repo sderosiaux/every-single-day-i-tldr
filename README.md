@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-12-2018
+
+- https://github.com/bkirwi/decline A composable command-line parser for Scala.
+
 # 22-12-2018
 
 - http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html The Configuration Complexity Clock: from hardcoded values to config to rules to dsl to hard coded
