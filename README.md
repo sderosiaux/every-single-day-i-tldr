@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-12-2018
 
+- https://github.com/Wikia/discreETLy ETLy is an add-on dashboard service on top of Apache Airflow.
 - https://medium.com/@rinu.gour123/kafka-performance-tuning-ways-for-kafka-optimization-fdee5b19505b Some tips around Kafka Performance Tuning
 - https://code.fb.com/data-infrastructure/hyperloglog/ HyperLogLog in Presto: Faster cardinality estimation
 
