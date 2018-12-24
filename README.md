@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-12-2018
+
+- https://code.fb.com/data-infrastructure/hyperloglog/ HyperLogLog in Presto: Faster cardinality estimation
+
 # 23-12-2018
 
 - https://github.com/bkirwi/decline A composable command-line parser for Scala.
