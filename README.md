@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-12-2018
 
+- https://www.youtube.com/watch?v=7eEOzguzOg0 Scaling Kafka at Datadog with Kubernetes and Kafka-Kit
 - https://github.com/actix/actix An Actor framework for Rust
 
 # 24-12-2018
