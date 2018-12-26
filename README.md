@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-12-2018
+
+- https://github.com/actix/actix An Actor framework for Rust
+
 # 24-12-2018
 
 - https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff Running and monitoring Airflow At Lyft
