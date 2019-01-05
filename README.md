@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-01-2019
+
+- http://www.lihaoyi.com/post/CompactStreamingPrettyPrintingofHierarchicalData.html Compact, Streaming Pretty-Printing of Hierarchical Data
+
 # 26-12-2018
 
 - https://www.youtube.com/watch?v=7eEOzguzOg0 Scaling Kafka at Datadog with Kubernetes and Kafka-Kit
