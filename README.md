@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-01-2019
+
+- https://shipilev.net/jvm-anatomy-park/22-safepoint-polls/ JVM Anatomy Park #22: Safepoint Polls
+
 # 05-01-2019
 
 - http://www.lihaoyi.com/post/CompactStreamingPrettyPrintingofHierarchicalData.html Compact, Streaming Pretty-Printing of Hierarchical Data
