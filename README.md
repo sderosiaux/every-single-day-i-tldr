@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-01-2019
 
+- https://www.infoq.com/presentations/geode-architecture Geode is Not a Cache, it's an Analytics Engine: running functions directly on data, on the Geode nodes
 - http://degoes.net/articles/rotating-effects High-Performance Functional Programming Through Effect Rotation | Looks like IndexedReaderWriterStateT in cats :-)
 
 # 06-01-2019
