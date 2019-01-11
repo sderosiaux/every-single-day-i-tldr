@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-01-2019
 
+- https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way Identity and authentication, the Google Cloud way
 - https://risingstars.js.org/2018/en/ 2018 JavaScript Rising Stars
 
 # 10-01-2019
