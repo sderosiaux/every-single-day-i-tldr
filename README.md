@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 11-01-2019
+
+- https://risingstars.js.org/2018/en/ 2018 JavaScript Rising Stars
+
 # 10-01-2019
 
 - https://www.infoq.com/presentations/geode-architecture Geode is Not a Cache, it's an Analytics Engine: running functions directly on data, on the Geode nodes
