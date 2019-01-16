@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-01-2019
+
+- https://dawnlabs.io/now-2/ Migrating to Now 2.0: from expressjs to lambdas!
+
 # 11-01-2019
 
 - https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way Identity and authentication, the Google Cloud way
