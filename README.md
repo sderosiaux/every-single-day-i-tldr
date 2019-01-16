@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-01-2019
 
+- https://medium.com/@daniel.p.woods/on-infrastructure-at-scale-a-cascading-failure-of-distributed-systems-7cff2a3cd2df A nice story about k8s & docker cascading failure (read comments for more)
 - https://dawnlabs.io/now-2/ Migrating to Now 2.0: from expressjs to lambdas!
 
 # 11-01-2019
