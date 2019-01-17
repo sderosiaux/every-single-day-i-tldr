@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-01-2019
+
+- https://www.youtube.com/watch?v=rhvoKCS5v9g Rob Norris presenting skunk features
+
 # 17-01-2019
 
 - https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/ Container Storage Interface (CSI) for Kubernetes is now GA
