@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-01-2019
 
+- https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html Migrating Kafka's Zookeeper With No Downtime
 - https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws AWS networking 101
 
 # 16-01-2019
