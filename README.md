@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-01-2019
+
+- https://sematext.com/blog/rum-vs-apm/ What is RUM and APM when considering monitoring
+
 # 18-01-2019
 
 - https://www.youtube.com/watch?v=rhvoKCS5v9g Rob Norris presenting skunk features
