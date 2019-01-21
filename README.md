@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-01-2019
 
+- https://github.com/jpzk/mockedstreams Testing Kafka Streams in Scala
 - https://sematext.com/blog/rum-vs-apm/ What is RUM and APM when considering monitoring
 
 # 18-01-2019
