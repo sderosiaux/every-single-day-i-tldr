@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-01-2019
 
+- http://squidarth.com/scala/types/2019/01/11/type-erasure-scala.html Type Erasure in Scala
 - https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/ CockroachDB built on top of RocksDB
 - https://github.com/jpzk/mockedstreams Testing Kafka Streams in Scala
 - https://sematext.com/blog/rum-vs-apm/ What is RUM and APM when considering monitoring
