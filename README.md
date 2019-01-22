@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-01-2019
 
+- https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/ Porting 30K lines of code from Flow to TypeScript. Flow=better inference; TS=better community/definitions
 - https://github.com/schollz/howmanypeoplearearound Count the number of people around you by monitoring wifi signals
 
 # 21-01-2019
