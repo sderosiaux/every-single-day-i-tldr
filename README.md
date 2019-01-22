@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-01-2019
+
+- https://github.com/schollz/howmanypeoplearearound Count the number of people around you by monitoring wifi signals
+
 # 21-01-2019
 
 - http://squidarth.com/scala/types/2019/01/11/type-erasure-scala.html Type Erasure in Scala
