@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-01-2019
 
+- https://tech.transferwise.com/achieving-high-availability-with-kafka-streams/ Rolling upgrades with Kafka Streams applications
 - https://www.cockroachlabs.com/blog/consistency-model/ A great reminder of consistency models (and ACID), and how CRDB deals with them
 - https://www.47deg.com/blog/introducing-the-mu-open-source-library/ Mu: FP (tagless final) to communicate between microservices <3
 
