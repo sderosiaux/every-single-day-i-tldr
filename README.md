@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-01-2019
+
+- http://degoes.net/articles/zio-threads Thread Pool Best Practices with ZIO
+
 # 25-01-2019
 
 - https://tech.transferwise.com/achieving-high-availability-with-kafka-streams/ Rolling upgrades with Kafka Streams applications
