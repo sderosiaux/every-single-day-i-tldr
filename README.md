@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-01-2019
 
+- https://alex.dzyoba.com/blog/envoy/ A small comparaison between Envoy and nginx
 - http://degoes.net/articles/zio-threads Thread Pool Best Practices with ZIO
 
 # 25-01-2019
