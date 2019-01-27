@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 27-01-2019
+
+- https://www.youtube.com/watch?v=OmJ-4B-mS-Y The Map of Mathematics
+
 # 26-01-2019
 
 - https://alex.dzyoba.com/blog/envoy/ A small comparaison between Envoy and nginx
