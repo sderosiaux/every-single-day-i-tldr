@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-01-2019
 
+- https://syslog.ravelin.com/the-joy-and-pain-of-using-google-bigtable-4210604c75be The Joy and Pain of using Google BigTable – "If you use Bigtable, you should be using region replication and failover. Otherwise, you will see failed requests."
 - https://medium.com/@unmeshvjoshi/choosing-a-stream-processing-framework-spark-streaming-or-kafka-streams-or-alpakka-kafka-fa0422229b25 Choosing a Stream Processing framework. Spark Streaming or Kafka Streams or Alpakka Kafka?
 - https://www.youtube.com/watch?v=OmJ-4B-mS-Y The Map of Mathematics
 
