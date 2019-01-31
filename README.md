@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 31-01-2019
+
+- http://marxsoftware.blogspot.com/2019/01/jep-280-indify-string-concatenations.html Inspired by Actual Events: JDK 9/JEP 280: String Concatenations Will Never Be the Same
+
 # 27-01-2019
 
 - https://syslog.ravelin.com/the-joy-and-pain-of-using-google-bigtable-4210604c75be The Joy and Pain of using Google BigTable – "If you use Bigtable, you should be using region replication and failover. Otherwise, you will see failed requests."
