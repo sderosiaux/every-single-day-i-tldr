@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-01-2019
 
+- https://medium.com/@vroyer/kubernetes-logs-analysis-with-elassandra-fluent-bit-and-kibana-4f827854e5c8 Kubernetes logs analysis with Elassandra, Fluent-Bit and Kibana
 - https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything | Confluent
 - http://marxsoftware.blogspot.com/2019/01/jep-280-indify-string-concatenations.html Inspired by Actual Events: JDK 9/JEP 280: String Concatenations Will Never Be the Same
 
