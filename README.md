@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-02-2019
+
+- https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/ Scala compiler phases with pictures
+
 # 31-01-2019
 
 - https://www.infoq.com/news/2019/01/envoy-reddit Adopting Envoy as a Service-to-Service Proxy at Reddit
