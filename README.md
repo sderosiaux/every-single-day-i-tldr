@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-02-2019
 
+- https://www.youtube.com/watch?v=_ahvzDzKdB0 Growing a Language, by Guy Steele
 - https://pchiusano.github.io/2016-02-25/tech-adoption.html Design for experts; accomodate beginners
 - https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/ Scala compiler phases with pictures
 
