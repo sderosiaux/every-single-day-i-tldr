@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-02-2019
 
+- https://pchiusano.github.io/2016-02-25/tech-adoption.html Design for experts; accomodate beginners
 - https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/ Scala compiler phases with pictures
 
 # 31-01-2019
