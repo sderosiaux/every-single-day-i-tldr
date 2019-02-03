@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-02-2019
+
+- https://overreacted.io/react-as-a-ui-runtime/ Deep dive into React
+
 # 02-02-2019
 
 - https://vasters.com/blog/data-encodings-and-layout/ Data Encodings and Layout 
