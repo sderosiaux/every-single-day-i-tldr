@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-02-2019
 
+- https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/ Finding Kafka’s throughput limit: 60MB/s per broker
 - https://blog.godatadriven.com/spark-beware Spark and its lazyness could lead to bugs
 
 # 03-02-2019
