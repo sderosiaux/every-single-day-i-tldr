@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-02-2019
+
+- https://cloud.google.com/blog/products/application-development/build-containers-faster-with-cloud-build-with-kaniko Kaniko, to build containers faster within Cloud Build (cache)
+
 # 04-02-2019
 
 - https://cloud.google.com/blog/products/application-development/introducing-websockets-support-for-app-engine-flexible-environment WebSockets for App Engine Flexible
