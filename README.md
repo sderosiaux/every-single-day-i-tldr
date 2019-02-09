@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-02-2019
+
+- https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7 Apache Kafka without ZK but Atomix
+
 # 07-02-2019
 
 - https://www.youtube.com/watch?v=fQfMiUDsLv4 Jakub Kozlowski, Microservices with fp, http4s and doobie
