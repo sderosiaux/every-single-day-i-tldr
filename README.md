@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-02-2019
 
+- https://thehoard.blog/techniques-to-achieve-high-write-throughput-with-elasticsearch-519ead926b63 Achieve High Write Throughput With Elasticsearch
 - https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7 Apache Kafka without ZK but Atomix
 
 # 07-02-2019
