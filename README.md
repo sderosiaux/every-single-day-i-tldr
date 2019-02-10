@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-02-2019
+
+- https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend Introducing Kafka Cruise Control Frontend
+
 # 09-02-2019
 
 - https://thehoard.blog/techniques-to-achieve-high-write-throughput-with-elasticsearch-519ead926b63 Achieve High Write Throughput With Elasticsearch
