@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 12-02-2019
+
+- https://www.confluent.io/blog/kafka-connect-jdbc-source-connector-deep-dive Kafka Connect JDBC Source Connector
+
 # 10-02-2019
 
 - https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend Introducing Kafka Cruise Control Frontend
