@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-02-2019
 
+- https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything Why Event-First Thinking Changes Everything
 - https://www.confluent.io/blog/kafka-connect-jdbc-source-connector-deep-dive Kafka Connect JDBC Source Connector
 
 # 10-02-2019
