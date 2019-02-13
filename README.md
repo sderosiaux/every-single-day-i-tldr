@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-02-2019
+
+- https://www.youtube.com/watch?v=TjEbd9BcL6c Redesigning management -- le don. ted talk sur le fait de donner pleinement et de savoir recevoir
+
 # 13-02-2019
 
 - https://typelevel.org/blog/2019/02/06/algebraic-api-design.html Using a Monte Carlo strategy to resolve SameGame, i love it!
