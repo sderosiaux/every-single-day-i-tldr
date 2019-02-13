@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-02-2019
+
+- https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture Definitely yes! "You don’t need yet another microservice framework when you use Kafka as an event streaming platform"
+
 # 12-02-2019
 
 - http://blemoine.github.io/xke-types/ Ce type ne me revient pas !
