@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-02-2019
 
+- https://typelevel.org/blog/2019/02/06/algebraic-api-design.html Using a Monte Carlo strategy to resolve SameGame, i love it!
 - https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing Why local state is a fundamental primitive in stream processing - Samza, the premises of Kafka Streams!
 - https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture Definitely yes! "You don’t need yet another microservice framework when you use Kafka as an event streaming platform"
 
