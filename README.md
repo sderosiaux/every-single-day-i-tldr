@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-02-2019
 
+- https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be How Pinterest runs Kafka at scale
 - https://hortonworks.com/blog/introducing-hortonworks-streams-messaging-manager-smm/ Streams Messaging Manager (SMM), monitoring Kafka ecosystem
 - https://databricks.com/blog/2019/02/15/how-to-work-with-avro-kafka-and-schema-registry-in-databricks.html How to Work with Avro, Kafka, and Schema Registry with Spark
 
