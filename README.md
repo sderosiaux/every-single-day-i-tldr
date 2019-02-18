@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-02-2019
 
+- https://www.youtube.com/watch?v=_ahvzDzKdB0 Awesome talk: Growing a Language, by Guy Steele
 - https://www.infoq.com/news/2019/02/rethinking-observability Three Pillars with Zero Answers: Rethinking Observability
 - https://www.youtube.com/watch?v=8pTEmbeENF4 Bret Victor The Future of Programming
 
