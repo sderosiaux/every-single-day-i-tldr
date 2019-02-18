@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-02-2019
+
+- https://www.youtube.com/watch?v=8pTEmbeENF4 Bret Victor The Future of Programming
+
 # 16-02-2019
 
 - https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be How Pinterest runs Kafka at scale
