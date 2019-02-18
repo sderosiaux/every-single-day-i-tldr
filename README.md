@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-02-2019
 
+- https://medium.com/@adirmashiach/defend-your-infrastructure-handling-3-000-hungry-users-379783b24d51 Defend Your Infrastructure — "1 user, who created 1 scheduled report that generated thousands of Impala queries per hour." :o
 - https://streaml.io/blog/saving-money-with-apache-pulsar-tiered-storage Saving Money with Apache Pulsar Tiered Storage
 - https://www.youtube.com/watch?v=_ahvzDzKdB0 Awesome talk: Growing a Language, by Guy Steele
 - https://www.infoq.com/news/2019/02/rethinking-observability Three Pillars with Zero Answers: Rethinking Observability
