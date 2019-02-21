@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-02-2019
+
+- https://www.confluent.io/blog/sysmon-security-event-processing-real-time-ksql-helk Sysmon Security Event Processing in Real Time with KSQL
+
 # 18-02-2019
 
 - https://medium.com/@adirmashiach/defend-your-infrastructure-handling-3-000-hungry-users-379783b24d51 Defend Your Infrastructure — "1 user, who created 1 scheduled report that generated thousands of Impala queries per hour." :o
