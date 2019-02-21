@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-02-2019
 
+- https://queue.acm.org/detail.cfm?id=3314115 Identity by Any Other Name
 - https://www.confluent.io/blog/sysmon-security-event-processing-real-time-ksql-helk Sysmon Security Event Processing in Real Time with KSQL
 
 # 18-02-2019
