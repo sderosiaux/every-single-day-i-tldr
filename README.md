@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-02-2019
 
+- https://pythonspeed.com/articles/faster-db-tests/ Use real db in tests using Docker and removing fsync() calls, or use RAM fs
 - https://dbdiagram.io/home Nice tool! Database Relationship Diagrams Design Tool
 - https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html Don't Use Await.result! - Clearly not
 - https://www.cockroachlabs.com/blog/jepsen-tests-lessons/ CockroachDB fixing a bug thanks to nightly Jepsen tests
