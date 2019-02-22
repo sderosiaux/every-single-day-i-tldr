@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-02-2019
+
+- https://www.cockroachlabs.com/blog/jepsen-tests-lessons/ CockroachDB fixing a bug thanks to nightly Jepsen tests
+
 # 21-02-2019
 
 - https://queue.acm.org/detail.cfm?id=3314115 Identity by Any Other Name
