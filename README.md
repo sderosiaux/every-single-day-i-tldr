@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-02-2019
 
+- https://www.confluent.io/blog/improving-stream-data-quality-with-protobuf-schema-validation Improving Stream Data Quality with Protobuf Schema Validation
 - https://pythonspeed.com/articles/faster-db-tests/ Use real db in tests using Docker and removing fsync() calls, or use RAM fs
 - https://dbdiagram.io/home Nice tool! Database Relationship Diagrams Design Tool
 - https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html Don't Use Await.result! - Clearly not
