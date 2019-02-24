@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-02-2019
+
+- https://cloud.google.com/blog/products/ai-machine-learning/enabling-connected-transformation-with-apache-kafka-and-tensorflow-on-google-cloud-platform A (marketing) article about running Confluent Center + TensorFlow on GCP
+
 # 22-02-2019
 
 - https://www.confluent.io/blog/improving-stream-data-quality-with-protobuf-schema-validation Improving Stream Data Quality with Protobuf Schema Validation
