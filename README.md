@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-02-2019
+
+- https://medium.com/@teivah/understanding-the-lmax-disruptor-caaaa2721496 LMAX Disruptor - A inter-thread messaging Java lib I didn't used yet, look so nice.
+
 # 24-02-2019
 
 - https://cloud.google.com/blog/products/ai-machine-learning/enabling-connected-transformation-with-apache-kafka-and-tensorflow-on-google-cloud-platform A (marketing) article about running Confluent Center + TensorFlow on GCP
