@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-02-2019
+
+- https://skillsmatter.com/skillscasts/13247-scala-matters ZIO[R, E, A] instead of Final Tagless. Very interesting solution less complex (?) and with a better Scala compiler help (type inference, type aliases..)
+
 # 25-02-2019
 
 - https://medium.com/@teivah/understanding-the-lmax-disruptor-caaaa2721496 LMAX Disruptor - A inter-thread messaging Java lib I didn't used yet, look so nice.
