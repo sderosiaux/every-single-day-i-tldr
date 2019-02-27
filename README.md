@@ -1,4 +1,4 @@
-sderosiaux# *Almost* every single day I TLDR!
+# *Almost* every single day I TLDR!
 
 Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting. It's like a huge shared bookmarks registry with y'all! Or it's like a daily newsletter without newsletter. I also maintain a [blog](https://www.sderosiaux.com/) if you're interested.
 
