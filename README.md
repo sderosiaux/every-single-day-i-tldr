@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-02-2019
+
+- https://medium.com/@cheron.antoine/reactor-java-1-how-to-create-mono-and-flux-471c505fa158 Introduction to Reactor 
+
 # 26-02-2019
 
 - http://degoes.net/articles/zio-environment Read the article to get the talk quickly
