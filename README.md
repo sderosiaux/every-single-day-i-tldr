@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-02-2019
 
+- https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html My next Scala project will use Bazel, so nice x_x
 - https://medium.com/@cheron.antoine/reactor-java-1-how-to-create-mono-and-flux-471c505fa158 Introduction to Reactor 
 
 # 26-02-2019
