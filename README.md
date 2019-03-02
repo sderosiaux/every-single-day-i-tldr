@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-03-2019
+
+- https://medium.com/jayanthg/transparently-securing-kafka-istio-style-with-up-to-300-higher-performance-than-native-tls-in-aa95731b5d40 Securing Kafka with Istio
+
 # 28-02-2019
 
 - https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html My next Scala project will use Bazel, so nice x_x
