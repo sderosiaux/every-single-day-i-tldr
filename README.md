@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-03-2019
 
+- https://issues.apache.org/jira/browse/KAFKA-4881 Add internal leave.group.on.close config to consumer — From 2 rebalances to 1 in Kafka Streams
 - https://www.youtube.com/watch?v=UC9yFQOJtbQ Neha Narkhede (CTO, Confluent) | SpringOne Platform 2018
 - https://www.youtube.com/watch?v=SQt5RNcMDrc Ask Confluent #10 and all of them!: Cooperative Rebalances for Kafka Connect
 - https://speakerdeck.com/rmoff/the-changing-face-of-etl-event-driven-architectures-for-data-engineers The Changing Face of ETL: Event-Driven Architectures for Data Engineers
