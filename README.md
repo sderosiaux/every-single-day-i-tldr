@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-03-2019
 
+- https://www.youtube.com/watch?v=SQt5RNcMDrc Ask Confluent #10 and all of them!: Cooperative Rebalances for Kafka Connect
 - https://speakerdeck.com/rmoff/the-changing-face-of-etl-event-driven-architectures-for-data-engineers The Changing Face of ETL: Event-Driven Architectures for Data Engineers
 
 # 02-03-2019
