@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-03-2019
 
+- https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster How to choose the number of topics/partitions in a Kafka cluster?
 - https://www.confluent.io/kafka-summit-sf18/digital-transformation-in-healthcare-with-kakfa Digital Transformation in Healthcare with Kafka—Building a Low Latency Data Pipeline
 - https://issues.apache.org/jira/browse/KAFKA-4881 Add internal leave.group.on.close config to consumer — From 2 rebalances to 1 in Kafka Streams
 - https://www.youtube.com/watch?v=UC9yFQOJtbQ Neha Narkhede (CTO, Confluent) | SpringOne Platform 2018
