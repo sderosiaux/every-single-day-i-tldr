@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-03-2019
 
+- http://tonsky.me/blog/github-redesign/ Redesigning Github repository page
 - https://www.confluent.io/blog/put-several-event-types-kafka-topic/ Should You Put Several Event Types in the Same Kafka Topic? Look at option: key|value.subject.name.strategy
 - https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster How to choose the number of topics/partitions in a Kafka cluster?
 - https://www.confluent.io/kafka-summit-sf18/digital-transformation-in-healthcare-with-kakfa Digital Transformation in Healthcare with Kafka—Building a Low Latency Data Pipeline
