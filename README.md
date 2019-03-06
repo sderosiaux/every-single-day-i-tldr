@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-03-2019
 
+- https://drive.google.com/file/d/1Z7NK59Ct29AWd-8ZKdf3Y0R2Gqyp_UEb/view Cultivating Production Excellence - Measure, Debug, Collaborate, Fix.
 - https://www.youtube.com/watch?v=HgtRAbE1nBM Is It Time to Rewrite the Operating System in Rust?
 - https://github.com/micro/go-micro micro/go-micro: A microservice framework in Go
 - https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd Modeling Uncertainty with Reactive DDD
