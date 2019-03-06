@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-03-2019
 
+- https://cloud.google.com/blog/products/databases/go-global-with-cloud-bigtable Cloud Bigtable now cross-region replicated
 - https://github.com/wwerner/event-storming-cheatsheet Short cheat sheet for preparing and facilitating event storming workshops
 - https://www.slideshare.net/jclaes/workshop-event-storming Workshop event storming
 - https://www.youtube.com/watch?v=73sAjy8rvBM Event-driven, est-ce que je suis prêt ? - Excellent talk sur pourquoi faire du Event Driven
