@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-03-2019
+
+- https://www.infoq.com/articles/ddd-contextmapping Strategic Domain Driven Design with Context Mapping
+
 # 03-03-2019
 
 - http://tonsky.me/blog/github-redesign/ Redesigning Github repository page
