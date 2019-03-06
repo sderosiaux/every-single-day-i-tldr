@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-03-2019
 
+- https://www.youtube.com/watch?v=73sAjy8rvBM Event-driven, est-ce que je suis prêt ? - Excellent talk sur pourquoi faire du Event Driven
 - http://www.touilleur-express.fr/2014/05/20/eventstorming-technique-de-modelisation-en-equipe/ EventStorming, technique de modélisation en équipe – Le Touilleur Express
 - https://medium.com/nick-tune-tech-strategy-blog/managing-complexity-in-complex-adaptive-systems-with-domain-driven-design-eb79f0ca37bb Managing Complexity in Complex Adaptive Systems with Domain-Driven Design
 - https://www.infoq.com/articles/ddd-contextmapping Strategic Domain Driven Design with Context Mapping
