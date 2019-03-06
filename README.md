@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-03-2019
 
+- https://github.com/micro/go-micro micro/go-micro: A microservice framework in Go
 - https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd Modeling Uncertainty with Reactive DDD
 - https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/ DDD Persistence: Recorded Event-Driven Persistence
 - https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f Refactoring from anemic model (no business rules inside) to DDD
