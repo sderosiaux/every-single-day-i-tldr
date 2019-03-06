@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-03-2019
 
+- https://medium.com/nick-tune-tech-strategy-blog/managing-complexity-in-complex-adaptive-systems-with-domain-driven-design-eb79f0ca37bb Managing Complexity in Complex Adaptive Systems with Domain-Driven Design
 - https://www.infoq.com/articles/ddd-contextmapping Strategic Domain Driven Design with Context Mapping
 
 # 03-03-2019
