@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-03-2019
 
+- https://github.com/GoogleContainerTools/distroless Language focused docker images, minus the operating system (no shell)
 - https://www.youtube.com/watch?v=F02LKnWJWF4 Functional Programming Patterns with Java8
 - https://sematext.com/blog/x-pack-alternatives/ Elastic Stack (X-Pack) Alternatives
 - https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d Comparing Final Tagless, ZIO env, Free moads, Reader Monad
