@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-03-2019
+
+- https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d Comparing Final Tagless, ZIO env, Free moads, Reader Monad
+
 # 06-03-2019
 
 - https://developer.ibm.com/tutorials/reactive-in-practice-1/ Reactive in practice: Event storming the stock trader domain
