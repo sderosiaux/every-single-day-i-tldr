@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-03-2019
+
+- https://www.triplequote.com/blog/2019-guide-to-amazon-instances/ "Scala 2.12.8 turned out to be 20-25% faster so the upgrade is totally worth it."
+
 # 07-03-2019
 
 - https://github.com/GoogleContainerTools/distroless Language focused docker images, minus the operating system (no shell)
