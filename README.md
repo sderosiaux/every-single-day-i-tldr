@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-03-2019
 
+- https://medium.com/solo-io/building-a-control-plane-for-envoy-7524ceb09876 Gloo, a Control Plane for Envoy
 - https://www.triplequote.com/blog/2019-guide-to-amazon-instances/ "Scala 2.12.8 turned out to be 20-25% faster so the upgrade is totally worth it."
 
 # 07-03-2019
