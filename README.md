@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-03-2019
 
+- https://medium.com/bakdata/fluent-kafka-streams-tests-e641785171ec A Fluent Kafka Streams tests lib
 - https://www.ibm.com/blogs/bluemix/2019/03/kafka-monthly-digest-february-2019/ Kafka Monthly Digest: February 2019
 - https://quarkus.io/get-started/ Quarkus - GraalVM powered framework to write an app quickly
 - https://www.youtube.com/watch?v=V5bhLd_DPjM RSocket & Proteus to abstract transport paths & services addressing (and providing dtracing)
