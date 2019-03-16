@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-03-2019
 
+- https://quarkus.io/get-started/ Quarkus - GraalVM powered framework to write an app quickly
 - https://www.youtube.com/watch?v=V5bhLd_DPjM RSocket & Proteus to abstract transport paths & services addressing (and providing dtracing)
 - https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues A good article on error handling with Kafka Connect
 - https://techmovers.salemove.com/infrastructure/2018/11/01/Productionproofing+EKS.html Tons of feedback about running Kubernetes on EKS. Careful of IPs availability, kernel version, cronjobs and ips, dns SPoF
