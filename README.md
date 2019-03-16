@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-03-2019
 
+- https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f Never use exceptions for control flow in your hot code path.
 - https://aws.amazon.com/blogs/aws/new-open-distro-for-elasticsearch/ New Open Distro for Elasticsearch by AWS
 - https://blog.koan.co/how-on-demand-pricing-slashed-our-dynamodb-bill-by-90-27857c49f30b Switching to On-Demand DynamoDB to reduce bill
 - https://github.com/JohnSully/KeyDB Multithreaded Fork of Redis
