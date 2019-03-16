@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-03-2019
 
+- https://blog.koan.co/how-on-demand-pricing-slashed-our-dynamodb-bill-by-90-27857c49f30b Switching to On-Demand DynamoDB to reduce bill
 - https://github.com/JohnSully/KeyDB Multithreaded Fork of Redis
 
 # 08-03-2019
