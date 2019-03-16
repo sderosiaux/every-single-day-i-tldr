@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-03-2019
+
+- https://github.com/JohnSully/KeyDB Multithreaded Fork of Redis
+
 # 08-03-2019
 
 - https://medium.com/solo-io/building-a-control-plane-for-envoy-7524ceb09876 Gloo, a Control Plane for Envoy
