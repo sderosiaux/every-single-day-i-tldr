@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-03-2019
+
+- https://rjzaworski.com/2019/03/7-commandments-for-event-driven-architecture Some tips for Event-Driven Architecture
+
 # 16-03-2019
 
 - http://www.batey.info/docker-jvm-k8s.html The JVM in Docker 2018
