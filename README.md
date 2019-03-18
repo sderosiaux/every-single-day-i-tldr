@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-03-2019
 
+- http://tamaszilagyi.com/blog/2019/2019-03-05-dbt/ ETL with dbt
 - https://rjzaworski.com/2019/03/7-commandments-for-event-driven-architecture Some tips for Event-Driven Architecture
 
 # 16-03-2019
