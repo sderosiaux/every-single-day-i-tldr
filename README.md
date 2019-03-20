@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-03-2019
 
+- https://medium.com/devopslinks/how-to-build-a-serverless-ci-cd-pipeline-on-aws-907be91c2e48 How to build a serverless CI/CD pipeline on AWS
 - https://www.confluent.io/blog/kafka-streams-take-on-watermarks-and-triggers Kafka Streams' Take on Watermarks and Triggers
 
 # 18-03-2019
