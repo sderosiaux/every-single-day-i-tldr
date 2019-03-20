@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-03-2019
+
+- https://www.confluent.io/blog/kafka-streams-take-on-watermarks-and-triggers Kafka Streams' Take on Watermarks and Triggers
+
 # 18-03-2019
 
 - http://tamaszilagyi.com/blog/2019/2019-03-05-dbt/ ETL with dbt
