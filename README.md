@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-03-2019
 
+- http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.ics.uci.edu%2F~dutt%2Fics212-wq05%2Flogical-time-tutorial.pdf Capturing Causality in DIstributed Systems
 - https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System
 
 # 20-03-2019
