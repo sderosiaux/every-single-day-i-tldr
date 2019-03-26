@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-03-2019
+
+- https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/ Tackling Complexity in CQRS
+
 # 22-03-2019
 
 - http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.ics.uci.edu%2F~dutt%2Fics212-wq05%2Flogical-time-tutorial.pdf Capturing Causality in DIstributed Systems
