@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-03-2019
 
+- https://chriskiehl.com/article/event-sourcing-is-hard Don't Let the Internet Dupe you, Event Sourcing is Hard
 - https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/ Tackling Complexity in CQRS
 
 # 22-03-2019
