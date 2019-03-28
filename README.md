@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-03-2019
+
+- https://github.com/valeriansaliou/sonic A fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
+
 # 26-03-2019
 
 - https://chriskiehl.com/article/event-sourcing-is-hard Don't Let the Internet Dupe you, Event Sourcing is Hard
