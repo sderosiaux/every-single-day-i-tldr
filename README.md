@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-03-2019
 
+- https://chrilves.github.io/hugo/posts/recursion_schemes_intro/ Recursion Schemes: the high-school introduction
 - https://blog.oyanglul.us/scala/3-layer-cake 3 Layer Scala Cake
 - http://pseudo.co.de/seastar-dpdk-web-framework-showdown/ Seastar DPDK Web Framework Showdown
 - https://www.infoq.com/presentations/gcp-cloud-native-arch Google Cloud-native Architecture with Spring Cloud GCP
