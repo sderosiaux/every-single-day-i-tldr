@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-03-2019
+
+- https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/2 Consuming Messages Out of Apache Kafka using Websockets in Webworkers
+
 # 29-03-2019
 
 - https://chrilves.github.io/hugo/posts/recursion_schemes_intro/ Recursion Schemes: the high-school introduction
