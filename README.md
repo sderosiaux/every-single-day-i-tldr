@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-03-2019
 
+- https://killedbygoogle.com/ Killed by Google - Holy Moly
 - https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/2 Consuming Messages Out of Apache Kafka using Websockets in Webworkers
 
 # 29-03-2019
