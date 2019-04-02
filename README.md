@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-04-2019
 
+- https://andyadams.org/everything-i-know-about-freelancing/ Everything I know about freelancing
 - https://www.youtube.com/watch?v=5iV_hB08Uns BostonDynamics strikes again: Handle Robot Reimagined for Logistics 
 - https://blog.cloudflare.com/1111-warp-better-vpn/ Warp: 1.1.1.1 VPN on mobiles!
 
