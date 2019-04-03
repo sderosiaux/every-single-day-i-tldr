@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2019
 
+- https://www.youtube.com/watch?v=OMHG_p8VmcA Data Processing @Spotify using Scio
 - https://www.youtube.com/watch?v=ei66Fr25Y2M Kotlin: Write Once, Run (Actually) Everywhere
 - https://www.confluent.io/blog/ksql-whats-new-in-5-2 More operators for KSQL! (such as CASE)
 - http://systemfw.org/TL-Summit-Philly-2019/#/ Ref + Deferred
