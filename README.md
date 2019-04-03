@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-04-2019
+
+- https://chriswhocodes.com/hotspot_option_differences.html#JDK13 Differences between HotSpot VM Versions
+
 # 02-04-2019
 
 - https://andyadams.org/everything-i-know-about-freelancing/ Everything I know about freelancing
