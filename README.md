@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2019
 
+- http://systemfw.org/TL-Summit-Philly-2019/#/ Ref + Deferred
 - https://blog.univalence.io/typeclass-derivation-faites-eclore-vos-instances-avec-magnolia/ Typeclass derivation avec Magnolia
 - https://chriswhocodes.com/hotspot_option_differences.html#JDK13 Differences between HotSpot VM Versions
 
