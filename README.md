@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-04-2019
+
+- https://www.youtube.com/watch?v=-KA3BSdqYug John A. De Goes at #ScalaUA - Thinking Functionally. From imperative buggy code to ZIO
+
 # 03-04-2019
 
 - https://www.youtube.com/watch?v=OMHG_p8VmcA Data Processing @Spotify using Scio
