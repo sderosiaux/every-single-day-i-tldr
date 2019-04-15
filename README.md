@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 15-04-2019
+
+- https://cloud.google.com/blog/topics/inside-google-cloud/100-plus-announcements-from-google-cloud-next19 122+ announcements from Google Cloud Next ‘19
+
 # 13-04-2019
 
 - https://medium.com/@elizarov/structured-concurrency-722d765aa952 Structured concurrency. Kotlin coroutines
