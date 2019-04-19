@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-04-2019
 
+- https://contributors.scala-lang.org/t/proposal-to-revise-implicit-parameters/3044 `def f given (u: Universe) (x: u.T) given Context = ...`
 - https://www.scala-lang.org/2019/04/16/metals.html Metals is now awesome to use in VSCode (code completion, diag, docs at point, hints..)
 - https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles/ Dude found two identical packs of Skittles, among 468 packs with a total of 27,740 Skittles and make stats.
 
