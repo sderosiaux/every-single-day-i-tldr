@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-04-2019
+
+- https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles/ Dude found two identical packs of Skittles, among 468 packs with a total of 27,740 Skittles and make stats.
+
 # 16-04-2019
 
 - https://www.youtube.com/watch?v=d6WWmia0BPM ZIO STM in Scala for safe composable transactional boundaries
