@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-04-2019
 
+- https://blog.zenika.com/2019/04/23/zoom-sur-quarkus/ Zoom sur Quarkus
 - https://www.slideshare.net/FlorentRamiere/apache-kafka-patterns-antipatterns Kafka anti-patterns
 - https://www.slideshare.net/giridhar510/kafka-streams-fifth-elephant-2018 Kafka streams fifth elephant 2018
 
