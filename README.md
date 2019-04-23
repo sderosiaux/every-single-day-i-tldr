@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-04-2019
+
+- https://www.slideshare.net/giridhar510/kafka-streams-fifth-elephant-2018 Kafka streams fifth elephant 2018
+
 # 22-04-2019
 
 - https://www.confluent.io/kafka-summit-ny19/exactly-once-semantics-revisted Kafka Exactly Once Semantics
