@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-04-2019
 
+- https://medium.com/@wiemzin/concurrency-is-complicated-e44ddb5aa9ef Concurrency is complicated 
 - https://www.buzzsprout.com/episodes/1046878-diving-into-exactly-once-semantics-with-guozhang-wang Diving into Exactly Once Semantics with Guozhang Wang
 
 # 23-04-2019
