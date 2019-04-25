@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-04-2019
+
+- https://www.buzzsprout.com/episodes/1046878-diving-into-exactly-once-semantics-with-guozhang-wang Diving into Exactly Once Semantics with Guozhang Wang
+
 # 23-04-2019
 
 - https://blog.zenika.com/2019/04/23/zoom-sur-quarkus/ Zoom sur Quarkus
