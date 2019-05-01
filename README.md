@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-05-2019
+
+- https://github.com/google/flogger A Fluent Logging API for Java
+
 # 27-04-2019
 
 - https://medium.freecodecamp.org/optional-in-java-and-anti-patterns-using-it-7d87038362ba Optional datatype anti-patterns
