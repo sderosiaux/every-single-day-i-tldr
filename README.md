@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2019
 
+- https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit# Java Is Still Free
 - https://github.com/google/flogger A Fluent Logging API for Java
 
 # 27-04-2019
