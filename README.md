@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-05-2019
 
+- https://www.youtube.com/watch?v=pRmwrp_99fA TLS 1.2 & 1.3
 - https://blog.softwaremill.com/docker-support-in-new-java-8-finally-fd595df0ca54 Beware of Docker support in "old" Java 8
 
 # 01-05-2019
