@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-05-2019
 
+- http://pages.cs.wisc.edu/~rgrandl/papers/link.pdf Fast key-value stores: An idea whose time has come and gone
 - https://tgrez.github.io/posts/2019-04-13-kafka-transactions.html Kafka transactions and fencing
 
 # 02-05-2019
