@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-05-2019
+
+- https://tgrez.github.io/posts/2019-04-13-kafka-transactions.html Kafka transactions and fencing
+
 # 02-05-2019
 
 - https://www.youtube.com/watch?v=pRmwrp_99fA TLS 1.2 & 1.3
