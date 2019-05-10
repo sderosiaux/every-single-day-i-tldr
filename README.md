@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-05-2019
+
+- https://www.youtube.com/watch?v=6n9Y5Ik4jGI Un peu de sociologie, appliquée à notre métier de développeur
+
 # 07-05-2019
 
 - http://pages.cs.wisc.edu/~rgrandl/papers/link.pdf Fast key-value stores: An idea whose time has come and gone
