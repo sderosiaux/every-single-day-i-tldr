@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-05-2019
 
+- https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices Four Pillars of Event Streaming Microservices
 - https://medium.com/enfuse-io/a-diy-guide-to-kafka-connectors-38ad7cd82e02 Guide to Kafka Connectors deployments on Kubernetes
 - https://www.youtube.com/watch?v=6n9Y5Ik4jGI Un peu de sociologie, appliquée à notre métier de développeur
 
