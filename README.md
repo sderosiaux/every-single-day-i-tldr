@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-05-2019
 
+- https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/ MirrorMaker 2.0
 - https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud?mkt_tok=eyJpIjoiTlRnNU9XUXlaVGM0WTJJdyIsInQiOiI3V1FRSmtzMjk1aGxIZVVrbDZhYTRZTFZsR1wvclwvdmFjYWlJbEprSHI1M2dyTmxRZG5PUjZ5YTBjN2Rjc0RjbmI5d0VOR1luQ1JuMVFHUXBVOEo2U3lUbzhScTRlWXkzZFZnaUc0SysrZkFqTDBtekV6MG1JMXZtS3luWVYwNFczIn0%3D Kafka Serverless, awesome.
 
 # 10-05-2019
