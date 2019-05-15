@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-05-2019
+
+- https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud?mkt_tok=eyJpIjoiTlRnNU9XUXlaVGM0WTJJdyIsInQiOiI3V1FRSmtzMjk1aGxIZVVrbDZhYTRZTFZsR1wvclwvdmFjYWlJbEprSHI1M2dyTmxRZG5PUjZ5YTBjN2Rjc0RjbmI5d0VOR1luQ1JuMVFHUXBVOEo2U3lUbzhScTRlWXkzZFZnaUc0SysrZkFqTDBtekV6MG1JMXZtS3luWVYwNFczIn0%3D Kafka Serverless, awesome.
+
 # 10-05-2019
 
 - https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices Four Pillars of Event Streaming Microservices
