@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-05-2019
 
+- https://www.youtube.com/watch?v=mGxcaQs3JWI Error Management: Future vs ZIO. I'm eager to use ZIO on something useful!
 - https://www.lightbend.com/blog/sbt-1.3.0-release sbt 1.3.0-RC1 released. I miss working on a Scala project.
 - https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en Simon Sinek: How great leaders inspire action
 - https://boyter.org/posts/file-read-challange/ Processing Large Files – Java, Go and 'hitting the wall'
