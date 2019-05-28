@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-05-2019
+
+- https://www.confluent.io/blog/17-ways-to-mess-up-self-managed-schema-registry 17 Ways to Mess Up Self-Managed Schema Registry | "delete _schemas" ahah !
+
 # 19-05-2019
 
 - https://cloudmark.github.io/A-Journey-To-Zio/ Using ZIO
