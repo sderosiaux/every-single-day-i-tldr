@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-05-2019
+
+- https://queue.acm.org/detail.cfm?id=3321612 Online Event Processing - ACM Queue. Write into the logs then write into the DB using processors
+
 # 28-05-2019
 
 - https://www.confluent.io/blog/17-ways-to-mess-up-self-managed-schema-registry 17 Ways to Mess Up Self-Managed Schema Registry | "delete _schemas" ahah !
