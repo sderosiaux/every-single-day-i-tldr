@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-05-2019
 
+- https://www.ebayinc.com/stories/blogs/tech/monitoring-at-ebay-with-druid/ Monitoring at eBay with Druid
 - https://queue.acm.org/detail.cfm?id=3321612 Online Event Processing - ACM Queue. Write into the logs then write into the DB using processors
 
 # 28-05-2019
