@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-05-2019
+
+- https://www.youtube.com/watch?v=pLISFJM22ro Et si on redémarrait l'agile ?
+
 # 29-05-2019
 
 - http://verraes.net/2019/05/eventsourcing-patterns-decision-tracking/ Eventsourcing Patterns: Decision Tracking
