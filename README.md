@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-05-2019
 
+- https://www.infoq.com/fr/presentations/flowcon-2018-Arnaud-Lemaire Dette Technique Et Entropie Logicielle
 - https://www.youtube.com/watch?v=pLISFJM22ro Et si on redémarrait l'agile ?
 
 # 29-05-2019
