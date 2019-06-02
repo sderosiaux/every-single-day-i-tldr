@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-06-2019
 
+- https://amplitude.engineering/dedupe-events-at-scale-f9e416e46ca9 Dedupe Events at Scale – Bloom Filters powered
 - https://www.youtube.com/watch?v=tL6DtN0zhrQ Monitor Kafka Like a Pro - Good tips about monitoring Kafka brokers & clients
 - https://www.youtube.com/watch?v=08eSR0vn4Vw ZIO to code a Concurrent Web Crawler purely functional <3
 - http://verraes.net/2019/06/eventsourcing-patterns-migration-events-ghost-context/ Eventsourcing Patterns: Migration Events in a Ghost Context. LegacyCustomerWasImported. \o/
