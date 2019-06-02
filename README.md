@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-06-2019
+
+- http://verraes.net/2019/06/eventsourcing-patterns-migration-events-ghost-context/ Eventsourcing Patterns: Migration Events in a Ghost Context. LegacyCustomerWasImported. \o/
+
 # 31-05-2019
 
 - https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4 Must have Kubernetes tools
