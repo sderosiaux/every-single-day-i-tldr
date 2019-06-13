@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-06-2019
 
+- https://www.slideshare.net/Odersky/a-tour-of-scala-3 A Tour of Scala 3— It will be awesome to use <3
 - https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f The Evolution of a Scala Programmer – From beginning to typelevel & algebras masters
 
 # 02-06-2019
