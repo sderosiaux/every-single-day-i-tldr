@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-06-2019
+
+- https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f The Evolution of a Scala Programmer – From beginning to typelevel & algebras masters
+
 # 02-06-2019
 
 - https://amplitude.engineering/dedupe-events-at-scale-f9e416e46ca9 Dedupe Events at Scale – Bloom Filters powered
