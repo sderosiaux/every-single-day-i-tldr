@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-06-2019
 
+- https://julesh.com/2017/04/22/on-compositionality/ About compositionality and emergence
 - https://www.youtube.com/watch?v=I1RAij4aX6Y Path-Dependent Types
 - https://www.lightbend.com/blog/managing-streaming-and-queryable-state-in-spark-akka-streams-kafka-streams-flink Managing Streaming And Queryable State In Spark, Akka Streams, Kafka Streams, And Flink
 - https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-cdn Google Cloud networking in depth: Cloud CDN
