@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-06-2019
 
+- https://www.lightbend.com/blog/managing-streaming-and-queryable-state-in-spark-akka-streams-kafka-streams-flink Managing Streaming And Queryable State In Spark, Akka Streams, Kafka Streams, And Flink
 - https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-cdn Google Cloud networking in depth: Cloud CDN
 - http://www.lihaoyi.com/post/HowtoworkwithHTTPJSONAPIsinScala.html How to work with HTTP JSON APIs in Scala
 - https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html Ten Reasons Why I Don't Like Golang | I wasn't aware of all the implicit conventions. I wonder if this has changed since 2016!
