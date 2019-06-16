@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-06-2019
+
+- https://www.slideshare.net/legendofklang/making-our-future-better The "new" Scala Future
+
 # 15-06-2019
 
 - https://julesh.com/2017/04/22/on-compositionality/ About compositionality and emergence
