@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-06-2019
 
+- https://www.youtube.com/watch?v=OXP-sUS6ffE Lambda World 2018 - The Complexity Trap: Think Before You Leap
 - https://www.slideshare.net/legendofklang/making-our-future-better The "new" Scala Future
 
 # 15-06-2019
