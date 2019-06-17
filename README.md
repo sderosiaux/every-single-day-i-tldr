@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 17-06-2019
+
+- https://medium.com/ssense-tech/csv-vs-parquet-vs-avro-choosing-the-right-tool-for-the-right-job-79c9f56914a8 CSV vs Parquet vs Avro
+
 # 16-06-2019
 
 - https://www.youtube.com/watch?v=OXP-sUS6ffE Lambda World 2018 - The Complexity Trap: Think Before You Leap
