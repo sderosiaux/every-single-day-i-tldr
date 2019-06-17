@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-06-2019
 
+- https://kubuszok.com/2019/io-monad-which-why-and-how/ IO monad: which, why and how. — A huge post tons of pointers
 - https://medium.com/ssense-tech/csv-vs-parquet-vs-avro-choosing-the-right-tool-for-the-right-job-79c9f56914a8 CSV vs Parquet vs Avro
 
 # 16-06-2019
