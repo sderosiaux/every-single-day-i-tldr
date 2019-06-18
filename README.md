@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-06-2019
+
+- http://degoes.net/articles/tagless-horror Why not use Tagless-Final in Scala
+
 # 17-06-2019
 
 - https://kubuszok.com/2019/io-monad-which-why-and-how/ IO monad: which, why and how. — A huge post tons of pointers
