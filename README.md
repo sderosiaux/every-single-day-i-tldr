@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2019
 
+- https://blog.softwaremill.com/thread-shifting-in-cats-effect-and-zio-9c184708067b Thread shifting in cats-effect and ZIO – Reminds me of Kotlin coroutine withContext, great.
 - http://degoes.net/articles/tagless-horror Why not use Tagless-Final in Scala
 
 # 17-06-2019
