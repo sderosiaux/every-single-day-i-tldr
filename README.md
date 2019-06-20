@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-06-2019
 
+- https://www.youtube.com/watch?v=li2aowPnezA Jun Rao, Confluent - Kafka Controller: A Deep Dive
 - https://www.infoq.com/presentations/rust-tradeoffs/ How Rust Views Tradeoffs
 
 # 18-06-2019
