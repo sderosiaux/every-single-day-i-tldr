@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-06-2019
+
+- https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7 API Gateways, Management, Service Mesh
+
 # 20-06-2019
 
 - https://www.youtube.com/watch?v=li2aowPnezA Jun Rao, Confluent - Kafka Controller: A Deep Dive
