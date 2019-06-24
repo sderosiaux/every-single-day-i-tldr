@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-06-2019
+
+- https://www.defmacro.org/2019/03/26/startup-checklist.html Startup idea checklist
+
 # 21-06-2019
 
 - https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7 API Gateways, Management, Service Mesh
