@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-06-2019
 
+- https://gist.github.com/Matthias247/5e5e7430149bbb04eebf18cf31747fe0 Async/Await in rust: challenging
 - https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design Microservices, Kafka, and DDD
 
 # 24-06-2019
