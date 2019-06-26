@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-06-2019
+
+- https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design Microservices, Kafka, and DDD
+
 # 24-06-2019
 
 - https://www.defmacro.org/2019/03/26/startup-checklist.html Startup idea checklist
