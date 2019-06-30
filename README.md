@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-06-2019
 
+- http://verraes.net/2019/05/ddd-msg-arch/ DDD and Messaging Architectures
 - https://penberg.org/parakernel-hotos19.pdf I/O Is Faster Than the CPU – Let's Partition Resources and Eliminate (Most) OS Abstractions
 
 # 26-06-2019
