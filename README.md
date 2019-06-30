@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-06-2019
+
+- https://penberg.org/parakernel-hotos19.pdf I/O Is Faster Than the CPU – Let's Partition Resources and Eliminate (Most) OS Abstractions
+
 # 26-06-2019
 
 - https://gist.github.com/Matthias247/5e5e7430149bbb04eebf18cf31747fe0 Async/Await in rust: challenging
