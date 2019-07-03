@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-07-2019
+
+- https://retrocomputing.stackexchange.com/questions/11533/why-did-moving-the-mouse-cursor-cause-windows-95-to-run-more-quickly "Moving the mouse cursor cause Windows 95 to run more quickly." Magic.
+
 # 30-06-2019
 
 - http://verraes.net/2019/05/ddd-msg-arch/ DDD and Messaging Architectures
