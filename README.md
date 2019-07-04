@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-07-2019
 
+- https://www.youtube.com/watch?v=ryFAZZEZbyw OpenTracing -> OpenTelemetry
 - https://medium.com/graalvm/isolates-and-compressed-references-more-flexible-and-efficient-memory-management-for-graalvm-a044cc50b67e GraalVM SubstrateVM has "Isolates" to provide a dedicated heap that can be teardown quickly. Useful to ensure isolation.
 
 # 03-07-2019
