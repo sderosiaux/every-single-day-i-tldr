@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-07-2019
+
+- https://medium.com/graalvm/isolates-and-compressed-references-more-flexible-and-efficient-memory-management-for-graalvm-a044cc50b67e GraalVM SubstrateVM has "Isolates" to provide a dedicated heap that can be teardown quickly. Useful to ensure isolation.
+
 # 03-07-2019
 
 - https://retrocomputing.stackexchange.com/questions/11533/why-did-moving-the-mouse-cursor-cause-windows-95-to-run-more-quickly "Moving the mouse cursor cause Windows 95 to run more quickly." Magic.
