@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-07-2019
 
+- https://www.buzzsprout.com/186154/1323595 Rolling Kafka Upgrades and Confluent Cloud ft. Gwen Shapira
 - https://kafkaesque.io/7-reasons-we-choose-apache-pulsar-over-apache-kafka/ Stateless brokers (Pulsar), Separation of data and brokering (Pulsar), Queues & Topics
 - https://www.youtube.com/watch?v=DBfmKE42PiY Kafka Streams, profiling, framegraphs
 - https://www.youtube.com/watch?v=ryFAZZEZbyw OpenTracing -> OpenTelemetry
