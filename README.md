@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-07-2019
 
+- https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa Understanding Rust Lifetimes
 - https://blog.jetbrains.com/scala/2019/07/02/functional-highlighting-for-functional-programming IntelliJ Scala is getting better at error highlighting
 - https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2 Kubernetes Ingress Controllers (nginx, aws alb..)
 - https://medium.com/graalvm/safe-and-sandboxed-execution-of-native-code-f6096b35c360 Sandboxed execution of native code in GraalVM
