@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-07-2019
+
+- https://medium.com/graalvm/safe-and-sandboxed-execution-of-native-code-f6096b35c360 Sandboxed execution of native code in GraalVM
+
 # 04-07-2019
 
 - https://www.buzzsprout.com/186154/1323595 Rolling Kafka Upgrades and Confluent Cloud ft. Gwen Shapira
