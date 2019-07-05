@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-07-2019
 
+- https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2 Kubernetes Ingress Controllers (nginx, aws alb..)
 - https://medium.com/graalvm/safe-and-sandboxed-execution-of-native-code-f6096b35c360 Sandboxed execution of native code in GraalVM
 
 # 04-07-2019
