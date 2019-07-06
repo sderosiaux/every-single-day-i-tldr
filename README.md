@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-07-2019
+
+- http://w.pitula.me/presentations/2019-07-lxscala/#/ From initial to final, tagged to tagless; why; lib vs apps
+
 # 05-07-2019
 
 - https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa Understanding Rust Lifetimes
