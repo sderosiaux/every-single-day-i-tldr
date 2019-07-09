@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-07-2019
+
+- https://www.youtube.com/watch?v=a3agLJQ6vt8 Structured Concurrency in Kotlin with coroutines
+
 # 06-07-2019
 
 - http://w.pitula.me/presentations/2019-07-lxscala/#/ From initial to final, tagged to tagless; why; lib vs apps
