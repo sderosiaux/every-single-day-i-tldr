@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-07-2019
 
+- https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df Very nice insights about Distributed Tracing  tools:  why we’ve been doing it "wrong"
 - https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-ii/#fnref2 I always like reading some Akka Streams processing. A very nice example of a pagination API converted to a generic "Source"
 - https://www.youtube.com/watch?v=a3agLJQ6vt8 Structured Concurrency in Kotlin with coroutines
 
