@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-07-2019
 
+- https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283 ZIO + Akka PubSub + Cluster Sharing for distributed computing
 - http://natpryce.com/articles/000819.html Mistakes we made adopting event sourcing (and how we recovered)
 - https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df Very nice insights about Distributed Tracing  tools:  why we’ve been doing it "wrong"
 - https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-ii/#fnref2 I always like reading some Akka Streams processing. A very nice example of a pagination API converted to a generic "Source"
