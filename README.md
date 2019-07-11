@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 11-07-2019
+
+- https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f Interesting insights around the Kubernetes Scheduler
+
 # 09-07-2019
 
 - https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283 ZIO + Akka PubSub + Cluster Sharing for distributed computing
