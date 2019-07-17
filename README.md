@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-07-2019
 
+- https://blog.cloudera.com/blog/2019/07/yunikorn-a-universal-resource-scheduler/ YuniKorn: a "universal"/unified resource scheduler, run on Yarn or more interestingly on Kubernetes
 - https://github.com/kubernetes-sigs/kube-batch A batch scheduler on kubernetes
 
 # 11-07-2019
