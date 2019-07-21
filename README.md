@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-07-2019
 
+- https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger Effet Dunning-Kruger: biais cognitif: "effet de surconfiance"
 - https://www.lightbend.com/blog/scala-inliner-optimizer Scala Inliner and Optimizer
 - https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/ Data Exchange With the Outbox Pattern
 - https://twitter.com/itrvd/status/1152580754393718786 ZStream upcoming in ZIO, very good stuff
