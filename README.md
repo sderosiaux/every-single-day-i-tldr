@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-07-2019
 
+- https://github.com/scala/scala/releases/tag/v2.13.0?source=post_page--------------------------- Release Scala 2.13.0 · scala/scala: HUGE!
 - https://medium.com/@linas.m/my-favorite-new-features-of-scala-2-13-standard-library-909a89b0da4 A bit about new stuff in Scala 2.13 stdlib
 - https://blog.softwaremill.com/comparing-ethereum-and-the-libra-blockchain-64bec7dd70c0 Comparing Ethereum and the Libra blockchain
 - https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger Effet Dunning-Kruger: biais cognitif: "effet de surconfiance"
