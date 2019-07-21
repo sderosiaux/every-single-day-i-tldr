@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-07-2019
+
+- https://twitter.com/itrvd/status/1152580754393718786 ZStream upcoming in ZIO, very good stuff
+
 # 17-07-2019
 
 - https://www.lightbend.com/blog/use-kafka-streams-dynamically-controlled-streams An interesting take about Kafka Streams compared to Akka Streams, Flink, Spark
