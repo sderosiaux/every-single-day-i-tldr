@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-07-2019
 
+- https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/ Lots of good insights operating a distributed system
 - https://objectcomputing.com/news/2019/07/18/unleashing-predator-precomputed-data-repositories Predator: Precomputed Data Repositories: aka compile-time repositories
 
 # 21-07-2019
