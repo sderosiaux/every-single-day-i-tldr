@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-07-2019
 
+- https://docs.confluent.io/5.3.0/release-notes.html Kafka 2.3.0 release notes + Connect + Streams + KSQL: huge!
 - https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/ Lots of good insights operating a distributed system
 - https://objectcomputing.com/news/2019/07/18/unleashing-predator-precomputed-data-repositories Predator: Precomputed Data Repositories: aka compile-time repositories
 
