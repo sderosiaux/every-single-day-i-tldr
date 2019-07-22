@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-07-2019
+
+- https://objectcomputing.com/news/2019/07/18/unleashing-predator-precomputed-data-repositories Predator: Precomputed Data Repositories: aka compile-time repositories
+
 # 21-07-2019
 
 - https://github.com/scala/scala/releases/tag/v2.13.0?source=post_page--------------------------- Release Scala 2.13.0 · scala/scala: HUGE!
