@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-07-2019
 
+- https://quarkus.io/blog/kafka-streams-applications-with-quarkus-and-microprofile/ Kafka Streams applications with Quarkus: auto-expose liveness check, metrics, native compilation. Very nice.
 - https://jdk.java.net/jpackage/ TIL about jpackage in JDK 14+: package a Java app with its JRE. 
 - https://www.youtube.com/watch?v=GXJ0D2tfZCM Automerge: to deal with online collaboration without central servers
 - https://www.infoq.com/presentations/graalvm-performance/ Performance GraalVM: it's not always what you want
