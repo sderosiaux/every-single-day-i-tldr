@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-07-2019
+
+- https://mixitconf.org/2019/the-internet-in-2030 The internet ... and the world in 2030
+
 # 22-07-2019
 
 - https://docs.confluent.io/5.3.0/release-notes.html Kafka 2.3.0 release notes + Connect + Streams + KSQL: huge!
