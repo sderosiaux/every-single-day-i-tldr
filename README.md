@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-07-2019
 
+- https://www.youtube.com/watch?v=GXJ0D2tfZCM Automerge: to deal with online collaboration without central servers
 - https://www.infoq.com/presentations/graalvm-performance/ Performance GraalVM: it's not always what you want
 - https://www.julian.com/blog/mental-model-examples "You are doing X. Why aren’t you doing Y instead? What would a mental model suggest is the best path forward?”
 - https://blog.octo.com/en/cache-me-if-you-can-2/ A nice overview of the HTTP Caching system
