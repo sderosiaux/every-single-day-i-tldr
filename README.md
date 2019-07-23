@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-07-2019
 
+- https://www.julian.com/blog/mental-model-examples "You are doing X. Why aren’t you doing Y instead? What would a mental model suggest is the best path forward?”
 - https://blog.octo.com/en/cache-me-if-you-can-2/ A nice overview of the HTTP Caching system
 - https://mixitconf.org/2019/the-internet-in-2030 The internet ... and the world in 2030
 
