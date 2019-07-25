@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-07-2019
 
+- https://speakerdeck.com/kubukoz/flawless-testing-for-the-functional-folks Flawless: a FP test lib, it's gonna be awesome
 - https://lsug.github.io/workshop/scala/2019/07/21/workshop-run-scalac-run.html Using Bloop, GraalVM, and scalac profiling to reduce build time
 - https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger Sending tracing spans into a kafka topic for later consumption by Jaeger
 - https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500 "I think we could call Rust a superior language to Go in, quite literally, every single way possible." \o/
