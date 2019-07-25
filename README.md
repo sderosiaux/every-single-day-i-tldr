@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-07-2019
+
+- https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500 "I think we could call Rust a superior language to Go in, quite literally, every single way possible." \o/
+
 # 23-07-2019
 
 - https://quarkus.io/blog/kafka-streams-applications-with-quarkus-and-microprofile/ Kafka Streams applications with Quarkus: auto-expose liveness check, metrics, native compilation. Very nice.
