@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-07-2019
 
+- https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger Sending tracing spans into a kafka topic for later consumption by Jaeger
 - https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500 "I think we could call Rust a superior language to Go in, quite literally, every single way possible." \o/
 
 # 23-07-2019
