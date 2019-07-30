@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-07-2019
 
+- https://www.youtube.com/watch?v=RtHA1YVLW5Y Cliff Click — A JVM Does That? ==> A LOT!
 - https://www.confluent.io/online-talks/from-zero-to-hero-with-kafka-connect-on-demand From Zero to Hero with Kafka Connect!
 
 # 28-07-2019
