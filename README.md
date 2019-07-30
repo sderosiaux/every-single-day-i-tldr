@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-07-2019
+
+- https://www.confluent.io/online-talks/from-zero-to-hero-with-kafka-connect-on-demand From Zero to Hero with Kafka Connect!
+
 # 28-07-2019
 
 - https://www.youtube.com/watch?v=PQ5ykHwXJfA Understanding Low Latency JVM GCs: Shenandoah, ZGC, C4
