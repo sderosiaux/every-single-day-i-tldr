@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-08-2019
 
+- https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html a Brief Guide to A Few Algebraic Structures
 - https://www.slideshare.net/KaiWaehner/confluent-operator-as-cloudnative-kafka-operator-for-kubernetes Confluent Operator as Cloud-Native Kafka Operator for Kubernetes
 
 # 30-07-2019
