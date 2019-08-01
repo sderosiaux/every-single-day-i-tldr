@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 01-08-2019
+
+- https://www.slideshare.net/KaiWaehner/confluent-operator-as-cloudnative-kafka-operator-for-kubernetes Confluent Operator as Cloud-Native Kafka Operator for Kubernetes
+
 # 30-07-2019
 
 - https://banzaicloud.com/blog/kafka-on-istio-performance/ Kafka over Istio - benchmarks / GCP & EKS / plain, ssl, mtls
