@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-08-2019
+
+- http://eed3si9n.com/dependency-resolver-semantics semantics of dependency resolvers, comparison between maven, ivy, coursier
+
 # 01-08-2019
 
 - https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html a Brief Guide to A Few Algebraic Structures
