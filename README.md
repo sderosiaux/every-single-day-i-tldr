@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-08-2019
 
+- https://itnext.io/how-to-use-knative-pipelining-component-to-automate-an-application-build-and-deployment-on-442b0b1bebf Knative + Tekton integration
 - http://eed3si9n.com/dependency-resolver-semantics semantics of dependency resolvers, comparison between maven, ivy, coursier
 
 # 01-08-2019
