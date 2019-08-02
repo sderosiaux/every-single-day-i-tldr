@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-08-2019
 
+- https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum KIP-500: Replace ZooKeeper by "Kafka Controllers Quorum". It's official now!
 - https://itnext.io/how-to-use-knative-pipelining-component-to-automate-an-application-build-and-deployment-on-442b0b1bebf Knative + Tekton integration
 - http://eed3si9n.com/dependency-resolver-semantics semantics of dependency resolvers, comparison between maven, ivy, coursier
 
