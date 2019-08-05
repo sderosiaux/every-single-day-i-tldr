@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-08-2019
+
+- https://tech.transferwise.com/achieving-high-availability-with-kafka-streams/ Achieving high availability with stateful Kafka Streams applications
+
 # 02-08-2019
 
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum KIP-500: Replace ZooKeeper by "Kafka Controllers Quorum". It's official now!
