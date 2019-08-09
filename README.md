@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 09-08-2019
+
+- https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/ Benchmarking Functional Error Handling in Scala (Either[T], IO, ZIO..)
+
 # 07-08-2019
 
 - https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b Monorepos: Please don’t! It's not always pink. And far from it when it's a large company (>100)
