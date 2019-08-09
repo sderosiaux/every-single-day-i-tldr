@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-08-2019
 
+- https://hal.archives-ouvertes.fr/hal-02114296/document Comparison Matrices of Semantic RESTful APIs Technologies
 - https://martin.kleppmann.com/2019/06/27/hydra-interview.html Figuring out the future of distributed data systems (Martin Kleppmann)
 - https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf Callbacks and Kotlin Flows
 - https://dbmsmusings.blogspot.com/2019/06/correctness-anomalies-under.html Anomalies Under Serializable Isolation
