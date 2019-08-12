@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 12-08-2019
+
+- http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html Writing a Kubernetes CRD Controller in Rust
+
 # 09-08-2019
 
 - https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works Understanding How Apache Pulsar Works
