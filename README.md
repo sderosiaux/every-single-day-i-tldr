@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 15-08-2019
+
+- https://stripe.com/en-fr/atlas/guides/andrew-chen-marketplaces Marketplaces
+
 # 12-08-2019
 
 - http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html Writing a Kubernetes CRD Controller in Rust
