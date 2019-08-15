@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-08-2019
 
+- https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952 Why our team cancelled our move to microservices
 - https://rmoff.net/2019/08/15/reset-kafka-connect-source-connector-offsets/ Reset Kafka Connect Source Connector Offsets
 - https://stripe.com/en-fr/atlas/guides/andrew-chen-marketplaces Marketplaces
 
