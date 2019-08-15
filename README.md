@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-08-2019
 
+- https://rmoff.net/2019/08/15/reset-kafka-connect-source-connector-offsets/ Reset Kafka Connect Source Connector Offsets
 - https://stripe.com/en-fr/atlas/guides/andrew-chen-marketplaces Marketplaces
 
 # 12-08-2019
