@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-08-2019
 
+- https://medium.com/@ghostdogpr/wrapping-impure-code-with-zio-9265c219e2e Wrapping impure code with ZIO
 - https://www.youtube.com/watch?v=VV9lPg3fNl8 GADTs in Dotty
 - https://www.youtube.com/watch?v=v__IRT-QkwY Using Blocker in cats-effect for blocking IOs
 - https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/ "The only way to decrease the overall complexity is to reduce the accidental complexity."
