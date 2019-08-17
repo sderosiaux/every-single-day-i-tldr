@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-08-2019
 
+- https://www.confluent.io/blog/kafka-connect-improvements-in-apache-kafka-2-3 Kafka Connect Improvements in Apache Kafka 2.3
 - https://video.ias.edu/VoevodskyMemConf-2018/0911-DanGrayson The mathematical work of Vladimir Voevodsky. Homotopy theory to type theory (HoTT)
 
 # 17-08-2019
