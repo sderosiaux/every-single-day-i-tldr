@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-08-2019
+
+- https://video.ias.edu/VoevodskyMemConf-2018/0911-DanGrayson The mathematical work of Vladimir Voevodsky. Homotopy theory to type theory (HoTT)
+
 # 17-08-2019
 
 - https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c Static Analysis at Scale in Instagram, using Pyre (for Python)
