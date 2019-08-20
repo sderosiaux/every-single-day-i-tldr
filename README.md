@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-08-2019
+
+- https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams Kafka Streams and a Shared State Microservices REST API
+
 # 18-08-2019
 
 - https://www.confluent.io/blog/kafka-connect-improvements-in-apache-kafka-2-3 Kafka Connect Improvements in Apache Kafka 2.3
