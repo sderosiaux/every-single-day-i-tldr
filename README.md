@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-08-2019
 
+- https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19 10 Key Learnings in Rust after 30,000 Lines of Code
 - https://github.com/alexellis/inlets A better ngrok. Expose your local endpoints to the Internet
 - https://engineering.linkedin.com/blog/2019/data-hub Data Hub: A Generalized Metadata Search & Discovery Tool | LinkedIn Engineering
 - https://www.youtube.com/watch?v=m9cu4xUvrUs Resource composition in cats-effect with the Resource data type
