@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-08-2019
 
+- http://www.jonathanturner.org/2019/08/introducing-nushell.html Introducing nushell, an amazing new shell in Rust
 - https://contributors.scala-lang.org/t/pre-sip-curried-varargs/3608 Pre SIP: Curried varargs in Scala
 
 # 23-08-2019
