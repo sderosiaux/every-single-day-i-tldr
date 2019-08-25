@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-08-2019
+
+- https://contributors.scala-lang.org/t/pre-sip-curried-varargs/3608 Pre SIP: Curried varargs in Scala
+
 # 23-08-2019
 
 - https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19 10 Key Learnings in Rust after 30,000 Lines of Code
