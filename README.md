@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-08-2019
 
+- https://levelup.gitconnected.com/kubernetes-merge-multiple-yaml-into-one-e8844479a73a Kubernetes: Merge Multiple YAML Files Into One. Kustomize.
 - https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e A reference, about Monitoring and Observability
 
 # 25-08-2019
