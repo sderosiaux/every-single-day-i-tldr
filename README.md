@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-08-2019
+
+- https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e A reference, about Monitoring and Observability
+
 # 25-08-2019
 
 - http://www.jonathanturner.org/2019/08/introducing-nushell.html Introducing nushell, an amazing new shell in Rust
