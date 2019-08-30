@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-08-2019
 
+- https://vimeo.com/353579169 Travis Brown - Library design for Dotty: a preview of Cats and Circe in 2021
 - https://www.youtube.com/watch?v=vGVJYoKIzjU John Hughes - Why Functional Programming Matters
 - https://netdevconf.org/1.2/papers/ktls.pdf KTLS implementation (TLS management in kernel space)
 
