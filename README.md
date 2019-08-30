@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-08-2019
 
+- https://www.youtube.com/watch?v=vGVJYoKIzjU John Hughes - Why Functional Programming Matters
 - https://netdevconf.org/1.2/papers/ktls.pdf KTLS implementation (TLS management in kernel space)
 
 # 28-08-2019
