@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-08-2019
 
+- https://blog.zenika.com/2019/08/30/cilium-firewall-pour-les-conteneurs/ Cilium : un firewall pour les conteneurs
 - https://www.youtube.com/watch?v=KNqOWT0lOYY Temporal Modelling • Mathias Verraes
 - https://vimeo.com/353579169 Travis Brown - Library design for Dotty: a preview of Cats and Circe in 2021
 - https://www.youtube.com/watch?v=vGVJYoKIzjU John Hughes - Why Functional Programming Matters
