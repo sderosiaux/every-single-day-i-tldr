@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-09-2019
+
+- https://www.youtube.com/watch?v=63x_G6vrwgs Ask Confluent #15: Attack of the Zombie Controller
+
 # 30-08-2019
 
 - https://blog.zenika.com/2019/08/30/cilium-firewall-pour-les-conteneurs/ Cilium : un firewall pour les conteneurs
