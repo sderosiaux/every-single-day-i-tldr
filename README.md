@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-09-2019
 
+- https://fp-tower.github.io/foundation/2-SideEffect.html Side Effect, IO, Futures, and Free monad
 - https://www.youtube.com/watch?v=63x_G6vrwgs Ask Confluent #15: Attack of the Zombie Controller
 
 # 30-08-2019
