@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-09-2019
 
+- https://nrinaudo.github.io/much-ado-about-testing/ Property based testing & Metamorphic  testing
 - https://www.infoq.com/presentations/microservices-ddd-bounded-contexts Bounded Contexts + Events + Commands
 - https://www.infoq.com/presentations/ddd-functional-programming DDD, Event Sourcing
 
