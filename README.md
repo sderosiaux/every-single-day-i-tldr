@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-09-2019
+
+- https://www.infoq.com/presentations/ddd-functional-programming DDD, Event Sourcing
+
 # 04-09-2019
 
 - https://twitter.com/withoutboats/status/1027702531361857536 Rust: why async/await instead of do notation
