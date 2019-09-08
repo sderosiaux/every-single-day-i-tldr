@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-09-2019
+
+- https://www.pulumi.com/blog/pulumi-1-0/ Pulumi 1.0 GA. Infrastructure as code FTW
+
 # 05-09-2019
 
 - https://www.cloudamqp.com/blog/2019-04-03-quorum-queues-internals-a-deep-dive.html CloudAMQP Quorum Queues
