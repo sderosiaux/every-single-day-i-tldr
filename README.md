@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-09-2019
 
+- https://medium.com/better-programming/helm-3-fun-with-the-new-beta-8f91c70891ff Helm 3: Fun With the New Beta: no more "tiller"
 - https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/ On Eliminating Error in Distributed Software Systems: Types! and FP. Simple as that.
 
 # 12-09-2019
