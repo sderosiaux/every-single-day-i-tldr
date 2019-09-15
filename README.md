@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 15-09-2019
+
+- https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/ On Eliminating Error in Distributed Software Systems: Types! and FP. Simple as that.
+
 # 12-09-2019
 
 - https://lamport.azurewebsites.net/tla/paxos-algorithm.html Paxos Algorithm + TLA+ explained by Leslie Lamport
