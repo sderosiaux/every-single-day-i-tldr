@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-10-2019
+
+- https://www.infoq.com/news/2019/09/cqrs-event-sourcing-production/ Day Two Problems When Using CQRS and Event Sourcing
+
 # 15-09-2019
 
 - https://www.confluent.io/blog/kafka-rebalance-protocol-static-membership Kafka Rebalance Protocol for the Cloud: Static Membership
