@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-10-2019
 
+- https://yokota.blog/2019/09/23/building-a-relational-database-using-kafka/ Building A Relational Database Using Kafka (+ Avro, Calcite, Omid, Avatica)
 - https://databricks.com/blog/2019/09/16/adventures-in-the-tcp-stack-performance-regressions-vulnerability-fixes.html Troubleshooting TCP SACKs Vulnerability Fixes
 - https://medium.com/@D11Engg/building-scalable-real-time-analytics-alerting-and-anomaly-detection-architecture-at-dream11-e20edec91d33 Building Scalable Real Time Analytics, classic Kafka way: Debezium, Connect, Streams/KSQL, Elasticsearch
 - https://speakerdeck.com/kubukoz/flawless-testing-for-the-functional-folks Flawless testing for the functional folks #scala
