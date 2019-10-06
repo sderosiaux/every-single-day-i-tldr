@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-10-2019
 
+- https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e From @Transactional to type-safe, reasonable transactions
 - https://speakerdeck.com/nikkithean/kafka-on-kubernetes-keeping-it-simple Kafka on Kubernetes: Keeping It Simple
 - https://speakerdeck.com/loicdivad/streaming-apps-and-poison-pills-handle-the-unexpected-with-kafka-streams Streaming Apps and Poison Pills: Handle the Unexpected with Kafka Streams
 
