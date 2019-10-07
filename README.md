@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-10-2019
 
+- https://www.youtube.com/watch?v=PgQyCnqm4QQ Jorge Vicente Cantero—Design Challenges of Bloop
 - https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka Incremental Cooperative Rebalancing in Apache Kafka
 
 # 06-10-2019
