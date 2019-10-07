@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-10-2019
+
+- https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka Incremental Cooperative Rebalancing in Apache Kafka
+
 # 06-10-2019
 
 - https://yokota.blog/2019/09/23/building-a-relational-database-using-kafka/ Building A Relational Database Using Kafka (+ Avro, Calcite, Omid, Avatica)
