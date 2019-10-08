@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-10-2019
 
+- https://medium.com/@cparageaud/aws-lambda-java-11-3-3-5492b13c1aba AWS Lambda : Java 11
 - https://www.infoq.com/presentations/event-driven-benefits-pitfalls/ Opportunities and Pitfalls of Event-Driven Utopia- Excellent, get the same xp
 
 # 07-10-2019
