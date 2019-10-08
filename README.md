@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-10-2019
+
+- https://www.infoq.com/presentations/event-driven-benefits-pitfalls/ Opportunities and Pitfalls of Event-Driven Utopia- Excellent, get the same xp
+
 # 07-10-2019
 
 - https://www.youtube.com/watch?v=x5_MmZVLiSM Fabio Labella—How do Fibers Work? A Peek Under the Hood
