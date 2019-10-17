@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-10-2019
 
+- https://www.youtube.com/watch?v=93uE_kWWQjs Kernel Recipes 2019 - ftrace: Where modifying a running kernel all started
 - https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper Kafka without Zookeeper explanations
 - https://www.confluent.io/kafka-summit-san-francisco-2019/ksql-performance-tuning-for-fun-and-profit KSQL Performance Tuning for Fun and Profit, very good stuff
 - https://www.confluent.io/kafka-summit-san-francisco-2019/why-stop-the-world-when-you-can-change-it-design-and-implementation-of-incremental-cooperative-rebalancing Why stop the world when you can change it? Design and implementation of Incremental Cooperative Rebalancing
