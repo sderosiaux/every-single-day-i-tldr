@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-10-2019
 
+- https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper Kafka without Zookeeper explanations
 - https://www.confluent.io/kafka-summit-san-francisco-2019/ksql-performance-tuning-for-fun-and-profit KSQL Performance Tuning for Fun and Profit, very good stuff
 - https://www.confluent.io/kafka-summit-san-francisco-2019/why-stop-the-world-when-you-can-change-it-design-and-implementation-of-incremental-cooperative-rebalancing Why stop the world when you can change it? Design and implementation of Incremental Cooperative Rebalancing
 - https://tokio.rs/blog/2019-10-scheduler/ Making the Tokio scheduler 10x faster #rust
