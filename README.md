@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-10-2019
+
+- https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f A little bit of Data Science in Scala
+
 # 17-10-2019
 
 - https://www.youtube.com/watch?v=93uE_kWWQjs Kernel Recipes 2019 - ftrace: Where modifying a running kernel all started
