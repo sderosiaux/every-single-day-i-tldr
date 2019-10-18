@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-10-2019
 
+- https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407 Performance Comparison Between Apache Pulsar and Kafka: Latency. Spikes for Kafka, no for Pulsar.
 - https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f A little bit of Data Science in Scala
 
 # 17-10-2019
