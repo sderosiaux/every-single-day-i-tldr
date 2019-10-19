@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-10-2019
 
+- https://www.youtube.com/watch?v=USgfku1h7Hw John De Goes - Upgrade Your Future (Scala Russia 28.09.2019) - YouTub
 - https://www.scala-lang.org/2019/10/17/dependency-management.html Better management of transitive dependencies and conflicts with sbt #scala
 
 # 18-10-2019
