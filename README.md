@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-10-2019
+
+- https://www.scala-lang.org/2019/10/17/dependency-management.html Better management of transitive dependencies and conflicts with sbt #scala
+
 # 18-10-2019
 
 - https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407 Performance Comparison Between Apache Pulsar and Kafka: Latency. Spikes for Kafka, no for Pulsar.
