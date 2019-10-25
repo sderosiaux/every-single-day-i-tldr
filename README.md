@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-10-2019
+
+- https://www.youtube.com/watch?v=WoP8p7oDe84 Trains & KSQL (Robin Moffatt)
+
 # 19-10-2019
 
 - https://www.youtube.com/watch?v=USgfku1h7Hw John De Goes - Upgrade Your Future (Scala Russia 28.09.2019) - YouTub
