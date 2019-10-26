@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-10-2019
+
+- https://services.google.com/fh/files/misc/state-of-devops-2019.pdf State of DevOps
+
 # 25-10-2019
 
 - https://www.youtube.com/watch?v=WoP8p7oDe84 Trains & KSQL (Robin Moffatt)
