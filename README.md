@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-10-2019
 
+- https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447 Open-sourcing Polynote: an IDE-inspired polyglot notebook
 - https://services.google.com/fh/files/misc/state-of-devops-2019.pdf State of DevOps
 
 # 25-10-2019
