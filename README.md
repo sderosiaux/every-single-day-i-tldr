@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-11-2019
 
+- https://medium.com/teads-engineering/give-meaning-to-100-billion-events-a-day-part-ii-how-we-use-and-abuse-redshift-to-serve-our-data-bc23d2ed3e07 Give meaning to 100 Billion events a day, Redshift based & user-facing webapps
 - https://polynote.org/ Polynote | The polyglot Scala notebook
 - https://blog.timescale.com/blog/building-columnar-compression-in-a-row-oriented-database/ Building columnar compression in a row-oriented database
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-470%3A+TopologyTestDriver+test+input+and+output+usability+improvements KIP-470: TopologyTestDriver test input and output usability improvements. Good stuff, to avoid everyone to create their own helpers
