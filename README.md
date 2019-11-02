@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-11-2019
 
+- https://blog.timescale.com/blog/building-columnar-compression-in-a-row-oriented-database/ Building columnar compression in a row-oriented database
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-470%3A+TopologyTestDriver+test+input+and+output+usability+improvements KIP-470: TopologyTestDriver test input and output usability improvements. Good stuff, to avoid everyone to create their own helpers
 - https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46 The Y Combinator (no, not that one)
 - http://blog.wikipme.fr/startup-plus-difficile-a-scaler-cest-lhumain/ Startup : le plus difficile à scaler, c’est l’humain
