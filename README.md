@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-11-2019
 
+- https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46 The Y Combinator (no, not that one)
 - http://blog.wikipme.fr/startup-plus-difficile-a-scaler-cest-lhumain/ Startup : le plus difficile à scaler, c’est l’humain
 - https://www.slideshare.net/MarilynKol/rduire-la-dette-motionnelle-dans-une-quipe-scrum/1 Réduire la dette émotionnelle dans une équipe Scrum
 
