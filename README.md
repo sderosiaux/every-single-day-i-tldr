@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 02-11-2019
+
+- https://www.slideshare.net/MarilynKol/rduire-la-dette-motionnelle-dans-une-quipe-scrum/1 Réduire la dette émotionnelle dans une équipe Scrum
+
 # 26-10-2019
 
 - https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447 Open-sourcing Polynote: an IDE-inspired polyglot notebook
