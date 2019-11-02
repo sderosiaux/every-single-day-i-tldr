@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-11-2019
 
+- http://blog.wikipme.fr/startup-plus-difficile-a-scaler-cest-lhumain/ Startup : le plus difficile à scaler, c’est l’humain
 - https://www.slideshare.net/MarilynKol/rduire-la-dette-motionnelle-dans-une-quipe-scrum/1 Réduire la dette émotionnelle dans une équipe Scrum
 
 # 26-10-2019
