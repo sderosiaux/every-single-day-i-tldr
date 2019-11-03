@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-11-2019
 
+- https://medium.com/expedia-group-tech/ml-in-ksql-a44d455b0687 PMML + KSQL
 - https://www.youtube.com/watch?v=06iRM1Ghr1k What is Apache Kafka®? (Confluent Lightboard)
 - https://www.youtube.com/watch?v=NFB5hYTNYOE Develop seamless web services with Mu - Oli Makhasoeva
 - https://docs.google.com/presentation/d/16VdLeGwpKWRjA4H9ojWCGBWzSPKEo7p5cQRA74__ew0/edit#slide=id.p SBT, monorepo et livraison (ScalaIO19)
