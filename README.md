@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-11-2019
 
+- https://www.youtube.com/watch?v=NFB5hYTNYOE Develop seamless web services with Mu - Oli Makhasoeva
 - https://docs.google.com/presentation/d/16VdLeGwpKWRjA4H9ojWCGBWzSPKEo7p5cQRA74__ew0/edit#slide=id.p SBT, monorepo et livraison (ScalaIO19)
 - https://harrylaou.com/slides/AlgebrasInProgramming.pdf Algebras In Programming (ScalaIO19)
 - https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d Kadane’s Algorithm Dynamic Programming
