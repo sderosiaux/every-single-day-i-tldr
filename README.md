@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-11-2019
 
+- https://harrylaou.com/slides/AlgebrasInProgramming.pdf Algebras In Programming (ScalaIO19)
 - https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d Kadane’s Algorithm Dynamic Programming
 
 # 02-11-2019
