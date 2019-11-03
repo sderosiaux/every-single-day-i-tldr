@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-11-2019
 
+- https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/ Building a Microservices Ecosystem with Kafka Streams and KSQL
 - https://medium.com/expedia-group-tech/ml-in-ksql-a44d455b0687 PMML + KSQL
 - https://www.youtube.com/watch?v=06iRM1Ghr1k What is Apache Kafka®? (Confluent Lightboard)
 - https://www.youtube.com/watch?v=NFB5hYTNYOE Develop seamless web services with Mu - Oli Makhasoeva
