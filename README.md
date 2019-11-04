@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-11-2019
+
+- https://www.confluent.io/blog/apache-kafka-purgatory-hierarchical-timing-wheels/ Apache Kafka, Purgatory, and Hierarchical Timing Wheels - Confluent
+
 # 03-11-2019
 
 - https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/ Building a Microservices Ecosystem with Kafka Streams and KSQL
