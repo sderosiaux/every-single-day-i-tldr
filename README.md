@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-11-2019
+
+- https://eventmodeling.org/posts/what-is-event-modeling/ Event Modeling: What is it?
+
 # 04-11-2019
 
 - https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/ Event sourcing, CQRS, stream processing and Apache Kafka: What’s the connection?
