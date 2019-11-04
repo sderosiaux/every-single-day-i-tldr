@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-11-2019
 
+- https://blog.colinbreck.com/on-embracing-error-in-distributed-software-systems/ On Embracing Error in Distributed Software Systems
 - https://www.confluent.io/blog/apache-kafka-purgatory-hierarchical-timing-wheels/ Apache Kafka, Purgatory, and Hierarchical Timing Wheels - Confluent
 
 # 03-11-2019
