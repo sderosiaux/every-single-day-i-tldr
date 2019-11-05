@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-11-2019
 
+- https://www.youtube.com/watch?v=5fqhT82wghY Apache Pulsar 101: architecture, concepts et comparaison
 - https://www.youtube.com/watch?v=CwqFpSByEI0 Infrastructure As Code, il n'y a pas que Terraform dans la vie: Pulumi
 
 # 05-11-2019
