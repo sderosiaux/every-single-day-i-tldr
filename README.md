@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 06-11-2019
+
+- https://www.youtube.com/watch?v=CwqFpSByEI0 Infrastructure As Code, il n'y a pas que Terraform dans la vie: Pulumi
+
 # 05-11-2019
 
 - https://www.youtube.com/watch?v=71yhnTGw0hY John De Goes - 12 Steps To Better #Scala (Part I)
