@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-11-2019
 
+- https://dev.to/fppt/managing-delivery-networks-a-use-case-for-graph-databases-2jb0 Delivery Networks: A Use Case For Graph Databases #scala #tinkerpop #graph
 - https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603 Scala application lifecycle, from pure Scala to cats IO to FS2
 - https://eventmodeling.org/posts/what-is-event-modeling/ Event Modeling: What is it?
 
