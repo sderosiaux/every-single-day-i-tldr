@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-11-2019
 
+- https://blog.rust-lang.org/2019/11/07/Async-await-stable.html Async-await on stable Rust
 - https://tech.ovoenergy.com/monorepo-microservices-in-go/ Monorepo Microservices using Go, Helm, Terraform
 
 # 06-11-2019
