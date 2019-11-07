@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 08-11-2019
+
+- https://contributors.scala-lang.org/t/pre-sip-make-classes-sealed-by-default/3767/2 PRE-SIP: Make classes `sealed` by default: YES! #scala
+
 # 07-11-2019
 
 - https://www.ibm.com/cloud/blog/announcements/kafka-monthly-digest-october-2019 Kafka Monthly Digest: October 2019 | IBM
