@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-11-2019
 
+- https://ebaytech.berlin/microservices-and-kafka-part-1-614767d27b20 Microservices and Kafka — Part 1 - eBay Tech Berlin
 - https://blog.7mind.io/constructive-test-taxonomy.html Unit, Functional, Integration Test? Another test taxonomy proposed..
 - https://dzone.com/articles/whats-the-proper-kubernetes-health-check-for-a-kaf Proper Kubernetes Health Check for a Kafka Streams Application
 - https://medium.com/faun/invoking-the-aws-cli-with-terraform-4ae5fd9de277 Invoking the AWS CLI with Terraform
