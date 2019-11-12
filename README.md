@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-11-2019
 
+- https://medium.com/swlh/advantages-and-disadvantages-of-kubernetes-the-business-perspective-5bb81e4eb4cb Advantages and Disadvantages of Kubernetes
 - https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa The Microservices Workflow Automation Cheat Sheet
 - https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234 Open Sourcing Amundsen: A Data Discovery And Metadata Platform
 
