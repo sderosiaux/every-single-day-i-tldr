@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-11-2019
+
+- http://reasonablypolymorphic.com/blog/protos-are-wrong/ Protobuffers Are Wrong: lack of compositionality & laws
+
 # 12-11-2019
 
 - https://medium.com/swlh/advantages-and-disadvantages-of-kubernetes-the-business-perspective-5bb81e4eb4cb Advantages and Disadvantages of Kubernetes
