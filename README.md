@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 14-11-2019
+
+- https://www.youtube.com/watch?v=MU8NapbG1IQ Understanding Low Latency JVM GCs, Shenandoah, C4
+
 # 13-11-2019
 
 - https://vimeo.com/370819261 Scala Italy 2019 - John A De Goes - A Tour of Functional Design
