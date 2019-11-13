@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-11-2019
 
+- https://vimeo.com/370819261 Scala Italy 2019 - John A De Goes - A Tour of Functional Design
 - http://reasonablypolymorphic.com/blog/protos-are-wrong/ Protobuffers Are Wrong: lack of compositionality & laws
 
 # 12-11-2019
