@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-11-2019
 
+- https://medium.com/@johnclarke_82232/mono-or-multi-repo-6c3674142dfc Mono- or Multi-repo?
 - https://blogs.apache.org/preview/kafka/?previewEntry=what-s-new-in-apache1 Kafka 2.4 changelog. Awesome.
 - https://www.youtube.com/watch?v=MU8NapbG1IQ Understanding Low Latency JVM GCs, Shenandoah, C4
 
