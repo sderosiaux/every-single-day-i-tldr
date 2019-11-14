@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-11-2019
 
+- https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2 Kafka Rebalance Protocol
 - https://itnext.io/introduction-to-event-streaming-with-kafka-and-kafdrop-73290625b1e2 Introduction to Event Streaming with Kafka and Kafdrop
 - https://medium.com/@johnclarke_82232/mono-or-multi-repo-6c3674142dfc Mono- or Multi-repo?
 - https://blogs.apache.org/preview/kafka/?previewEntry=what-s-new-in-apache1 Kafka 2.4 changelog. Awesome.
