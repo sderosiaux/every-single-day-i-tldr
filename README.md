@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 18-11-2019
+
+- https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e Processing guarantees in Kafka, at-least, at-once, effectively-once
+
 # 14-11-2019
 
 - https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2 Kafka Rebalance Protocol
