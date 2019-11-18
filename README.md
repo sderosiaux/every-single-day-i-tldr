@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-11-2019
 
+- https://medium.com/better-practices/api-specifications-d87588ac874 Bringing law and order to APIs with OpenAPI Specifications
 - https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e Processing guarantees in Kafka, at-least, at-once, effectively-once
 
 # 14-11-2019
