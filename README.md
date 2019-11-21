@@ -8,7 +8,8 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-11-2019
 
-- https://github.com/joaomilho/Enterprise /? í ¾í¶„ The Enterpriseâ„¢ programming language ?/;;;
+- https://www.confluent.io/blog/intro-to-ksqldb-sql-database-streaming ksqlDB: previously KSQL, now an "event streaming database". It adds pull queries ("classic" SQL point-in-time query) & connectors management 
+- https://github.com/joaomilho/Enterprise /? ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ The Enterpriseâ„¢ programming language ?/;;;
 - https://blog.jetbrains.com/idea/2019/11/meet-grazie-the-ultimate-spelling-grammar-and-style-checker-for-intellij-idea/ Grazie plugin: less typos in all our code (IntelliJ IDEA)
 - https://www.youtube.com/watch?v=WKR384ZeBgk Arrow Meta: metaprogramming in the Kotlin Compiler. Generate code at compile-time. <3
 - https://tv.octo.com/videos/fine-tuning-kafka-allons-voir-sous-le-capot/ FR: Fine Tuning Kafka, allons voir sous le capot ! Kafka 101, la perte de donnÃ©es, la conf producer/consumer, JProfiler et les brokers
