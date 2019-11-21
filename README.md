@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-11-2019
+
+- https://gluonhq.com/gluon-substrate-and-graalvm-native-image-with-javafx-support/ Gluon Substrate and GraalVM Native Image with JavaFX support. That's. Awesome.
+
 # 21-11-2019
 
 - https://www.confluent.io/blog/intro-to-ksqldb-sql-database-streaming ksqlDB: previously KSQL, now an "event streaming database". It adds pull queries ("classic" SQL point-in-time query) & connectors management 
