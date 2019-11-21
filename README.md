@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-11-2019
 
+- https://tv.octo.com/videos/fine-tuning-kafka-allons-voir-sous-le-capot/ FR: Fine Tuning Kafka, allons voir sous le capot ! Kafka 101, la perte de données, la conf producer/consumer, JProfiler et les brokers
 - https://www.getrevue.co/profile/zio/issues/zio-news-issue-2-209078 ZIO is improving and spread everywhere <3
 
 # 18-11-2019
