@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-11-2019
+
+- https://www.getrevue.co/profile/zio/issues/zio-news-issue-2-209078 ZIO is improving and spread everywhere <3
+
 # 18-11-2019
 
 - https://medium.com/better-practices/api-specifications-d87588ac874 Bringing law and order to APIs with OpenAPI Specifications
