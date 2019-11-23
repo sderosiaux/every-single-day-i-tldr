@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-11-2019
 
+- https://www.youtube.com/watch?v=hvYqSz_BgUM Netty 5 incoming, lots of performance improvements!
 - https://medium.com/opentracing/opentracing-on-kubernetes-get-yer-tracing-for-free-7a69cca03c8a TIL we can easily create "webhooks" on any kubernetes operations through a dedicated resource (to alter how pods deploy, add sidecar etc.)
 - https://www.youtube.com/watch?v=m64SWl9bfvk Rate limiting, Queues Theory, Little's Lawn, API Adaptative Capacity (using back-pressure signals)
 
