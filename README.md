@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-11-2019
+
+- https://www.youtube.com/watch?v=m64SWl9bfvk Rate limiting, Queues Theory, Little's Lawn, API Adaptative Capacity (using back-pressure signals)
+
 # 22-11-2019
 
 - https://gluonhq.com/gluon-substrate-and-graalvm-native-image-with-javafx-support/ Gluon Substrate and GraalVM Native Image with JavaFX support. That's. Awesome.
