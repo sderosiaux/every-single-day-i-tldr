@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 24-11-2019
+
+- https://www.youtube.com/watch?v=aQb2_WrmED0 Consul et Conseul Connect Service Mesh chez Criteo
+
 # 23-11-2019
 
 - https://www.youtube.com/watch?v=hvYqSz_BgUM Netty 5 incoming, lots of performance improvements!
