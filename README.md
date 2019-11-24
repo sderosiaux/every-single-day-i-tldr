@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-11-2019
 
+- https://www.youtube.com/watch?v=JoQN4xoXY5Y Quickly Analysing A Heap Memory Leak
 - https://www.youtube.com/watch?v=aQb2_WrmED0 Consul et Conseul Connect Service Mesh chez Criteo
 
 # 23-11-2019
