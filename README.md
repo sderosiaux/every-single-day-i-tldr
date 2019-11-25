@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 25-11-2019
+
+- https://cloudflow.io/docs/current/get-started/deploy-to-gke-cluster.html Cloudflow: a new take to quickly develop & deploy distributed stream processing on k8s (define "Streamlets" aka connector, write the dependencies graph in yaml, them deploy them as pods)
+
 # 24-11-2019
 
 - https://www.youtube.com/watch?v=JoQN4xoXY5Y Quickly Analysing A Heap Memory Leak
