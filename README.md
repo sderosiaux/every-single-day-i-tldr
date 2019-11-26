@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-11-2019
+
+- https://dev.to/awwsmm/20-reasons-to-move-on-from-java-8-1dio 20 Reasons to Move On to Java >8, a nice recap
+
 # 25-11-2019
 
 - https://cloudflow.io/docs/current/get-started/deploy-to-gke-cluster.html Cloudflow: a new take to quickly develop & deploy distributed stream processing on k8s (define "Streamlets" aka connector, write the dependencies graph in yaml, them deploy them as pods)
