@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 29-11-2019
+
+- https://blog.softwaremill.com/migrating-to-sttp-client-2-x-and-tapir-0-12-x-7956e6c79c52 sttp client and tapir evolving #scala
+
 # 28-11-2019
 
 - http://book.mixu.net/distsys/single-page.html Distributed systems for fun and profit. Perfect for whoever starting or working with distributed systems (everyone?)
