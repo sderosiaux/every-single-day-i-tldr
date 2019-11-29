@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2019
 
+- https://www.youtube.com/watch?v=mJDbQ2gqo2g Our friend Tim Berglung at GOTO 2019: Processing Streaming Data with KSQL
 - https://timpigden.github.io/_pages/zio-http4s/intro.html ZIO, Http4s, Auth, Codecs and zio-test
 - https://www.youtube.com/watch?v=vRnYCLy7C0o Build Yourself an Effect System, like ZIO #scala
 - https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/ After Kafka in Bash (;-)), know Kafka in ZIO using Queues & Fibers
