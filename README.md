@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2019
 
+- https://www.youtube.com/watch?v=vRnYCLy7C0o Build Yourself an Effect System, like ZIO #scala
 - https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/ After Kafka in Bash (;-)), know Kafka in ZIO using Queues & Fibers
 - https://scalac.io/write-command-line-application-with-zio/ How to write a command-line application with ZIO #scala
 - https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206 From Jackson to Circe: less cpu, more memory
