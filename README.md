@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2019
 
+- https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206 From Jackson to Circe: less cpu, more memory
 - https://www.youtube.com/watch?v=nD-p-cEKjHE set up sbt projects
 - https://medium.com/@endofcake/terraform-vs-cloudformation-1d9716122623 Terraform vs CloudFormation: TF mostly wins except for the management of the state, CF handles it for us
 - https://blog.softwaremill.com/migrating-to-sttp-client-2-x-and-tapir-0-12-x-7956e6c79c52 sttp client and tapir evolving #scala
