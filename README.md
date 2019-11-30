@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 30-11-2019
+
+- https://medium.com/streamthoughts/introducing-azkarra-streams-the-first-micro-framework-for-apache-kafka-streams-e13605f3a3a6 Azkarra Streams : a sweet wrapper above Kafka Streams to simplify code + provide a nice UI to admin, see the DAG, do IQ etc.
+
 # 29-11-2019
 
 - https://github.com/awslabs/djl New! awslabs/djl: An Engine-Agnostic Deep Learning Framework in Java
