@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 05-12-2019
+
+- https://ordepdev.me/posts/tales-from-running-kafka-streams-in-production Tales from running Kafka Streams in Production (rocksdb, memory mngmt, external calls, ...)
+
 # 30-11-2019
 
 - https://medium.com/streamthoughts/introducing-azkarra-streams-the-first-micro-framework-for-apache-kafka-streams-e13605f3a3a6 Azkarra Streams : a sweet wrapper above Kafka Streams to simplify code + provide a nice UI to admin, see the DAG, do IQ etc.
