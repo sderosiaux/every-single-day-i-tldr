@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-12-2019
+
+- https://github.com/ahmetb/cloud-run-faq#how-is-it-different-than-app-engine-flexible Google Cloud Run compared to AppEngine Flex, AWS Fargate, Azure CI, ...  and everything about Cloud Run to know
+
 # 05-12-2019
 
 - https://ordepdev.me/posts/tales-from-running-kafka-streams-in-production Tales from running Kafka Streams in Production (rocksdb, memory mngmt, external calls, ...)
