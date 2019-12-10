@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-12-2019
 
+- https://sematext.com/blog/kubernetes-elasticsearch/ Running & Deploying Elasticsearch on Kubernetes
 - https://github.com/ahmetb/cloud-run-faq#how-is-it-different-than-app-engine-flexible Google Cloud Run compared to AppEngine Flex, AWS Fargate, Azure CI, ...  and everything about Cloud Run to know
 
 # 05-12-2019
