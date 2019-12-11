@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-12-2019
 
+- https://www.confluent.io/blog/kafka-connect-tutorial-transfer-avro-schemas-across-schema-registry-clusters/ Copy Avro schemas + update Kafka records using Connect SMT to "sync" two distinct Kafka clusters
 - https://aws.amazon.com/builders-library/implementing-health-checks/?did=ba_card&trk=ba_card A superbe article about the complexity of health checks
 - https://medium.com/pinterest-engineering/using-kafka-to-throttle-qps-on-mysql-shards-in-bulk-write-apis-a326ae0f1ac1 Using Kafka to throttle QPS on MySQL shards in bulk write APIs
 - https://blog.pragmaticengineer.com/the-product-minded-engineer/ The Product-Minded Software Engineer: it should be the norm ¯\_(ツ)_/¯
