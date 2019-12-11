@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-12-2019
 
+- https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3 Kafka partition assignment strategies + custom assignor
 - https://gvisor.dev/ A user-space kernel to provide secured & sandboxed environments for containers
 - https://www.confluent.io/blog/kafka-connect-tutorial-transfer-avro-schemas-across-schema-registry-clusters/ Copy Avro schemas + update Kafka records using Connect SMT to "sync" two distinct Kafka clusters
 - https://aws.amazon.com/builders-library/implementing-health-checks/?did=ba_card&trk=ba_card A superbe article about the complexity of health checks
