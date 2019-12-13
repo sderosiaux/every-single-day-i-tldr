@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-12-2019
 
+- https://www.youtube.com/watch?v=fs-TkRkFgDI (very) fast Scala Builds & Test using Bazel (parallism, smart resolutions, distributed cache, devbox)
 - https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html Oh my! Combining zio, scala.js, react, query management
 
 # 11-12-2019
