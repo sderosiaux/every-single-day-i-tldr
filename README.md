@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 13-12-2019
+
+- https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html Oh my! Combining zio, scala.js, react, query management
+
 # 11-12-2019
 
 - https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3 Kafka partition assignment strategies + custom assignor
