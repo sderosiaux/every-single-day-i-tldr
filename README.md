@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2019
 
+- https://jeremyrsmith.github.io/polynote-2019-slides/ Polynote: Solving the Scala Notebook Experience. Using FP and ZIO all the way down. Great.
 - https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677 How to deploy Jaeger on Kubernetes
 - https://medium.com/@wigahluk/generalizing-functions-with-profunctors-7773a83557b5 From functions to Profunctors
 
