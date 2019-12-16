@@ -8,7 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-12-2019
 
-- https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates/ Apache Kafka 2.4 - Latest Version, KIPs & New Features
+- https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates/ Apache Kafka 2.4 - Latest Version, KIPs & New Features. Awesome release: fetch from replicas, consumer incremental rebalance protocol, mm2, non-key joins in Streams, and lots of new metrics everywhere, and Scala 2.13 <3
 
 # 15-12-2019
 
