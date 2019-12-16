@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 16-12-2019
+
+- https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates/ Apache Kafka 2.4 - Latest Version, KIPs & New Features
+
 # 15-12-2019
 
 - https://www.youtube.com/watch?v=Uav5jWHNghY An impressive code session by Martin Kleppmann to find & write the correctness proofs of a "simple" distributed systems with Isabelle/HOL, and explains the difference with  TLA+.
