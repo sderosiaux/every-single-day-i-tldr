@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-12-2019
 
+- https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f? Explicit nulls are in Dotty. Looks more like Kotlin now :)
 - https://www.scala-lang.org/2019/12/18/road-to-scala-3.html Scala 2 to Scala 3. Gonna be awesome.
 - https://rmoff.net/2019/12/18/detecting-and-analysing-ssh-attacks-with-ksqldb/ A really great walkthrough by Robin through ksqlDB using Elasticsearch, Neo4j
 - https://towardsdatascience.com/kafka-gotchas-c1da4c0b3e95 Kafka Gotchas: "bad" defaults, not really multitenant, non-Java libs always "late" and not as bullet-proof as Java's?
