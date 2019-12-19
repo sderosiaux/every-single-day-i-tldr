@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 19-12-2019
+
+- https://towardsdatascience.com/kafka-gotchas-c1da4c0b3e95 Kafka Gotchas: "bad" defaults, not really multitenant, non-Java libs always "late" and not as bullet-proof as Java's?
+
 # 18-12-2019
 
 - https://www.confluent.io/blog/apache-kafka-producer-improvements-sticky-partitioner/ Kafka Producer: Sticky Partitioner, for better perf (less latency)
