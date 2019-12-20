@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-12-2019
 
+- https://sbt-kubeyml.vaslabs.org/ Generate kubectl yaml direclty from sbt, useful with ci/cd
 - https://zeebe.io/blog/2018/12/writing-an-apache-kafka-connector-for-zeebe/ Kafka Connector for Zeebe
 - https://developer.ibm.com/series/reactive-in-practice/ A (long) complete guide to event-driven systems development. Using Java/Lagom/Cassandra/Kafka/Kubernetes/VueJS
 - https://developer.ibm.com/tutorials/java-modularity-5/ Pitfalls of Java 9+ JPMS (modularity)
