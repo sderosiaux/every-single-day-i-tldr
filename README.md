@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-12-2019
 
+- https://blog.rust-lang.org/2019/12/19/Rust-1.40.0.html Rust 1.40.0
 - https://www.youtube.com/watch?v=FTsAXJdrJbI Everything you wanted to know about Stack Traces and Heap Dumps
 
 # 19-12-2019
