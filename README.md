@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 20-12-2019
+
+- https://www.youtube.com/watch?v=FTsAXJdrJbI Everything you wanted to know about Stack Traces and Heap Dumps
+
 # 19-12-2019
 
 - https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f? Explicit nulls are in Dotty. Looks more like Kotlin now :)
