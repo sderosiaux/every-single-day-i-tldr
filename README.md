@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-12-2019
+
+- https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/ Xor Filters: Faster and Smaller Than Bloom Filters
+
 # 20-12-2019
 
 - https://www.0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html The Architecture of a Large-Scale Web Search Engine, circa 2019. A must-read if you wanna discover many cloud-native tools
