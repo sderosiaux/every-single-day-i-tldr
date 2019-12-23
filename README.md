@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 23-12-2019
+
+- http://degoes.net/articles/fp-glossary A Glossary of Functional Programming
+
 # 22-12-2019
 
 - https://developer.ibm.com/blogs/kubernetes-helm-3/ A very good post explaining diffs between Helm 2 and 3
