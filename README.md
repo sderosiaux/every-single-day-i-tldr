@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-12-2019
+
+- https://medium.com/google-cloud/cloud-run-vs-cloud-functions-whats-the-lowest-cost-728d59345a2e Cloud Run VS Cloud Functions: What’s the lowest cost?
+
 # 24-12-2019
 
 - https://quarkus.io/guides/kafka-streams#kafka-streams-health-checks Quarkus & Kafka Streams with Healthchecks
