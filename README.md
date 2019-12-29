@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-12-2019
 
+- https://www.youtube.com/watch?v=AdNJ3fydeao Rethinking reactivity, demostrating Svelte. Lots of code generation (meta programming-like), but still a crappy templating language to learn inside a language.
 - https://www.youtube.com/watch?v=r-TLSBdHe1A "Performance Matters" by Emery Berger. coz / jcoz
 
 # 27-12-2019
