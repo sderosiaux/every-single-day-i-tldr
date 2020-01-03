@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-01-2020
+
+- https://geirsson.com/2019.html Scala tooling state-of-art in 2019
+
 # 29-12-2019
 
 - https://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html Standardizing IO Interfaces for Scala Libraries | Streaming payload à la Unix
