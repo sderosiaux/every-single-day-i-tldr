@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 04-01-2020
+
+- https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62 Exploring Kotlin’s hidden costs, always good to know.
+
 # 03-01-2020
 
 - https://geirsson.com/2019.html Scala tooling state-of-art in 2019
