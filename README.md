@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-01-2020
 
+- https://www.infoq.com/presentations/data-streaming-kafka-debezium/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design Practical Change Data Streaming Use Cases with Apache Kafka & Debezium
 - https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62 Exploring Kotlin’s hidden costs, always good to know.
 
 # 03-01-2020
