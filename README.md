@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 15-01-2020
+
+- https://www.youtube.com/watch?v=bbss7elSfxs Modern Data Driven Applications with ZIO Streams #scala
+
 # 04-01-2020
 
 - https://www.infoq.com/presentations/data-streaming-kafka-debezium/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design Practical Change Data Streaming Use Cases with Apache Kafka & Debezium
