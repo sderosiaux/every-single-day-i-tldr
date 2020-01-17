@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-01-2020
 
+- https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/ From microservices to monolith: istiod in sigh! That's a good idea.
 - https://humanreadablemag.com/issues/1/articles/unionizing-for-pleasure-and-profit Type level programming is awesome #scala
 - https://www.mostly.codes/blog/creating-scalajs-gcp-cloud-functions GCP Cloud Functions with Scala.js in 10 lines(ish) - And 600 lines after transpilation, hm!
 
