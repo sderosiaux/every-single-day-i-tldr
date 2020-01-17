@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 17-01-2020
+
+- https://www.mostly.codes/blog/creating-scalajs-gcp-cloud-functions GCP Cloud Functions with Scala.js in 10 lines(ish) - And 600 lines after transpilation, hm!
+
 # 15-01-2020
 
 - https://www.youtube.com/watch?v=bbss7elSfxs Modern Data Driven Applications with ZIO Streams #scala
