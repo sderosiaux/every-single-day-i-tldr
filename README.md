@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 22-01-2020
+
+- https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html Streams and Monk – How Yelp is Approaching Kafka in 2020
+
 # 17-01-2020
 
 - https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/ From microservices to monolith: istiod in sigh! That's a good idea.
