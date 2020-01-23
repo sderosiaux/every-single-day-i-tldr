@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-01-2020
 
+- https://www.confluent.io/blog/infinite-kafka-storage-in-confluent-platform/ Tiered storage for Kafka. (I hope the impl will be free to use & open-source)
 - https://cloud.google.com/blog/products/identity-security/introducing-google-clouds-secret-manager Secret Manager: the new "Vault" of GCP to Store and manage sensitive data
 
 # 22-01-2020
