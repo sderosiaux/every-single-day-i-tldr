@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 28-01-2020
+
+- https://cloud.google.com/blog/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources Config Connector: manage your GCP resources with YAML. Not sure it's a good idea.
+
 # 23-01-2020
 
 - https://www.confluent.io/blog/infinite-kafka-storage-in-confluent-platform/ Tiered storage for Kafka. (I hope the impl will be free to use & open-source)
