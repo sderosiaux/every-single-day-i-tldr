@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-01-2020
 
+- https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage/ An example using Kafka Tiered Storage to store ML models (which can be updated in real-time)
 - https://github.com/LINCnil/Guide-RGPD-du-developpeur Guide RGPD pour les développeurs <3
 - https://cloud.google.com/blog/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration Apache Kafka or Pub/Sub? I love comparing-marketing post like this. Pub/Sub is completing its offer and is becoming even more useful. The only thing I hate was: no ad-hoc dynamic consume à la Kafka (you have to create subscriptions beforehand)
 - https://tech.ovoenergy.com/scala-3-and-what-it-means-to-me/ A nice recap of the changes from Scala 2 to Scala 3 Dotty
