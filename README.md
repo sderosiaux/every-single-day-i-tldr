@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-01-2020
 
+- https://tech.ovoenergy.com/scala-3-and-what-it-means-to-me/ A nice recap of the changes from Scala 2 to Scala 3 Dotty
 - https://medium.com/@leventov/cronscheduler-a-reliable-java-scheduler-for-external-interactions-cb7ce4a4f2cd Issues with the current Java schedulers (clock drifts, freezing..)
 
 # 28-01-2020
