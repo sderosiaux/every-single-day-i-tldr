@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-02-2020
 
+- https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html A simple guide to quickly tune Kafka Producers
 - https://debezium.io/blog/2020/01/22/outbox-quarkus-extension/ Quarkus & Debezium using Outbox pattern
 - https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/ error reporting in optics using Dotty
 
