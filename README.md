@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 03-02-2020
+
+- https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/ error reporting in optics using Dotty
+
 # 30-01-2020
 
 - https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage/ An example using Kafka Tiered Storage to store ML models (which can be updated in real-time)
