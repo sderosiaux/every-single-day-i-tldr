@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 07-02-2020
+
+- https://idursun.com/posts/rust_zero_cost_abstractions_in_action/ Rust zero cost abstractions in action. And it's awesome.
+
 # 03-02-2020
 
 - https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html A simple guide to quickly tune Kafka Producers
