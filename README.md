@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 10-02-2020
+
+- https://dotty.epfl.ch/blog/2020/02/05/22nd-dotty-milestone-release.html Scala 3 will be awesome
+
 # 07-02-2020
 
 - https://idursun.com/posts/rust_zero_cost_abstractions_in_action/ Rust zero cost abstractions in action. And it's awesome.
