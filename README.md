@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-02-2020
 
+- https://www.matthowlett.com/2020-01-14-confluent-schema-registry-protobuf.html Protobuf support in the Confluent Schema Registry.
 - https://www.lightbend.com/blog/alpakka-kafka-flow-control-optimizations A smart fix to Kafka to avoid dumping data then fetch them again
 
 # 10-02-2020
