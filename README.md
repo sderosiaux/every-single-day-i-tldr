@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-02-2020
 
+- https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/ Event Sourcing, CQRS, Change Data Capture
 - https://sysdig.com/blog/kubernetes-limits-requests/ Understanding Kubernetes limits and requests
 - https://blog.softwaremill.com/will-project-loom-obliterate-java-futures-fb1a28508232 Will Project Loom obliterate Java Futures?
 
