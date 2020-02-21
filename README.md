@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 21-02-2020
+
+- https://blog.softwaremill.com/will-project-loom-obliterate-java-futures-fb1a28508232 Will Project Loom obliterate Java Futures?
+
 # 11-02-2020
 
 - https://www.matthowlett.com/2020-01-14-confluent-schema-registry-protobuf.html Protobuf support in the Confluent Schema Registry.
