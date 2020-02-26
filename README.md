@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 26-02-2020
 
+- https://cwiki.apache.org/confluence/display/KAFKA/KIP-557%3A+Add+emit+on+change+support+for+Kafka+Streams Discard idempotent updates in Kafka Streams: that's great news because so often needed (bye dedup processors)
 - https://www.rea-group.com/blog/to-kill-a-mockingtest/ Mocking code is a bad smell. I also really dislike it.
 - https://blog.mozilla.org/netpolicy/2020/02/25/the-facts-mozillas-dns-over-https-doh/ DNS over HTTPs (DoH)
 
