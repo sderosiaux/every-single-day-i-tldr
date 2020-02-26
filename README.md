@@ -6,6 +6,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 > Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
 
+# 26-02-2020
+
+- https://blog.mozilla.org/netpolicy/2020/02/25/the-facts-mozillas-dns-over-https-doh/ DNS over HTTPs (DoH)
+
 # 22-02-2020
 
 - https://github.com/adamgfraser/solving-the-dependency-injection-problem-with-zio/blob/master/solving-the-dependency-injection-problem-with-zio.pdf ZIO Layers: a new way to deal with Dependency Injection. Can't wait to test it!
