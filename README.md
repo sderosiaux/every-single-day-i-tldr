@@ -8,6 +8,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-02-2020
 
+- https://www.rea-group.com/blog/to-kill-a-mockingtest/ Mocking code is a bad smell. I also really dislike it.
 - https://blog.mozilla.org/netpolicy/2020/02/25/the-facts-mozillas-dns-over-https-doh/ DNS over HTTPs (DoH)
 
 # 22-02-2020
