@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 08-03-2020
 
+- https://superorganizers.substack.com/p/how-to-build-a-learning-machine### How to Make Yourself Into a Learning Machine - Superorganizers
 - https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-2-c7762110c0f9 GraphQL in Scala with Caliban — Query optimization. Amazing job.
 - https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html Docker Images : Reducing Image Size
 - https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40 Visualising Sociotechnical Architecture with DDD and Team Topologies
