@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 08-03-2020
+
+- https://www.scala-lang.org/2020/02/20/community-build.html Scala/Dotty community builds evolution. Love to see the JDK11/14 compat growing too.
+
 # 05-03-2020
 
 - https://community.letsencrypt.org/t/2020-02-29-caa-rechecking-bug/114591 Let's Encrypt: millions of certificates revoked due to "CAA Rechecking Bug"
