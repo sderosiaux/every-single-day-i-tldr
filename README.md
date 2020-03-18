@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 18-03-2020
+
+- https://blog.cloudera.com/benchmarking-time-series-workloads-on-apache-kudu-using-tsbs/ Apache Kudu Time Series benchmarking against InfluxDB, ClickHouse. Nice results.
+
 # 08-03-2020
 
 - https://github.com/adamgfraser/solving-the-dependency-injection-problem-with-zio/blob/master/solving-the-dependency-injection-problem-with-zio.pdf Can't wait to try these ZLayers with ZIO
