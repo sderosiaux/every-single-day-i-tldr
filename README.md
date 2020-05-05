@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 06-05-2020
+
+- https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html Scala 3 will be a so good langage with many Scala 2.x flaws fixed
+
 # 18-03-2020
 
 - https://blog.cloudera.com/benchmarking-time-series-workloads-on-apache-kudu-using-tsbs/ Apache Kudu Time Series benchmarking against InfluxDB, ClickHouse. Nice results.
