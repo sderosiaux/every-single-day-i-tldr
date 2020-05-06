@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 06-05-2020
 
+- https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive Anthos Service Mesh last updates
 - https://blog.laputa.io/graceful-shutdown-in-kubernetes-85f1c8d586da Graceful shutdown in Kubernetes. It's not as simple as it looks.
 - https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html Scala 3 will be a so good langage with many Scala 2.x flaws fixed
 
