@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 14-07-2020
+
+- https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html CRDTs: The Hard Parts — Martin Kleppmann’s talks
+
 # 06-05-2020
 
 - https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive Anthos Service Mesh last updates
