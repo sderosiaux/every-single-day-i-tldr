@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 16-07-2020
+
+- https://medium.com/blackrock-engineering/utilizing-oauth-for-kafka-security-5c1da9f3d3d Utilizing OAuth for Kafka Security
+
 # 14-07-2020
 
 - https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html CRDTs: The Hard Parts — Martin Kleppmann’s talks
