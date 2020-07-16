@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 16-07-2020
 
+- https://ziverge.com/blog/introduction-to-zio-kafka/ ZIO Kafka nice walkthrough
 - https://github.com/ElasticHQ/elasticsearch-HQ elasticsearch-HQ: Monitoring and Management Web Application for ElasticSearch instances and clusters
 - https://medium.com/blackrock-engineering/utilizing-oauth-for-kafka-security-5c1da9f3d3d Utilizing OAuth for Kafka Security
 
