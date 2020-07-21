@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 21-07-2020
 
+- https://www.youtube.com/watch?v=XTkhxRTH1nE ZIO + gRPC
 - https://home.apache.org/~rhauch/kafka-2.6.0-rc1/RELEASE_NOTES.html Kafka 2.6.0 Releases notes <3
 
 # 16-07-2020
