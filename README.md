@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 21-07-2020
+
+- https://home.apache.org/~rhauch/kafka-2.6.0-rc1/RELEASE_NOTES.html Kafka 2.6.0 Releases notes <3
+
 # 16-07-2020
 
 - https://ziverge.com/blog/introduction-to-zio-kafka/ ZIO Kafka nice walkthrough
