@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 23-07-2020
+
+- https://medium.com/zendesk-engineering/an-investigation-into-kafka-log-compaction-5e520f4291f0 Some insights from the Kafka Log Compaction
+
 # 21-07-2020
 
 - https://www.youtube.com/watch?v=XTkhxRTH1nE ZIO + gRPC
