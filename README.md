@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 29-07-2020
+
+- https://jalammar.github.io/how-gpt3-works-visualizations-animations/ How GPT3 Works - Visualizations and Animations – Jay Alammar
+
 # 25-07-2020
 
 - https://www.confluent.io/blog/simplified-robust-exactly-one-semantics-in-kafka-2-5/ Apache Kafka’s Exactly-Once Semantics Are Now Easier & More Robust | aka: how to deal with UNKNOWN_PRODUCER_ID error!
