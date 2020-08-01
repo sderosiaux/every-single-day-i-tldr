@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 01-08-2020
+
+- https://adamw.github.io/loom-pres/ Java: Project Loom & virtual threads
+
 # 31-07-2020
 
 - https://www.confluent.io/blog/ksqldb-0-10-updates-key-columns Many breaking changes in ksqlDB 0.10 about keys, but for the greater good!
