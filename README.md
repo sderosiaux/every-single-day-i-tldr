@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 02-08-2020
 
+- https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy A very interesting reading about How Dropbox is migrating from Nginx to Envoy
 - https://medium.com/coralogix-engineering/kafka-streams-window-by-rocksdb-tuning-c06a858029eb Kafka Streams Window By & RocksDB Tuning
 
 # 01-08-2020
