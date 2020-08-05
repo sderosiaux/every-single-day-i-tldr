@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 05-08-2020
 
+- https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df Fixing a whole system performances. ie: fix your cache!
 - https://medium.com/@tomasz.zieleniewski/mental-and-technical-reasons-for-upgrading-java-from-8-to-14-2e43b37b99dd Java: from 8 to 14
 - https://medium.com/sysf/getting-started-with-docker-1-b4dc83e64389 Anatomy of Docker.
 
