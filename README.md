@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 07-08-2020
+
+- https://www.youtube.com/watch?v=wlvKAT7SZIQ Parsing JSON Really Quickly: Lessons Learned (SIMD!)
+
 # 06-08-2020
 
 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/ A nice "Let's build a Full-Text Search engine" in Go
