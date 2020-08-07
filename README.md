@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 07-08-2020
 
+- https://cwiki.apache.org/confluence/display/KAFKA/KIP-441%3A+Smooth+Scaling+Out+for+Kafka+Streams KIP-441: A long KIP to prevent our Kafka Streams app to be "stuck" on some partitions while rebuilding its state, after a rebalance
 - https://degoes.net/articles/zio-1.0 ZIO 1.0 Released | A game changer
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-649%3A+Dynamic+Client+Configuration Apache Kafka: KIP-649: Dynamic Client Configuration. I truly hate config mutability at runtime; but that could be useful in large corps I suppose.
 - https://www.youtube.com/watch?v=OwmHgL9F_9Q SF Scala <3: Reimagining Functional Type Classes
