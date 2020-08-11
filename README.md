@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 11-08-2020
+
+- https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html zio-prelude and applicative's ap
+
 # 07-08-2020
 
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-441%3A+Smooth+Scaling+Out+for+Kafka+Streams KIP-441: A long KIP to prevent our Kafka Streams app to be "stuck" on some partitions while rebuilding its state, after a rebalance
