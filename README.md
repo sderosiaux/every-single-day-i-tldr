@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 11-08-2020
 
+- https://romefrontend.dev/blog/2020/08/08/introducing-rome.html Introducing Rome #frontend
 - https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html zio-prelude and applicative's ap
 
 # 07-08-2020
