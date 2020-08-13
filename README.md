@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 13-08-2020
 
+- https://www.confluent.io/blog/kafka-consumer-multi-threaded-messaging/ One way of doing multi-threaded processing with a Kafka consumer (single threaded)
 - https://www.confluent.io/blog/ksqldb-state-stores-in-recovery/ An interesting Incident about schemas with ksqlDB + State Store Recovery
 
 # 11-08-2020
