@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 14-08-2020
 
+- https://fasterthanli.me/articles/frustrated-its-not-you-its-rust A nice and long story about Rust pecularities, to encourage beginners..?
 - https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces/ New "Hierarchical Namespaces" in #kubernetes to provide policy Inheritance between ns.
 
 # 13-08-2020
