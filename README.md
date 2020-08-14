@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 14-08-2020
+
+- https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces/ New "Hierarchical Namespaces" in #kubernetes to provide policy Inheritance between ns.
+
 # 13-08-2020
 
 - https://www.confluent.io/blog/kafka-consumer-multi-threaded-messaging/ One way of doing multi-threaded processing with a Kafka consumer (single threaded)
