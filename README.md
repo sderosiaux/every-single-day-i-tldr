@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 18-08-2020
 
+- https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html Laying the foundation for Rust's future
 - https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-7616beaaade9 Security Best Practices: Symmetric Encryption with AES in Java
 
 # 14-08-2020
