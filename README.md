@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 29-08-2020
 
+- https://www.confluent.io/blog/kafka-fastest-messaging-system/ Kafka vs. Pulsar vs. RabbitMQ: throughput & latency
 - https://www.confluent.io/blog/testing-kafka-streams/ Testing Kafka Streams using TestContainers to save your from bugs TopologyTestDriver couldn't detect
 - https://info.crunchydata.com/blog/why-postgresql-13-is-a-lucky-release PostgreSQL 13 has nice updates
 - https://medium.com/@nandovillalba/why-i-think-gcp-is-better-than-aws-ea78f9975bda Why I think GCP is better than AWS. Agreed!
