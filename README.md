@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 30-08-2020
+
+- https://www.fpcomplete.com/blog/different-levels-async-rust/ async or not async in Rust
+
 # 29-08-2020
 
 - https://www.confluent.io/blog/kafka-fastest-messaging-system/ Kafka vs. Pulsar vs. RabbitMQ: throughput & latency
