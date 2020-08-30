@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 30-08-2020
 
+- https://medium.com/coralogix-engineering/kafka-streams-window-by-rocksdb-tuning-c06a858029eb Kafka Streams Window By & RocksDB Tuning
 - https://www.fpcomplete.com/blog/different-levels-async-rust/ async or not async in Rust
 
 # 29-08-2020
