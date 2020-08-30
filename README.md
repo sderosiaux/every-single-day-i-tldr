@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 30-08-2020
 
+- https://www.youtube.com/watch?v=W2VB9HuzsMM Building a Telegram bot with Apache Kafka, ksqlDB, and Go. Another amazing walkthrough by Robin Moffatt
 - https://medium.com/coralogix-engineering/kafka-streams-window-by-rocksdb-tuning-c06a858029eb Kafka Streams Window By & RocksDB Tuning
 - https://www.fpcomplete.com/blog/different-levels-async-rust/ async or not async in Rust
 
