@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 31-08-2020
 
+- https://casbin.org/en/ Casbin · An authorization library that supports access control models like ACL, RBAC, ABAC
 - https://medium.com/swlh/building-a-realtime-dashboard-with-reactjs-go-grpc-and-envoy-7be155dfabfb Realtime "dashboard" with ReactJS, Go, gRPC, and Envoy (to convert http1 <-> http2)
 
 # 30-08-2020
