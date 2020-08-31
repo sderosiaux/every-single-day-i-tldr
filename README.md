@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 31-08-2020
+
+- https://medium.com/swlh/building-a-realtime-dashboard-with-reactjs-go-grpc-and-envoy-7be155dfabfb Realtime "dashboard" with ReactJS, Go, gRPC, and Envoy (to convert http1 <-> http2)
+
 # 30-08-2020
 
 - https://www.youtube.com/watch?v=W2VB9HuzsMM Building a Telegram bot with Apache Kafka, ksqlDB, and Go. Another amazing walkthrough by Robin Moffatt
