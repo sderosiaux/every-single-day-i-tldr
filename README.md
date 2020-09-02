@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 02-09-2020
+
+- https://learnk8s.io/setting-cpu-memory-limits-requests Setting the right requests and limits in Kubernetes
+
 # 31-08-2020
 
 - https://casbin.org/en/ Casbin · An authorization library that supports access control models like ACL, RBAC, ABAC
