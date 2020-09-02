@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 02-09-2020
 
+- https://leanpub.com/jvm-scala-book ebook: Things you need to know about JVM things that matter in Scala
 - https://learnk8s.io/setting-cpu-memory-limits-requests Setting the right requests and limits in Kubernetes
 
 # 31-08-2020
