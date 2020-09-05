@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 05-09-2020
+
+- https://medium.com/firebase-developers/the-tradeoffs-between-performance-cost-and-security-with-firestore-ef72ba43f316 The trade-offs between performance, cost, and security with Firestore
+
 # 02-09-2020
 
 - https://leanpub.com/jvm-scala-book ebook: Things you need to know about JVM things that matter in Scala
