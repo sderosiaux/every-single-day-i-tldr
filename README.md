@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 05-09-2020
 
+- https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a Cryptographic Best Practices: "... you should stop using RSA and switch to elliptic curve software"
 - https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767 NATS and Apache Kafka: differences, use-cases, guarantees
 - https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1 Go: Multiple Errors Management + goroutine cancellation on error
 - https://github.com/rook/rook rook: Storage Orchestration for Kubernetes
