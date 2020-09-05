@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 05-09-2020
 
+- https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767 NATS and Apache Kafka: differences, use-cases, guarantees
 - https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1 Go: Multiple Errors Management + goroutine cancellation on error
 - https://github.com/rook/rook rook: Storage Orchestration for Kubernetes
 - https://medium.com/firebase-developers/the-tradeoffs-between-performance-cost-and-security-with-firestore-ef72ba43f316 The trade-offs between performance, cost, and security with Firestore
