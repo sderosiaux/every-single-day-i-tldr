@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 05-09-2020
 
+- https://github.com/rook/rook rook: Storage Orchestration for Kubernetes
 - https://medium.com/firebase-developers/the-tradeoffs-between-performance-cost-and-security-with-firestore-ef72ba43f316 The trade-offs between performance, cost, and security with Firestore
 
 # 02-09-2020
