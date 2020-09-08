@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 08-09-2020
+
+- https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88 Go vs Rust: Writing a CLI tool
+
 # 07-09-2020
 
 - https://medium.com/@bbau00/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d Antipatterns for Kubernetes Deployments
