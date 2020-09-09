@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 09-09-2020
 
+- https://medium.com/inlocotech/challenges-of-running-grpc-services-in-production-b3a113df2542 gRPC services in production, Envoy as side-car + DNS service discovery
 - https://itnext.io/architecting-kubernetes-clusters-choosing-a-worker-node-size-b3729cc0c78f Architecting Kubernetes clusters — choosing a worker node size
 
 # 08-09-2020
