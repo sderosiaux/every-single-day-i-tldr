@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 15-09-2020
 
+- https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec Kubernetes Ingress Controller Overview & Comparison
 - https://codeburst.io/automating-kubernetes-best-practices-7a8276ff7b08 Kubernetes Best Practices with Polaris
 
 # 09-09-2020
