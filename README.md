@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 15-09-2020
+
+- https://codeburst.io/automating-kubernetes-best-practices-7a8276ff7b08 Kubernetes Best Practices with Polaris
+
 # 09-09-2020
 
 - https://medium.com/inlocotech/challenges-of-running-grpc-services-in-production-b3a113df2542 gRPC services in production, Envoy as side-car + DNS service discovery
