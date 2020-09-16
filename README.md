@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 16-09-2020
+
+- https://medium.com/better-programming/event-driven-architecture-as-a-strategy-dfb8370724c9 Event-Driven Architecture as a Strategy
+
 # 15-09-2020
 
 - https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec Kubernetes Ingress Controller Overview & Comparison
