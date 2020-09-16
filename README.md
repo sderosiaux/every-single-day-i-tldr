@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 16-09-2020
 
+- https://medium.com/swlh/how-to-deploy-a-cloud-sql-db-with-a-private-ip-only-using-terraform-e184b08eca64 Private Cloud SQL with a bastion; using Terraform
 - https://medium.com/better-programming/event-driven-architecture-as-a-strategy-dfb8370724c9 Event-Driven Architecture as a Strategy
 
 # 15-09-2020
