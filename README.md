@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 17-09-2020
 
+- https://guidoschmutz.wordpress.com/2020/09/15/last-week-in-stream-data-integration-stream-analytics-14-9-2020/ Last Week in Stream Data Integration & Stream Analytics – 15.9.2020
 - https://github.com/n8n-io/n8n An awesome visual Workflow Automation tool. Mix that to some ksqldb pull queries and..
 
 # 16-09-2020
