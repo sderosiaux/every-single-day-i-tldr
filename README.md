@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 17-09-2020
+
+- https://github.com/n8n-io/n8n An awesome visual Workflow Automation tool. Mix that to some ksqldb pull queries and..
+
 # 16-09-2020
 
 - https://medium.com/swlh/how-to-deploy-a-cloud-sql-db-with-a-private-ip-only-using-terraform-e184b08eca64 Private Cloud SQL with a bastion; using Terraform
