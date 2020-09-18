@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 18-09-2020
 
+- https://medium.com/wix-engineering/5-lessons-learned-from-my-continuing-awesome-journey-with-zio-66319d12ed7c Some tips using ZIO
 - https://levelup.gitconnected.com/top-4-dying-programming-languages-of-2020-1a4149753e92 Top 4 Dying Programming Languages: "Still, [Scala] is not a very active language." He has no idea.
 - https://www.scala-lang.org/blog/2020/09/15/scala-3-the-community-powered-release.html Scala 3 by fall 2020 ❤️
 
