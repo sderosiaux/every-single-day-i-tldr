@@ -9,9 +9,13 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 18-09-2020
+
+- https://www.scala-lang.org/blog/2020/09/15/scala-3-the-community-powered-release.html Scala 3 by fall 2020 ‚ù§Ô∏è
+
 # 17-09-2020
 
-- https://kotlinlang.org/docs/reference/whatsnew14.html#coroutine-debugger What's New in Kotlin 1.4: so many things! Ì†æÌ¥©
+- https://kotlinlang.org/docs/reference/whatsnew14.html#coroutine-debugger What's New in Kotlin 1.4: so many things! ÔøΩÔøΩÔøΩÔøΩÔøΩÔøΩ
 - https://debezium.io/blog/2020/09/15/debezium-auto-create-topics/ Auto-creating Debezium Change Data Topics with custom config
 - https://guidoschmutz.wordpress.com/2020/09/15/last-week-in-stream-data-integration-stream-analytics-14-9-2020/ Last Week in Stream Data Integration & Stream Analytics ‚Äì 15.9.2020
 - https://github.com/n8n-io/n8n An awesome visual Workflow Automation tool. Mix that to some ksqldb pull queries and..
