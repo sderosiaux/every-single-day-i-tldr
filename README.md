@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 20-09-2020
+
+- https://medium.com/@codeboten/bpf-experiments-on-macos-9ad0cf21ea83 BPF Experiments on MacOS / TIL Remote-SSH using VSCode (doesn't work with a RPi :()
+
 # 18-09-2020
 
 - https://tech.ovoenergy.com/safe-expressive-code-with-refinement-types/ Expressive Code with Refinement Types #scala
