@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 20-09-2020
 
+- https://cloud.google.com/blog/products/containers-kubernetes/how-gvisor-protects-google-cloud-services-from-cve-2020-14386 New container escape, to obtain root privileges on the host node. Hopefully we have gVisor on GCP!
 - https://medium.com/@codeboten/bpf-experiments-on-macos-9ad0cf21ea83 BPF Experiments on MacOS / TIL Remote-SSH using VSCode (doesn't work with a RPi :()
 
 # 18-09-2020
