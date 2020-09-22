@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 22-09-2020
+
+- https://github.com/svroonland/rezilience ZIO circuit breaker (+ retry, bulkhead) #scala
+
 # 20-09-2020
 
 - https://cloud.google.com/blog/products/containers-kubernetes/how-gvisor-protects-google-cloud-services-from-cve-2020-14386 New container escape, to obtain root privileges on the host node. Hopefully we have gVisor on GCP!
