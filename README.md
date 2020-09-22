@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 22-09-2020
 
+- https://build.affinity.co/how-we-used-postgres-extended-statistics-to-achieve-a-3000x-speedup-ea93d3dcdc61 Postgres extended statistics to achieve a 3000x speedup
 - https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability Postgres 13: Better Performance, Monitoring & More
 - https://jet-start.sh/blog/2020/09/18/cdc-meets-stream-processing Hazelcast Jet meets Debezium for CDC #kafka
 - https://medium.com/@cbenaveen/high-available-task-scheduling-design-using-kafka-and-kafka-streams-dcd81121d43b Using Kafka Streams to schedule tasks
