@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 22-09-2020
 
+- https://letsencrypt.org/2020/09/17/new-root-and-intermediates.html Saving bandwidth using ECDSA. Let's Encrypt's New Root and Intermediate Certificates
 - https://github.com/svroonland/rezilience ZIO circuit breaker (+ retry, bulkhead) #scala
 
 # 20-09-2020
