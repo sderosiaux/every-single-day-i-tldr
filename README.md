@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 22-09-2020
 
+- https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability Postgres 13: Better Performance, Monitoring & More
 - https://jet-start.sh/blog/2020/09/18/cdc-meets-stream-processing Hazelcast Jet meets Debezium for CDC #kafka
 - https://medium.com/@cbenaveen/high-available-task-scheduling-design-using-kafka-and-kafka-streams-dcd81121d43b Using Kafka Streams to schedule tasks
 - https://letsencrypt.org/2020/09/17/new-root-and-intermediates.html Saving bandwidth using ECDSA. Let's Encrypt's New Root and Intermediate Certificates
