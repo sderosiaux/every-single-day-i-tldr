@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 24-09-2020
 
+- https://www.postgresql.org/about/news/2077/ PostgreSQL 13 Released!
 - https://medium.com/bakdata/solving-my-weird-kafka-rebalancing-problems-c05e99535435 Kafka Rebalancing Problems
 - https://medium.com/gumgum-tech/5-things-we-overlooked-when-putting-our-first-app-on-kubernetes-58583c1783e4 Things to know when using Kubernetes
 
