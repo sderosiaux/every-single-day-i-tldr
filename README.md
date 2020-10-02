@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 02-10-2020
+
+- https://www.hownormalami.eu/ How normal am I? Interesting to try out by yourself
+
 # 24-09-2020
 
 - https://www.postgresql.org/about/news/2077/ PostgreSQL 13 Released!
