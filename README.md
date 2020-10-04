@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 04-10-2020
+
+- https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c Things in Scala 2 that’ll be (mostly) gone in Scala 3
+
 # 02-10-2020
 
 - https://www.hownormalami.eu/ How normal am I? Interesting to try out by yourself
