@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 04-10-2020
 
+- https://aws.amazon.com/blogs/aws/store-and-access-time-series-data-at-any-scale-with-amazon-timestream-now-generally-available/ Amazon Timestream database now GA
 - https://www.infoq.com/presentations/java-11-production-story/ A Year with Java 11 in Production
 - https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c Things in Scala 2 that’ll be (mostly) gone in Scala 3
 
