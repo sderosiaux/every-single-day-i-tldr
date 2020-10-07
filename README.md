@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 07-10-2020
 
+- https://www.confluent.io/blog/confluent-platform-6-0-delivers-the-most-powerful-event-streaming-platform-to-date/ Kafka: Tiered Storage, Self-Balancing clusters
 - https://medium.com/swlh/how-to-consume-kafka-efficiently-in-golang-264f7fe2155b Consume Kafka Efficiently in Golang
 - https://www.mongodb.com/blog/post/mongo-db-connector-for-apache-kafka-1-3-available-now MongoDB Connector for Apache Kafka 1.3
 - https://github.com/rayokota/kcache An In-Memory Cache Backed by Apache Kafka
