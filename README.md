@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 07-10-2020
 
+- https://www.infoq.com/articles/event-driven-finding-seams/ From Monolith to Event-Driven
 - https://medium.com/expedia-group-tech/be-vigilant-about-time-order-in-event-based-data-processing-cbfde600dd7d Time Ordering in Event-Based Data Processing
 - https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/ Manage ssh keys for server access, dedicated certificates & roles
 - https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492 Java 15 through the eyes of a Scala programmer. Java 15: Only simple cases are handled by new features.
