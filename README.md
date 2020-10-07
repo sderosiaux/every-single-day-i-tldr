@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 07-10-2020
 
+- https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/ Manage ssh keys for server access, dedicated certificates & roles
 - https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492 Java 15 through the eyes of a Scala programmer. Java 15: Only simple cases are handled by new features.
 
 # 04-10-2020
