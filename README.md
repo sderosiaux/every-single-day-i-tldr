@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 07-10-2020
+
+- https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492 Java 15 through the eyes of a Scala programmer. Java 15: Only simple cases are handled by new features.
+
 # 04-10-2020
 
 - https://cloud.google.com/pubsub/docs/ordering#go Gcloud Pub/Sub: Ordering messages & filtering messages.
