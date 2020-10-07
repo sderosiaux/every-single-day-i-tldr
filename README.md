@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 07-10-2020
 
+- https://medium.com/data-rocks/managing-kafka-connectors-at-scale-using-kafka-connect-manager-kcm-31d887de033c Kafka Connect Manager: auto create/update/delete connectors
 - https://www.infoq.com/articles/event-driven-finding-seams/ From Monolith to Event-Driven
 - https://medium.com/expedia-group-tech/be-vigilant-about-time-order-in-event-based-data-processing-cbfde600dd7d Time Ordering in Event-Based Data Processing
 - https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/ Manage ssh keys for server access, dedicated certificates & roles
