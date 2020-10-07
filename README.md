@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 07-10-2020
 
+- https://www.mongodb.com/blog/post/mongo-db-connector-for-apache-kafka-1-3-available-now MongoDB Connector for Apache Kafka 1.3
 - https://github.com/rayokota/kcache An In-Memory Cache Backed by Apache Kafka
 - https://medium.com/streamthoughts/whats-new-in-azkarra-streams-0-8-3ed1a4ab803d Azkarra Streams 0.8 for Kafka Streams: new cool stuff!
 - https://blogit.michelin.io/measuring-kafka-uptime/ Measuring Kafka uptime
