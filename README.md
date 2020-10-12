@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 12-10-2020
+
+- http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/ Rust tips
+
 # 07-10-2020
 
 - https://www.confluent.io/blog/ksqldb-0-12-0-features-updates/ ksqlDB 0.12.0: CREATE OR REPLACE <3
