@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 16-10-2020
 
+- https://www.confluent.io/blog/how-real-time-materialized-views-work-with-ksqldb/ How Real-Time Materialized Views Work with ksqlDB, with animations <3
 - https://blog.kowalczyk.info/article/19f2fe97f06a47c3b1f118fd06851fad/lessons-learned-porting-50k-loc-from-java-to-go.html Lessons learned porting 50k loc from Java to Go
 
 # 12-10-2020
