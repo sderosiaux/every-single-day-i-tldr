@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 16-10-2020
+
+- https://blog.kowalczyk.info/article/19f2fe97f06a47c3b1f118fd06851fad/lessons-learned-porting-50k-loc-from-java-to-go.html Lessons learned porting 50k loc from Java to Go
+
 # 12-10-2020
 
 - http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/ Rust tips
