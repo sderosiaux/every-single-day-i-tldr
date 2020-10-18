@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 18-10-2020
 
+- https://build.thebeat.co/yet-another-kubernetes-dns-latency-story-2a1c00ebbb8d Yet Another Kubernetes DNS Latency Story. Node Local DNS Cache issues.
 - https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82 CI/CD Pipelines With Kubernetes in Docker (KinD)
 - https://jet-start.sh/blog/2020/10/06/enabling-full-text-search Using Hazelcast Jet + Debezium to sink into Elasticsearch
 
