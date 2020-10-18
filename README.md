@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 18-10-2020
+
+- https://jet-start.sh/blog/2020/10/06/enabling-full-text-search Using Hazelcast Jet + Debezium to sink into Elasticsearch
+
 # 16-10-2020
 
 - https://www.cybercite.fr/core-web-vitals-google.html Core Web Vitals: de nouvelles règles côté Google 2021 à prendre en compte pour le SEO
