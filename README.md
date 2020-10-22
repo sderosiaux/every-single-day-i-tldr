@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 22-10-2020
+
+- https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions/ QUIC + HTTP/3 impact at Facebook
+
 # 18-10-2020
 
 - https://build.thebeat.co/yet-another-kubernetes-dns-latency-story-2a1c00ebbb8d Yet Another Kubernetes DNS Latency Story. Node Local DNS Cache issues.
