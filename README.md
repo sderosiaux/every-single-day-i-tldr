@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 23-10-2020
+
+- https://www.confluent.io/blog/bounding-ksqldb-memory-usage/ Interesting post about Memory Usage in ksqlDB and malloc issues
+
 # 22-10-2020
 
 - https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions/ QUIC + HTTP/3 impact at Facebook
