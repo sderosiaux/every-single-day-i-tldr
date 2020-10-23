@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 23-10-2020
 
+- https://medium.com/botify-labs/experience-working-with-600-tb-elasticsearch-cluster-b6b5a4fa9127 Experience working with 600+TB ElasticSearch cluster
 - https://www.confluent.io/blog/bounding-ksqldb-memory-usage/ Interesting post about Memory Usage in ksqlDB and malloc issues
 
 # 22-10-2020
