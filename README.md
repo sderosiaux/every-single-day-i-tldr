@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 27-10-2020
+
+- https://blog.softwaremill.com/designing-tapirs-websockets-support-ff1573166368 Designing tapir’s WebSockets support
+
 # 23-10-2020
 
 - https://medium.com/botify-labs/experience-working-with-600-tb-elasticsearch-cluster-b6b5a4fa9127 Experience working with 600+TB ElasticSearch cluster
