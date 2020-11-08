@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 08-11-2020
 
+- https://github.com/erebe/personal-server A complete "tutorial" to configure a personal server (security, firewall, k3s, ingress, certificates, mail server, github actions, backups, vpn, pihole..)
 - https://typelevel.org/blog/2020/10/30/concurrency-in-ce3.html Concurrency in Cats Effect 3 #scala
 - https://www.slideshare.net/streamnative/low-latency-stream-processing-with-jet Low latency stream processing with Jet and Kafka (Hazelcast)
 - https://www.slideshare.net/ConfluentInc/performance-tuning-rocksdb-for-kafka-streams-state-stores Performance Tuning RocksDB for Kafka Streams’ State Stores
