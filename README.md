@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 08-11-2020
 
+- https://www.slideshare.net/ConfluentInc/performance-tuning-rocksdb-for-kafka-streams-state-stores Performance Tuning RocksDB for Kafka Streams’ State Stores
 - https://medium.com/helidon/can-java-microservices-be-as-fast-as-go-5ceb9a45d673 Benchmarking Java + Graal & Go. Java is better at multi-threading (and mem+), otherwise Go crunches it.
 
 # 07-11-2020
