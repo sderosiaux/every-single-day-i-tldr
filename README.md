@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 08-11-2020
+
+- https://medium.com/helidon/can-java-microservices-be-as-fast-as-go-5ceb9a45d673 Benchmarking Java + Graal & Go. Java is better at multi-threading (and mem+), otherwise Go crunches it.
+
 # 07-11-2020
 
 - https://rmoff.net/2020/11/03/streaming-geopoint-data-from-kafka-to-elasticsearch/ Ways to stream geopoint data from Kafka to Elasticsearch
