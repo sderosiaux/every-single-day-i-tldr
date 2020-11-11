@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 11-11-2020
 
+- https://hmemcpy.com/2020/08/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/ Running Postgres integration tests easily with TestContainers and ZIO Test
 - https://medium.com/google-cloud/google-cloud-pub-sub-ordered-delivery-1e4181f60bc8 Google Cloud Pub/Sub Ordered Delivery
 - https://blog.softwaremill.com/whats-coming-up-in-sttp-client-3-30d01ab42d1b sttp client 3: simplification & Improvements #scala
 - https://softwaremill.com/kafka-pitfalls-kafka-architect/ Kafka pitfalls - Q&A with a Kafka Architect
