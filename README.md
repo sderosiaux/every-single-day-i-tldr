@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 11-11-2020
+
+- https://softwaremill.com/kafka-pitfalls-kafka-architect/ Kafka pitfalls - Q&A with a Kafka Architect
+
 # 10-11-2020
 
 - https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html From implicits to extension and given #scala
