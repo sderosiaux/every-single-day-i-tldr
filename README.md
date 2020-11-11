@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 11-11-2020
 
+- https://medium.com/google-cloud/google-cloud-pub-sub-ordered-delivery-1e4181f60bc8 Google Cloud Pub/Sub Ordered Delivery
 - https://blog.softwaremill.com/whats-coming-up-in-sttp-client-3-30d01ab42d1b sttp client 3: simplification & Improvements #scala
 - https://softwaremill.com/kafka-pitfalls-kafka-architect/ Kafka pitfalls - Q&A with a Kafka Architect
 
