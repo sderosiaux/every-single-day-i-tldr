@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 12-11-2020
 
+- https://www.youtube.com/watch?v=hvYqSz_BgUM Netty 5: Lessons Learned
 - https://turkogluc.com/postgresql-capture-data-change-with-debezium/ CDC Pipelines for Postgres with Debezium Kafka Connector
 
 # 11-11-2020
