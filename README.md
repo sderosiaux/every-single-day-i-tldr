@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 12-11-2020
+
+- https://turkogluc.com/postgresql-capture-data-change-with-debezium/ CDC Pipelines for Postgres with Debezium Kafka Connector
+
 # 11-11-2020
 
 - https://hmemcpy.com/2020/08/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/ Running Postgres integration tests easily with TestContainers and ZIO Test
