@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 13-11-2020
 
+- https://www.youtube.com/watch?v=SJeAb-XEIe8 The Rise Of Loom And The Evolution Of Reactive Programming #scala #zio
 - https://scalameta.org/metals/blog/2020/11/06/sbt-BSP-support.html sbt BSP support · Metals
 
 # 12-11-2020
