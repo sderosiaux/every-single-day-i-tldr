@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 14-11-2020
+
+- https://www.confluent.io/blog/spring-kafka-protobuf-part-1-event-data-modeling Apache Kafka and Protobuf Part 1: Event Data Modeling
+
 # 13-11-2020
 
 - https://www.youtube.com/watch?v=SJeAb-XEIe8 The Rise Of Loom And The Evolution Of Reactive Programming #scala #zio
