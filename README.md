@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 20-11-2020
+
+- https://www.scala-lang.org/blog/2020/11/19/scala-3-forward-compat.html Migrating to Scala 3 has never been so easy!
+
 # 16-11-2020
 
 - https://alexn.org/blog/2020/11/15/managing-database-migrations-scala.html Database Migrations using Flyway #Scala
