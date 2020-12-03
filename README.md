@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 03-12-2020
+
+- https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/ Don't Panic: Kubernetes and Docker
+
 # 28-11-2020
 
 - https://towardsdatascience.com/why-the-future-of-etl-is-not-elt-but-el-t-880f08aab74a The Future of ETL Is Not ELT, But EL(T)
