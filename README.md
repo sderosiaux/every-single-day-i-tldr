@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 04-12-2020
 
+- https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/ TimescaleDB vs. Amazon Timestream: a total destroyer. 6000x faster inserts, 5-175x query speed
 - https://aws.amazon.com/blogs/opensource/want-more-postgresql-you-just-might-like-babelfish/ AWS: Babelfish, a PostgreSQL compatiblity layer for Amazon Aurora
 
 # 03-12-2020
