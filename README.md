@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 04-12-2020
+
+- https://aws.amazon.com/blogs/opensource/want-more-postgresql-you-just-might-like-babelfish/ AWS: Babelfish, a PostgreSQL compatiblity layer for Amazon Aurora
+
 # 03-12-2020
 
 - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/ Don't Panic: Kubernetes and Docker
