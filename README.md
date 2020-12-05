@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 05-12-2020
+
+- https://cloud.google.com/blog/products/application-development/get-to-know-google-cloud-workflows Google Cloud Workflows: serverless mode, failover management, retries, timeout, security aspects. Looking good.
+
 # 04-12-2020
 
 - https://medium.com/@svroonland/processing-zio-effects-through-a-pipeline-c469e28dff62 Processing ZIO effects through a pipeline #scala
