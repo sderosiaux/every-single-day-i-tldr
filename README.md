@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 12-12-2020
 
+- https://engineering.linecorp.com/en/blog/kafka-based-job-queue-library-decaton-examples/ Kafka-based job queue library 'Decaton' examples
 - https://fasterthanli.me/articles/aiming-for-correctness-with-types Aiming for correctness with types (JS/Go/Rust)
 
 # 10-12-2020
