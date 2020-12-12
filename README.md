@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 12-12-2020
 
+- https://www2.slideshare.net/DmitryKarlinsky1/demystifying-functional-effect-systems-in-scala/DmitryKarlinsky1/demystifying-functional-effect-systems-in-scala Demystifying functional effect systems in Scala: construction of a stacksafe fiber-capable IO monad
 - https://blog.octo.com/en/technical-due-diligence-safeguarding-your-it-startup-investment/ Technical Due Diligence–Safeguarding your IT Startup Investment
 - https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/ Apache Kafka Lag Monitoring  using Burrow
 - https://medium.com/better-programming/integration-test-for-kafka-consumer-be76528b843a Integration Tests for Kafka Consumer (and Spring ������)
