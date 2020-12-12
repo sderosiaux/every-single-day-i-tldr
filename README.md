@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 12-12-2020
+
+- https://fasterthanli.me/articles/aiming-for-correctness-with-types Aiming for correctness with types (JS/Go/Rust)
+
 # 10-12-2020
 
 - https://github.com/scala/scala/releases/tag/v2.13.4 Release Scala 2.13.4
