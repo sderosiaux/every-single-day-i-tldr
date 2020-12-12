@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 12-12-2020
 
+- https://medium.com/better-programming/integration-test-for-kafka-consumer-be76528b843a Integration Tests for Kafka Consumer (and Spring í ¾í´¢)
 - https://engineering.linecorp.com/en/blog/kafka-based-job-queue-library-decaton-examples/ Kafka-based job queue library 'Decaton' examples
 - https://fasterthanli.me/articles/aiming-for-correctness-with-types Aiming for correctness with types (JS/Go/Rust)
 
