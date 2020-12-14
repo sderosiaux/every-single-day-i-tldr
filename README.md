@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 14-12-2020
+
+- https://towardsdatascience.com/enabling-a-powerful-search-capability-building-and-deploying-a-real-time-stream-processing-etl-a27ecb0ab0ae Building and Deploying a Real-Time Stream Processing ETL Engine with Kafka and ksqlDB #elasticsearch
+
 # 12-12-2020
 
 - https://www2.slideshare.net/DmitryKarlinsky1/demystifying-functional-effect-systems-in-scala/DmitryKarlinsky1/demystifying-functional-effect-systems-in-scala Demystifying functional effect systems in Scala: construction of a stacksafe fiber-capable IO monad
