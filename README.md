@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 16-12-2020
+
+- https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html Scala 3 - Crossing the finish line (!!!!!)
+
 # 14-12-2020
 
 - https://towardsdatascience.com/enabling-a-powerful-search-capability-building-and-deploying-a-real-time-stream-processing-etl-a27ecb0ab0ae Building and Deploying a Real-Time Stream Processing ETL Engine with Kafka and ksqlDB #elasticsearch
