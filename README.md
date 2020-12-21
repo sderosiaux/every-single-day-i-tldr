@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 21-12-2020
+
+- https://www.infoq.com/news/2020/12/aws-reinvent-2020/ Recap of AWS re:Invent 2020
+
 # 16-12-2020
 
 - https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html Scala 3 - Crossing the finish line (!!!!!)
