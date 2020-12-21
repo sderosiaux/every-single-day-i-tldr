@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 21-12-2020
 
+- https://www.confluent.io/blog/apache-kafka-2-7-features-updates-improvements/ Apache Kafka 2.7 - Latest Features, Updates, and Improvements
 - https://www.infoq.com/news/2020/12/aws-reinvent-2020/ Recap of AWS re:Invent 2020
 
 # 16-12-2020
