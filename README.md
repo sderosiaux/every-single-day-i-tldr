@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 28-12-2020
+
+- https://medium.com/cloud-belivers/olap-system-selection-choose-apache-kylin-or-clickhouse-718a972498bb OLAP: Apache Kylin or ClickHouse?
+
 # 21-12-2020
 
 - https://www.confluent.io/blog/apache-kafka-2-7-features-updates-improvements/ Apache Kafka 2.7 - Latest Features, Updates, and Improvements
