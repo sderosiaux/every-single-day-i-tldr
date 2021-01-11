@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 11-01-2021
 
+- https://www.youtube.com/watch?v=iFeTUhYpPLs ZIO Cache, Compositional Caching by Adam Fraser
 - https://mikemybytes.com/2021/01/11/single-partition-kafka-topics/ Single-partition Kafka topics
 
 # 28-12-2020
