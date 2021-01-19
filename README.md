@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 19-01-2021
+
+- https://www.elastic.co/blog/why-license-change-AWS Amazon: NOT OK - why we had to change Elastic licensing | Elastic Blog
+
 # 15-01-2021
 
 - https://strimzi.io/blog/2021/01/07/consumer-tuning/ Optimizing Kafka consumers
