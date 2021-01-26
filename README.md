@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 26-01-2021
 
+- https://portavita.github.io/2021-01-25-Why_Kafka_compression_might_save_you_thousands_of_dollars/ Apache Kafka compression: zstd: save space & time = money
 - https://medium.com/wix-engineering/kafka-cron-using-wix-greyhound-64c7b99a1c3e Kafka Cron using wix/greyhound #scala #zio
 - https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5 Pub/Sub Lite <-> Kafka
 
