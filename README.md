@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 26-01-2021
+
+- https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5 Pub/Sub Lite <-> Kafka
+
 # 25-01-2021
 
 - https://blog.softwaremill.com/sttp-client-3-is-here-bb9ebe925931 sttp client 3 is here!
