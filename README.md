@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 31-01-2021
+
+- https://learnk8s.io/terraform-gke Provisioning Kubernetes clusters on GCP with Terraform and GKE
+
 # 26-01-2021
 
 - https://portavita.github.io/2021-01-25-Why_Kafka_compression_might_save_you_thousands_of_dollars/ Apache Kafka compression: zstd: save space & time = money
