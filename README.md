@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 31-01-2021
 
+- https://www.youtube.com/watch?v=4v_m7xtDCNk Kafka Streams Interactive Queries and gRPC
 - https://learnk8s.io/terraform-gke Provisioning Kubernetes clusters on GCP with Terraform and GKE
 
 # 26-01-2021
