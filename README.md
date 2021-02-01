@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 01-02-2021
+
+- https://webtransparency.cs.princeton.edu/dark-patterns/ Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites
+
 # 31-01-2021
 
 - https://www.youtube.com/watch?v=4v_m7xtDCNk Kafka Streams Interactive Queries and gRPC
