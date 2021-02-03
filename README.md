@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 03-02-2021
+
+- https://hakibenita.com/postgresql-unused-index-size Save lots of space: you may need to create a *partial* INDEX on your Postgres table if you're not looking for NULL on large tables
+
 # 01-02-2021
 
 - https://webtransparency.cs.princeton.edu/dark-patterns/ Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites
