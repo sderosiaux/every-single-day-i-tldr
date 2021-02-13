@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 13-02-2021
 
+- https://levelup.gitconnected.com/fixing-debezium-connectors-when-they-break-on-production-49fb52d6ac4e Tips about Fixing Debezium Connectors
 - https://medium.com/swlh/netty-nio-distilled-c1f053911950 Netty NIO Distilled
 - https://medium.com/moveax/how-postgresql-replication-works-6288b3e6000e How PostgreSQL replication works
 - https://www.wix.engineering/post/4-steps-for-kafka-rebalance-notes-from-the-field 4 Steps for Kafka Rebalance - Wix
