@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 13-02-2021
+
+- https://www.wix.engineering/post/4-steps-for-kafka-rebalance-notes-from-the-field 4 Steps for Kafka Rebalance - Wix
+
 # 03-02-2021
 
 - https://hakibenita.com/postgresql-unused-index-size Save lots of space: you may need to create a *partial* INDEX on your Postgres table if you're not looking for NULL on large tables
