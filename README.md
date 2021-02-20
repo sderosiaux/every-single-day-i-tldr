@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 20-02-2021
+
+- https://sookocheff.com/post/architecture/making-modular-monoliths-work/ Making Modular Monoliths Work
+
 # 13-02-2021
 
 - https://www.confluent.io/blog/write-a-kafka-connect-connector-with-configuration-handling/ How to Write a Kafka Connector with Proper Configuration Handling
