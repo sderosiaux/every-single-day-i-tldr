@@ -11,6 +11,7 @@ I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topic
 
 # 20-02-2021
 
+- https://www.confluent.io/blog/ksqldb-0-15-features-updates/ Announcing ksqlDB 0.15
 - https://appddeevvmeanderings.blogspot.com/2021/02/zio-quick-read-extracting-executor-for.html ZIO executor, service, layers, http, blocking #scala
 - https://sookocheff.com/post/architecture/making-modular-monoliths-work/ Making Modular Monoliths Work
 
