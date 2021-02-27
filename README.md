@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 27-02-2021
+
+- https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html Tuples bring generic programming (HList~) to Scala 3.
+
 # 21-02-2021
 
 - https://www.confluent.io/blog/42-ways-zookeeper-removal-improves-kafka/ 42 Ways Zookeeper Removal Improves Apache Kafka
