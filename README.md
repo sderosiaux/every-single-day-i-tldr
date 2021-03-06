@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
+# 06-03-2021
+
+- https://www.confluent.io/blog/ksqldb-0-15-reads-more-message-keys-supports-more-data-types/#multiple-key-columns Compound KEYs, Group By & Partition By multiples
+
 # 28-02-2021
 
 - https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/ What you need to know about product management for AI
