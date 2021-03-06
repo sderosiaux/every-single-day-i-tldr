@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-03-2021
 
+- https://www.confluent.io/blog/running-kafka-at-scale-at-pinterest/ How Pinterest Runs Kafka at Scale
 - https://levelup.gitconnected.com/6-things-you-need-to-know-about-kafka-before-using-it-in-a-system-design-interview-1fc31451732c Kafka / System Design Interview 
 - https://www.confluent.io/blog/ksqldb-0-15-reads-more-message-keys-supports-more-data-types/#multiple-key-columns Compound KEYs, group by & partition by multiple fields
 
