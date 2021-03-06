@@ -5,9 +5,9 @@ It's like a huge shared bookmarks registry with y'all! Or it's like a daily news
 
 I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DDD, and technology. :muscle:
 
-> Note for my past/current/future employer: this is stuff I'm reading mostly off work of course. :see_no_evil:
+- I'm the co-founder of https://www.conduktor.io/, the best Desktop application to manage a Kafka ecosystem. Download, Install, Connect, done!
+- I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
-I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics. I'm the co-founder of https://www.conduktor.io/, a sweet Desktop client to manage a Kafka ecosystem.
 
 # 06-03-2021
 
