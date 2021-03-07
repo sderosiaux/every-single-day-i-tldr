@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-03-2021
 
+- https://itnext.io/ingest-data-from-apache-kafka-into-azure-cosmos-db-cassandra-api-using-kafka-connect-11e054f82a05 Ingest data from Apache Kafka into Azure Cosmos DB Cassandra API using Kafka Connect
 - https://blog.bitsrc.io/will-deno-catchup-with-nodejs-in-2021-7ab758429647 Deno / NodeJS in 2021
 
 # 06-03-2021
