@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-03-2021
 
+- https://www.youtube.com/watch?v=PaogLRrYo64 Structuring Services with ZIO and ZLayer
 - https://www.infoq.com/articles/saga-orchestration-outbox/ Saga Orchestration for Microservices Using the Outbox Pattern
 
 # 07-03-2021
