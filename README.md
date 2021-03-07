@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 07-03-2021
+
+- https://blog.bitsrc.io/will-deno-catchup-with-nodejs-in-2021-7ab758429647 Deno / NodeJS in 2021
+
 # 06-03-2021
 
 - https://medium.com/expedia-group-tech/fully-reactive-stream-processing-727c4c4371e8 Reactive Stream Processing with Apache Kafka and Project Reactor
