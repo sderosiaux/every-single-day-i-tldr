@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-03-2021
+
+- https://www.infoq.com/articles/saga-orchestration-outbox/ Saga Orchestration for Microservices Using the Outbox Pattern
+
 # 07-03-2021
 
 - https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/ How To Implement Streaming Microservices Using ZIO and Kafka
