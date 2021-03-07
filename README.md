@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-03-2021
 
+- https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/ How To Implement Streaming Microservices Using ZIO and Kafka
 - https://typelevel.org/blog/2021/02/21/fibers-fast-mkay.html Eat Fibers
 - https://coralogix.com/log-analytics-blog/the-coralogix-operator-a-tale-of-zio-and-kubernetes/ The Coralogix Operator: A Tale of ZIO and Kubernetes
 - https://itnext.io/ingest-data-from-apache-kafka-into-azure-cosmos-db-cassandra-api-using-kafka-connect-11e054f82a05 Ingest data from Apache Kafka into Azure Cosmos DB Cassandra API using Kafka Connect
