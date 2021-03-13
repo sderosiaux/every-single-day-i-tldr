@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-03-2021
+
+- https://kornel.ski/rust-c-speed Speed of Rust vs C
+
 # 08-03-2021
 
 - https://www.youtube.com/watch?v=NY2ZkcYZj54 Scala 3
