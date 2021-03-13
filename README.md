@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-03-2021
 
+- https://www.confluent.io/blog/integrate-kafka-and-jaeger-for-distributed-tracing-and-monitoring/ Integrate Kafka Clients with Jaeger for Distributed Tracing and Monitoring
 - https://kornel.ski/rust-c-speed Speed of Rust vs C
 
 # 08-03-2021
