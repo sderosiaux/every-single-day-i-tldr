@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 14-03-2021
+
+- https://www.confluent.io/blog/how-to-tune-rocksdb-kafka-streams-state-stores-performance/ Performance Tuning RocksDB for Kafka Streams’ State Stores
+
 # 13-03-2021
 
 - https://www.confluent.io/blog/integrate-kafka-and-jaeger-for-distributed-tracing-and-monitoring/ Integrate Kafka Clients with Jaeger for Distributed Tracing and Monitoring
