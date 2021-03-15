@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-03-2021
+
+- https://medium.com/@Python_Primer/server-less-cloud-sql-backups-on-gcp-d3c3d43548ca Serverless Cloud SQL backups on GCP
+
 # 14-03-2021
 
 - https://www.confluent.io/blog/how-to-tune-rocksdb-kafka-streams-state-stores-performance/ Performance Tuning RocksDB for Kafka Streams’ State Stores
