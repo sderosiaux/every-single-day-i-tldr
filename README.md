@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-03-2021
 
+- https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f 4 Microservices Caching Patterns at Wix (s3, kafka, dynamodb/cdc, varnish)
 - https://medium.com/@Python_Primer/server-less-cloud-sql-backups-on-gcp-d3c3d43548ca Serverless Cloud SQL backups on GCP
 
 # 14-03-2021
