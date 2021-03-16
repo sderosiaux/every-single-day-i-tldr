@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 16-03-2021
+
+- https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396 Tapir serverless: a proof of concept
+
 # 15-03-2021
 
 - https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f 4 Microservices Caching Patterns at Wix (s3, kafka, dynamodb/cdc, varnish)
