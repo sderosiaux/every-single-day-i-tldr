@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-03-2021
+
+- https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/ The Modern Java Platform - 2021
+
 # 16-03-2021
 
 - https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396 Tapir serverless: a proof of concept
