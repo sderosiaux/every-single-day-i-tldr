@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-03-2021
 
+- https://guidoschmutz.wordpress.com/2021/03/20/last-week-in-stream-data-integration-stream-analytics-20-3-2021/ Last Week in Stream Data Integration & Stream Analytics – 20.3.2021 | Enjoy IT - SOA, Java, Event-Driven Computing and Integration
 - https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/ Relay Hooks: Improved React APIs for Relay
 - https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/ The Modern Java Platform - 2021
 
