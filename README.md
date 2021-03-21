@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-03-2021
+
+- https://medium.com/efesent-solutions/the-three-perspectives-of-a-software-engineering-manager-53fcf6ea525d Perspectives of a software engineering manager
+
 # 20-03-2021
 
 - https://guidoschmutz.wordpress.com/2021/03/20/last-week-in-stream-data-integration-stream-analytics-20-3-2021/ Last Week in Stream Data Integration & Stream Analytics – 20.3.2021 | Enjoy IT - SOA, Java, Event-Driven Computing and Integration
