@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-03-2021
 
+- https://medium.com/free-code-camp/books-that-every-engineering-manager-should-read-7a053e296d11 Engineering Manager Books
 - https://medium.com/efesent-solutions/the-three-perspectives-of-a-software-engineering-manager-53fcf6ea525d Perspectives of a software engineering manager
 
 # 20-03-2021
