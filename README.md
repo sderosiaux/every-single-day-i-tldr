@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-03-2021
 
+- https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc Introducing ZIO http
 - https://medium.com/milkie-way/we-burnt-72k-testing-firebase-cloud-run-and-almost-went-bankrupt-part-1-703bb3052fae We Burnt $72K testing Firebase + Cloud Run and almost went Bankrupt
 
 # 21-03-2021
