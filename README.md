@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 23-03-2021
+
+- https://medium.com/milkie-way/we-burnt-72k-testing-firebase-cloud-run-and-almost-went-bankrupt-part-1-703bb3052fae We Burnt $72K testing Firebase + Cloud Run and almost went Bankrupt
+
 # 21-03-2021
 
 - https://ssudan16.medium.com/exactly-once-processing-in-kafka-explained-66ecc41a8548 Exactly-Once Processing in Kafka
