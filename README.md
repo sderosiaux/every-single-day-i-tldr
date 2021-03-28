@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 28-03-2021
+
+- https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system.html Kafka as a storage system at Twitter
+
 # 23-03-2021
 
 - https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc Introducing ZIO http
