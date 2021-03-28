@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-03-2021
 
+- https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03 Why Kafka Is so Fast.
 - https://www.morling.dev/blog/talking-to-postgres-through-java-16-unix-domain-socket-channels/ Talking to Postgres Through Java 16 Unix-Domain Socket Channels
 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system.html Kafka as a storage system at Twitter
 
