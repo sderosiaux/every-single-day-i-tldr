@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-04-2021
+
+- https://www.47deg.com/blog/arrow-0.13.0-release/ A good decision: many things deprecated in ArrowKt, and a better syntax overall 
+
 # 28-03-2021
 
 - https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03 Why Kafka Is so Fast.
