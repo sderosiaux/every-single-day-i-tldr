@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-04-2021
+
+- https://kubernetes.io/blog/2021/04/19/introducing-indexed-jobs/ Introducing Indexed Jobs in Kubernetes
+
 # 18-04-2021
 
 - https://f.hubspotusercontent30.net/hubfs/5193039/Engineering%20Retrospectives/Kafka%20Migration%20and%20Lessons%20Learned%20-%20April%202021.pdf Kafka Migration, AWS, Lessons Learned @ Honeycomb
