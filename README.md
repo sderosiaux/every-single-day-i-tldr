@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 22-04-2021
+
+- https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0 System Design: WhatsApp
+
 # 19-04-2021
 
 - https://kubernetes.io/blog/2021/04/19/introducing-indexed-jobs/ Introducing Indexed Jobs in Kubernetes
