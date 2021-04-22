@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-04-2021
 
+- https://www.kai-waehner.de/blog/2021/04/20/comparison-open-source-apache-kafka-vs-confluent-cloudera-red-hat-amazon-msk-cloud/ Comparison of Open Source Apache Kafka vs Vendors including Confluent, Cloudera, Red Hat, Amazon MSK, and tools like Conduktor :)
 - https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0 System Design: WhatsApp
 
 # 19-04-2021
