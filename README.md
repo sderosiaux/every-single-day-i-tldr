@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-04-2021
 
+- https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/ Internal VS Eventual consistency in streaming systems. Kafka Streams, ksqlDB, Flink
 - https://medium.com/mobimeo-technology/how-kafka-helped-us-to-restructure-our-analytics-solution-2f2ee7efeec2 How Kafka helped us to restructure our Analytics solution
 
 # 22-04-2021
