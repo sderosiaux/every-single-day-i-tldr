@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-04-2021
+
+- https://medium.com/mobimeo-technology/how-kafka-helped-us-to-restructure-our-analytics-solution-2f2ee7efeec2 How Kafka helped us to restructure our Analytics solution
+
 # 22-04-2021
 
 - https://www.kai-waehner.de/blog/2021/04/20/comparison-open-source-apache-kafka-vs-confluent-cloudera-red-hat-amazon-msk-cloud/ Comparison of Open Source Apache Kafka vs Vendors including Confluent, Cloudera, Red Hat, Amazon MSK, and tools like Conduktor :)
