@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-05-2021
+
+- https://www.confluent.io/blog/announcing-ksqldb-0-17-0-new-features-and-updates/ ksqlDB 0.17.0 - Pull Queries updates & lambda functions
+
 # 30-04-2021
 
 - https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/ Internal VS Eventual consistency in streaming systems. Kafka Streams, ksqlDB, Flink
