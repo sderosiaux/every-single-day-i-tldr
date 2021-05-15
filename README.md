@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-05-2021
+
+- https://cwiki.apache.org/confluence/display/KAFKA/KIP-698%3A+Add+Explicit+User+Initialization+of+Broker-side+State+to+Kafka+Streams KIP-698: Add Explicit User Initialization of Broker-side State to Kafka Streams
+
 # 05-05-2021
 
 - https://www.confluent.io/blog/announcing-ksqldb-0-17-0-new-features-and-updates/ ksqlDB 0.17.0 - Pull Queries updates & lambda functions
