@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-05-2021
 
+- https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/ Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance
 - https://strimzi.io/blog/2021/05/07/deploying-kafka-with-lets-encrypt-certificates/ Deploying Kafka with Strimzi and Let's Encrypt certificates
 - https://www.morling.dev/blog/exploring-zookeeper-less-kafka/ Exploring ZooKeeper-less Kafka - Gunnar Morling
 - https://thinkbeforecoding.com/post/2018/01/25/functional-core Functional Core: Errors are events
