@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-05-2021
 
+- https://www.morling.dev/blog/exploring-zookeeper-less-kafka/ Exploring ZooKeeper-less Kafka - Gunnar Morling
 - https://thinkbeforecoding.com/post/2018/01/25/functional-core Functional Core: Errors are events
 
 # 15-05-2021
