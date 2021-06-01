@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-06-2021
+
+- https://itnext.io/pulsar-advantages-over-kafka-7e0c2affe2d6 Pulsar Advantages Over Kafka
+
 # 30-05-2021
 
 - https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/ Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance
