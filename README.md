@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-06-2021
 
+- https://github.com/feltcoop/why-svelte Why Svelte is our choice for a large web project in 2020
 - https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html My thoughts about the Principal (Software Engineer) role
 
 # 01-06-2021
