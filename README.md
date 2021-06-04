@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-06-2021
+
+- https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html My thoughts about the Principal (Software Engineer) role
+
 # 01-06-2021
 
 - https://itnext.io/pulsar-advantages-over-kafka-7e0c2affe2d6 Pulsar Advantages Over Kafka
