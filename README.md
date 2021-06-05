@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-06-2021
 
+- https://tech.ebayinc.com/engineering/resiliency-and-disaster-recovery-with-kafka/ Resiliency and Disaster Recovery with Kafka
 - https://www.infoq.com/articles/saga-orchestration-outbox/ Saga Orchestration for Microservices Using the Outbox Pattern
 - https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/ Off-Heap memory reconnaissance • Brice Dutheil
 - https://gist.github.com/djspiewak/8c3c0eadabf16c2fddda796531c3d5ec Building Remote Teams
