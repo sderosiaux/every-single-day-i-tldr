@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-06-2021
+
+- https://gist.github.com/djspiewak/8c3c0eadabf16c2fddda796531c3d5ec Building Remote Teams
+
 # 04-06-2021
 
 - https://github.com/feltcoop/why-svelte Why Svelte is our choice for a large web project in 2020
