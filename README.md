@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 27-06-2021
+
+- https://marcosbento.medium.com/confluent-an-ipo-breakdown-where-infrastructure-it-happens-32ee3dfd77f3 Confluent — An IPO breakdown
+
 # 05-06-2021
 
 - https://tech.ebayinc.com/engineering/resiliency-and-disaster-recovery-with-kafka/ Resiliency and Disaster Recovery with Kafka
