@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-07-2021
+
+- https://www.youtube.com/watch?v=VVKBoSryJFg Tooling Talks Episode 2 - Scala 3, Metals, Scalafix - Meriam Lachkar
+
 # 27-06-2021
 
 - https://marcosbento.medium.com/confluent-an-ipo-breakdown-where-infrastructure-it-happens-32ee3dfd77f3 Confluent — An IPO breakdown
