@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-07-2021
 
+- https://www.youtube.com/watch?v=oKaQXxEa7a8 Part 3 - ZIO[_, Error, _] & Variance - Getting Started with #ZIO in #Scala3
 - https://www.youtube.com/watch?v=0OTYAVWUnU4 Scala with ZIO: Introduction to Fibers
 - https://www.youtube.com/watch?v=VVKBoSryJFg Tooling Talks Episode 2 - Scala 3, Metals, Scalafix - Meriam Lachkar
 
