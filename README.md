@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 17-07-2021
+
+- https://jefago.medium.com/establishing-a-product-organization-structure-5cb4fbc2153 Establishing a Product Organization Structure
+
 # 10-07-2021
 
 - https://strimzi.io/blog/2021/06/08/broker-tuning/ Optimizing Kafka broker configuration
