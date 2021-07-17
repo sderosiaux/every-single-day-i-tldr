@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-07-2021
 
+- https://medium.com/whispir/how-our-cross-functional-teams-decide-what-to-build-at-whispir-e97757171e49 How Our Cross-Functional Teams Decide What to Build
 - https://jefago.medium.com/establishing-a-product-organization-structure-5cb4fbc2153 Establishing a Product Organization Structure
 
 # 10-07-2021
