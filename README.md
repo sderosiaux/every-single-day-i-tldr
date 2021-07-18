@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-07-2021
 
+- https://vgallet.github.io/posts/kafka-features/ Kafka Features good to know
 - https://github.com/slouc/concurrency-in-scala-with-ce Concepts of asynchronous and concurrent programming in Scala, based on the Cats Effect library.
 
 # 17-07-2021
