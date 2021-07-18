@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 18-07-2021
+
+- https://github.com/slouc/concurrency-in-scala-with-ce Concepts of asynchronous and concurrent programming in Scala, based on the Cats Effect library.
+
 # 17-07-2021
 
 - https://leevs.dev/kafka-cost-reduction/ A Practical Guide for Kafka Cost Reduction
