@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-07-2021
+
+- https://uxdesign.cc/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma-a1dfc64948e5 We gave up Sketch and rebuilt our design system in Figma
+
 # 18-07-2021
 
 - https://vgallet.github.io/posts/kafka-features/ Kafka Features good to know
