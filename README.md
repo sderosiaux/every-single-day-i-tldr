@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-07-2021
 
+- https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef What does an agile product roadmap look like?
 - https://www.astronomer.io/blog/airflow-dbt-1 Airflow and dbt at scale
 
 # 21-07-2021
