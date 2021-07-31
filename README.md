@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-07-2021
 
+- https://eng.uber.com/pinot-real-time-ingestion/ Pinot Real-Time Ingestion with Cloud Segment Storage
 - https://www.crowdstrike.com/blog/how-crowdstrike-addressed-uneven-partition-lag-in-kafka/ How CrowdStrike Addressed Uneven Partition Lag in Kafka
 
 # 30-07-2021
