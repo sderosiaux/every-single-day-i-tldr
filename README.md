@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-07-2021
+
+- https://www.crowdstrike.com/blog/how-crowdstrike-addressed-uneven-partition-lag-in-kafka/ How CrowdStrike Addressed Uneven Partition Lag in Kafka
+
 # 30-07-2021
 
 - https://gist.github.com/djspiewak/f4cfc08e0827088f17032e0e9099d292 cats-effect 3 and ZIO 2: comparative-benchmarks
