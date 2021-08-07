@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 07-08-2021
+
+- https://www.infoq.com/articles/microservices-inside-out/ Turning Microservices Inside-Out
+
 # 31-07-2021
 
 - https://eng.uber.com/pinot-real-time-ingestion/ Pinot Real-Time Ingestion with Cloud Segment Storage
