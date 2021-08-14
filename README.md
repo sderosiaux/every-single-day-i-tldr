@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 14-08-2021
+
+- https://pganalyze.com/blog/postgres-create-index Postgres CREATE INDEX: Operator classes, index types & more
+
 # 08-08-2021
 
 - https://medium.com/@sgblank/a-path-to-the-minimum-viable-product-d54d5a500baf A Path to the Minimum Viable Product
