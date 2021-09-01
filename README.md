@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-09-2021
+
+- https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/ there is no such thing as a “glibc based alpine image” – Ariadne's Space
+
 # 15-08-2021
 
 - https://www.touilleur-express.fr/2021/08/14/lundi-12-juillet-chez-doctolib/ Retour sur la soirée du lundi 12 juillet chez Doctolib #aws #aurora
