@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-09-2021
 
+- https://medium.com/event-driven-utopia/rise-of-the-streaming-databases-episode-1-materialize-36d0cfbfb730 Rise of the Streaming Databases: Materialize
 - https://medium.com/whispering-data/the-state-of-data-engineering-in-2021-478f49e89873 The State of Data Engineering in 2021
 - https://www.confluent.io/blog/ksqldb-architecture-and-advanced-features/ Guide to ksqlDB Architecture and Advanced Features
 
