@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-09-2021
+
+- https://tgrez.github.io/posts/2019-04-13-kafka-transactions.html Apache Kafka transactional.id impact, to fence producers
+
 # 05-09-2021
 
 - https://medium.com/event-driven-utopia/rise-of-the-streaming-databases-episode-1-materialize-36d0cfbfb730 Rise of the Streaming Databases: Materialize
