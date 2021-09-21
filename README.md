@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-09-2021
+
+- https://www.youtube.com/watch?v=dunoZF1rs7o Java 17 features
+
 # 18-09-2021
 
 - https://medium.com/teads-engineering/investigating-a-network-issue-encountered-with-kafka-on-aws-38148fc391 Investigating a network issue with Kafka on AWS
