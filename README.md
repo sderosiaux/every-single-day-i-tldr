@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 23-09-2021
+
+- https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623 Kafka streams processing. Spring Kafka vs Alpakka
+
 # 21-09-2021
 
 - https://www.youtube.com/watch?v=dunoZF1rs7o Java 17 features
