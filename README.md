@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-09-2021
+
+- https://medium.com/event-driven-utopia/understanding-materialized-views-3-stream-table-joins-with-cdc-77591d2d6fa0 Understanding Materialized Views — 3 : Stream-Table Joins with CDC
+
 # 23-09-2021
 
 - https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623 Kafka streams processing. Spring Kafka vs Alpakka
