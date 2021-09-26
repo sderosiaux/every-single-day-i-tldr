@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-09-2021
 
+- https://emaxklein.medium.com/10-micro-habits-for-better-leadership-1bb18a444378 10 Micro-Habits for Better Leadership
 - https://medium.com/event-driven-utopia/understanding-materialized-views-3-stream-table-joins-with-cdc-77591d2d6fa0 Understanding Materialized Views — 3 : Stream-Table Joins with CDC
 
 # 23-09-2021
