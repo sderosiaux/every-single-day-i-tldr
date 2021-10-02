@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-10-2021
 
+- https://medium.com/@balbinolucas/the-ultimate-guide-of-a-product-managers-day-to-day-activities-841ebe3df16b The Ultimate Guide of a Product Manager’s Day to Day Activities
 - https://medium.com/management-matters/afc-7c2dff1c31d6 How to spread and save the company’s technical knowledge
 - https://medium.com/technexthere/modern-streaming-database-technologies-in-2021-5a23181ab0c Modern Streaming Database Technologies in 2021
 
