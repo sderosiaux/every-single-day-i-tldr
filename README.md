@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-10-2021
+
+- https://medium.com/technexthere/modern-streaming-database-technologies-in-2021-5a23181ab0c Modern Streaming Database Technologies in 2021
+
 # 26-09-2021
 
 - https://emaxklein.medium.com/10-micro-habits-for-better-leadership-1bb18a444378 10 Micro-Habits for Better Leadership
