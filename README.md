@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-10-2021
+
+- https://aws.amazon.com/blogs/aws/introducing-amazon-msk-connect-stream-data-to-and-from-your-apache-kafka-clusters-using-managed-connectors/ Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors
+
 # 02-10-2021
 
 - https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/ What is Apache Kafka, and what are Kafka use cases?
