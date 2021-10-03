@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-10-2021
 
+- https://newsletter.pragmaticengineer.com/p/project-management-in-tech How Big Tech Runs Tech Projects and the Curious Absence of Scrum
 - https://aws.amazon.com/blogs/aws/introducing-amazon-msk-connect-stream-data-to-and-from-your-apache-kafka-clusters-using-managed-connectors/ Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors
 
 # 02-10-2021
