@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-10-2021
 
+- https://itnext.io/hydrating-a-data-lake-using-log-based-change-data-capture-cdc-with-debezium-apicurio-and-kafka-799671e0012f Hydrating a Data Lake using Log-based Change Data Capture (CDC) with Debezium, Apicurio, and Kafka Connect on AWS
 - https://newsletter.pragmaticengineer.com/p/project-management-in-tech How Big Tech Runs Tech Projects and the Curious Absence of Scrum
 - https://aws.amazon.com/blogs/aws/introducing-amazon-msk-connect-stream-data-to-and-from-your-apache-kafka-clusters-using-managed-connectors/ Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors
 
