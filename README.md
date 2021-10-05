@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-10-2021
+
+- https://medium.com/race-conditions/kafka-the-afterthoughts-the-schema-management-7ea30e9518e4 Kafka the afterthoughts: message encoding and schema management
+
 # 03-10-2021
 
 - https://itnext.io/hydrating-a-data-lake-using-log-based-change-data-capture-cdc-with-debezium-apicurio-and-kafka-799671e0012f Hydrating a Data Lake using Log-based Change Data Capture (CDC) with Debezium, Apicurio, and Kafka Connect on AWS
