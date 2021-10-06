@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-10-2021
 
+- https://medium.com/technexthere/have-to-know-30-data-streaming-and-event-processing-technologies-in-2021-aaf02977de75 Top Data Streaming and Event Processing Technologies in 2021 (Conduktor!)
 - https://forum.confluent.io/t/partitioning-gotchas-dont-use-avro-json-or-protobuf-for-keys-and-be-aware-of-client-hashing-differences/2718 Partitioning gotchas -- Don't use Avro, Json, or Protobuf for keys and be aware of client hashing differences
 - https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623 Towards a Reliable Device Management Platform using Alpakka Kafka
 - https://blog.crunchydata.com/blog/postgres-change-data-capture-with-debezium Change Data Capture in Postgres With Debezium
