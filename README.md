@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 06-10-2021
+
+- https://canvatechblog.com/scaling-engineering-at-canva-ca10c6b5410a Scaling engineering at Canva
+
 # 05-10-2021
 
 - https://medium.com/race-conditions/kafka-the-afterthoughts-the-schema-management-7ea30e9518e4 Kafka the afterthoughts: message encoding and schema management
