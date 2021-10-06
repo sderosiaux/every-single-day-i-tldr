@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-10-2021
 
+- https://forum.confluent.io/t/partitioning-gotchas-dont-use-avro-json-or-protobuf-for-keys-and-be-aware-of-client-hashing-differences/2718 Partitioning gotchas -- Don't use Avro, Json, or Protobuf for keys and be aware of client hashing differences
 - https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623 Towards a Reliable Device Management Platform using Alpakka Kafka
 - https://blog.crunchydata.com/blog/postgres-change-data-capture-with-debezium Change Data Capture in Postgres With Debezium
 - https://canvatechblog.com/scaling-engineering-at-canva-ca10c6b5410a Scaling engineering at Canva
