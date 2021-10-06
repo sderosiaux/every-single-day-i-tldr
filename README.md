@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-10-2021
 
+- https://blog.crunchydata.com/blog/postgres-change-data-capture-with-debezium Change Data Capture in Postgres With Debezium
 - https://canvatechblog.com/scaling-engineering-at-canva-ca10c6b5410a Scaling engineering at Canva
 
 # 05-10-2021
