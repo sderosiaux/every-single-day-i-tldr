@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-10-2021
 
+- https://www.loom.com/share/5efceb288b634a449041918bdba08202 Google Chrome - High WIP consequences — John Cutler
 - https://achardypm.medium.com/introduction-to-roadmap-architecture-7dee6234a688 Introduction to Roadmap Architecture
 - https://medium.com/serious-scrum/how-to-nail-a-product-owner-interview-4c475e4f8c74 How to Nail a Product Owner Interview
 - https://medium.com/gsquad/what-does-a-healthy-engineering-team-look-like-59c998d0aed What Does a Healthy Engineering Team Look Like?
