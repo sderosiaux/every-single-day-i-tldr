@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-10-2021
+
+- https://medium.com/wix-engineering/5-database-technologies-used-by-2000-wix-microservices-e4769638b8c3 5 Database technologies used by 2000 Wix microservices
+
 # 06-10-2021
 
 - https://thedataguy.in/debezium-with-aws-msk-iam-authentication/ Debezium With AWS MSK IAM Authentication
