@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-10-2021
 
+- https://medium.com/technexthere/data-engineering-technologies-2021-8f46bb284474 Data Engineering Technologies in 2021
 - https://medium.com/wix-engineering/5-database-technologies-used-by-2000-wix-microservices-e4769638b8c3 5 Database technologies used by 2000 Wix microservices
 
 # 06-10-2021
