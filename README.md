@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-10-2021
 
+- https://medium.com/serious-scrum/how-to-nail-a-product-owner-interview-4c475e4f8c74 How to Nail a Product Owner Interview
 - https://medium.com/gsquad/what-does-a-healthy-engineering-team-look-like-59c998d0aed What Does a Healthy Engineering Team Look Like?
 - https://medium.com/building-carta/how-to-be-a-successful-manager-of-managers-1b3954428312 How to be a successful manager of managers
 - https://medium.com/technexthere/data-engineering-technologies-2021-8f46bb284474 Data Engineering Technologies in 2021
