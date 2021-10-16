@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-10-2021
 
+- https://venturebeat.com/2021/09/14/data-streaming-service-streamnative-raises-23-7m/ Data streaming service StreamNative takes in $23.7M #pulsar
 - https://github.com/lampepfl/monadic-reflection Loom to use direct code style instead of a monadic flow #scala
 
 # 10-10-2021
