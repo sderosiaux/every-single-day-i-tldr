@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 16-10-2021
+
+- https://github.com/lampepfl/monadic-reflection Loom to use direct code style instead of a monadic flow #scala
+
 # 10-10-2021
 
 - https://www.loom.com/share/5efceb288b634a449041918bdba08202 Google Chrome - High WIP consequences — John Cutler
