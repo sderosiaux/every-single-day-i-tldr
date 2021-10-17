@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-10-2021
 
+- https://blog.softwaremill.com/will-project-loom-obliterate-java-futures-fb1a28508232 Will Project Loom obliterate Java Futures? #fibers
 - https://eventuallycoding.com/2021/07/06/les-salaires-dans-la-tech/ Les salaires dans la tech
 - https://medium.com/event-driven-utopia/real-time-streaming-for-mortals-how-redpanda-and-materialize-making-it-a-reality-18ac0bdc6f43 Redpanda + Materialize as streaming database #kafka
 
