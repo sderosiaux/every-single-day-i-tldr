@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 17-10-2021
+
+- https://medium.com/event-driven-utopia/real-time-streaming-for-mortals-how-redpanda-and-materialize-making-it-a-reality-18ac0bdc6f43 Redpanda + Materialize as streaming database #kafka
+
 # 16-10-2021
 
 - https://venturebeat.com/2021/09/14/data-streaming-service-streamnative-raises-23-7m/ Data streaming service StreamNative takes in $23.7M #pulsar
