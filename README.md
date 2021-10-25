@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-10-2021
+
+- https://nmoryl.com/dont-hire-a-chief-of-staff-b65c16d56eac Don’t Hire a Chief of Staff. 
+
 # 17-10-2021
 
 - https://productcoalition.com/what-do-product-managers-do-ce076ad4a8e7 What Makes a Unicorn Product Managager
