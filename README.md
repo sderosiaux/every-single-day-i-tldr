@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-10-2021
+
+- https://github.com/github/copilot-docs/blob/main/docs/jetbrains/gettingstarted.md#getting-started-with-github-copilot-in-jetbrains Github Copilot for IntelliJ
+
 # 25-10-2021
 
 - https://nmoryl.com/dont-hire-a-chief-of-staff-b65c16d56eac Don’t Hire a Chief of Staff. 
