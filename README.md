@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-11-2021
 
+- https://medium.com/@anupmarwadi/your-first-30-days-as-a-cto-d5ec5b58723e Your first 30-days as a CTO
 - https://www.capitalone.com/tech/software-engineering/zio-roadmap/ Where the ZIO Roadmap is Headed Next
 
 # 30-10-2021
