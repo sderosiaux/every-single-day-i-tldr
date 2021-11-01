@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-11-2021
 
+- https://blog.coinbase.com/how-we-scaled-data-streaming-at-coinbase-using-aws-msk-4595f171266c How we scaled data streaming at Coinbase using AWS MSK
 - https://medium.com/startup-grind/whats-a-cto-vs-vp-engineering-b24095d36d6a What’s a CTO vs. VP Engineering?
 
 # 01-11-2021
