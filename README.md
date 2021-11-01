@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-11-2021
 
+- https://caseycaruso.medium.com/engineer-by-day-venture-capitalist-by-night-585929430c21 Engineer by Day, Venture Capitalist by Night #google #bessemer
 - https://uxdesign.cc/the-po-vs-pm-madness-13ee6642077a The PO vs PM or PO + PM madness
 - https://medium.com/@anupmarwadi/your-first-30-days-as-a-cto-d5ec5b58723e Your first 30-days as a CTO
 - https://www.capitalone.com/tech/software-engineering/zio-roadmap/ Where the ZIO Roadmap is Headed Next
