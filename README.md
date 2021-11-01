@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-11-2021
 
+- https://medium.com/graalvm/graalvm-21-3-is-here-java-17-native-image-performance-updates-and-more-ac4cbafcfc05 GraalVM 21.3 is here: Java 17, Native Image performance updates and more í ½íº€
 - https://medium.com/swlh/a-startup-founders-framework-for-evaluating-mentor-advice-ed2a0949e76 A Startup Founderâ€™s Framework for Evaluating Mentor Advice
 - https://medium.com/point-nine-news/how-to-bulletproof-your-fundraising-deck-d18c0de6d93d How to bulletproof your fundraising deck
 - https://www.cantorsparadise.com/learn-anything-faster-by-using-the-feynman-technique-6565a9f7eda7 Learn Anything Faster By Using The Feynman Technique
