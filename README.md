@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-11-2021
 
+- https://www.cantorsparadise.com/learn-anything-faster-by-using-the-feynman-technique-6565a9f7eda7 Learn Anything Faster By Using The Feynman Technique
 - https://entrepreneurshandbook.co/how-my-ceo-went-from-0-to-30-million-with-the-okr-strategy-53e2cfeba8b7 Implementing the OKR Strategy
 - https://caseycaruso.medium.com/engineer-by-day-venture-capitalist-by-night-585929430c21 Engineer by Day, Venture Capitalist by Night #google #bessemer
 - https://uxdesign.cc/the-po-vs-pm-madness-13ee6642077a The PO vs PM or PO + PM madness
