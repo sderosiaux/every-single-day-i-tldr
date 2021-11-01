@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-11-2021
+
+- https://medium.com/startup-grind/whats-a-cto-vs-vp-engineering-b24095d36d6a What’s a CTO vs. VP Engineering?
+
 # 01-11-2021
 
 - https://wotnot-io.medium.com/10-growth-hacking-strategies-for-saas-companies-f1fef859a2ed 10 Growth Hacking Strategies for SaaS Companies
