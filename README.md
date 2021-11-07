@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-11-2021
 
+- https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66 Mistakes I’ve Made as an Engineering Manager — so you can avoid them
 - https://queue.acm.org/detail.cfm?id=3454124 The SPACE of Developer Productivity
 - https://medium.com/swlh/minimum-viable-product-manager-852e744f041d Minimum Viable Product Manager. Bringing up first time product managers
 - https://blog.kronis.dev/articles/never-update-anything Never update anything
