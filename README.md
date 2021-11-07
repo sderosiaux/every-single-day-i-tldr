@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 07-11-2021
+
+- https://blog.kronis.dev/articles/never-update-anything Never update anything
+
 # 02-11-2021
 
 - https://www.confluent.io/blog/how-kafka-streams-works-guide-to-stream-processing/ How Kafka Streams Works: A Guide to Stream Processing
