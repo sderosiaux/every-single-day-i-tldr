@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-11-2021
+
+- https://productcoalition.com/4-fundamental-mistakes-you-are-making-with-product-okrs-6ab36d3fadc0 Four Fundamental Mistakes You Are Making With Product OKRs
+
 # 07-11-2021
 
 - https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66 Mistakes I’ve Made as an Engineering Manager — so you can avoid them
