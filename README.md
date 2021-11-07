@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-11-2021
 
+- https://productcoalition.com/what-do-product-managers-do-ce076ad4a8e7 What Makes a Unicorn Product Manager 
 - https://jkebertz.medium.com/should-staff-engineers-be-writing-code-1237abf891f4 Should Staff+ Engineers Be Writing Code?
 - https://medium.com/google-cloud/everything-you-always-wanted-to-know-about-vpc-peering-but-were-afraid-to-ask-2b26267ba7d9 Everything You Always Wanted to Know About VPC Peering (Google Cloud)
 - https://productcoalition.com/4-fundamental-mistakes-you-are-making-with-product-okrs-6ab36d3fadc0 Four Fundamental Mistakes You Are Making With Product OKRs
