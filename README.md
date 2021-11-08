@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-11-2021
 
+- https://medium.com/agileinsider/writing-great-key-results-for-your-okrs-f0213517c79e Writing great key results for your OKRs
 - https://bootcamp.uxdesign.cc/what-does-your-product-org-look-like-eece7cbbdf1a What does your product org look like?
 - https://medium.com/interviewnoodle/engineering-manager-as-an-architect-791362213a0b Engineering Manager as an Architect
 - https://productcoalition.com/what-do-product-managers-do-ce076ad4a8e7 What Makes a Unicorn Product Manager 
