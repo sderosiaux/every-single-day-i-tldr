@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-11-2021
+
+- https://www.infoq.com/news/2021/11/rudra-rust-safety/ Static Analyzer Rudra Found Over 200 Memory Safety Issues in Rust Crates
+
 # 08-11-2021
 
 - https://medium.com/agileinsider/writing-great-key-results-for-your-okrs-f0213517c79e Writing great key results for your OKRs
