@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-11-2021
 
+- https://amplitude.com/blog/how-to-build-product-oriented-engineering-teams How to Build Product-Oriented Engineering Teams
 - https://www.infoq.com/news/2021/11/rudra-rust-safety/ Static Analyzer Rudra Found Over 200 Memory Safety Issues in Rust Crates
 
 # 08-11-2021
