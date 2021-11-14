@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 14-11-2021
+
+- https://medium.com/@jordan_volz/whos-who-in-the-modern-data-stack-ecosystem-fall-2021-69d8b46b2e88 Who’s Who in the Modern Data Stack Ecosystem
+
 # 13-11-2021
 
 - https://medium.com/manomano-tech/why-do-all-tech-companies-converge-towards-the-same-product-organization-manomanos-case-d6f235743ae2 Why do all tech companies converge towards the same product organization?
