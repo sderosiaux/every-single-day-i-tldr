@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-11-2021
 
+- https://blog.mission.dev/growing-your-leadership-skills-as-a-developer-47deb34f26d Growing your Leadership Skills as a Developer
 - https://medium.com/@jordan_volz/whos-who-in-the-modern-data-stack-ecosystem-fall-2021-69d8b46b2e88 Who’s Who in the Modern Data Stack Ecosystem
 
 # 13-11-2021
