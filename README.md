@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-11-2021
 
+- https://herbig.co/product-discovery/ Product Discovery: ​A Practical Guide for Agile Teams (2021)
 - https://itnext.io/how-i-learned-to-onboard-effectively-in-an-engineer-manager-role-8ea76627e36c How I Learned to Onboard Effectively in an Engineer Manager Role
 - https://medium.com/doctolib/get-a-strategic-vision-of-your-technical-debt-f0e1738ae4b2 Get a strategic vision of your technical debt
 - https://betterprogramming.pub/9-things-every-new-engineering-manager-should-know-773b9c3b9667 9 Things Every New Engineering Manager Should Know
