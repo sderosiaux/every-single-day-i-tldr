@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 28-11-2021
+
+- https://future.a16z.com/hire-vp-engineering/ How and Why To Hire a VP of Engineering (early)
+
 # 14-11-2021
 
 - https://www.youtube.com/watch?v=Dm0Cj7LsjgA Onboarding managers into an engineering team
