@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-12-2021
+
+- https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html Scala at Scale at Databricks
+
 # 28-11-2021
 
 - https://future.a16z.com/hire-vp-engineering/ How and Why To Hire a VP of Engineering (early)
