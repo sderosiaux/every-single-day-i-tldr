@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-12-2021
 
+- https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795 Consuming over 1 billion Kafka messages per day at Ifood
 - https://medium.com/@antoinesakho/why-web3-needs-product-management-6afabf903df0 Why Web3 Needs Product Management
 - https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/ Scaling Kafka at Honeycomb -> Confluent Tiered Storage -> Beefy AWS
 - https://uxplanet.org/how-to-solve-a-product-design-challenge-22c4daa27117 How to solve a Product Design Challenge
