@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-12-2021
 
+- https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/ Scaling Kafka at Honeycomb -> Confluent Tiered Storage -> Beefy AWS
 - https://uxplanet.org/how-to-solve-a-product-design-challenge-22c4daa27117 How to solve a Product Design Challenge
 - https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html Scala at Scale at Databricks
 
