@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-12-2021
 
+- https://bootcamp.uxdesign.cc/okrs-vs-kpis-understanding-measurements-for-your-saas-product-ac44451a0dc OKRs vs KPIs: understanding measurements for your SaaS product
 - https://medium.com/senovovc/b2b-saas-the-right-organization-structure-at-the-right-stage-727c01e06996 B2B SaaS: the right Org Structure at the right Stage
 - https://medium.com/@johnpcutler/15-things-you-should-know-about-product-managers-f488513d246 15 Things You Should Know About Product Managers
 - https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795 Consuming over 1 billion Kafka messages per day at Ifood
