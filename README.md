@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-12-2021
+
+- https://www.confluent.io/blog/ksqldb-0-22-new-features-major-upgrades/ Announcing ksqlDB 0.22: new SOURCE TABLE, range-scan expressions optimizations
+
 # 04-12-2021
 
 - https://engineering.razorpay.com/the-platform-engineer-db2b21434911 The Platform Engineer
