@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-12-2021
 
+- https://www.confluent.io/blog/push-queries-v2-with-ksqldb-scalable-sql-query-subscriptions/ Push Queries v2 with ksqlDB 0.22: Scalable SQL Query Subscriptions
 - https://www.confluent.io/blog/ksqldb-0-22-new-features-major-upgrades/ Announcing ksqlDB 0.22: new SOURCE TABLE, range-scan expressions optimizations
 
 # 04-12-2021
