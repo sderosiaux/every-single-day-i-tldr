@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-12-2021
+
+- https://ishadeed.com/article/defensive-css/ Defensive CSS
+
 # 05-12-2021
 
 - https://www.confluent.io/blog/push-queries-v2-with-ksqldb-scalable-sql-query-subscriptions/ Push Queries v2 with ksqlDB 0.22: Scalable SQL Query Subscriptions
