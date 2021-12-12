@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-12-2021
+
+- https://medium.com/edifyhouses/how-we-billed-500k-in-less-than-3-months-with-nocode-f259a6784451 How we billed +€500K in less than 3 months with #nocode
+
 # 11-12-2021
 
 - https://ishadeed.com/article/defensive-css/ Defensive CSS
