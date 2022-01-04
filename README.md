@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-01-2022
+
+- https://www.chrisbehan.ca/posts/atomic-habits The Thinner Book: Atomic Habits by James Clear
+
 # 26-12-2021
 
 - https://nurkiewicz.com/slides/reactor-workshop Reactor Workshop
