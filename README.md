@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-01-2022
 
+- https://medium.com/pipedrive-engineering/product-usage-analytics-at-pipedrive-90b69ab9583a Product usage analytics at Pipedrive
 - https://towardsdatascience.com/re-evaluating-kafka-issues-and-alternatives-for-real-time-395573418f27 Re-evaluating Kafka: issues and alternatives for real-time
 - https://medium.com/interviewnoodle/engineering-manager-vs-tech-lead-which-is-better-d8896d7f3b10 Engineering manager vs. tech lead — which is better? (-> PM+EM+TL !)
 - https://medium.com/leading-literally/im-an-engineering-manager-who-can-t-code-235ad35557b I’m an Engineering Manager who can’t code
