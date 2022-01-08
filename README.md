@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-01-2022
 
+- https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe Event Driven hotel reservations with Kafka
 - https://www.confluent.io/blog/data-sharing-patterns-with-confluent-schema-registry/ Data Sharing Patterns with Confluent’s Schema Registry #kafka
 - https://www.morling.dev/blog/kafka-where-art-thou/ How do you deal in #Kafka producers with brokers not being available?
 
