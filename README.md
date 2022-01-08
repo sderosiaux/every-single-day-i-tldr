@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-01-2022
 
+- https://blog.serenacapital.com/2021-european-saas-benchmark-65e3e1863906 2021 EUROPEAN SAAS BENCHMARK
 - https://www.confluent.io/resources/kafka-summit-2020/learnings-from-the-field-lessons-from-working-with-dozens-of-small-large-deployments/ Learnings from the Field. Lessons from Working with Dozens of Small & Large Deployments #kafka
 - https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe Event Driven hotel reservations with Kafka
 - https://www.confluent.io/blog/data-sharing-patterns-with-confluent-schema-registry/ Data Sharing Patterns with Confluent’s Schema Registry #kafka
