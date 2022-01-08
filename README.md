@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-01-2022
+
+- https://www.morling.dev/blog/kafka-where-art-thou/ How do you deal in #Kafka producers with brokers not being available?
+
 # 04-01-2022
 
 - https://www.chrisbehan.ca/posts/atomic-habits The Thinner Book: Atomic Habits by James Clear
