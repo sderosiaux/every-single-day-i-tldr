@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 09-01-2022
+
+- https://medium.com/leading-literally/im-an-engineering-manager-who-can-t-code-235ad35557b I’m an Engineering Manager who can’t code
+
 # 08-01-2022
 
 - https://sookocheff.com/post/time/vector-clocks/ Vector Clocks
