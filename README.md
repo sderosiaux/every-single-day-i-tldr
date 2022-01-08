@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-01-2022
 
+- https://sookocheff.com/post/time/vector-clocks/ Vector Clocks
 - https://selectfrom.dev/5-megatrends-that-will-shift-the-data-and-analytics-market-bdd8639893e1 5 Megatrends That Will Shift the Data and Analytics Market
 - https://blog.serenacapital.com/2021-european-saas-benchmark-65e3e1863906 2021 EUROPEAN SAAS BENCHMARK
 - https://www.confluent.io/resources/kafka-summit-2020/learnings-from-the-field-lessons-from-working-with-dozens-of-small-large-deployments/ Learnings from the Field. Lessons from Working with Dozens of Small & Large Deployments #kafka
