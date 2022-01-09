@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-01-2022
 
+- https://dzone.com/articles/kafka-streams-tips-on-how-to-decrease-rebalancing Kafka-Streams - Tips on How to Decrease Re-Balancing Impact for Real-Time Event Processing On Highly Loaded Topics
 - https://strimzi.io/blog/2021/12/17/kafka-segment-retention/ Deep dive into Apache Kafka storage internals: segments, rolling and retention
 - https://sifted.eu/articles/europe-startup-stock-options-millionaires/ European tech companies should be minting more millionaires #stockoptions
 - https://medium.com/yotpoengineering/scheduling-millions-of-messages-with-kafka-debezium-6d1a105160c Scheduling Millions Of Messages With Kafka & Debezium
