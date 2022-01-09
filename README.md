@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-01-2022
 
+- https://qeunit.medium.com/how-atlassian-does-quality-assistance-f61e6a654b20 How Atlassian does Quality Assistance
 - https://medium.com/pipedrive-engineering/product-usage-analytics-at-pipedrive-90b69ab9583a Product usage analytics at Pipedrive
 - https://towardsdatascience.com/re-evaluating-kafka-issues-and-alternatives-for-real-time-395573418f27 Re-evaluating Kafka: issues and alternatives for real-time
 - https://medium.com/interviewnoodle/engineering-manager-vs-tech-lead-which-is-better-d8896d7f3b10 Engineering manager vs. tech lead — which is better? (-> PM+EM+TL !)
