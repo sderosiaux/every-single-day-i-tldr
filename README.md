@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-01-2022
 
+- https://sifted.eu/articles/europe-startup-stock-options-millionaires/ European tech companies should be minting more millionaires #stockoptions
 - https://medium.com/yotpoengineering/scheduling-millions-of-messages-with-kafka-debezium-6d1a105160c Scheduling Millions Of Messages With Kafka & Debezium
 - https://www.kdnuggets.com/2021/12/build-solid-data-team.html Building a solid data team
 - https://qeunit.medium.com/how-atlassian-does-quality-assistance-f61e6a654b20 How Atlassian does Quality Assistance
