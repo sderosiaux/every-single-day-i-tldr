@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-01-2022
 
+- https://engineering.grab.com/designing-products-and-services-based-on-jtbd Designing products and services based on Jobs to be Done
 - https://dzone.com/articles/kafka-streams-tips-on-how-to-decrease-rebalancing Kafka-Streams - Tips on How to Decrease Re-Balancing Impact for Real-Time Event Processing On Highly Loaded Topics
 - https://strimzi.io/blog/2021/12/17/kafka-segment-retention/ Deep dive into Apache Kafka storage internals: segments, rolling and retention
 - https://sifted.eu/articles/europe-startup-stock-options-millionaires/ European tech companies should be minting more millionaires #stockoptions
