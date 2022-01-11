@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-01-2022
+
+- https://moxie.org/2022/01/07/web3-first-impressions.html "My first impressions of web3" We're not there yet
+
 # 09-01-2022
 
 - https://engineering.grab.com/designing-products-and-services-based-on-jtbd Designing products and services based on Jobs to be Done
