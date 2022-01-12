@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-01-2022
+
+- https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1 Data governance and operating model for analytics
+
 # 11-01-2022
 
 - https://moxie.org/2022/01/07/web3-first-impressions.html "My first impressions of web3" We're not there yet
