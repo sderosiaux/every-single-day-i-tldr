@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-01-2022
 
+- https://medium.com/geekculture/5-way-to-stay-technical-as-an-engineering-manager-bfa1c6d5a126 5 Ways to Stay Technical as an Engineering Manager
 - https://userpilot.medium.com/2022-guide-to-saas-product-metrics-for-product-growth-managers-5c349ffdf9b 2022 Guide To SaaS Product Metrics For Product Growth Managers
 
 # 12-01-2022
