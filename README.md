@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 18-01-2022
+
+- https://userpilot.medium.com/2022-guide-to-saas-product-metrics-for-product-growth-managers-5c349ffdf9b 2022 Guide To SaaS Product Metrics For Product Growth Managers
+
 # 12-01-2022
 
 - https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1 Data governance and operating model for analytics
