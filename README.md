@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-01-2022
 
+- https://www.forbes.com/sites/ciocentral/2012/08/22/12-factors-to-consider-when-hiring-a-head-of-sales/?sh=2de411217c08 12 Factors To Consider When Hiring A Head of Sales
 - https://askgib.substack.com/p/whats-your-favorite-interview-question PM Interview: What's your favorite question?
 - https://www.honeycomb.io/blog/how-teams-collaborate-at-booking-com/ How Reliability and Product Teams Collaborate at Booking.com
 - https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/ ZooKeeper-Less Apache Pulsar
