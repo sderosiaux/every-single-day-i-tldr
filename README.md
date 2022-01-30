@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-01-2022
+
+- https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/ Two reasons Kubernetes is so complex • Kubernetes is a cluster operating system
+
 # 18-01-2022
 
 - https://medium.com/geekculture/5-way-to-stay-technical-as-an-engineering-manager-bfa1c6d5a126 5 Ways to Stay Technical as an Engineering Manager
