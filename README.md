@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-01-2022
 
+- https://askgib.substack.com/p/whats-your-favorite-interview-question PM Interview: What's your favorite question?
 - https://www.honeycomb.io/blog/how-teams-collaborate-at-booking-com/ How Reliability and Product Teams Collaborate at Booking.com
 - https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/ ZooKeeper-Less Apache Pulsar
 - https://cutlefish.substack.com/p/tbm-452-an-actionable-post-with-examples Product Management: Tree/Loop Prompts
