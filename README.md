@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-01-2022
 
+- https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/ ZooKeeper-Less Apache Pulsar
 - https://cutlefish.substack.com/p/tbm-452-an-actionable-post-with-examples Product Management: Tree/Loop Prompts
 - https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/ Two reasons Kubernetes is so complex • Kubernetes is a cluster operating system
 
