@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-01-2022
 
+- https://www.kai-waehner.de/blog/2022/01/04/when-not-to-use-apache-kafka/ When NOT to use Apache Kafka?  What is Kafka, What is NOT Kafka
 - https://martinfowler.com/articles/data-monolith-to-mesh.html How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh
 - https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/ 5 Common Pitfalls When Using Apache Kafka
 
