@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-01-2022
+
+- https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/ 5 Common Pitfalls When Using Apache Kafka
+
 # 30-01-2022
 
 - https://medium.com/positiveslope/10-forecasts-for-the-near-future-of-tech-61e73b51647c 10 Forecasts For The Near Future Of Tech
