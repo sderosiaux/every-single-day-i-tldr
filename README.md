@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-01-2022
 
+- https://martinfowler.com/articles/data-monolith-to-mesh.html How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh
 - https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/ 5 Common Pitfalls When Using Apache Kafka
 
 # 30-01-2022
