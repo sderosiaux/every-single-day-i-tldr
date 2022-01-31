@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-01-2022
 
+- https://www.confluent.io/blog/real-time-data-integrations-at-scale-with-confluent-q1-22-launch/ Announcing the Confluent Q1 ‘22
 - https://userpilot.medium.com/how-to-build-and-structure-a-saas-product-marketing-team-9af811354dbc How To Build And Structure A SaaS Product Marketing Team
 - https://medium.com/point-nine-news/how-to-hire-a-vp-marketing-cf15adbdb8d3 How to hire a VP Marketing. It's complicated.
 - https://www.kai-waehner.de/blog/2022/01/04/when-not-to-use-apache-kafka/ When NOT to use Apache Kafka?  What is Kafka, What is NOT Kafka
