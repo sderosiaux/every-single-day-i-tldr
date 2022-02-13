@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-02-2022
+
+- https://medium.com/devrev/10-product-led-growth-plg-principles-in-action-34dfbe72e981 10 Product-Led Growth (PLG) principles in action
+
 # 31-01-2022
 
 - https://www.confluent.io/blog/real-time-data-integrations-at-scale-with-confluent-q1-22-launch/ Announcing the Confluent Q1 ‘22
