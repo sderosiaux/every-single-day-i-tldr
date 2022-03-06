@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-03-2022
 
+- https://medium.com/@StartupBusinesstips/8-common-go-to-market-mistakes-38435151a0ea 8 common Go-to-market mistakes.
 - https://medium.com/meroxa/conduit-a-leap-forward-for-real-time-data-integration-67272fe50a84 Conduit, an alternative to Kafka Connect?
 
 # 13-02-2022
