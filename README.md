@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-03-2022
 
+- https://medium.com/@emergeit/realtime-data-streaming-with-apache-kafka-apache-pinot-apache-druid-and-apache-superset-e67161eb9666 Apache Kafka + Apache Pinot + Apache Druid + Apache Superset
 - https://www.confluent.io/blog/ksqldb-0-23-1-features-updates/  ksqlDB 0.23.1 - GRACE PERIOD in! (default was 24h, which was huge)
 - https://www.eweek.com/big-data-and-analytics/apache-kafka/ Apache Kafka Gains Adoption as Streaming Data Grows
 
