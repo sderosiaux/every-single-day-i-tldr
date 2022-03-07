@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-03-2022
 
+- https://www.confluent.io/blog/ksqldb-0-23-1-features-updates/  ksqlDB 0.23.1 - GRACE PERIOD in! (default was 24h, which was huge)
 - https://www.eweek.com/big-data-and-analytics/apache-kafka/ Apache Kafka Gains Adoption as Streaming Data Grows
 
 # 06-03-2022
