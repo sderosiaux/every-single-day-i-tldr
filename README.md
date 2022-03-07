@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 07-03-2022
+
+- https://www.eweek.com/big-data-and-analytics/apache-kafka/ Apache Kafka Gains Adoption as Streaming Data Grows
+
 # 06-03-2022
 
 - https://medium.com/@StartupBusinesstips/8-common-go-to-market-mistakes-38435151a0ea 8 common Go-to-market mistakes.
