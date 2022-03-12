@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-03-2022
+
+- https://medium.com/productboard-engineering/9-ingredients-of-excellence-tip-of-the-iceberg-159d4073eba0 9 ingredients of an excellent Engineering Manager
+
 # 07-03-2022
 
 - https://medium.com/@emergeit/realtime-data-streaming-with-apache-kafka-apache-pinot-apache-druid-and-apache-superset-e67161eb9666 Apache Kafka + Apache Pinot + Apache Druid + Apache Superset
