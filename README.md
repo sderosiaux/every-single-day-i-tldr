@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-03-2022
 
+- https://medium.com/@kanchan.tewary/data-quality-data-catalogs-and-data-governance-99cb18a022c5 Data Quality, Data Catalogs and Data Governance
 - https://bytes.swiggy.com/introduction-to-cdc-system-an-efficient-way-to-replicate-transactional-data-into-data-lake-c10f99c7a3fd Introduction to CDC System — An efficient way to replicate Transactional data into Data Lake
 - https://stackoverflow.com/questions/71222496/how-to-achieve-high-availability-in-a-kafka-streams-app-during-deployment How to achieve high availability in a Kafka Streams app during deployment?
 - https://medium.com/productboard-engineering/9-ingredients-of-excellence-tip-of-the-iceberg-159d4073eba0 9 ingredients of an excellent Engineering Manager
