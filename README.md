@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-03-2022
 
+- https://redpanda.com/blog/tiered-storage-architecture-shadow-indexing-deep-dive/ How we built Shadow Indexing, the subsystem powering Redpanda’s tiered storage
 - https://medium.com/geekculture/kafka-in-f1-replaying-messages-53b3bd7d3a61 Kafka in F1 — Replaying messages
 - https://medium.com/@kanchan.tewary/data-quality-data-catalogs-and-data-governance-99cb18a022c5 Data Quality, Data Catalogs and Data Governance
 - https://bytes.swiggy.com/introduction-to-cdc-system-an-efficient-way-to-replicate-transactional-data-into-data-lake-c10f99c7a3fd Introduction to CDC System — An efficient way to replicate Transactional data into Data Lake
