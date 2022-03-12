@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-03-2022
 
+- https://stackoverflow.com/questions/71222496/how-to-achieve-high-availability-in-a-kafka-streams-app-during-deployment How to achieve high availability in a Kafka Streams app during deployment?
 - https://medium.com/productboard-engineering/9-ingredients-of-excellence-tip-of-the-iceberg-159d4073eba0 9 ingredients of an excellent Engineering Manager
 
 # 07-03-2022
