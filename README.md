@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-07-2022
 
+- https://databricks.com/blog/2022/06/28/project-lightspeed-faster-and-simpler-stream-processing-with-apache-spark.html Project Lightspeed: Faster and Simpler Stream Processing With Apache Spark
 - https://medium.com/rocksetcloud/streaming-analytics-with-ksql-vs-a-real-time-analytics-database-41459fd8f26b Streaming Analytics With KSQL vs. Rockset, a Real-Time Analytics Database 
 - https://www.confluent.io/events/kafka-summit-london-2022/keep-your-cache-always-fresh-with-debezium/ Kafka: Keep Your Cache Always Fresh with Debezium
 - https://rockset.com/blog/converged-indexing-the-secret-sauce-behind-rocksets-fast-queries/ Converged Index: Rockset's Fast Query Speed
