@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-07-2022
+
+- https://medium.com/shippeo-tech-blog/debezium-to-snowflake-lessons-learned-building-data-replication-in-production-a5430a9fe85b Debezium to Snowflake: Lessons learned building data replication in production
+
 # 12-03-2022
 
 - https://redpanda.com/blog/tiered-storage-architecture-shadow-indexing-deep-dive/ How we built Shadow Indexing, the subsystem powering Redpanda’s tiered storage
