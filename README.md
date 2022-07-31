@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-07-2022
 
+- https://rockset.com/blog/converged-indexing-the-secret-sauce-behind-rocksets-fast-queries/ Converged Index: Rockset's Fast Query Speed
 - https://medium.com/shippeo-tech-blog/debezium-to-snowflake-lessons-learned-building-data-replication-in-production-a5430a9fe85b Debezium to Snowflake: Lessons learned building data replication in production
 
 # 12-03-2022
