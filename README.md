@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-08-2022
 
+- https://shahirdaya.medium.com/data-discovery-lineage-for-an-event-streaming-platform-26208ec2f9bd Apache Atlas for Data Discovery & Lineage #kafka
 - https://medium.com/@darefamuyiwa/kafka-bidirectional-client-broker-compatibility-21c1b26e9d61 Kafka Bidirectional Client/Broker Compatibility
 
 # 31-07-2022
