@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-08-2022
+
+- https://medium.com/@darefamuyiwa/kafka-bidirectional-client-broker-compatibility-21c1b26e9d61 Kafka Bidirectional Client/Broker Compatibility
+
 # 31-07-2022
 
 - https://www.confluent.io/blog/data-flow-the-key-to-modern-data-pipelines/ Modern Data Flow: The Key to Modern Data Pipelines. ETL, ELT, Reverse ETL. Stream Processing. #kafka
