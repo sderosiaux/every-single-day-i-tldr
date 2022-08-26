@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-08-2022
 
+- https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51 How to hire for Director+ roles?
 - https://medium.com/qonto-way/do-you-need-elasticsearch-when-you-have-postgresql-94ef69f5570f Do you need ElasticSearch when you have PostgreSQL?
 
 # 25-08-2022
