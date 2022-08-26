@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-08-2022
+
+- https://medium.com/qonto-way/do-you-need-elasticsearch-when-you-have-postgresql-94ef69f5570f Do you need ElasticSearch when you have PostgreSQL?
+
 # 25-08-2022
 
 - https://shahirdaya.medium.com/data-discovery-lineage-for-an-event-streaming-platform-26208ec2f9bd Apache Atlas for Data Discovery & Lineage #kafka
