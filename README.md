@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-09-2022
 
+- https://medium.com/@nadinCodeHat/http-based-microservices-is-a-bad-idea-670d3db29ca6 HTTP based Microservices is a bad idea -> #Kafka :)
 - https://medium.com/data-monzo/the-many-layers-of-data-lineage-2eb898709ad3 The many layers of data lineage
 
 # 26-08-2022
