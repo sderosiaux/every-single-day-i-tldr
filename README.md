@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-09-2022
+
+- https://medium.com/data-monzo/the-many-layers-of-data-lineage-2eb898709ad3 The many layers of data lineage
+
 # 26-08-2022
 
 - https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51 How to hire for Director+ roles?
