@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 09-09-2022
+
+- https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86 Behind the scenes: McDonald’s event-driven architecture #kafka
+
 # 02-09-2022
 
 - https://medium.com/codex/implementing-a-clean-architecture-application-in-scala-part-1-1442f0438b03 Implementing a Clean Architecture Application in #Scala
