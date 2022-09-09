@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-09-2022
 
+- https://medium.com/@hardiktaneja_99752/lessons-after-running-kafka-in-production-626974ffd700 Lessons after running #Kafka in production 
 - https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86 Behind the scenes: McDonald’s event-driven architecture #kafka
 
 # 02-09-2022
