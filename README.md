@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-09-2022
+
+- https://kai-waehner.medium.com/streaming-data-exchange-with-kafka-and-a-data-mesh-in-motion-d3e7d24bf576 Streaming Data Exchange with #Kafka and a Data Mesh in Motion 
+
 # 10-09-2022
 
 - https://github.com/withastro/astro withastro/astro: Build faster websites with Astro's next-gen island architecture
