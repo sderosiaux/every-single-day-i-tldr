@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-09-2022
 
+- https://softwaremill.com/implementing-raft-using-a-functional-effect-system/ Implementing Raft using #scala #zio #loom
 - https://kai-waehner.medium.com/streaming-data-exchange-with-kafka-and-a-data-mesh-in-motion-d3e7d24bf576 Streaming Data Exchange with #Kafka and a Data Mesh in Motion 
 
 # 10-09-2022
