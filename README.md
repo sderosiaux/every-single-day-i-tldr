@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-09-2022
+
+- https://slack.engineering/remote-development-at-slack/ Remote Development at Slack
+
 # 09-09-2022
 
 - https://medium.com/@hardiktaneja_99752/lessons-after-running-kafka-in-production-626974ffd700 Lessons after running #Kafka in production 
