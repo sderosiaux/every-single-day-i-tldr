@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-09-2022
 
+- https://github.com/withastro/astro withastro/astro: Build faster websites with Astro's next-gen island architecture
 - https://slack.engineering/remote-development-at-slack/ Remote Development at Slack
 
 # 09-09-2022
