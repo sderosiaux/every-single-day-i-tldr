@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-09-2022
 
+- https://medium.com/lydtech-consulting/kafka-idempotent-consumer-transactional-outbox-74b304815550 Kafka Idempotent Consumer & Transactional Outbox
 - https://prophetstor.medium.com/intelligent-autoscaling-of-kafka-consumers-with-workload-prediction-6074b8d7ff7c Autoscaling of #Kafka Consumers with Workload Prediction
 - https://medium.com/qe-unit/zalandos-quality-engineering-journey-from-monolith-to-microservices-5a7288a3759f Zalando’s Quality Engineering Journey — From Monolith to Microservices
 - https://softwaremill.com/implementing-raft-using-a-functional-effect-system/ Implementing Raft using #scala #zio #loom
