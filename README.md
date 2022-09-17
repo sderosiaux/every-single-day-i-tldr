@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 17-09-2022
+
+- https://levelup.gitconnected.com/top-10-distributed-tracing-tools-in-2022-b9ed12304e72 Top 10 Distributed Tracing Tools in 2022
+
 # 11-09-2022
 
 - https://www.confluent.io/blog/declarative-connectors-with-confluent-for-kubernetes/ Declarative Connectors with Confluent for Kubernetes (not fixing the previous pains)
