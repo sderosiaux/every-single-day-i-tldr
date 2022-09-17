@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-09-2022
 
+- https://medium.com/qe-unit/quality-engineering-or-die-trying-with-antoine-craske-306d4cac9e91 Quality Engineering or Die Trying
 - https://medium.com/@rphilogene/17-best-devops-tools-to-use-in-2022-for-infrastructure-automation-and-monitoring-b3470cf9e00f 17 Best DevOps Tools to Use in 2022 for Infrastructure Automation and Monitoring
 - https://levelup.gitconnected.com/top-10-distributed-tracing-tools-in-2022-b9ed12304e72 Top 10 Distributed Tracing Tools in 2022
 
