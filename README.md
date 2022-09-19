@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-09-2022
+
+- https://blog.pragmaticengineer.com/pollen/ Inside Pollen’s Collapse: “$200M Raised” but Staff Unpaid
+
 # 18-09-2022
 
 - https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes-722101a2e751 Wise: Why we migrated our #Kafka clusters to Kubernetes
