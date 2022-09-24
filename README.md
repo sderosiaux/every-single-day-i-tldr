@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-09-2022
 
+- https://andrewwinnicki.medium.com/better-software-engineering-teams-structures-roles-responsibilities-and-comparison-with-common-fb5c3161c13d Better Software Engineering teams — Structures, roles, responsibilities and comparison with common approaches.
 - https://www.youtube.com/watch?v=oEyZgL3sL84 Risks in Systems Design: Chaos Engineering in Apps & Cloud Security
 
 # 20-09-2022
