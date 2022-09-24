@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-09-2022
+
+- https://www.youtube.com/watch?v=oEyZgL3sL84 Risks in Systems Design: Chaos Engineering in Apps & Cloud Security
+
 # 20-09-2022
 
 - https://blog.pragmaticengineer.com/pollen/ Inside Pollen’s Collapse: “$200M Raised” but Staff Unpaid
