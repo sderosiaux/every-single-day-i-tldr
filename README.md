@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-09-2022
 
+- https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-2-how-we-migrated-our-kafka-clusters-to-kubernetes-69174cea1559 Running Kafka in Kubernetes, Part 2: How we migrated our Kafka clusters to Kubernetes
 - https://andrewwinnicki.medium.com/better-software-engineering-teams-structures-roles-responsibilities-and-comparison-with-common-fb5c3161c13d Better Software Engineering teams — Structures, roles, responsibilities and comparison with common approaches.
 - https://www.youtube.com/watch?v=oEyZgL3sL84 Risks in Systems Design: Chaos Engineering in Apps & Cloud Security
 
