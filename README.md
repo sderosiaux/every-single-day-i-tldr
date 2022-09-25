@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-09-2022
+
+- https://medium.com/@OmarElgabry/squad-vs-platform-product-teams-f68e02edd199 Squad vs Platform & Product Teams
+
 # 24-09-2022
 
 - https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-2-how-we-migrated-our-kafka-clusters-to-kubernetes-69174cea1559 Running Kafka in Kubernetes, Part 2: How we migrated our Kafka clusters to Kubernetes
