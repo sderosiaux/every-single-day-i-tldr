@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-09-2022
 
+- https://www.jeremiahlee.com/posts/failed-squad-goals/ Spotify’s Failed #SquadGoals
 - https://medium.com/@OmarElgabry/squad-vs-platform-product-teams-f68e02edd199 Squad vs Platform & Product Teams
 
 # 24-09-2022
