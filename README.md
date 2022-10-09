@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 09-10-2022
+
+- https://medium.com/pinterest-engineering/optimizing-kafka-for-the-cloud-4e936643fde0 Pinterest: Optimizing Kafka for the cloud, using rack awareness / AZ
+
 # 25-09-2022
 
 - https://www.youtube.com/watch?v=YSLCz2CggL0 SaaS Access Control: a customer-centric approach
