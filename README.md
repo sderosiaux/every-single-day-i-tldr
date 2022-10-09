@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-10-2022
 
+- https://www.fivetran.com/blog/nrr-doesnt-matter positive NRR = more revenue; but growth is governed by its number of customers only
 - https://www.confluent.io/blog/current-2022-event-recap/ Current 2022 Recap #kafka
 - https://medium.com/pinterest-engineering/optimizing-kafka-for-the-cloud-4e936643fde0 Pinterest: Optimizing Kafka for the cloud, using rack awareness / AZ
 
