@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-10-2022
+
+- https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6 Platform Engineering: Creating your Internal Developer Platform
+
 # 09-10-2022
 
 - https://www.conduktor.io/blog/introducing-the-conduktor-platform Introducing the Conduktor Platform, the best Kafka platform out there :) #kafka 
