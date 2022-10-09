@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 09-10-2022
 
+- https://medium.com/insiderengineering/apache-iceberg-reduced-our-amazon-s3-cost-by-90-997cde5ce931 Apache Iceberg Reduced Our Amazon S3 Cost by 90%
 - https://hemantjain.medium.com/how-platform-engineering-differ-from-devops-and-sre-723c63716d96 How Platform Engineering Differ from DevOps and SRE
 - https://www.fivetran.com/blog/nrr-doesnt-matter positive NRR = more revenue; but growth is governed by its number of customers only
 - https://www.confluent.io/blog/current-2022-event-recap/ Current 2022 Recap #kafka
