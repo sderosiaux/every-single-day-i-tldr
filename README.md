@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-10-2022
 
+- https://medium.com/@danthelion/implementing-data-contracts-82800b9186b Implementing Data Contracts through Kafka Schema Registry
 - https://www.infoq.com/presentations/ebpf-resiliency/ eBPF, Cilium: Improve Resiliency, sidecarless service mesh
 
 # 10-10-2022
