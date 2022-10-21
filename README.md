@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-10-2022
 
+- https://www.ben-evans.com/presentations Three Steps to the Future — Benedict Evans
 - https://blog.cloudera.com/using-kafka-connect-securely-in-the-cloudera-data-platform/ Kafka Connect in the Cloudera Data Platform
 - https://aws.amazon.com/blogs/big-data/use-msk-connect-for-managed-mirrormaker-2-deployment-with-iam-authentication/ Use MSK Connect for managed MirrorMaker 2 deployment with IAM authentication #kafka
 - https://medium.com/@danthelion/implementing-data-contracts-82800b9186b Implementing Data Contracts through Kafka Schema Registry
