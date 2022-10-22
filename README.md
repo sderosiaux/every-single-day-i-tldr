@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 22-10-2022
+
+- https://levelup.gitconnected.com/whats-the-difference-between-an-aggregate-and-a-bounded-context-85665c28411a #DDD Aggregates and Bounded Contexts
+
 # 21-10-2022
 
 - https://www.ben-evans.com/presentations Three Steps to the Future — Benedict Evans
