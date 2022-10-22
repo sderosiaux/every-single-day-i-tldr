@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-10-2022
 
+- https://www.accel.com/noteworthy/accel-2022-euroscape-reset Accel 2022 Euroscape: The Reset #funding
 - https://towardsdatascience.com/topology-of-a-data-product-team-75dc5471fccf Topology of a Data Product Team
 - https://levelup.gitconnected.com/whats-the-difference-between-an-aggregate-and-a-bounded-context-85665c28411a #DDD Aggregates and Bounded Contexts
 
