@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 23-10-2022
+
+- https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator Tim Urban: Inside the mind of a master procrastinator | TED Talk
+
 # 22-10-2022
 
 - https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f How to write better error messages
