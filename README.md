@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-10-2022
 
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/how-to-unlock-the-full-value-of-data-manage-it-like-a-product Manage data like a product to unlock full value | McKinsey
 - https://medium.com/@huynhquangthao/how-to-survive-the-kafka-rebalancing-protocol-6a6bbcf56784 Various ways to handle the Kafka rebalancing protocol
 - https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator Tim Urban: Inside the mind of a master procrastinator | TED Talk
 
