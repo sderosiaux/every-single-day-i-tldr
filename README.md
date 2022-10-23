@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-10-2022
 
+- https://www.datadoghq.com/blog/dash-2022-new-feature-roundup/#data-streams-monitoring Dash 2022: Guide to Datadog's Newest Announcements #kafka
 - https://www.datadoghq.com/state-of-aws-security/ The State of AWS Security in 2022. IAM, root users, access keys, public exposure of resources,  IMDSv2, no multiple AWS accounts
 - https://redpanda.com/blog/redpanda-vs-kafka-total-cost-ownership-comparison Redpanda vs Apache Kafka: Total Cost of Ownership + Performance comparaison
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-enterprise-of-2025 The data-driven enterprise of 2025 | McKinsey
