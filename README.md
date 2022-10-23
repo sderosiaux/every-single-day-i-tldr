@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-10-2022
 
+- https://redpanda.com/blog/redpanda-vs-kafka-total-cost-ownership-comparison Redpanda vs Apache Kafka: Total Cost of Ownership + Performance comparaison
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-enterprise-of-2025 The data-driven enterprise of 2025 | McKinsey
 - https://hbr.org/2022/07/a-better-way-to-put-your-data-to-work A Better Way to Put Your Data to Work
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/how-to-unlock-the-full-value-of-data-manage-it-like-a-product Manage data like a product to unlock full value | McKinsey
