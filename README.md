@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-11-2022
+
+- https://medium.com/opendoor-labs/how-we-improved-reliability-of-kafka-consumers-441ccec1416d How we improved reliability of Kafka consumers in Go
+
 # 23-10-2022
 
 - https://www.datadoghq.com/blog/dash-2022-new-feature-roundup/#data-streams-monitoring Dash 2022: Guide to Datadog's Newest Announcements #kafka
