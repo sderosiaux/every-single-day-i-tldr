@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-11-2022
+
+- https://riferrei.com/in-the-land-of-the-sizing-the-one-partition-kafka-topic-is-king/ The one-partition Kafka topic thing
+
 # 08-11-2022
 
 - https://medium.com/opendoor-labs/how-we-improved-reliability-of-kafka-consumers-441ccec1416d How we improved reliability of Kafka consumers in Go
