@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-11-2022
+
+- https://dev.to/floord/developer-advocates-need-to-be-better-event-citizens-42hh Developer Advocates need to be better event citizens
+
 # 12-11-2022
 
 - https://riferrei.com/in-the-land-of-the-sizing-the-one-partition-kafka-topic-is-king/ The one-partition Kafka topic thing
