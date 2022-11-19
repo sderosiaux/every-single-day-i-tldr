@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-11-2022
 
+- https://www.lydtechconsulting.com/blog-kafka-schema-registry-integration-test.html Integration Testing with Kafka Schema Registry & Avro
 - https://medium.com/lydtech-consulting/kafka-message-batch-consumer-retry-8e49bdb39f5c Kafka Message Batch Consumer Retry
 - https://dev.to/floord/developer-advocates-need-to-be-better-event-citizens-42hh Developer Advocates need to be better event citizens
 
