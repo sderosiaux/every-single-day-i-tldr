@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-11-2022
+
+- https://productled.com/blog/how-to-build-a-product-led-sales-team How to Build a Product-Led Sales Team
+
 # 19-11-2022
 
 - https://blog.octo.com/en/un-schema-registry-pour-passer-a-lechelle/ Un schema registry pour passer à l'échelle #kafka
