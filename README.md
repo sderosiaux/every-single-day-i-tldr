@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-11-2022
 
+- https://diataxis.fr/ How to write good tech documentation Diátaxis
 - https://productled.com/blog/how-to-build-a-product-led-sales-team How to Build a Product-Led Sales Team
 
 # 19-11-2022
