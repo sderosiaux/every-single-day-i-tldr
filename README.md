@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-11-2022
 
+- https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454 Using Rust at a startup: A cautionary tale
 - https://gradientflow.com/the-stream-processing-index/ Measuring the popularity of different stream processing tools. #kafka #flink #spark
 
 # 20-11-2022
