@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 23-11-2022
+
+- https://gradientflow.com/the-stream-processing-index/ Measuring the popularity of different stream processing tools. #kafka #flink #spark
+
 # 20-11-2022
 
 - https://diataxis.fr/ How to write good tech documentation Diátaxis
