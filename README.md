@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-11-2022
+
+- https://medium.com/@eftal/keda-new-era-of-autoscaling-abf2d7f8aa85 KEDA: New Era of Autoscaling #kubernetes
+
 # 23-11-2022
 
 - https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454 Using Rust at a startup: A cautionary tale
