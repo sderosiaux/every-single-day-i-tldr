@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 27-11-2022
+
+- https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/ Why writing by hand is still the best way to retain information
+
 # 24-11-2022
 
 - https://medium.com/@eftal/keda-new-era-of-autoscaling-abf2d7f8aa85 KEDA: New Era of Autoscaling #kubernetes
