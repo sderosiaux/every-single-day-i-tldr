@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2022
 
+- https://medium.com/@bb8s/kafka-producer-deep-dive-batching-messages-in-recordaccumulator-aeaf5905fee Kafka producer deep-dive: batching messages in RecordAccumulator
 - https://medium.com/bazaar-tech/how-to-prioritise-technical-improvements-in-product-teams-da91e9a04156 How to Prioritise “Engineering Work” in Product Teams
 - https://abseil.io/resources/swe-book/html/ch07.html Software Engineering at Google — GSM + QUANTS
 - https://medium.com/@saurabhkaushik/develop-an-engineering-culture-for-speed-to-value-6e93d833a925 Develop an engineering culture for “Speed to Value"
