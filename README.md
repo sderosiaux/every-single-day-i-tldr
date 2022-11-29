@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2022
 
+- https://abseil.io/resources/swe-book/html/ch07.html Software Engineering at Google — GSM + QUANTS
 - https://medium.com/@saurabhkaushik/develop-an-engineering-culture-for-speed-to-value-6e93d833a925 Develop an engineering culture for “Speed to Value"
 - https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47 Event-Driven Architecture Patterns
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-890%3A+Transactions+Server-Side+Defense #Kafka KIP-890: Transactions Server-Side Defense
