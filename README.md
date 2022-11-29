@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-11-2022
 
+- https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47 Event-Driven Architecture Patterns
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-890%3A+Transactions+Server-Side+Defense #Kafka KIP-890: Transactions Server-Side Defense
 
 # 27-11-2022
