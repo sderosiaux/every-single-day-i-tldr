@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-12-2022
+
+- https://medium.com/coriers/should-you-use-apache-airflow-e71c6cf7c0c4 Should You Use Apache Airflow?. Why Data Engineers Love/Hate Airflow (scaling, xcom)
+
 # 29-11-2022
 
 - https://medium.com/@bb8s/kafka-producer-deep-dive-batching-messages-in-recordaccumulator-aeaf5905fee Kafka producer deep-dive: batching messages in RecordAccumulator
