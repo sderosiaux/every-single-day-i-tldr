@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-12-2022
 
+- https://betterprogramming.pub/building-a-high-performing-engineering-team-feb02c55283f Building a High-Performing Engineering Team: team player, accountability, fun, successes, clear communication, continuous improvements
 - https://medium.com/coriers/should-you-use-apache-airflow-e71c6cf7c0c4 Should You Use Apache Airflow?. Why Data Engineers Love/Hate Airflow (scaling, xcom)
 
 # 29-11-2022
