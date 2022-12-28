@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 28-12-2022
+
+- https://bytebaker.medium.com/we-migrated-to-rust-but-what-did-we-gain-1429d036d0c We migrated to Rust, but what did we gain? (a lot)
+
 # 25-12-2022
 
 - https://franklinlindemberg.medium.com/using-protobuf-with-apache-kafka-and-without-schema-registry-8535f43a2569 Using Protobuf without Schema Registry #kafka
