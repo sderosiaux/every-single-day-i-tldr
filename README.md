@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-12-2022
 
+- https://bothsidesofthetable.com/high-functioning-vs-low-functioning-startup-boards-ae3ebe69cd9e Why Startup Boards. Good and bad boards. A space of discussion and decisions, not only updates.
 - https://bytebaker.medium.com/we-migrated-to-rust-but-what-did-we-gain-1429d036d0c We migrated to Rust, but what did we gain? (a lot)
 
 # 25-12-2022
