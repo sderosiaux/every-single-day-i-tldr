@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-12-2022
 
+- https://medium.com/wix-engineering/troubleshooting-kafka-for-2000-microservices-at-wix-986ee382fd1e Troubleshooting Kafka for 2000 Microservices at Wix, many good insights
 - https://medium.com/codex/your-engineering-director-does-not-want-you-to-optimize-for-utilization-a48ad0368b8 Always limit your work in progress, always.
 - https://netflixtechblog.medium.com/data-reprocessing-pipeline-in-asset-management-platform-netflix-46fe225c35c9 Data Pipeline using Kafka and a DLQ
 - https://stateofapis.com/ "Kafka usage increased and more people are aware of it" <3 (2021 to 2022)
