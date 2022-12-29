@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 29-12-2022
+
+- https://www.confluent.io/events/current-2022/buckle-up/ From Batch to Realtime
+
 # 28-12-2022
 
 - https://medium.com/google-cloud/dq-with-dataplex-c1f42195435d Data Governance with Dataplex, Google Cloud
