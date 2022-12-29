@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-12-2022
 
+- https://www.atlassian.com/engineering/why-we-chose-kafka Trello dropping RabbitMQ and picking #Kafka. Less outages, less cost.
 - https://www.confluent.io/events/current-2022/buckle-up/ From Batch to Realtime
 
 # 28-12-2022
