@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 29-12-2022
 
+- https://blog.developer.adobe.com/wins-from-effective-kafka-monitoring-at-adobe-stability-performance-and-cost-savings-a3ecb701ee5b Wins from Effective Kafka Monitoring at Adobe: Stability, Performance, and Cost Savings
 - https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/starting-strong-making-your-ceo-transition-a-catalyst-for-renewal?cid=mbe-pde-pro-mip-mck-oth-2212 Starting strong: Making your CEO transition a catalyst for renewal | McKinsey
 - https://developer.confluent.io/podcast/the-present-and-future-of-stream-processing/ The Present and Future of Stream Processing -> More streaming!
 - https://www.kai-waehner.de/blog/2022/11/16/when-to-choose-redpanda-instead-of-apache-kafka/ Redpanda or Apache Kafka?
