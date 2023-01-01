@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-01-2023
 
+- https://memphis.dev/blog/event-sourcing-outgrows-databases/ Event Sourcing & Databases
 - https://engineering.grab.com/zero-trust-with-kafka Leveraging Vault to mTLS Kafka (on Strimzi) + Open Policy Agent to manage Policies (Authorization)
 
 # 29-12-2022
