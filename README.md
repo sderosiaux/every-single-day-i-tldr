@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-01-2023
+
+- https://engineering.grab.com/zero-trust-with-kafka Leveraging Vault to mTLS Kafka (on Strimzi) + Open Policy Agent to manage Policies (Authorization)
+
 # 29-12-2022
 
 - https://www.benkuhn.net/abyss/ Staring into the abyss as a core life skill
