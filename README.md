@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 06-01-2023
+
+- https://medium.com/lydtech-consulting/securing-kafka-with-mutual-tls-and-acls-b235a077f3e3 Securing Kafka with Mutual TLS and ACLs
+
 # 01-01-2023
 
 - https://memphis.dev/blog/event-sourcing-outgrows-databases/ Event Sourcing & Databases
