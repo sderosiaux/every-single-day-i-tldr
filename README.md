@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 07-01-2023
+
+- https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/every-company-is-a-software-company-six-must-dos-to-succeed?cid=other-eml-nsl-mip-mck&hlkid=fc71907dc37547c19aaee7959a5c988a&hctky=14255962&hdpid=7245674d-2291-47d7-872d-b41da7d86a46 Every company is a software company
+
 # 06-01-2023
 
 - https://medium.com/lydtech-consulting/securing-kafka-with-mutual-tls-and-acls-b235a077f3e3 Securing Kafka with Mutual TLS and ACLs
