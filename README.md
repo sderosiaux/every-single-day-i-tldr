@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 07-01-2023
 
+- https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/?email=sderosiaux%40conduktor.io Using Apache Kafka to process 1 trillion inter-service messages
 - https://medium.com/event-driven-utopia/operational-use-case-patterns-for-apache-kafka-and-flink-part-1-5a0f8742df90 From Apache Kafka and Flink to RedPanda + Decodable?
 - https://dev.to/bleporini/openid-connect-authentication-with-apache-kafka-31-5747 OpenID Connect authentication with Apache Kafka and Auth0
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/every-company-is-a-software-company-six-must-dos-to-succeed?cid=other-eml-nsl-mip-mck&hlkid=fc71907dc37547c19aaee7959a5c988a&hctky=14255962&hdpid=7245674d-2291-47d7-872d-b41da7d86a46 Every company is a software company
