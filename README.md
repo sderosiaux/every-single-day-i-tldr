@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-01-2023
+
+- https://medium.com/agoda-engineering/adding-time-lag-to-monitor-kafka-consumer-2c626fa61cfc Adding Time Lag to Monitor Kafka Consumer
+
 # 07-01-2023
 
 - https://www.confluent.io/blog/cloud-kafka-meets-cloud-flink-with-confluent-and-immerok/ Unifying Kafka + Flink at Confluent.
