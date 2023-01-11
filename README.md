@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-01-2023
+
+- https://jchyip.medium.com/fixing-too-much-wip-ba4d254048a3 Fixing “Too much WIP”
+
 # 10-01-2023
 
 - https://medium.com/agoda-engineering/adding-time-lag-to-monitor-kafka-consumer-2c626fa61cfc Adding Time Lag to Monitor Kafka Consumer
