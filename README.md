@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-01-2023
 
+- https://evan-soohoo.medium.com/elon-musk-and-1000-poorly-batched-rpcs-ad5970536974 Elon Musk And >1000 Poorly Batched RPCs
 - https://mbenedicto.medium.com/10-lessons-for-observability-what-every-vp-of-engineering-needs-to-know-1b46714b4d29 10 Lessons about Observability
 
 # 11-01-2023
