@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-01-2023
+
+- https://mbenedicto.medium.com/10-lessons-for-observability-what-every-vp-of-engineering-needs-to-know-1b46714b4d29 10 Lessons about Observability
+
 # 11-01-2023
 
 - https://jchyip.medium.com/fixing-too-much-wip-ba4d254048a3 Fixing “Too much WIP”
