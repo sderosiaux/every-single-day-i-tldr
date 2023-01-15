@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 16-01-2023
+
+- https://www.jesse-anderson.com/2023/01/analysis-of-confluent-buying-immerok/ Analysis of Confluent Buying Immerok + ksqlDB
+
 # 15-01-2023
 
 - https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922 From Batching to Streaming
