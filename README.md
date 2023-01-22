@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 22-01-2023
+
+- https://betterprogramming.pub/journey-of-a-frontend-monorepo-what-i-learned-d6a0d142803f Journey of a Frontend Monorepo: Here’s What I Learned
+
 # 16-01-2023
 
 - https://www.kineticedge.io/blog/kafka-raft/ Apache Kafka using Kraft and a dedicated controller quorum
