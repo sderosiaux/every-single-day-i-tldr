@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 29-01-2023
+
+- https://medium.com/clear-street/switching-to-protobuf-from-avro-on-kafka-3f139c5abf88 Switching to Protobuf (from Avro) on Kafka
+
 # 22-01-2023
 
 - https://betterprogramming.pub/journey-of-a-frontend-monorepo-what-i-learned-d6a0d142803f Journey of a Frontend Monorepo: Here’s What I Learned
