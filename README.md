@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-01-2023
+
+- https://medium.com/trendyol-tech/performance-of-kafka-consumers-1-billion-messages-51b3bacef583 #Performance of Kafka Consumers: 1 Billion messages, Python VS Go
+
 # 29-01-2023
 
 - https://medium.com/clear-street/switching-to-protobuf-from-avro-on-kafka-3f139c5abf88 Switching to Protobuf (from Avro) on Kafka
