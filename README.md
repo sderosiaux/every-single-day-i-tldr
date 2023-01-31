@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-01-2023
 
+- https://medium.com/codex/supporting-cross-node-interactive-queries-in-kafka-streams-1b2972f84be2 Supporting Cross Node Interactive Queries In Kafka Streams
 - https://medium.com/trendyol-tech/performance-of-kafka-consumers-1-billion-messages-51b3bacef583 #Performance of Kafka Consumers: 1 Billion messages, Python VS Go
 
 # 29-01-2023
