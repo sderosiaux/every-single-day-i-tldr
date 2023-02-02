@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-02-2023
+
+- https://twitter.com/destraynor/status/1620478505720123392?s=12&t=18l5KEsrM7BFPpk5t2SGQQ ChatGPT + Intercom
+
 # 31-01-2023
 
 - https://automerge.org/blog/automerge-2/ Automerge 2.0: from JS to Rust
