@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-02-2023
+
+- https://lajili.com/posts/post-2/ ChatGPT -> real Web 3.0 -> more subtle advertising
+
 # 04-02-2023
 
 - https://aws.amazon.com/blogs/big-data/create-more-partitions-and-retain-data-for-longer-in-your-msk-serverless-clusters/?sc_channel=sm&sc_campaign=DB_Event&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=DB_Event&linkId=199922767 Finally AWS MSK Serverless is "unlocked" for real usage!
