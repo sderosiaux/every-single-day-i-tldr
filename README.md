@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-02-2023
 
+- https://medium.com/event-driven-utopia/operational-use-case-patterns-for-apache-kafka-and-flink-part-1-5a0f8742df90 Operational Use case Patterns for Apache Kafka and Flink — Part 1
 - https://tech.ovoenergy.com/developer-experience-at-ovo/ Developer Experience at OVO
 - https://www.bytewax.io/blog/real-time-ml What is Real-Time ML and Why Does Stream Processing Matter
 
