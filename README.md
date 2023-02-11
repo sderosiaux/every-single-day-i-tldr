@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-02-2023
+
+- https://www.bytewax.io/blog/real-time-ml What is Real-Time ML and Why Does Stream Processing Matter
+
 # 05-02-2023
 
 - https://lajili.com/posts/post-2/ ChatGPT -> real Web 3.0 -> more subtle advertising
