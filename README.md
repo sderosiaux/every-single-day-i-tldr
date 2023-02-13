@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-02-2023
+
+- https://www.highlight.io/blog/scalable-data-processing-with-apache-kafka Scalable Data Processing with Apache Kafka on AWS MSK
+
 # 11-02-2023
 
 - https://medium.com/event-driven-utopia/operational-use-case-patterns-for-apache-kafka-and-flink-part-1-5a0f8742df90 Operational Use case Patterns for Apache Kafka and Flink — Part 1
