@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-02-2023
+
+- https://medium.com/ebaytech/resiliency-and-disaster-recovery-with-kafka-dc8901c881c Resiliency and Disaster Recovery with Kafka
+
 # 13-02-2023
 
 - https://www.highlight.io/blog/scalable-data-processing-with-apache-kafka Scalable Data Processing with Apache Kafka on AWS MSK
