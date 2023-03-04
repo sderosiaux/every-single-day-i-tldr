@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-03-2023
+
+- https://medium.com/insiden26/engineering-at-n26-a-tour-of-our-tech-stack-and-architecture-9e58ce96f889 Engineering at N26: a Tour of our Tech Stack and Architecture
+
 # 20-02-2023
 
 - https://medium.com/ebaytech/resiliency-and-disaster-recovery-with-kafka-dc8901c881c Resiliency and Disaster Recovery with Kafka
