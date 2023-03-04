@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-03-2023
 
+- https://hackernoon.com/build-vs-buy-what-we-learned-by-implementing-a-data-catalog-7b38377h Build vs Buy: What We Learned by Implementing a Data Catalog
 - https://medium.com/insiden26/engineering-at-n26-a-tour-of-our-tech-stack-and-architecture-9e58ce96f889 Engineering at N26: a Tour of our Tech Stack and Architecture
 
 # 20-02-2023
