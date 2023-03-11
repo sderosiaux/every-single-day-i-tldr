@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-03-2023
 
+- https://medium.com/lydtech-consulting/migrating-from-activemq-to-kafka-cc53c42b752 Migrating from ActiveMQ to Kafka
 - https://www.confluent.io/blog/multi-geo-replication-in-apache-kafka/ Multi-Geo Replication in Apache Kafka
 - https://twitter.com/sidpalas/status/1634194026500096000 Improve Dockerfile tremendously (for nodejs here)
 - https://bootcamp.uxdesign.cc/how-to-use-chatgpt-in-product-management-f96d8ac5ee6f How to use ChatGPT in product management
