@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-03-2023
 
+- https://bootcamp.uxdesign.cc/how-to-use-chatgpt-in-product-management-f96d8ac5ee6f How to use ChatGPT in product management
 - https://twitter.com/compound248/status/1634105371198644224 What happened with Silicon Valley Bank
 
 # 04-03-2023
