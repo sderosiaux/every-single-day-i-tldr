@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-03-2023
+
+- https://twitter.com/compound248/status/1634105371198644224 What happened with Silicon Valley Bank
+
 # 04-03-2023
 
 - https://www.honeycomb.io/blog/incident-response-at-honeycomb How We Manage Incident Response
