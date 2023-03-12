@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-03-2023
 
+- https://www.youtube.com/watch?v=XiCxj-bXu5M Ginni Rometty: IBM CEO on Leadership, Power, and Adversity
 - https://semaphoreci.com/blog/trunk-based-development Trunk-Based Development
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-848%3A+The+Next+Generation+of+the+Consumer+Rebalance+Protocol KIP-848: new Consumer Rebalance, moving complexity from Consumers to Group Coordinator
 
