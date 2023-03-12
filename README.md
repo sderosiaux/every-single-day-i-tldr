@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-03-2023
+
+- https://cwiki.apache.org/confluence/display/KAFKA/KIP-848%3A+The+Next+Generation+of+the+Consumer+Rebalance+Protocol KIP-848: new Consumer Rebalance, moving complexity from Consumers to Group Coordinator
+
 # 11-03-2023
 
 - https://www.datasciencecentral.com/the-future-of-data-is-real-time/ The Future of Data is Real-Time
