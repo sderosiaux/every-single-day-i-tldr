@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-03-2023
 
+- https://redpanda.com/blog/web-user-interface-tools-kafka Conduktor as the best web UIs for managing Apache Kafka
 - https://www.signadot.com/blog/testing-kafka-based-asynchronous-workflows-using-opentelemetry Testing Kafka-based Asynchronous Workflows Using OpenTelemetry
 
 # 12-03-2023
