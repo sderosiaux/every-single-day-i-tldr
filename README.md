@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-03-2023
+
+- https://www.signadot.com/blog/testing-kafka-based-asynchronous-workflows-using-opentelemetry Testing Kafka-based Asynchronous Workflows Using OpenTelemetry
+
 # 12-03-2023
 
 - https://www.youtube.com/watch?v=XiCxj-bXu5M Ginni Rometty: IBM CEO on Leadership, Power, and Adversity
