@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 28-03-2023
+
+- https://terminusdb.com/blog/what-is-a-data-product/ What is Data Product? Data Mesh?
+
 # 24-03-2023
 
 - https://redpanda.com/blog/web-user-interface-tools-kafka Conduktor as the best web UIs for managing Apache Kafka
