@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-04-2023
 
+- https://medium.com/gojekengineering/sink-kafka-messages-to-clickhouse-using-clickhouse-kafka-ingestor-7898e3f5295b Sink Kafka Messages to ClickHouse
 - https://www.infoq.com/news/2023/04/strategies-principles-ml-ops/ Strategies and Principles to Scale and Evolve MLOps
 
 # 28-03-2023
