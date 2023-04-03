@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-04-2023
+
+- https://www.infoq.com/news/2023/04/strategies-principles-ml-ops/ Strategies and Principles to Scale and Evolve MLOps
+
 # 28-03-2023
 
 - https://terminusdb.com/blog/what-is-a-data-product/ What is Data Product? Data Mesh?
