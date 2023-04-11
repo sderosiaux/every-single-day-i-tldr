@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-04-2023
+
+- https://joshua-robinson.medium.com/simplify-kafka-at-scale-with-confluent-tiered-storage-ae8c1a2c9c80 Simplify Kafka at Scale with Confluent Tiered Storage
+
 # 03-04-2023
 
 - https://medium.com/gojekengineering/sink-kafka-messages-to-clickhouse-using-clickhouse-kafka-ingestor-7898e3f5295b Sink Kafka Messages to ClickHouse
