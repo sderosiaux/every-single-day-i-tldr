@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 27-04-2023
+
+- https://engineering.instawork.com/unlocking-the-power-of-data-how-we-scaled-our-analytics-with-an-in-house-event-logging-platform-520d5b58f651 Unlocking the Power of Data: How we scaled our analytics with in-house Event Logging
+
 # 11-04-2023
 
 - https://joshua-robinson.medium.com/simplify-kafka-at-scale-with-confluent-tiered-storage-ae8c1a2c9c80 Simplify Kafka at Scale with Confluent Tiered Storage
