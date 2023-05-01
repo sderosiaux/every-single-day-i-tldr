@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2023
 
+- https://www.instaclustr.com/blog/apache-kafka-kraft-abandons-the-zookeeper-part-3-maximum-partitions-and-conclusions/ Apache Kafka® KRaft Abandons the Zoo(Keeper): Part 3—Maximum Partitions and Conclusions
 - https://www.exhypothesi.com/clocks-and-causality/ Clocks and Causality - Ordering Events in Distributed Systems
 - https://danielfrieling.medium.com/goodbye-chapter-leads-hello-engineering-managers-6e9d9d0aa8b7 Goodbye Chapter Leads, Hello Engineering Managers
 
