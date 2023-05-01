@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2023
 
+- https://www.youtube.com/watch?v=bGRE-tBsqoE Détectez et corrigez automatiquement les problèmes les plus fréquents avec Apache Kafka
 - https://www.arecadata.com/fake-data-kafka/ Effortless mock data generation for Kafka with LLMs
 - https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html Google Testing Blog: Sensenmann: Code Deletion at Scale
 - https://newsletter.pragmaticengineer.com/p/inside-figmas-engineering-culture?utm_source=substack&utm_medium=email Inside Figma’s Engineering Culture
