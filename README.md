@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2023
 
+- https://newsletter.pragmaticengineer.com/p/inside-figmas-engineering-culture?utm_source=substack&utm_medium=email Inside Figma’s Engineering Culture
 - https://streamnative.io/blog/handling-100k-consumers-with-one-pulsar-topic Handling 100K Consumers with One Pulsar Topic. New 'Broadcast subscription'
 - https://jack-vanlightly.com/blog/2023/4/24/why-apache-kafka-doesnt-need-fsync-to-be-safe Why Apache Kafka doesn't need fsync to be safe
 - https://zenorocha.com/the-two-types-of-quality The two types of quality: things that works vs. things that inspire
