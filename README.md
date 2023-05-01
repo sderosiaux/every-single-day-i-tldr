@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-05-2023
+
+- https://danielfrieling.medium.com/goodbye-chapter-leads-hello-engineering-managers-6e9d9d0aa8b7 Goodbye Chapter Leads, Hello Engineering Managers
+
 # 27-04-2023
 
 - https://engineering.instawork.com/unlocking-the-power-of-data-how-we-scaled-our-analytics-with-an-in-house-event-logging-platform-520d5b58f651 Unlocking the Power of Data: How we scaled our analytics with in-house Event Logging
