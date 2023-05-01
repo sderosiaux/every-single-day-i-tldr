@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-05-2023
 
+- https://jack-vanlightly.com/blog/2023/4/24/why-apache-kafka-doesnt-need-fsync-to-be-safe Why Apache Kafka doesn't need fsync to be safe
 - https://zenorocha.com/the-two-types-of-quality The two types of quality: things that works vs. things that inspire
 - https://themoah.medium.com/lessons-learned-from-running-kafka-ecosystem-at-a-petabyte-scale-c0f437962ba0 Lessons learned from running Kafka ecosystem at a petabyte scale
 - https://www.instaclustr.com/blog/apache-kafka-kraft-abandons-the-zookeeper-part-3-maximum-partitions-and-conclusions/ Apache Kafka® KRaft Abandons the Zoo(Keeper): Part 3—Maximum Partitions and Conclusions
