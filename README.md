@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-05-2023
+
+- https://www.semianalysis.com/p/google-we-have-no-moat-and-neither Google "We Have No Moat, And Neither Does OpenAI"
+
 # 01-05-2023
 
 - https://www.youtube.com/watch?v=bGRE-tBsqoE Détectez et corrigez automatiquement les problèmes les plus fréquents avec Apache Kafka
