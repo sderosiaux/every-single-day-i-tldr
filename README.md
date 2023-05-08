@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-05-2023
 
+- https://www.datamesh-governance.com/ Data Mesh Governance by Example
 - https://www.datamesh-architecture.com/ Data Mesh Architecture
 - https://www.tamr.com/wp-content/uploads/2022/11/Data-Mastering-Holds-Promise-as-Underpinning-Technology-for-Data-Mesh-451-Research.pdf Data Mastering Holds Promise as Underpinning Technology for Data Mesh (451 Research)
 
