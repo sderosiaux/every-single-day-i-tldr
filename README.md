@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-06-2023
+
+- https://m.mage.ai/apache-flink-vs-apache-spark-a-detailed-comparison-for-data-processing-5e70e1d6c8ab Apache #Flink vs Apache #Spark: A detailed comparison for data processing
+
 # 31-05-2023
 
 - https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86 Queues for Kafka
