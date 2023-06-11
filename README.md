@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-06-2023
 
+- https://kai-waehner.medium.com/apache-kafka-apache-flink-match-made-in-heaven-45dde9481a3c Apache Kafka + Apache Flink, the good parts, and also comparing to Kafka Streams
 - https://degoes.net/articles/splendid-scala-journey A Splendid Scala Journey, bye John
 - https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf McKinsey — The State of Organizations 2023
 - https://medium.com/@abhishekranjandev/vector-databases-exploring-a-new-way-to-revolutionize-search-85cb1b1fc7b Vector Databases: Exploring a New Way to Search
