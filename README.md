@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-06-2023
+
+- https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/ Kora: The Cloud Native Engine for Apache Kafka
+
 # 11-06-2023
 
 - https://dzone.com/articles/a-deep-dive-into-the-differences-between-kafka-and Deep Dive Into Kafka vs. Pulsar
