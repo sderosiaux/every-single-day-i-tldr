@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 18-06-2023
+
+- https://www.lennysnewsletter.com/p/what-working-at-figma-taught-me-about What working at Figma taught me about customer obsession
+
 # 12-06-2023
 
 - https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/ Kora: The Cloud Native Engine for Apache Kafka
