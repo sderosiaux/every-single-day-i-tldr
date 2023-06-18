@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-06-2023
+
+- https://strimzi.io/blog/2023/05/03/kafka-transactions/ Exactly-once semantics with Kafka transactions
+
 # 18-06-2023
 
 - https://blog.startupstash.com/crafting-the-right-product-led-growth-plg-strategy-for-your-startup-419be2e09376 Crafting The Right Product-led Growth (PLG) Strategy For Your Startup
