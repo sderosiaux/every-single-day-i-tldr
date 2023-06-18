@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2023
 
+- https://medium.com/expedia-group-tech/how-expedia-reviews-engineering-is-using-event-streams-as-a-source-of-truth-d3df616cccd8 How Expedia Reviews Engineering Is Using Event Streams as a Source Of Truth
 - https://www.youtube.com/watch?v=bZQun8Y4L2A State of GPT, ChatGPT, Reinforcement Leaning from Human Feedback (RLHF), Prompt Engineering
 - https://medium.com/@hannes.rollin/six-reasons-why-data-mesh-will-fail-195886c89bdd Six Reasons Why Data Mesh Will Fail
 - https://www.kai-waehner.de/blog/2023/01/09/the-daily-life-of-a-field-cto/ The Daily Life of a Field CTO - Kai Waehner
