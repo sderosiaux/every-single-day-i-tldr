@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2023
 
+- https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up Kafka vs Redpanda Performance — Kafka outperforms Redpanda in real use-cases
 - https://www.saastr.com/ceo-systems-5-lessons-learned-from-scaling-at-every-growth-phase-with-hashicorp-ceo-dave-mcjannet-pod-598-video/ 5 Lessons Learned from Scaling at Every Growth Phase with HashiCorp CEO
 - https://medium.com/expedia-group-tech/how-expedia-reviews-engineering-is-using-event-streams-as-a-source-of-truth-d3df616cccd8 How Expedia Reviews Engineering Is Using Event Streams as a Source Of Truth
 - https://www.youtube.com/watch?v=bZQun8Y4L2A State of GPT, ChatGPT, Reinforcement Leaning from Human Feedback (RLHF), Prompt Engineering
