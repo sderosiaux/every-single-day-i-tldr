@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2023
 
+- https://dzone.com/articles/a-deep-dive-into-the-differences-between-kafka-and?utm_content=248957829&utm_medium=social&utm_source=twitter&hss_channel=tw-1058828554459205632 Deep Dive Into Kafka vs. Pulsar
 - https://medium.com/engineered-publicis-sapient/event-driven-architecture-at-scale-2bd1ef580d71 Event-Driven Architecture at Scale Using Kafka, Challenges
 - https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181 Understanding #Kafka with Factorio
 - https://huggingface.co/blog/falcon The Falcon has landed in the Hugging Face ecosystem
