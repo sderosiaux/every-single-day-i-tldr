@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 18-06-2023
 
+- https://medium.com/engineered-publicis-sapient/event-driven-architecture-at-scale-2bd1ef580d71 Event-Driven Architecture at Scale Using Kafka, Challenges
 - https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181 Understanding #Kafka with Factorio
 - https://huggingface.co/blog/falcon The Falcon has landed in the Hugging Face ecosystem
 - https://dmccreary.medium.com/lost-in-knowledge-space-14be123ea083 A Knowledge Space is your status in a graph of learning concepts
