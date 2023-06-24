@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-06-2023
+
+- https://devpod.sh/ DevPod - Open Source Dev-Environments-As-Code
+
 # 19-06-2023
 
 - https://strimzi.io/blog/2023/05/03/kafka-transactions/ Exactly-once semantics with Kafka transactions
