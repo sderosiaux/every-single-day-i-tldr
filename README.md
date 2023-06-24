@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-06-2023
+
+- https://engineering.hellofresh.com/renaming-a-kafka-topic-d6ff3aaf3f03 Renaming a #ApacheKafka topic and MirrorMaker 2
+
 # 24-06-2023
 
 - https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c Why You Shouldn’t Invest In Vector Databases? (because all major DBs support vectors)
