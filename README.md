@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-06-2023
 
+- https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/ Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
 - https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/ PostgreSQL reconsiders its process-based model
 - https://www.infoq.com/news/2023/06/scoped-values-java-21/ Enhancing Java Concurrency with Scoped Values in JDK 21 (Preview)
 - https://devpod.sh/ DevPod - Open Source Dev-Environments-As-Code
