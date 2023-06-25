@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-06-2023
+
+- https://nebula.stream/paper/zeuch_cidr20.pdf The NebulaStream Platform: Data and Application: Management for the Internet of Things
+
 # 25-06-2023
 
 - https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c The Secret Sauce behind 100K context window in LLMs: all tricks in one place
