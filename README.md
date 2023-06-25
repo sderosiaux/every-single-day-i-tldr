@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-06-2023
 
+- https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c The Secret Sauce behind 100K context window in LLMs: all tricks in one place
 - https://github.com/ray-project/llm-numbers Numbers every LLM developer should know
 - https://medium.com/lydtech-consulting/kafka-streams-state-store-30110bf4f24 Kafka Streams: State Store
 - https://engineering.hellofresh.com/renaming-a-kafka-topic-d6ff3aaf3f03 Renaming a #ApacheKafka topic and MirrorMaker 2
