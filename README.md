@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-06-2023
 
+- https://medium.com/lydtech-consulting/kafka-streams-state-store-30110bf4f24 Kafka Streams: State Store
 - https://engineering.hellofresh.com/renaming-a-kafka-topic-d6ff3aaf3f03 Renaming a #ApacheKafka topic and MirrorMaker 2
 
 # 24-06-2023
