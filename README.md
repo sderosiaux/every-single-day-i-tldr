@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 27-06-2023
+
+- https://engineering.razorpay.com/reducing-data-platform-cost-by-2m-d8f82285c4ae Reducing Data Platform Cost by $2M
+
 # 26-06-2023
 
 - https://nebula.stream/paper/zeuch_cidr20.pdf The NebulaStream Platform: Data and Application: Management for the Internet of Things
