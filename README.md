@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-07-2023
+
+- https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/ How businesses can break through the ChatGPT hype with 'workable AI'
+
 # 30-06-2023
 
 - https://hackingsaas.substack.com/p/event-sourcing-for-saas-applications Event Sourcing for SaaS applications
