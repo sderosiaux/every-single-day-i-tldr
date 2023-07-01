@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-07-2023
 
+- https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier Economic potential of generative AI | McKinsey
 - https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/ How businesses can break through the ChatGPT hype with 'workable AI'
 
 # 30-06-2023
