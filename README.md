@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-07-2023
 
+- https://medium.com/lightspeed-venture-partners/eight-ai-startups-winning-the-race-for-tech-talent-571a18b03642 Eight AI Startups Winning the Race for Tech Talent
 - https://dev.to/thedanicafine/so-you-want-to-speak-at-a-technical-conference-responding-to-a-cfp-54m6 Technical Conference: Responding to a CfP
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier Economic potential of generative AI | McKinsey
 - https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/ How businesses can break through the ChatGPT hype with 'workable AI'
