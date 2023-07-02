@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-07-2023
 
+- https://web.archive.org/web/20230621114132/https://www.nytimes.com/2023/06/07/technology/ai-san-francisco-tech-industry.html The AI Boom Is Pulling Tech Entrepreneurs Back to San Francisco
 - https://medium.com/lightspeed-venture-partners/eight-ai-startups-winning-the-race-for-tech-talent-571a18b03642 Eight AI Startups Winning the Race for Tech Talent
 - https://dev.to/thedanicafine/so-you-want-to-speak-at-a-technical-conference-responding-to-a-cfp-54m6 Technical Conference: Responding to a CfP
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier Economic potential of generative AI | McKinsey
