@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-07-2023
+
+- https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark Introducing English as the New Programming Language for Apache Spark
+
 # 02-07-2023
 
 - https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/ What Is a Transformer Model?
