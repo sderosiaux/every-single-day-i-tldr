@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 07-07-2023
+
+- https://www.databricks.com/blog/introducing-materialized-views-and-streaming-tables-databricks-sql Introducing Materialized Views and Streaming Tables for Databricks SQL
+
 # 04-07-2023
 
 - https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022
