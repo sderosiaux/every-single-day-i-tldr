@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-07-2023
+
+- https://www.turingpost.com/p/llmshistory3 There Would Have Been No LLMs Without This
+
 # 07-07-2023
 
 - https://www.databricks.com/blog/introducing-materialized-views-and-streaming-tables-databricks-sql Introducing Materialized Views and Streaming Tables for Databricks SQL
