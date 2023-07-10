@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-07-2023
+
+- https://themoah.medium.com/lessons-learned-from-running-kafka-ecosystem-at-a-petabyte-scale-c0f437962ba0 Lessons learned from running Kafka ecosystem at a petabyte scale
+
 # 08-07-2023
 
 - https://www.turingpost.com/p/llmshistory3 There Would Have Been No LLMs Without This
