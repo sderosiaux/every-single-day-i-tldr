@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-07-2023
+
+- https://morganperry.substack.com/p/devtools-brew-20dockers-remarkable Docker's Remarkable Turnaround, from 10M$ to 100M$ ARR
+
 # 10-07-2023
 
 - https://themoah.medium.com/lessons-learned-from-running-kafka-ecosystem-at-a-petabyte-scale-c0f437962ba0 Lessons learned from running Kafka ecosystem at a petabyte scale
