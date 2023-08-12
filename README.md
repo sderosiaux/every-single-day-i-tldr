@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-08-2023
 
+- https://towardsdatascience.com/data-mesh-architecture-and-the-role-of-apis-json-schemas-3dc616650960 Data Mesh Architecture and the Role of APIs & JSON Schemas
 - https://softwaremill.com/zookeeper-less-kafka/ ZooKeeper-less Kafka
 
 # 12-08-2023
