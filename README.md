@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-08-2023
+
+- https://softwaremill.com/zookeeper-less-kafka/ ZooKeeper-less Kafka
+
 # 12-08-2023
 
 - https://redpanda-data.medium.com/raft-native-the-foundation-for-streaming-datas-best-future-6bf5baf1c1c Raft native: the foundation for streaming data’s best future?
