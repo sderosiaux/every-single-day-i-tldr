@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-08-2023
+
+- https://kylepoyar.substack.com/p/pinecones-journey-from-seed-to-10000 Pinecone’s journey from seed to 10,000 sign-ups per day
+
 # 26-07-2023
 
 - https://morganperry.substack.com/p/devtools-brew-20dockers-remarkable Docker's Remarkable Turnaround, from 10M$ to 100M$ ARR
