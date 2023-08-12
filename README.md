@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-08-2023
 
+- https://www.honeycomb.io/blog/deploys-wrong-way-change-user-experience Feature flags in production: the way to go
 - https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1 On Becoming a VP of Engineering
 - https://kylepoyar.substack.com/p/pinecones-journey-from-seed-to-10000 Pinecone’s journey from seed to 10,000 sign-ups per day
 
