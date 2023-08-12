@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-08-2023
 
+- https://www.youtube.com/watch?v=zHzpoVgqgc4 Rethinking Distributed Programming with Unison Lang (with Rúnar Bjarnason)
 - https://www.datadoghq.com/blog/engineering/introducing-husky/ Introducing Husky, Datadog's Third-Generation Event Store
 - https://www.redpoint.com/infrared-report.pdf Redpoint InfraRed Report — Infratructure layer VS Software layer (infra = more profitable, more value, more critical)
 - https://towardsdatascience.com/data-mesh-architecture-and-the-role-of-apis-json-schemas-3dc616650960 Data Mesh Architecture and the Role of APIs & JSON Schemas
