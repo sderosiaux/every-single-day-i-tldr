@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-08-2023
+
+- https://jack-vanlightly.com/blog/2023/8/17/kafka-kip-966-fixing-the-last-replica-standing-issue Kafka KIP-966 - Fixing the Last Replica Standing issue
+
 # 13-08-2023
 
 - https://www.youtube.com/watch?v=zHzpoVgqgc4 Rethinking Distributed Programming with Unison Lang (with Rúnar Bjarnason)
