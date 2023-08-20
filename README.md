@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-08-2023
 
+- https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/ Rama, a new platform unifying computation and storage to build end-to-end backends in less code. Here, an example building Twitter at Twitter-scale
 - https://jack-vanlightly.com/blog/2023/8/17/kafka-kip-966-fixing-the-last-replica-standing-issue Kafka KIP-966 - Fixing the Last Replica Standing issue
 
 # 13-08-2023
