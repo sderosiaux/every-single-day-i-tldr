@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-08-2023
+
+- https://www.agileorgdesign.com/content/startup-structure-orgdesign-product-engg A Startup doesn't have to Grow into Product & Engineering
+
 # 21-08-2023
 
 - https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375 Rethinking Stream Processing and Streaming Databases
