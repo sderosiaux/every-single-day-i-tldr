@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-08-2023
 
+- https://blog.devgenius.io/kafka-streams-how-to-calculate-moving-average-for-stock-price-data-stream-in-real-time-9429617d5108 Kafka Streams — How to Calculate Moving Average for Stock Prices in Real-time
 - https://medium.com/illuminations-mirror/parsing-complex-json-in-kafka-source-using-apache-seatunnel-c776fabadb48 Parsing Complex JSON in Kafka Source using Apache Seatunnel
 - https://www.agileorgdesign.com/content/startup-structure-orgdesign-product-engg A Startup doesn't have to Grow into Product & Engineering
 
