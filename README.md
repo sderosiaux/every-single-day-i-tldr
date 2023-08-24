@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-08-2023
 
+- https://medium.com/illuminations-mirror/parsing-complex-json-in-kafka-source-using-apache-seatunnel-c776fabadb48 Parsing Complex JSON in Kafka Source using Apache Seatunnel
 - https://www.agileorgdesign.com/content/startup-structure-orgdesign-product-engg A Startup doesn't have to Grow into Product & Engineering
 
 # 21-08-2023
