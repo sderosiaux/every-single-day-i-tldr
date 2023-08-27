@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 27-08-2023
+
+- https://medium.com/@gautamrajotya/data-lake-using-debezium-kafka-connect-apache-iceberg-sink-3d7aa32fa0c4 Data Lake using Debezium, Kafka Connect — Apache Iceberg Sink
+
 # 24-08-2023
 
 - https://blog.devgenius.io/kafka-streams-how-to-calculate-moving-average-for-stock-price-data-stream-in-real-time-9429617d5108 Kafka Streams — How to Calculate Moving Average for Stock Prices in Real-time
