@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 28-08-2023
 
+- https://www.vldb.org/pvldb/vol16/p3822-povzner.pdf Kora: A cloud native #kafka
 - https://www.golem.cloud/post/why-wasm Why WASM?
 
 # 27-08-2023
