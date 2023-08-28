@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 28-08-2023
+
+- https://www.golem.cloud/post/why-wasm Why WASM?
+
 # 27-08-2023
 
 - https://medium.com/@gautamrajotya/data-lake-using-debezium-kafka-connect-apache-iceberg-sink-3d7aa32fa0c4 Data Lake using Debezium, Kafka Connect — Apache Iceberg Sink
