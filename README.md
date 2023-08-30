@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-08-2023
+
+- https://slack.engineering/slacks-migration-to-a-cellular-architecture/ Slack's Migration to a Cellular Architecture (intra-AZ comm only)
+
 # 28-08-2023
 
 - https://www.vldb.org/pvldb/vol16/p3822-povzner.pdf Kora: A cloud native #kafka
