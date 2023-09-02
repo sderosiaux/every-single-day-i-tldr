@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-09-2023
+
+- https://blog.1password.com/passkey-crates/ We’re Open-Sourcing the Library that Powers 1Password’s Passwordless Authentication
+
 # 30-08-2023
 
 - https://slack.engineering/slacks-migration-to-a-cellular-architecture/ Slack's Migration to a Cellular Architecture (intra-AZ comm only)
