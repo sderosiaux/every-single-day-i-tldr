@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-09-2023
 
+- https://www.confluent.io/blog/how-to-increase-throughput-on-kafka-connect-source-connectors/ Kafka Connect: How to Increase Throughput on Source Connectors
 - https://blog.1password.com/passkey-crates/ We’re Open-Sourcing the Library that Powers 1Password’s Passwordless Authentication
 
 # 30-08-2023
