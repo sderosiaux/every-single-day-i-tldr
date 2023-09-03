@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-09-2023
+
+- https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e Why Kafka Is the New Data Lake?
+
 # 02-09-2023
 
 - https://www.confluent.io/blog/how-to-increase-throughput-on-kafka-connect-source-connectors/ Kafka Connect: How to Increase Throughput on Source Connectors
