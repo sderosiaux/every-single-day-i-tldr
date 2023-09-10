@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-09-2023
+
+- https://supabase.com/blog/supavisor-1-million Supavisor: Scaling Postgres to 1 Million Connections
+
 # 03-09-2023
 
 - https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e Why Kafka Is the New Data Lake?
