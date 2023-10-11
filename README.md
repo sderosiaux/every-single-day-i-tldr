@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-10-2023
 
+- https://towardsdatascience.com/building-a-data-mesh-on-the-kafka-ecosystem-399a5bd8799c Building a Data Mesh on the Kafka Ecosystem
 - https://www.confluent.io/blog/building-a-realtime-service-marketplace-with-confluent-cloud/ Building a Real-Time Service Marketplace with Confluent Cloud
 
 # 10-09-2023
