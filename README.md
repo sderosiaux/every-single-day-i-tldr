@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-10-2023
+
+- https://www.confluent.io/blog/building-a-realtime-service-marketplace-with-confluent-cloud/ Building a Real-Time Service Marketplace with Confluent Cloud
+
 # 10-09-2023
 
 - https://supabase.com/blog/supavisor-1-million Supavisor: Scaling Postgres to 1 Million Connections
