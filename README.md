@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-10-2023
 
+- https://www.restate.dev/blog/why-we-built-restate/ Why we built Restate Restate
 - https://www.arroyo.dev/blog/rust-for-data-infra Rust is the best language for data infra
 - https://queue.acm.org/detail.cfm?id=3321612 Online Event Processing - ACM Queue
 - https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86 Queues for Kafka. 
