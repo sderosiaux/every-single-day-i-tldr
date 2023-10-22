@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 22-10-2023
+
+- https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86 Queues for Kafka. 
+
 # 12-10-2023
 
 - https://towardsdatascience.com/building-a-data-mesh-on-the-kafka-ecosystem-399a5bd8799c Building a Data Mesh on the Kafka Ecosystem
