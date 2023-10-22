@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-10-2023
 
+- https://queue.acm.org/detail.cfm?id=3321612 Online Event Processing - ACM Queue
 - https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86 Queues for Kafka. 
 
 # 12-10-2023
