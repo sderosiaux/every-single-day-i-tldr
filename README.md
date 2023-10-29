@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 29-10-2023
+
+- https://tcbakes.medium.com/intuits-data-mesh-concepts-214268257dd2 Intuit’s Data Mesh Concepts.
+
 # 23-10-2023
 
 - https://jack-vanlightly.com/blog/2023/10/2/the-advantages-of-queues-on-logs The advantages of queues on logs
