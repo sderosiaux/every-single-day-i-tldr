@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-10-2023
+
+- https://dttung2905.medium.com/zero-trust-with-kafka-91376f7e162d Zero trust with Kafka
+
 # 29-10-2023
 
 - https://tcbakes.medium.com/intuits-data-mesh-concepts-214268257dd2 Intuit’s Data Mesh Concepts.
