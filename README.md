@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-10-2023
+
+- https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab Scaling Kafka to Support PayPal’s Data Growth
+
 # 30-10-2023
 
 - https://dttung2905.medium.com/zero-trust-with-kafka-91376f7e162d Zero trust with Kafka
