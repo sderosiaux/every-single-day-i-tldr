@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-11-2023
+
+- https://medium.com/criteo-engineering/how-we-compute-data-lineage-at-criteo-b3f09fc5c577 How we compute data lineage at Criteo
+
 # 31-10-2023
 
 - https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab Scaling Kafka to Support PayPal’s Data Growth
