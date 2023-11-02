@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-11-2023
 
+- https://www.reforge.com/blog/product-specializations The Growing Specialization of Product Management
 - https://medium.com/criteo-engineering/how-we-compute-data-lineage-at-criteo-b3f09fc5c577 How we compute data lineage at Criteo
 
 # 31-10-2023
