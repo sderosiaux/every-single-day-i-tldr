@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 06-11-2023
+
+- https://piotrminkowski.com/2023/11/06/apache-kafka-on-kubernetes-with-strimzi/ Apache Kafka on Kubernetes with Strimzi
+
 # 02-11-2023
 
 - https://www.reforge.com/blog/product-specializations The Growing Specialization of Product Management
