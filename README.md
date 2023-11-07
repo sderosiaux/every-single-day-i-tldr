@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 07-11-2023
+
+- https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/ Post Mortem on Cloudflare Control Plane and Analytics Outage
+
 # 06-11-2023
 
 - https://piotrminkowski.com/2023/11/06/apache-kafka-on-kubernetes-with-strimzi/ Apache Kafka on Kubernetes with Strimzi
