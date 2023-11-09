@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 09-11-2023
+
+- https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/ 10 hard-to-swallow truths they won't tell you about software engineer job
+
 # 07-11-2023
 
 - https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/ Post Mortem on Cloudflare Control Plane and Analytics Outage
