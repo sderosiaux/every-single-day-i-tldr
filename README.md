@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-11-2023
+
+- https://medium.com/project44-techblog/experiments-in-kafka-compression-ea975a65be92 Experiments in Kafka Compression.
+
 # 09-11-2023
 
 - https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/ 10 hard-to-swallow truths they won't tell you about software engineer job
