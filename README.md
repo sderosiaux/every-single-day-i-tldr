@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-11-2023
+
+- https://twitter.com/zeeg/status/1720971040606793799 David Cramer: "Still can’t believe we all got tricked into using graphql"
+
 # 10-11-2023
 
 - https://medium.com/project44-techblog/experiments-in-kafka-compression-ea975a65be92 Experiments in Kafka Compression.
