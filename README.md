@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-11-2023
+
+- https://www.immuta.com/blog/the-top-5-barriers-to-data-sharing-and-how-to-overcome-them/ The Top 5 Barriers to Data Sharing and How to Overcome Them
+
 # 22-11-2023
 
 - https://www.youtube.com/watch?v=aN3-Yp_28rM AI Expert Explains Future Programming Jobs… and Python
