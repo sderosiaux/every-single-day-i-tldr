@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-11-2023
+
+- https://www.youtube.com/watch?v=1vkb7BCMQd0 Making Friends with Machine Learning: The Entire Course / Cassie Kozyrkov
+
 # 25-11-2023
 
 - https://www.immuta.com/blog/the-top-5-barriers-to-data-sharing-and-how-to-overcome-them/ The Top 5 Barriers to Data Sharing and How to Overcome Them
