@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-11-2023
+
+- https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7 RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?
+
 # 26-11-2023
 
 - https://www.youtube.com/watch?v=1vkb7BCMQd0 Making Friends with Machine Learning: The Entire Course / Cassie Kozyrkov
