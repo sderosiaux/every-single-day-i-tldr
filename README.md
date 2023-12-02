@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-12-2023
+
+- https://www.lennysnewsletter.com/p/lessons-from-going-freemium-a-decision Freemium: think carefully about the friction you want when onboarding users
+
 # 30-11-2023
 
 - https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7 RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?
