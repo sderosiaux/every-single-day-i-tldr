@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-12-2023
 
+- https://www.youtube.com/watch?v=uRkZ8foazHU The Science of Growth with Sean Ellis
 - https://www.youtube.com/watch?v=zjkBMFhNj_g Intro to Large Language Models & LLM security
 
 # 02-12-2023
