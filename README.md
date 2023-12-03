@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-12-2023
+
+- https://www.youtube.com/watch?v=zjkBMFhNj_g Intro to Large Language Models & LLM security
+
 # 02-12-2023
 
 - https://www.lennysnewsletter.com/p/lessons-from-going-freemium-a-decision Freemium: think carefully about the friction you want when onboarding users
