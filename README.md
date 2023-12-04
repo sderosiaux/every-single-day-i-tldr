@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-12-2023
+
+- https://medium.com/@tarasslipets/data-mesh-in-kafka-a-practical-guide-fec23bc25fa2 Data Mesh in Kafka: A Practical Guide
+
 # 03-12-2023
 
 - https://www.youtube.com/watch?v=kCc8FmEb1nY Let's build GPT: from scratch, in code, spelled out.
