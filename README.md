@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 09-12-2023
+
+- https://dipankar-tnt.medium.com/onetable-interoperability-for-apache-hudi-iceberg-delta-lake-bb8b27dd288d OneTable: Interoperability for Hudi, Iceberg, Delta
+
 # 04-12-2023
 
 - https://medium.com/@tarasslipets/data-mesh-in-kafka-a-practical-guide-fec23bc25fa2 Data Mesh in Kafka: A Practical Guide
