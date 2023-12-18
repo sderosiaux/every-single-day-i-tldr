@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 18-12-2023
+
+- https://motherduck.com/blog/big-data-is-dead/ Big Data is Dead
+
 # 10-12-2023
 
 - https://arxiv.org/pdf/2310.08697.pdf The Data Lakehouse: Data Warehousing and More
