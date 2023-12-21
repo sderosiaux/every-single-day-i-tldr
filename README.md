@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-12-2023
 
+- https://clickhouse.com/blog/clickhouse-redpanda-architecture-with-goldsky Goldsky - A Gold Standard Architecture with ClickHouse and Redpanda
 - https://blog.px.dev/detect-pii/ I shouldn't be seeing this: anonymize sensitive data while debugging
 
 # 18-12-2023
