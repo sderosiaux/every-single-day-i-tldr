@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-12-2023
+
+- https://blog.px.dev/detect-pii/ I shouldn't be seeing this: anonymize sensitive data while debugging
+
 # 18-12-2023
 
 - https://motherduck.com/blog/big-data-is-dead/ Big Data is Dead
