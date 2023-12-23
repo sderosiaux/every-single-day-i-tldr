@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 23-12-2023
+
+- https://www.thenile.dev/blog/transaction-isolation-postgres Transaction Isolation in Postgres
+
 # 21-12-2023
 
 - https://clickhouse.com/blog/clickhouse-redpanda-architecture-with-goldsky Goldsky - A Gold Standard Architecture with ClickHouse and Redpanda
