@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-12-2023
 
+- https://www.infoq.com/presentations/eventual-consistent/ Eventual Consistency – Don’t Be Afraid!
 - https://www.thenile.dev/blog/transaction-isolation-postgres Transaction Isolation in Postgres
 
 # 21-12-2023
