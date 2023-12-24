@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-12-2023
+
+- https://docs.google.com/presentation/d/11YgRsOTtJDzLA5FBsJ4fhx_t_PgTUwNWUvZgx7ZMpO4/edit#slide=id.g282cd05ef4b_1_373 5-minute Practical Streaming Techniques that can Save You Millions
+
 # 23-12-2023
 
 - https://www.infoq.com/presentations/eventual-consistent/ Eventual Consistency – Don’t Be Afraid!
