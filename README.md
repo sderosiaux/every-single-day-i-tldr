@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-12-2023
+
+- https://zendesk.engineering/kafka-automating-root-ca-rotation-with-vault-9bbbe07c7c6e Kafka: Automating Root CA rotation with Vault
+
 # 24-12-2023
 
 - https://docs.google.com/presentation/d/11YgRsOTtJDzLA5FBsJ4fhx_t_PgTUwNWUvZgx7ZMpO4/edit#slide=id.g282cd05ef4b_1_373 5-minute Practical Streaming Techniques that can Save You Millions
