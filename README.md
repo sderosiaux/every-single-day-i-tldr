@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 31-12-2023
 
+- https://www.youtube.com/watch?v=gOJL3gjc8ak Improving our neuroplasticity
 - https://zendesk.engineering/kafka-automating-root-ca-rotation-with-vault-9bbbe07c7c6e Kafka: Automating Root CA rotation with Vault
 
 # 24-12-2023
