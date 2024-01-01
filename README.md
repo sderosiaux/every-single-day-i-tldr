@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-01-2024
+
+- https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3 Neon - Serverless PostgreSQL
+
 # 31-12-2023
 
 - https://www.youtube.com/watch?v=gOJL3gjc8ak Improving our neuroplasticity
