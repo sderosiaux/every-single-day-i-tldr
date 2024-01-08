@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-01-2024
+
+- https://www.mostlymetrics.com/p/emergency-post-wtf-is-going-on-at Emergency post: WTF is going on at Carta?
+
 # 01-01-2024
 
 - https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3 Neon - Serverless PostgreSQL
