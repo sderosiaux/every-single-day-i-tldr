@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-01-2024
+
+- https://medium.com/@axel.schwanke/data-mesh-in-practice-recommendations-from-roches-journey-e0e0d51c4a89 Data Mesh In Practice — Recommendations from Roche’s Journey
+
 # 08-01-2024
 
 - https://www.mostlymetrics.com/p/emergency-post-wtf-is-going-on-at Emergency post: WTF is going on at Carta?
