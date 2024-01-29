@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 29-01-2024
+
+- https://www.linkedin.com/pulse/windowing-event-streams-bill-bejeck-jruye/ Windowing in event streams, Kafka Streams & Flink
+
 # 15-01-2024
 
 - https://medium.com/@debyroth340/identify-job-completion-in-multi-phase-kafka-consumers-33ee8a974963 Identify Job Completion in multi-phase Kafka consumers: always separate concerns
