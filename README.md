@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-02-2024
+
+- https://medium.com/capital-one-tech/introducing-data-mesh-2-0-a-new-era-of-data-governance-27170c7a75cb Data Mesh 2.0: Revolutionizing Data Governance | Capital One
+
 # 29-01-2024
 
 - https://www.linkedin.com/pulse/windowing-event-streams-bill-bejeck-jruye/ Windowing in event streams, Kafka Streams & Flink
