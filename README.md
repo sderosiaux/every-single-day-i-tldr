@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-02-2024
 
+- https://towardsdatascience.com/dont-fix-bad-data-do-this-instead-d45262444cf2 Fix Data Quality at the beginning
 - https://medium.com/swlh/growth-vs-marketing-bf421fa543af Growth vs Marketing. We need to stop equating the two
 
 # 03-02-2024
