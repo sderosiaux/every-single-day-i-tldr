@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-02-2024
 
+- https://cnr.sh/essays/what-the-heck-data-mesh What the Heck is a Data Mesh?!
 - https://www.montecarlodata.com/blog-data-contracts/ Data Contracts: 7 Critical Implementation Lessons Learned
 - https://www.youtube.com/watch?v=0WAfevbtdeY (56) The State of Data Engineering Data Day Texas 2024
 - https://towardsdatascience.com/dont-fix-bad-data-do-this-instead-d45262444cf2 Fix Data Quality at the beginning
