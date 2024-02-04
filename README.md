@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-02-2024
 
+- https://medium.com/@dmitri.mahayana/idx-stock-real-time-data-prediction-with-flink-kafka-mongodb-526c6abf291f IDX Stock — Real Time Data Prediction with Flink-Kafka-MongoDB
 - https://medium.com/decathlondigital/seamless-data-exchange-with-kafka-connect-and-strimzi-on-kubernetes-at-decathlon-e6f81d034535 Seamless data exchange with Kafka Connect and Strimzi on Kubernetes at Decathlon
 - https://cnr.sh/essays/what-the-heck-data-mesh What the Heck is a Data Mesh?!
 - https://www.montecarlodata.com/blog-data-contracts/ Data Contracts: 7 Critical Implementation Lessons Learned
