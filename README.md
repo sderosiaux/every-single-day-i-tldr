@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-02-2024
 
+- https://blog.octo.com/data-as-a-product-pierre-angulaire-du-data-mesh Data-as-a-product: pierre angulaire du Data-Mesh
 - https://towardsdatascience.com/the-data-mesh-registry-a-window-into-your-data-mesh-20dece35e05a The Data Mesh Registry — a Window into Your Data Mesh
 
 # 04-02-2024
