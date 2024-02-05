@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-02-2024
+
+- https://towardsdatascience.com/the-data-mesh-registry-a-window-into-your-data-mesh-20dece35e05a The Data Mesh Registry — a Window into Your Data Mesh
+
 # 04-02-2024
 
 - https://medium.com/@dmitri.mahayana/idx-stock-real-time-data-prediction-with-flink-kafka-mongodb-526c6abf291f IDX Stock — Real Time Data Prediction with Flink-Kafka-MongoDB
