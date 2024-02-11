@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-02-2024
+
+- https://piethein.medium.com/understanding-data-modelling-in-data-mesh-bf0dfcfd0583 Understanding Data Modelling in Data Mesh
+
 # 05-02-2024
 
 - https://svenbalnojan.medium.com/product-data-teams-101-bf0e42c2000d Product Data Teams 101
