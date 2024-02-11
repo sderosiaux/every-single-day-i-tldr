@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-02-2024
 
+- https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef Building a Data Platform in 2024. How to build a modern, scalable data platform
 - https://piethein.medium.com/understanding-data-modelling-in-data-mesh-bf0dfcfd0583 Understanding Data Modelling in Data Mesh
 
 # 05-02-2024
