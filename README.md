@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-02-2024
+
+- https://www.youtube.com/watch?v=uv52swYfStU Next Generation Data Mesh Catalogs
+
 # 11-02-2024
 
 - https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef Building a Data Platform in 2024. How to build a modern, scalable data platform
