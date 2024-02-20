@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-02-2024
+
+- https://materializedview.io/p/from-samza-to-flink-a-decade-of-stream From Samza to Flink: A Decade of Stream Processing
+
 # 13-02-2024
 
 - https://www.youtube.com/watch?v=uv52swYfStU Next Generation Data Mesh Catalogs
