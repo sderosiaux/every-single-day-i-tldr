@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 06-03-2024
+
+- https://seattledataguy.substack.com/p/the-state-of-data-engineering-part-b61 The State Of Data Engineering - Part 2
+
 # 05-03-2024
 
 - https://www.adventofdata.com/using-airflow-the-wrong-way/ Using Airflow the wrong way
