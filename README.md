@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-03-2024
 
+- https://www.warpstream.com/blog/kafka-kv-store Kafka as a KV Store: deduplicating millions of keys with just 128 MiB
 - https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522 The next generation of Data Platforms is the Data Mesh
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-317%3A+Add+end-to-end+data+encryption+functionality+to+Apache+Kafka KIP-317: Add end-to-end data encryption functionality to Apache
 
