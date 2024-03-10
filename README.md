@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-03-2024
 
+- https://www.youtube.com/watch?v=IOJLFWXj4pA [DEVFEST Lille 2023] - Comment venir à bout d'un projet de migration ? Et si on utilisait Kafka ?
 - https://blog.allegro.tech/2024/03/kafka-performance-analysis.html Unlocking Kafka's Potential: Tackling Tail Latency with eBPF
 - https://www.warpstream.com/blog/kafka-kv-store Kafka as a KV Store: deduplicating millions of keys with just 128 MiB
 - https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522 The next generation of Data Platforms is the Data Mesh
