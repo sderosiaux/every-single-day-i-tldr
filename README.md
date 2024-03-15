@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-03-2024
+
+- https://www.arroyo.dev/blog/why-arrow-and-datafusion We built a new SQL Engine on Arrow and DataFusion
+
 # 10-03-2024
 
 - https://www.youtube.com/watch?v=5t1vTLU7s40 Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI
