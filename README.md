@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-03-2024
+
+- https://joshaustin.tech/blog/kafka-as-an-antipattern/ Kafka As An Antipattern
+
 # 23-03-2024
 
 - https://jack-vanlightly.com/blog/2024/3/19/tableflow-the-stream-table-kafka-iceberg-duality Tableflow: the stream/table, Kafka/Iceberg duality
