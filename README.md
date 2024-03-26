@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-03-2024
+
+- https://engineering.depop.com/exploring-kafka-consumer-at-least-once-delivery-guarantees-expectations-vs-reality-36fd03e7a5e1 Exploring Kafka Consumer At-Least-Once Delivery Guarantees: Rebalancing causes, max.poll.records, Assignor!
+
 # 24-03-2024
 
 - https://joshaustin.tech/blog/kafka-as-an-antipattern/ Kafka As An Antipattern
