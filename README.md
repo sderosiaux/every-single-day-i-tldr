@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-03-2024
+
+- https://medium.com/walmartglobaltech/building-walmarts-seamless-communication-leveraging-kafka-s-custom-partitioning-5d75a2ea61a0 Building Walmart’s Seamless Communication: Leveraging Kafka’s Custom Partitioning
+
 # 26-03-2024
 
 - https://engineering.depop.com/exploring-kafka-consumer-at-least-once-delivery-guarantees-expectations-vs-reality-36fd03e7a5e1 Exploring Kafka Consumer At-Least-Once Delivery Guarantees: Rebalancing causes, max.poll.records, Assignor!
