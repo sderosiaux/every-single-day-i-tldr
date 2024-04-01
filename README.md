@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-04-2024
 
+- https://assets.confluent.io/m/16b20efd116686d9/original/20240322-WP-Guide_Streaming_Data_Mesh.pd Confluent Guide Streaming Data Mesh
 - https://elenaverna.substack.com/p/b2b-growth-irl-how-to-do-event-marketing?utm_source=tldrfounders B2B Growth, IRL: How to do event marketing that actually makes a difference.
 
 # 31-03-2024
