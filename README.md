@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-04-2024
+
+- https://elenaverna.substack.com/p/b2b-growth-irl-how-to-do-event-marketing?utm_source=tldrfounders B2B Growth, IRL: How to do event marketing that actually makes a difference.
+
 # 31-03-2024
 
 - https://medium.com/walmartglobaltech/building-walmarts-seamless-communication-leveraging-kafka-s-custom-partitioning-5d75a2ea61a0 Building Walmart’s Seamless Communication: Leveraging Kafka’s Custom Partitioning
