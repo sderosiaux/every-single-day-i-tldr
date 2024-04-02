@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-04-2024
+
+- https://medium.com/exness-blog/streaming-data-platform-at-exness-overview-cb0ffca5844b Streaming Data Platform at Exness: Overview
+
 # 01-04-2024
 
 - https://assets.confluent.io/m/16b20efd116686d9/original/20240322-WP-Guide_Streaming_Data_Mesh.pd Confluent Guide Streaming Data Mesh
