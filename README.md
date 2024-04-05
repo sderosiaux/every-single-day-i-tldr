@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 06-04-2024
+
+- https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff How we built Text-to-SQL at Pinterest
+
 # 03-04-2024
 
 - https://medium.com/vvus/data-council-2024-the-future-data-stack-is-composable-and-other-hot-takes-b6c5f2429e22 Data Council 2024: The future data stack is composable
