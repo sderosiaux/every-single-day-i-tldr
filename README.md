@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-04-2024
 
+- https://romaricphilogene.substack.com/p/platform-tips-20-why-backstage-is Why Backstage is So Complex? Is There An Alternative?
 - https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff How we built Text-to-SQL at Pinterest
 
 # 03-04-2024
