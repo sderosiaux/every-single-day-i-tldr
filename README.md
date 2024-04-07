@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-04-2024
+
+- https://evaparish.com/blog/how-i-edit What I think about when I edit. (I'm a big fan of Writing Well)
+
 # 06-04-2024
 
 - https://romaricphilogene.substack.com/p/platform-tips-20-why-backstage-is Why Backstage is So Complex? Is There An Alternative?
