@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 23-04-2024
+
+- https://medium.com/@leal901/kafka-connect-a-love-hate-relationship-3fa69361f6e6 Kafka Connect: A Love/Hate Relationship
+
 # 08-04-2024
 
 - https://evaparish.com/blog/how-i-edit What I think about when I edit. (I'm a big fan of Writing Well)
