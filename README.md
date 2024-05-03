@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-05-2024
+
+- https://jack-vanlightly.com/blog/2024/5/2/hybrid-transactional-analytical-storage Hybrid Transactional/Analytical Storage
+
 # 23-04-2024
 
 - https://medium.com/@leal901/kafka-connect-a-love-hate-relationship-3fa69361f6e6 Kafka Connect: A Love/Hate Relationship
