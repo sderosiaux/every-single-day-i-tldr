@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-05-2024
 
+- https://medium.com/@yingjunwu/why-stream-processing-is-a-terrible-market-yet-we-are-still-investing-in-it-43e66cef7847 Why Stream Processing is a Terrible Market (Yet We Are Still Investing in It)
 - https://jack-vanlightly.com/blog/2024/5/2/hybrid-transactional-analytical-storage Hybrid Transactional/Analytical Storage
 
 # 23-04-2024
