@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-05-2024
 
+- https://www.blef.fr/how-to-build-a-data-team/?ref=data-news-newsletter How to build a data team
 - https://www.alasdairb.com/posts/200-conversation-at-kafka-summit Conversations with 200+ people at Kafka Summit
 - https://medium.com/@yingjunwu/why-stream-processing-is-a-terrible-market-yet-we-are-still-investing-in-it-43e66cef7847 Why Stream Processing is a Terrible Market (Yet We Are Still Investing in It)
 - https://jack-vanlightly.com/blog/2024/5/2/hybrid-transactional-analytical-storage Hybrid Transactional/Analytical Storage
