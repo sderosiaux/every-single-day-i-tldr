@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-05-2024
 
+- https://www.youtube.com/watch?v=JzT96Sju3aE Back Market: migration d'AWS vers GCP
 - https://www.youtube.com/watch?v=tB78_gQ2Wy8 Lessons from Building a Large-scale, Multi-cloud Data Platform at Databricks
 
 # 04-05-2024
