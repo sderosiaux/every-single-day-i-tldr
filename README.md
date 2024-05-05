@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-05-2024
+
+- https://www.youtube.com/watch?v=tB78_gQ2Wy8 Lessons from Building a Large-scale, Multi-cloud Data Platform at Databricks
+
 # 04-05-2024
 
 - https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka Tiered Storage Won’t Fix Kafka
