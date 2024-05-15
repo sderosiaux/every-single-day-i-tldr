@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-05-2024
+
+- https://devblogit.com/how-uber-uses-kafka/ Uber, Kafka, Dynamic Pricing
+
 # 05-05-2024
 
 - https://www.youtube.com/watch?v=JzT96Sju3aE Back Market: migration d'AWS vers GCP
