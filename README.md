@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-05-2024
+
+- https://mikkeldengsoe.substack.com/p/data-about-data-from-1000-conversations Data about data from 1,000 conversations with data teams
+
 # 15-05-2024
 
 - https://devblogit.com/how-uber-uses-kafka/ Uber, Kafka, Dynamic Pricing
