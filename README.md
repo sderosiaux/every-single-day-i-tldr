@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-05-2024
 
+- https://medium.com/israeli-tech-radar/how-to-save-90-on-bigquery-storage-a1ca99582c5c How to save 90% of BigQuery’s storage cost / Physical billing model and time travel
 - https://www.meltwater.com/en/blog/how-deliveroo-uses-machine-learning-to-power-food-delivery How Deliveroo uses machine learning to power food delivery
 - https://mikkeldengsoe.substack.com/p/data-about-data-from-1000-conversations Data about data from 1,000 conversations with data teams
 
