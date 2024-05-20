@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-05-2024
+
+- https://materializedview.io/p/nimble-and-lance-parquet-killers Nimble and Lance: The Parquet Killers
+
 # 19-05-2024
 
 - https://medium.com/israeli-tech-radar/how-to-save-90-on-bigquery-storage-a1ca99582c5c How to save 90% of BigQuery’s storage cost / Physical billing model and time travel
