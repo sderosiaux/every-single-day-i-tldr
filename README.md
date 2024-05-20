@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-05-2024
 
+- https://medium.com/@adam.bellemare/preventing-and-fixing-bad-data-in-event-streams-part-1-27bf2a99b48e Preventing and Fixing Bad Data in Event Streams #kafka
 - https://materializedview.io/p/nimble-and-lance-parquet-killers Nimble and Lance: The Parquet Killers
 
 # 19-05-2024
