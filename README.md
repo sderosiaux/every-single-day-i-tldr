@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 27-05-2024
 
+- https://blog.cloudflare.com/ai-gateway-is-generally-available AI Gateway is generally available: a unified interface for managing and scaling your generative AI workloads
 - https://engineering.fb.com/2024/05/22/data-infrastructure/composable-data-management-at-meta/ Composable data management at Meta
 
 # 20-05-2024
