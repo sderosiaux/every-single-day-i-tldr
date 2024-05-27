@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 27-05-2024
+
+- https://engineering.fb.com/2024/05/22/data-infrastructure/composable-data-management-at-meta/ Composable data management at Meta
+
 # 20-05-2024
 
 - https://dev.to/mrkandreev/what-is-rocksdb-and-its-role-in-streaming-3bla What is RocksDB (and its role in streaming)?
