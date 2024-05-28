@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 29-05-2024
+
+- https://www.warpstream.com/blog/zero-disks-is-better-for-kafka Zero Disks is Better (for Kafka)
+
 # 27-05-2024
 
 - https://newrelic.com/blog/how-to-relic/tuning-apache-kafka-consumers Tuning Apache Kafka Consumers to maximize throughput and reduce costs
