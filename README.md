@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 08-06-2024
+
+- https://www.honeycomb.io/blog/investigating-kafka-tiered-storage Investigating Kafka Broker I/O When Using Tiered Storage
+
 # 04-06-2024
 
 - https://medium.com/@martin.hodges/why-do-i-need-a-service-mesh-as-well-as-a-cni-829b492398b7 Why do I need a Service Mesh as well as a CNI?
