@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-06-2024
 
+- https://en.wikipedia.org/wiki/Dead_Internet_theory Dead Internet theory
 - https://pivotal.substack.com/p/how-to-price-a-data-asset How To Price A Data Asset
 - https://towardsdatascience.com/why-data-is-not-the-new-oil-and-data-marketplaces-have-failed-us-b42dd87a0ba0 Why Data Is *Not* the New Oil and Data Marketplaces Have Failed Us
 - https://sookocheff.com/post/compliance/the-developers-guide-to-fips-compliance/ The Developers Guide to FIPS 140 Compliance
