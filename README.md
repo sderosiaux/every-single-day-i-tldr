@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 08-06-2024
 
+- https://sookocheff.com/post/compliance/the-developers-guide-to-fips-compliance/ The Developers Guide to FIPS 140 Compliance
 - https://www.honeycomb.io/blog/investigating-kafka-tiered-storage Investigating Kafka Broker I/O When Using Tiered Storage
 
 # 04-06-2024
