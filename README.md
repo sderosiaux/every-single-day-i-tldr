@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 14-06-2024
+
+- https://materializedview.io/p/musings-on-data-lakes-and-kafka-connect Musings on Data Lakes and Kafka Connect
+
 # 08-06-2024
 
 - https://en.wikipedia.org/wiki/Dead_Internet_theory Dead Internet theory
