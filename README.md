@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-06-2024
+
+- https://eng.lyft.com/druid-deprecation-and-clickhouse-adoption-at-lyft-120af37651fd Druid Deprecation and ClickHouse Adoption at Lyft
+
 # 14-06-2024
 
 - https://materializedview.io/p/musings-on-data-lakes-and-kafka-connect Musings on Data Lakes and Kafka Connect
