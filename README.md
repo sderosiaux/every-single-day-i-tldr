@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 16-06-2024
+
+- https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data System
+
 # 15-06-2024
 
 - https://eng.lyft.com/druid-deprecation-and-clickhouse-adoption-at-lyft-120af37651fd Druid Deprecation and ClickHouse Adoption at Lyft
