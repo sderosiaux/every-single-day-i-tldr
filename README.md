@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 22-06-2024
+
+- https://www.blef.fr/databricks-snowflake-and-the-future/ Databricks, Snowflake and the future
+
 # 18-06-2024
 
 - https://www.responsive.dev/blog/guide-to-kafka-streams-state Don't Panic: The Definitive Guide to Kafka Streams State
