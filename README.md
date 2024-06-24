@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-06-2024
+
+- https://towardsdatascience.com/demystify-data-backfilling-cf1713d7f7a3 Demystify Data Backfilling.
+
 # 22-06-2024
 
 - https://www.blef.fr/databricks-snowflake-and-the-future/ Databricks, Snowflake and the future
