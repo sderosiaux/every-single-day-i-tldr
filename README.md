@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-07-2024
 
+- https://medium.com/@davorborcic/data-lineage-and-impact-analysis-8f16510cc089 Data Lineage and Impact Analysis.
 - https://medium.com/@matvey.mtn/fixing-kafka-streams-uneven-tasks-distribution-at-logz-io-50e7ac071b5b Fixing Kafka Streams Uneven Tasks Distribution at Logz.io
 
 # 24-06-2024
