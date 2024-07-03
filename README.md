@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-07-2024
 
+- https://www.notion.so/blog/building-and-scaling-notions-data-lake Building and scaling Notion’s data lake: Kafka!
 - https://www.decodable.co/blog/flink-sql-misconfiguration-misunderstanding-and-mishaps Flink SQL—Misconfiguration, Misunderstanding, and Mishaps
 - https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html PgBouncer is useful, important, and fraught with peril
 - https://medium.com/@davorborcic/data-lineage-and-impact-analysis-8f16510cc089 Data Lineage and Impact Analysis.
