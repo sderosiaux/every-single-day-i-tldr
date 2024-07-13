@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-07-2024
+
+- https://seattledataguy.substack.com/p/dont-lead-a-data-team-before-reading What it takes to Lead a Data Team
+
 # 03-07-2024
 
 - https://www.notion.so/blog/building-and-scaling-notions-data-lake Building and scaling Notion’s data lake: Kafka!
