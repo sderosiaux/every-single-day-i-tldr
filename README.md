@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 14-07-2024
+
+- https://aws.amazon.com/blogs/aws/introducing-end-to-end-data-lineage-preview-visualization-in-amazon-datazone/ Introducing end-to-end data lineage (preview) visualization in Amazon DataZone
+
 # 13-07-2024
 
 - https://seattledataguy.substack.com/p/dont-lead-a-data-team-before-reading What it takes to Lead a Data Team
