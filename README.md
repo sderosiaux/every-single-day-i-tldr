@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-07-2024
+
+- https://www.bigtechnology.com/p/the-end-of-investors-genai-honeymoon The End Of Investors’ GenAI Honeymoon
+
 # 16-07-2024
 
 - https://newsletter.mkt1.co/p/pricing-pages Why all B2B Startups need plans & pricing pages on their websites
