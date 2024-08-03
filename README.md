@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-08-2024
+
+- https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech?stcr=6025C6CA33D84B4FACD59ADC2A05E538&cid=other-eml-nsl-mip-mck&hlkid=67f3b99299784fce91b4af4207cbeebb&hctky=14255962&hdpid=7168a89b-3b02-450f-9ba3-5ceaef6f3881 McKinsey technology trends outlook 2024 | McKinsey
+
 # 19-07-2024
 
 - https://www.bigtechnology.com/p/the-end-of-investors-genai-honeymoon The End Of Investors’ GenAI Honeymoon
