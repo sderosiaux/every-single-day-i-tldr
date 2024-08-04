@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-08-2024
 
+- https://www.osohq.com/post/kafka-sqlite-low-latency Building a resilient and low-latency service using Kafka and SQLite
 - https://www.redpanda.com/blog/write-caching-performance-benchmark Redpanda adopting the same strategy as Apache Kafka regarding delayed fsyncs
 
 # 03-08-2024
