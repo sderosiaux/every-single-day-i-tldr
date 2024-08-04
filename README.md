@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-08-2024
+
+- https://www.redpanda.com/blog/write-caching-performance-benchmark Redpanda adopting the same strategy as Apache Kafka regarding delayed fsyncs
+
 # 03-08-2024
 
 - https://aws.amazon.com/blogs/big-data/improve-apache-kafka-scalability-and-resiliency-using-amazon-msk-tiered-storage/ Improve Apache Kafka scalability and resiliency using Amazon MSK tiered storage
