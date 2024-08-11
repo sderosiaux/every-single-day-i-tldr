@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-08-2024
 
+- https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d Java 21 Virtual Threads - Dude, Where’s My Lock?
 - https://www.timeplus.com/post/real-time-ddos-detection Real-Time AI-Powered DDoS Detection with Timeplus and OpenAI
 - https://playbooks.hypergrowthpartners.com/p/devtools-website-design-principles DevTools Website Design Principles
 
