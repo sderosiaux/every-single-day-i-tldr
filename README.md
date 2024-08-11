@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-08-2024
+
+- https://playbooks.hypergrowthpartners.com/p/devtools-website-design-principles DevTools Website Design Principles
+
 # 04-08-2024
 
 - https://www.osohq.com/post/kafka-sqlite-low-latency Building a resilient and low-latency service using Kafka and SQLite
