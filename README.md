@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-08-2024
+
+- https://www.warpstream.com/blog/dealing-with-rejection-in-distributed-systems Dealing with rejection and back-pressure (in distributed systems)
+
 # 11-08-2024
 
 - https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d Java 21 Virtual Threads - Dude, Where’s My Lock?
