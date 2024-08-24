@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 24-08-2024
 
+- https://supabase.com/blog/postgres-new postgres.new: In-browser Postgres with an AI interface
 - https://www.warpstream.com/blog/dealing-with-rejection-in-distributed-systems Dealing with rejection and back-pressure (in distributed systems)
 
 # 11-08-2024
