@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-08-2024
+
+- https://martyoo.medium.com/stop-team-topologies-fd954ea26eca Stop Team Topologies. Reevaluating Team Topologies
+
 # 24-08-2024
 
 - https://supabase.com/blog/postgres-new postgres.new: In-browser Postgres with an AI interface
