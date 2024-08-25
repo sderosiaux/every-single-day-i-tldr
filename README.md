@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-08-2024
 
+- https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/ DoorDash Empowers Engineers with Kafka Self-Serve
 - https://martyoo.medium.com/stop-team-topologies-fd954ea26eca Stop Team Topologies. Reevaluating Team Topologies
 
 # 24-08-2024
