@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-08-2024
+
+- https://www.responsive.dev/blog/async-processing-for-kafka-streams Async Processing in Kafka Streams
+
 # 25-08-2024
 
 - https://medium.com/confluent/the-mysteries-of-kip-813-8fd2e85ac1d9 KIP-813: Shareable State Stores aka Read-only State Stores
