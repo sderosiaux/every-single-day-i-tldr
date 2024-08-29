@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 29-08-2024
+
+- https://materializedview.io/p/unpacking-the-buzz-around-clickhouse Unpacking the Buzz around ClickHouse
+
 # 26-08-2024
 
 - https://www.responsive.dev/blog/async-processing-for-kafka-streams Async Processing in Kafka Streams
