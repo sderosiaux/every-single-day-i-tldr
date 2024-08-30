@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-08-2024
+
+- https://www.elastic.co/blog/elasticsearch-is-open-source-again Elasticsearch is Open Source, Again (AGPL)
+
 # 29-08-2024
 
 - https://materializedview.io/p/unpacking-the-buzz-around-clickhouse Unpacking the Buzz around ClickHouse
