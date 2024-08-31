@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-08-2024
+
+- https://medium.com/starrocks-engineering/how-to-accelerate-semi-structured-data-analytics-13b7ae32e34f How To Accelerate Semi-Structured Data Analytics
+
 # 30-08-2024
 
 - https://www.elastic.co/blog/elasticsearch-is-open-source-again Elasticsearch is Open Source, Again (AGPL)
