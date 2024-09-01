@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-09-2024
+
+- https://alirezasadeghi1.medium.com/the-history-and-evolution-of-open-table-formats-0f1b9ea10e1e The History and Evolution of Open Table Formats
+
 # 31-08-2024
 
 - https://medium.com/starrocks-engineering/how-to-accelerate-semi-structured-data-analytics-13b7ae32e34f How To Accelerate Semi-Structured Data Analytics
