@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-09-2024
+
+- https://streamingdata.substack.com/p/streaming-first-archirecture Streaming-First Architecture
+
 # 01-09-2024
 
 - https://alirezasadeghi1.medium.com/the-history-and-evolution-of-open-table-formats-0f1b9ea10e1e The History and Evolution of Open Table Formats
