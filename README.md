@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-09-2024
+
+- https://newsletter.pragmaticengineer.com/p/ai-tooling-part-3 AI Tooling for Software Engineers: Rolling it out company-wide (Part 3)
+
 # 02-09-2024
 
 - https://streamingdata.substack.com/p/streaming-first-archirecture Streaming-First Architecture
