@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 14-09-2024
 
+- https://www.redpanda.com/blog/redpanda-one-multi-modal-streaming-data-engine Redpanda | Redpanda One
 - https://jack-vanlightly.com/blog/2024/9/11/byoc-not-the-future-of-cloud-services-but-a-pillar-of-an-everywhere-platform BYOC, not “the future of cloud services” but a pillar of an everywhere platform
 
 # 10-09-2024
