@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-09-2024
+
+- https://jack-vanlightly.com/blog/2024/9/19/table-format-comparisons-change-queries-and-cdc Table format comparisons - Change queries and CDC
+
 # 14-09-2024
 
 - https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b gRPC: 5 Years Later, Is It Still Worth It?
