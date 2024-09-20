@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-09-2024
 
+- https://moderndata101.substack.com/p/semantics-and-data-product-enablement Semantics and Data Product Enablement
 - https://jack-vanlightly.com/blog/2024/9/19/table-format-comparisons-change-queries-and-cdc Table format comparisons - Change queries and CDC
 
 # 14-09-2024
