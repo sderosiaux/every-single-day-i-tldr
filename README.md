@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-09-2024
+
+- https://juhache.substack.com/p/rip-iceberg-catalogs RIP Iceberg Catalogs ? - by Julien Hurault
+
 # 20-09-2024
 
 - https://moderndata101.substack.com/p/semantics-and-data-product-enablement Semantics and Data Product Enablement
