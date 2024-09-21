@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-09-2024
 
+- https://www.dataengineeringweekly.com/p/evaluating-data-observability-tools Evaluating Data Observability Tools
 - https://juhache.substack.com/p/rip-iceberg-catalogs RIP Iceberg Catalogs ? - by Julien Hurault
 
 # 20-09-2024
