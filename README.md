@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-09-2024
 
+- https://www.youtube.com/watch?v=Sn6fVsOzrSU Current 2024 Keynote Day 1 - Data Streaming in the Age of AI #kafka
 - https://www.youtube.com/watch?v=UakqL6Pj9xo Francois Chollet - LLMs won’t lead to AGI
 
 # 21-09-2024
