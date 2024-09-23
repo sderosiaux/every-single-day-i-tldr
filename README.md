@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 23-09-2024
+
+- https://blog.flipkart.tech/flipkart-enhances-ai-safety-in-e-commerce-implementing-nvidia-nemo-guardrails-cb2f293b29c0 Flipkart Enhances AI Safety in E-Commerce: Implementing NVIDIA NeMo Guardrails
+
 # 22-09-2024
 
 - https://www.youtube.com/watch?v=-wCzn9gKoUk A Short Summary of the Last Decades of Data Management - Tables are eternal, NoSQL was a bad idea, Big data is dead, DuckDB
