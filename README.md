@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 23-09-2024
 
+- https://dropbox.tech/security/how-we-use-lakera-guard-to-secure-our-llms How we use Lakera Guard to secure our LLMs - Dropbox
 - https://blog.flipkart.tech/flipkart-enhances-ai-safety-in-e-commerce-implementing-nvidia-nemo-guardrails-cb2f293b29c0 Flipkart Enhances AI Safety in E-Commerce: Implementing NVIDIA NeMo Guardrails
 
 # 22-09-2024
