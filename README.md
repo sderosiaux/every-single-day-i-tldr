@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 28-09-2024
+
+- https://jack-vanlightly.com/blog/2024/9/26/table-format-interoperability-future-or-fantasy Table format interoperability, future or fantasy?
+
 # 23-09-2024
 
 - https://dropbox.tech/security/how-we-use-lakera-guard-to-secure-our-llms How we use Lakera Guard to secure our LLMs - Dropbox
