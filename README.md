@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-10-2024
+
+- https://www.kai-waehner.de/blog/2024/10/04/what-is-microsoft-fabric-for-azure-cloud-beyond-the-buzz-and-how-it-competes-with-snowflake-and-databricks/ What is Microsoft Fabric for Azure Cloud and how it Competes with Snowflake and Databricks
+
 # 29-09-2024
 
 - https://pub.towardsai.net/not-rag-but-rag-fusion-understanding-next-gen-info-retrieval-477788da02e2 RAG Fusion: Understanding "Next-Gen" Info Retrieval
