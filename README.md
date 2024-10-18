@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 18-10-2024
+
+- https://medium.nandos.dev/running-a-modern-data-platform-at-nandos-part-2-2-data-mesh-and-data-contracts-1d1937b6cac6 Running a Modern Data Platform at Nando’s #datamesh
+
 # 09-10-2024
 
 - https://towardsdatascience.com/how-to-choose-the-architecture-for-your-genai-application-6053e862c457 How to Choose the Architecture for Your GenAI Application
