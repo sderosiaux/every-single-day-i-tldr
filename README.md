@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-10-2024
 
+- https://kai-waehner.medium.com/the-shift-left-architecture-from-batch-and-lakehouse-to-data-streaming-d1ea7306ea30 The Shift Left Architecture — From Batch and Lakehouse to Data Streaming
 - https://towardsdatascience.com/i-fine-tuned-the-tiny-llama-3-2-1b-to-replace-gpt-4o-7ce1e5619f3d I Fine-Tuned the Tiny Llama 3.2 1B to Replace GPT-4o
 
 # 18-10-2024
