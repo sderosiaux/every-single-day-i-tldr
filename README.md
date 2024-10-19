@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-10-2024
+
+- https://towardsdatascience.com/i-fine-tuned-the-tiny-llama-3-2-1b-to-replace-gpt-4o-7ce1e5619f3d I Fine-Tuned the Tiny Llama 3.2 1B to Replace GPT-4o
+
 # 18-10-2024
 
 - https://nabeelqu.substack.com/p/reflections-on-palantir Reflections on Palantir
