@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 20-10-2024
 
+- https://towardsdatascience.com/safeguarding-your-rag-pipelines-a-step-by-step-guide-to-implementing-llama-guard-with-llamaindex-6f80a2e07756 Safeguarding Your RAG Pipelines: A Step-by-Step Guide to Implementing Llama Guard with LlamaIndex
 - https://towardsdatascience.com/how-to-choose-the-architecture-for-your-genai-application-6053e862c457 How to Choose the Architecture for Your GenAI Application
 - https://docs.kleiber.me/2023-12-29-Kleiber-A-Primer-On-LLM-Security.pdf A Primer on LLM Security
 
