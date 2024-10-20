@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-10-2024
+
+- https://docs.kleiber.me/2023-12-29-Kleiber-A-Primer-On-LLM-Security.pdf A Primer on LLM Security
+
 # 19-10-2024
 
 - https://medium.com/@community_md101/metrics-focused-data-strategy-with-model-first-data-products-d2e5d23de7b9 Metrics-Focused Data Strategy with Model-First Data Products
