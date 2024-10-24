@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 25-10-2024
+
+- https://seattledataguy.substack.com/p/should-you-build-a-custom-data-orchestration Should You Build a Custom Data Orchestration System?
+
 # 24-10-2024
 
 - https://moderndata101.substack.com/p/the-power-combo-of-ai-agents The Power Combo of AI Agents and the Modular Data Stack: AI that Reasons
