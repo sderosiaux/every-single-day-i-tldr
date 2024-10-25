@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 25-10-2024
 
+- https://www.felicis.com/insight/unstructured-data-stack The three components of the unstructured data stack
 - https://seattledataguy.substack.com/p/should-you-build-a-custom-data-orchestration Should You Build a Custom Data Orchestration System?
 
 # 24-10-2024
