@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 26-10-2024
+
+- https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/ Introducing quantized Llama models with increased speed and a reduced memory footprint
+
 # 25-10-2024
 
 - https://www.felicis.com/insight/unstructured-data-stack The three components of the unstructured data stack
