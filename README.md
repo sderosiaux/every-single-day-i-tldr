@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 26-10-2024
 
+- https://yokota.blog/2021/08/26/understanding-protobuf-compatibility/ Understanding Protobuf Compatibility
 - https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/ Introducing quantized Llama models with increased speed and a reduced memory footprint
 
 # 25-10-2024
