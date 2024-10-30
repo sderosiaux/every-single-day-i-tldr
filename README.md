@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-10-2024
+
+- https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu The Strange Kafka World of the EU AI Act
+
 # 26-10-2024
 
 - https://yokota.blog/2021/08/26/understanding-protobuf-compatibility/ Understanding Protobuf Compatibility
