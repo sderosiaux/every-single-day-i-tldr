@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-11-2024
+
+- https://www.linkedin.com/pulse/how-confluent-acquired-warpstream-220m-after-just-13-months-hxgyf How Confluent acquired WarpStream for $220m after just 13 months of operation
+
 # 30-10-2024
 
 - https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu The Strange Kafka World of the EU AI Act
