@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-11-2024
 
+- https://www.responsive.dev/blog/why-slatedb-for-kafka-streams RocksDB vs SlateDB for Stream Processing #kafka #cost
 - https://www.databricks.com/customers/coinbase/streaming The boom of SOON | Databricks Customer Story
 - https://www.linkedin.com/pulse/how-confluent-acquired-warpstream-220m-after-just-13-months-hxgyf How Confluent acquired WarpStream for $220m after just 13 months of operation
 
