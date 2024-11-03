@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-11-2024
+
+- https://www.decodable.co/blog/revisiting-the-outbox-pattern Revisiting the Outbox Pattern #kafka
+
 # 02-11-2024
 
 - https://www.thenile.dev/blog/multi-tenant-rag Nile: Building successful multi-tenant RAG applications
