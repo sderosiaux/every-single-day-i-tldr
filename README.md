@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 13-11-2024
 
+- https://medium.com/@louise.de.leyritz/tracing-value-6-use-cases-for-data-lineage-fae59cd5a971 Tracing Value: 6 Use Cases for Data Lineage
 - https://www.hashicorp.com/blog/rotated-vs-dynamic-secrets-which-should-you-use Rotated vs. dynamic secrets: Which should you use?
 
 # 03-11-2024
