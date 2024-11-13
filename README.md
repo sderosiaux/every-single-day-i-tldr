@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 13-11-2024
+
+- https://www.hashicorp.com/blog/rotated-vs-dynamic-secrets-which-should-you-use Rotated vs. dynamic secrets: Which should you use?
+
 # 03-11-2024
 
 - https://www.decodable.co/blog/revisiting-the-outbox-pattern Revisiting the Outbox Pattern #kafka
