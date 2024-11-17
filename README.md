@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 17-11-2024
+
+- https://www.hotds.dev/p/humans-of-the-data-sphere-issue-2 Humans of the Data Sphere Issue #kafka #streaming
+
 # 13-11-2024
 
 - https://medium.com/@louise.de.leyritz/tracing-value-6-use-cases-for-data-lineage-fae59cd5a971 Tracing Value: 6 Use Cases for Data Lineage
