@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 24-11-2024
+
+- https://vutr.substack.com/p/i-spent-4-hours-learning-the-architecture Architecture of BigQuery's storage engine
+
 # 17-11-2024
 
 - https://www.hotds.dev/p/humans-of-the-data-sphere-issue-2 Humans of the Data Sphere Issue #kafka #streaming
