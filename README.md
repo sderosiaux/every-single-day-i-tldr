@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-12-2024
+
+- https://www.blackrock.com/corporate/literature/whitepaper/bii-megaforces-ai-november-2024.pdf BlackRock AI's big questions November 2024
+
 # 24-11-2024
 
 - https://vutr.substack.com/p/i-spent-4-hours-learning-the-architecture Architecture of BigQuery's storage engine
