@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 01-12-2024
 
+- https://mailchi.mp/fmvilas.me/schema-first-asyncapi-is-just-a-config-file Schema-first AsyncAPI is just a config file
 - https://www.blackrock.com/corporate/literature/whitepaper/bii-megaforces-ai-november-2024.pdf BlackRock AI's big questions November 2024
 
 # 24-11-2024
