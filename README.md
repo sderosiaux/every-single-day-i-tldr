@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-12-2024
 
+- https://www.infoq.com/news/2024/11/effective-data-stream-processing/ Stream All the Things: Patterns of Effective Data Stream Processing
 - https://seattledataguy.substack.com/p/thinking-like-an-owner-elevating Thinking Like an Owner: Elevating Your Data Team's Impact In 2025
 
 # 01-12-2024
