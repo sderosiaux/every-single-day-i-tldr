@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-12-2024
+
+- https://seattledataguy.substack.com/p/thinking-like-an-owner-elevating Thinking Like an Owner: Elevating Your Data Team's Impact In 2025
+
 # 01-12-2024
 
 - https://mailchi.mp/fmvilas.me/schema-first-asyncapi-is-just-a-config-file Schema-first AsyncAPI is just a config file
