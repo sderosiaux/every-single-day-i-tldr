@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 03-12-2024
 
+- https://newsletter.pragmaticengineer.com/p/how-genai-changes-tech-hiring How GenAI is reshaping tech hiring
 - https://towardsdatascience.com/your-data-quality-checks-are-worth-less-than-you-think-c8bd181a1327 "Nobody’s winning awards for generating pages and tickets for issues that couldn’t be resolved"
 
 # 02-12-2024
