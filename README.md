@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-12-2024
+
+- https://towardsdatascience.com/your-data-quality-checks-are-worth-less-than-you-think-c8bd181a1327 "Nobody’s winning awards for generating pages and tickets for issues that couldn’t be resolved"
+
 # 02-12-2024
 
 - https://www.infoq.com/news/2024/11/effective-data-stream-processing/ Stream All the Things: Patterns of Effective Data Stream Processing
