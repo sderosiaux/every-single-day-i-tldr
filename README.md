@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 06-12-2024
 
+- https://www.streamingdata.tech/p/data-platforms-in-2030 Data Platforms in 2030
 - https://www.streamingdata.tech/p/fluss-first-impression Fluss: First Impression
 
 # 03-12-2024
