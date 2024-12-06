@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 06-12-2024
+
+- https://www.streamingdata.tech/p/fluss-first-impression Fluss: First Impression
+
 # 03-12-2024
 
 - https://newsletter.pragmaticengineer.com/p/how-genai-changes-tech-hiring How GenAI is reshaping tech hiring
