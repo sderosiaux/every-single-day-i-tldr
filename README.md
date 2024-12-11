@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-12-2024
+
+- https://addyo.substack.com/p/the-70-problem-hard-truths-about The 70% problem: Hard truths about AI-assisted coding
+
 # 06-12-2024
 
 - https://www.streamingdata.tech/p/data-platforms-in-2030 Data Platforms in 2030
