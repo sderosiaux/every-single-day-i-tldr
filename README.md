@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2024
 
+- https://www.bigtechnology.com/p/scale-ais-alexandr-wangs-predictions Scale AI’s Alexandr Wang’s Predictions for AI In 2025: Geopolitical Turf Wars Escalate, AI Agents Progress, Data Beats Compute
 - https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards NIST Releases First 3 Finalized Post-Quantum Encryption Standards | NIST
 
 # 11-12-2024
