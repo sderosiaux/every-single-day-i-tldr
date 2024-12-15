@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2024
 
+- https://karetech.medium.com/data-quality-the-path-to-striking-gold-in-your-lakehouse-24bec0fc29f6 Data Quality
 - https://redmonk.com/kholterhoff/2024/12/12/why-message-queues-endure-a-history/ Why Message Queues Endure: A History
 - https://grafana.com/opentelemetry-report/ OpenTelemetry: Challenges, priorities, adoption patterns, and solutions
 - https://newsletter.pragmaticengineer.com/p/the-pulse-118 Particularly excited about Devin as AI agent to open PRs <3
