@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2024
 
+- https://towardsdatascience.com/agentic-mesh-the-future-of-generative-ai-enabled-autonomous-agent-ecosystems-d6a11381c979 Agentic Mesh: The Future of Generative AI-Enabled Autonomous Agent Ecosystems. // i find this overthinking what exist today (it's called applications) but good to know
 - https://karetech.medium.com/data-quality-the-path-to-striking-gold-in-your-lakehouse-24bec0fc29f6 Data Quality
 - https://redmonk.com/kholterhoff/2024/12/12/why-message-queues-endure-a-history/ Why Message Queues Endure: A History
 - https://grafana.com/opentelemetry-report/ OpenTelemetry: Challenges, priorities, adoption patterns, and solutions
