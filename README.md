@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2024
 
+- https://redmonk.com/kholterhoff/2024/12/12/why-message-queues-endure-a-history/ Why Message Queues Endure: A History
 - https://grafana.com/opentelemetry-report/ OpenTelemetry: Challenges, priorities, adoption patterns, and solutions
 - https://newsletter.pragmaticengineer.com/p/the-pulse-118 Particularly excited about Devin as AI agent to open PRs <3
 - https://www.bigtechnology.com/p/scale-ais-alexandr-wangs-predictions Scale AI’s Alexandr Wang’s Predictions for AI In 2025: Geopolitical Turf Wars Escalate, AI Agents Progress, Data Beats Compute
