@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 15-12-2024
 
+- https://meltware.com/2024/12/04/s3-tables A First Look at S3 (Iceberg) Tables
 - https://gradientflow.substack.com/p/empowering-ai-agents-with-real-time Empowering AI Agents with Real-Time Data
 - https://towardsdatascience.com/agentic-mesh-the-future-of-generative-ai-enabled-autonomous-agent-ecosystems-d6a11381c979 Agentic Mesh: The Future of Generative AI-Enabled Autonomous Agent Ecosystems. // i find this overthinking what exist today (it's called applications) but good to know
 - https://karetech.medium.com/data-quality-the-path-to-striking-gold-in-your-lakehouse-24bec0fc29f6 Data Quality
