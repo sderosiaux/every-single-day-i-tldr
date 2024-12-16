@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-12-2024
 
+- https://dataengineeringcentral.substack.com/p/aws-s3-tables-the-iceberg-cometh AWS S3 Tables?! The Iceberg Cometh
 - https://www.kai-waehner.de/blog/2024/12/04/the-data-streaming-landscape-2025/ The Data Streaming Landscape 2025
 
 # 15-12-2024
