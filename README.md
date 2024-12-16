@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 16-12-2024
+
+- https://www.kai-waehner.de/blog/2024/12/04/the-data-streaming-landscape-2025/ The Data Streaming Landscape 2025
+
 # 15-12-2024
 
 - https://meltware.com/2024/12/04/s3-tables A First Look at S3 (Iceberg) Tables
