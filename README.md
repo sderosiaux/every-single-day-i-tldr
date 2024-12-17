@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 17-12-2024
+
+- https://www.dataengineeringweekly.com/p/the-state-of-data-engineering-in The State of Data Engineering in 2024: Key Insights and Trends
+
 # 16-12-2024
 
 - https://thealliance.ai/blog/the-state-of-open-source-trust The State of Open Source AI Trust and Safety - End of 2024 Edition
