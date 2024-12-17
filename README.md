@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 17-12-2024
 
+- https://towardsdatascience.com/top-10-data-ai-trends-for-2025-4ed785cafe16 Top 10 Data & AI Trends for 2025. Agentic AI, small data
 - https://www.dataengineeringweekly.com/p/the-state-of-data-engineering-in The State of Data Engineering in 2024: Key Insights and Trends
 
 # 16-12-2024
