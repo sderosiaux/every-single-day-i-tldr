@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-12-2024
+
+- https://www.dataengineeringweekly.com/p/the-future-of-data-engineering-dews (4) The Future of Data Engineering: DEW's 2025 Predictions
+
 # 17-12-2024
 
 - https://towardsdatascience.com/top-10-data-ai-trends-for-2025-4ed785cafe16 Top 10 Data & AI Trends for 2025. Agentic AI, small data
