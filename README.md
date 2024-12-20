@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 20-12-2024
+
+- https://arcprize.org/blog/oai-o3-pub-breakthrough OpenAI o3 Breakthrough High Score on ARC-AGI-Pub
+
 # 19-12-2024
 
 - https://www.dataengineeringweekly.com/p/the-future-of-data-engineering-dews (4) The Future of Data Engineering: DEW's 2025 Predictions
