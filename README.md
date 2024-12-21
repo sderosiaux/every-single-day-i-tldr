@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-12-2024
 
+- https://www.responsive.dev/blog/kafka-streams-2024-year-in-review Kafka Streams Wrapped: 2024 in review
 - https://medium.com/building-the-open-data-stack/a-guide-to-agentic-ai-architecture-c665f2ba30c2 A Guide to Agentic AI Architecture | Building Real-World, Real-Time AI
 
 # 20-12-2024
