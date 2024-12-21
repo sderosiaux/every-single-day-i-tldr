@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-12-2024
+
+- https://medium.com/building-the-open-data-stack/a-guide-to-agentic-ai-architecture-c665f2ba30c2 A Guide to Agentic AI Architecture | Building Real-World, Real-Time AI
+
 # 20-12-2024
 
 - https://arcprize.org/blog/oai-o3-pub-breakthrough OpenAI o3 Breakthrough High Score on ARC-AGI-Pub
