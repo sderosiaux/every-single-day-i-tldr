@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 22-12-2024
 
+- https://www.youtube.com/watch?v=tOGK1nlHdFo Lenny & Marc Benioff (salesforce)
 - https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf Tigger: A Database Proxy That Bounces With User-Bypass
 - https://www.youtube.com/watch?v=vD-0dw4gUhw P99 CONF 2024 | The Next Chapter in the Sordid Love/Hate Relationship Btwn DBs & OSes by Andy #ebpf
 
