@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 22-12-2024
+
+- https://www.youtube.com/watch?v=vD-0dw4gUhw P99 CONF 2024 | The Next Chapter in the Sordid Love/Hate Relationship Btwn DBs & OSes by Andy #ebpf
+
 # 21-12-2024
 
 - https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf practices-for-governing-agentic-ai-systems.pdf
