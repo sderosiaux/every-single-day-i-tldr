@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 31-12-2024
+
+- https://aipapersacademy.com/chain-of-continuous-thought/ LLM Reasoning with Chain of Continuous Thought by Meta AI
+
 # 23-12-2024
 
 - https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars How Dropbox Saved Millions of Dollars by Building a Load Balancer
