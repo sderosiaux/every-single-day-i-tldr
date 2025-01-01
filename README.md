@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-01-2025
+
+- https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/ Cloudflare 2024 Year in Review: Strong Growth for GitHub Copilot and Go Surpasses Node.js
+
 # 31-12-2024
 
 - https://aipapersacademy.com/chain-of-continuous-thought/ LLM Reasoning with Chain of Continuous Thought by Meta AI
