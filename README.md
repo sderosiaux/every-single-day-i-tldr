@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 02-01-2025
 
+- https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html Databases in 2024: A Year in Review
 - https://simonwillison.net/2024/Dec/31/llms-in-2024/ Things we learned about LLMs in 2024
 
 # 01-01-2025
