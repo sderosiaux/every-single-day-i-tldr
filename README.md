@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 02-01-2025
+
+- https://simonwillison.net/2024/Dec/31/llms-in-2024/ Things we learned about LLMs in 2024
+
 # 01-01-2025
 
 - https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/ Cloudflare 2024 Year in Review: Strong Growth for GitHub Copilot and Go Surpasses Node.js
