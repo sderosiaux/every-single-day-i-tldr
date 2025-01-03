@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 03-01-2025
+
+- https://minimaxir.com/2025/01/write-better-code/ Can LLMs write better code if you keep asking them to “write better code”?
+
 # 02-01-2025
 
 - https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html Databases in 2024: A Year in Review
