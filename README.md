@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-01-2025
+
+- https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/ Using LLMs and Cursor to become a finisher
+
 # 03-01-2025
 
 - https://minimaxir.com/2025/01/write-better-code/ Can LLMs write better code if you keep asking them to “write better code”?
