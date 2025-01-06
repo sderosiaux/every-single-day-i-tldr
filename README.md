@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 06-01-2025
+
+- https://blog.practicalengineering.management/the-changing-engineering-landscape-and-how-to-stay-ahead-of-it-1bcdf9d63f6a The Changing Engineering Landscape and How to Stay Ahead of It
+
 # 05-01-2025
 
 - https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/ Using LLMs and Cursor to become a finisher
