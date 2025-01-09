@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 09-01-2025
+
+- https://unzip.dev/0x01f-ai-and-startup-moats/ AI and Startup Moats
+
 # 06-01-2025
 
 - https://blog.practicalengineering.management/the-changing-engineering-landscape-and-how-to-stay-ahead-of-it-1bcdf9d63f6a The Changing Engineering Landscape and How to Stay Ahead of It
