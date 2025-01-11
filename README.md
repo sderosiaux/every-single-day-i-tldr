@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 11-01-2025
 
+- https://qlikdork.com/2024/12/visualizing-dimensional-relationships/ Visualizing Dimensional Relationships: Sankey and Decomposition Tree #dataviz
 - https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/ I got OpenTelemetry to work. But why was it so complicated? #otel
 
 # 09-01-2025
