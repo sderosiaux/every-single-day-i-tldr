@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-01-2025
+
+- https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/ I got OpenTelemetry to work. But why was it so complicated? #otel
+
 # 09-01-2025
 
 - https://unzip.dev/0x01f-ai-and-startup-moats/ AI and Startup Moats
