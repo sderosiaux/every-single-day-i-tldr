@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-01-2025
 
+- https://medium.com/@yingjunwu/data-engineers-why-you-really-need-to-learn-ai-61e408fa38df Data Engineers: Why You Really Need to Learn AI
 - https://www.dataengineeringweekly.com/p/the-future-of-data-lakehouses-a-fireside The Future of Data Lakehouses: A Fireside Chat with Vinoth Chandar - Founder CEO Onehouse & PMC Chair of Apache Hudi
 - https://matduggan.com/stop-trying-to-schedule-a-call-with-me/ Stop Trying To Schedule A Call With Me
 
