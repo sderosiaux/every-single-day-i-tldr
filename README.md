@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-01-2025
+
+- https://matduggan.com/stop-trying-to-schedule-a-call-with-me/ Stop Trying To Schedule A Call With Me
+
 # 11-01-2025
 
 - https://www.youtube.com/watch?v=w9WE1aOPjHc François Chollet / Machine Learning Street Talk #podcast
