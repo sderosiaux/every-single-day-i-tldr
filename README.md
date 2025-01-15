@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 15-01-2025
+
+- https://materializedview.io/p/infrastructure-vendors-are-in-a-tough Infrastructure Vendors Are in a Tough Spot, Confluent, Warpstream, Kafka
+
 # 13-01-2025
 
 - https://sanjmo.medium.com/2025-enterprise-data-ai-trends-agents-platforms-and-moonshots-0010c8b4d1f3 2025 Enterprise Data & AI Trends: Agents, Platforms, and Moonshots
