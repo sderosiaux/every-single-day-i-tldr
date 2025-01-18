@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 18-01-2025
+
+- https://www.latent.space/p/o1-skill-issue o1 isn’t a chat model: it needs your goal, some eventual warnings, and a massive context dump to do its job properly. Like a junior person.
+
 # 15-01-2025
 
 - https://materializedview.io/p/infrastructure-vendors-are-in-a-tough Infrastructure Vendors Are in a Tough Spot, Confluent, Warpstream, Kafka
