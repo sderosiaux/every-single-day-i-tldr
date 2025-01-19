@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 19-01-2025
+
+- https://mill-build.org/blog/6-garbage-collector-perf.html Understanding JVM Garbage Collector Performance
+
 # 18-01-2025
 
 - https://www.latent.space/p/o1-skill-issue o1 isn’t a chat model: it needs your goal, some eventual warnings, and a massive context dump to do its job properly. Like a junior person.
