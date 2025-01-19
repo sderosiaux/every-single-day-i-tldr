@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 19-01-2025
 
+- https://dataengineeringcentral.substack.com/p/data-quality-with-databricks-labs Data Quality with Databricks Labs new DQX tool
 - https://blog.det.life/aws-s3-tables-what-it-means-for-apache-iceberg-and-the-data-ecosystem-4a1f6b978b22 AWS S3 Tables: What it Means for Apache Iceberg and the Data Ecosystem
 - https://blog.stackademic.com/linux-creator-reveals-the-future-of-programming-with-ai-91455af6747e AI will change the way we code, but it will be a gradual evolution, not a sudden revolution.
 - https://mill-build.org/blog/6-garbage-collector-perf.html Understanding JVM Garbage Collector Performance
