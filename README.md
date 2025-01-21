@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 21-01-2025
 
+- https://seanfalconer.medium.com/event-driven-ai-building-a-research-assistant-with-kafka-and-flink-e95db47eb3f3 Event-Driven AI: Building a Research Assistant with Kafka and Flink
 - https://startree.ai/resources/disaggregating-observability-with-kafka-startree-grafana Disaggregated Observability Stack with Kafka, StarTree, & Grafana
 
 # 20-01-2025
