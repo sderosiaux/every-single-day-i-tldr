@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 21-01-2025
+
+- https://startree.ai/resources/disaggregating-observability-with-kafka-startree-grafana Disaggregated Observability Stack with Kafka, StarTree, & Grafana
+
 # 20-01-2025
 
 - https://www.lesswrong.com/posts/njAZwT8nkHnjipJku/alignment-faking-in-large-language-models Alignment Faking in Large Language Models
