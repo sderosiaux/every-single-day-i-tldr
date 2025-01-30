@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 30-01-2025
+
+- https://blog.det.life/stream-processing-systems-in-2025-risingwave-flink-spark-streaming-and-whats-ahead-6e24927f7d8b Stream Processing Systems in 2025: RisingWave, Flink, Spark Streaming, and What’s Ahead
+
 # 21-01-2025
 
 - https://seanfalconer.medium.com/event-driven-ai-building-a-research-assistant-with-kafka-and-flink-e95db47eb3f3 Event-Driven AI: Building a Research Assistant with Kafka and Flink
