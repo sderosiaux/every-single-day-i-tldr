@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 30-01-2025
 
+- https://newsletter.pragmaticengineer.com/p/the-pulse-122-deepseek-rocks-the The Pulse #122: DeepSeek rocks the tech industry
 - https://blog.det.life/stream-processing-systems-in-2025-risingwave-flink-spark-streaming-and-whats-ahead-6e24927f7d8b Stream Processing Systems in 2025: RisingWave, Flink, Spark Streaming, and What’s Ahead
 
 # 21-01-2025
