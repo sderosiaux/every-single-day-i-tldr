@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 01-02-2025
+
+- https://www.linkedin.com/pulse/subtle-art-cost-comparisons-tristan-stevens-tqtue/ The subtle art of cost comparisons #kafka #redpanda #warpstream
+
 # 30-01-2025
 
 - https://www.datadoghq.com/blog/engineering/husky-storage-compaction/ Husky: Efficient Compaction at Datadog Scale | Datadog
