@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-02-2025
 
+- https://jack-vanlightly.com/blog/2025/2/3/why-snowflake-wants-streaming Why Snowflake wants streaming — Jack Vanlightly
 - https://www.linkedin.com/pulse/more-freedom-means-problems-cost-decentralization-st%C3%A9phane-derosiaux-15bxe/ More Freedom means More Problems (the cost of decentralization) #me
 - https://futurism.com/deepseek-failed-every-security-test DeepSeek Failed Every Single Security Test, Researchers Found
 
