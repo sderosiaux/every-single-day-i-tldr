@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 04-02-2025
 
+- https://www.nextdata.com/our-pov/the-data-mesh-challenge-how-to-close-the-gap-between-inception-and-operation-at-scale The data mesh challenge: closing the gap between strategy and operation at scale (high level generic stuff)
 - https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00468-0 Big data quality framework: a holistic approach to continuous quality management
 - https://jack-vanlightly.com/blog/2025/2/3/why-snowflake-wants-streaming Why Snowflake wants streaming — Jack Vanlightly
 - https://www.linkedin.com/pulse/more-freedom-means-problems-cost-decentralization-st%C3%A9phane-derosiaux-15bxe/ More Freedom means More Problems (the cost of decentralization) #me
