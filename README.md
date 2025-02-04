@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 04-02-2025
+
+- https://futurism.com/deepseek-failed-every-security-test DeepSeek Failed Every Single Security Test, Researchers Found
+
 # 03-02-2025
 
 - https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda The Short Case for Nvidia Stock [very long article] #ai
