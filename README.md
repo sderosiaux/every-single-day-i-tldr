@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 05-02-2025
+
+- https://medium.com/@msakhatsky/modern-data-architectures-explained-a9a4e0c8d8ed Modern Data Architectures Explained
+
 # 04-02-2025
 
 - https://www.nextdata.com/our-pov/the-data-mesh-challenge-how-to-close-the-gap-between-inception-and-operation-at-scale The data mesh challenge: closing the gap between strategy and operation at scale (high level generic stuff)
