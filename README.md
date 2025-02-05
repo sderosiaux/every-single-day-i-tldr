@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 05-02-2025
 
+- https://www.datadoghq.com/blog/data-jobs-monitoring/ Troubleshoot and Optimize Data Processing Workloads With Data Jobs Monitoring
 - https://medium.com/@msakhatsky/modern-data-architectures-explained-a9a4e0c8d8ed Modern Data Architectures Explained
 
 # 04-02-2025
