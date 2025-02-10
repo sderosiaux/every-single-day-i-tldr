@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 10-02-2025
+
+- https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/ Cloudflare incident on February 6, 2025
+
 # 05-02-2025
 
 - https://www.datadoghq.com/blog/data-jobs-monitoring/ Troubleshoot and Optimize Data Processing Workloads With Data Jobs Monitoring
