@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 10-02-2025
 
+- https://medium.com/codex/google-just-annihilated-deepseek-and-openai-with-their-new-flash-2-0-model-f5ac84b4bb60 Gemini Flash 2.0 is the new pop
 - https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/ Cloudflare incident on February 6, 2025
 
 # 05-02-2025
