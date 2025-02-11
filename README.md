@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 11-02-2025
+
+- https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing (9) Tech's Dumbest Mistake: Why Firing Programmers for AI Will Destroy Everything
+
 # 10-02-2025
 
 - https://medium.com/codex/google-just-annihilated-deepseek-and-openai-with-their-new-flash-2-0-model-f5ac84b4bb60 Gemini Flash 2.0 is the new pop
