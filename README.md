@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 12-02-2025
+
+- https://www.infoq.com/articles/building-trust-ai/ Building Trust in AI: Security and Risks in Highly Regulated Industries
+
 # 11-02-2025
 
 - https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing (9) Tech's Dumbest Mistake: Why Firing Programmers for AI Will Destroy Everything
