@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 12-02-2025
 
+- https://www.warpstream.com/blog/kafka-transactions-explained-twice Kafka Transactions Explained
 - https://www.infoq.com/articles/building-trust-ai/ Building Trust in AI: Security and Risks in Highly Regulated Industries
 
 # 11-02-2025
