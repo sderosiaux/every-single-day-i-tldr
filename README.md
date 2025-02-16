@@ -11,6 +11,7 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 
 # 16-02-2025
 
+- https://www.stream.security/post/toxic-combination-real-time-agents-on-top-static-cspm Toxic Combination: The Pitfalls of layering real-time agents on top of Static CSPM
 - https://kai-waehner.medium.com/real-time-model-inference-with-apache-kafka-and-flink-for-predictive-ai-and-genai-bf9459f66c13 Real-Time Model Inference with Apache Kafka and Flink for Predictive AI and GenAI
 
 # 12-02-2025
