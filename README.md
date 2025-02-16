@@ -3,11 +3,8 @@
 Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting.
 It's like a huge shared bookmarks registry with y'all! Or it's like a daily newsletter without newsletter. Use Ctrl+F and find what you want. Fun fact: Github only displays the readme until ~5000 lines.
 
-I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DDD, and technology. :muscle:
-
-- I'm the co-founder of https://www.conduktor.io/, the best Desktop application to manage a Kafka ecosystem. Download, Install, Connect, done!
-- I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
-
+I'm the co-founder and CTO of https://www.conduktor.io, a real-time AI Data Governance platform (#kafka).
+In 2025, I'm reading mostly about AI, Data, Kafka, and everything-technology. :muscle:
 
 # 16-02-2025
 
