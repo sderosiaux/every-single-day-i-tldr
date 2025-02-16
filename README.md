@@ -1,10 +1,12 @@
 # _Almost_ every single day I TLDR!
 
-Here, I list all the articles, blog posts, pages I've read, or videos I've watched, that I found interesting.
-It's like a huge shared bookmarks registry with y'all! Or it's like a daily newsletter without newsletter. Use Ctrl+F and find what you want. Fun fact: Github only displays the readme until ~5000 lines.
+This repo is my personal archive of articles, blog posts, and videos I found interesting. Think of it as a massive shared bookmarks list—like a daily newsletter, but without the newsletter.
 
-I'm the co-founder and CTO of https://www.conduktor.io, a real-time AI Data Governance platform (#kafka).
-In 2025, I'm reading mostly about AI, Data, Kafka, and everything-technology. :muscle:
+💡 Tip: Use Ctrl+F to search for topics you care about.
+
+I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
+
+🚀 Happy reading!
 
 # 16-02-2025
 
