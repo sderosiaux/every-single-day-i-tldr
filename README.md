@@ -9,6 +9,10 @@ I'm reading mostly about Scala, Data Engineering, Java, Javascript, Big Data, DD
 - I'm writing articles on my [blog](https://www.sderosiaux.com/) about these topics.
 
 
+# 16-02-2025
+
+- https://kai-waehner.medium.com/real-time-model-inference-with-apache-kafka-and-flink-for-predictive-ai-and-genai-bf9459f66c13 Real-Time Model Inference with Apache Kafka and Flink for Predictive AI and GenAI
+
 # 12-02-2025
 
 - https://www.warpstream.com/blog/kafka-transactions-explained-twice Kafka Transactions Explained
