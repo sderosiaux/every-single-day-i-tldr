@@ -2,11 +2,15 @@
 
 This repo is my personal archive of articles, blog posts, and videos I found interesting. Think of it as a massive shared bookmarks list—like a daily newsletter, but without the newsletter.
 
-💡 Tip: Use Ctrl+F to search for topics you care about.
+ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 
-🚀 Happy reading!
+ߚࠈappy reading!
+
+# 18-02-2025
+
+- https://thedatasource.substack.com/p/engineering-byoc-enterprise-startups Engineering BYOC: Enterprise Startups Share Their Playbooks
 
 # 16-02-2025
 
