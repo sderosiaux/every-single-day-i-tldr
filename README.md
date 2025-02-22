@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 22-02-2025
+
+- https://grafana.com/blog/2025/02/20/the-next-generation-of-grafana-mimir-inside-mimirs-redesigned-architecture-for-increased-reliability/ The next generation of Grafana Mimir: Inside Mimir's redesigned architecture for increased reliability
+
 # 18-02-2025
 
 - https://thedatasource.substack.com/p/engineering-byoc-enterprise-startups Engineering BYOC: Enterprise Startups Share Their Playbooks
