@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 02-03-2025
+
+- https://morganperry.substack.com/p/devtools-brew-71-early-revenue-illusion Early Revenue Illusion & Building Companies That Last. — As founder, this article is clearly spot-on!
+
 # 01-03-2025
 
 - https://www.databricks.com/blog/improving-retrieval-and-rag-embedding-model-finetuning Improving Retrieval and RAG with Embedding Model Finetuning
