@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 03-03-2025
+
+- https://www.infoq.com/presentations/zero-trust-devsecops/ A Zero Trust Future for Applications: Practical Implementation and Pitfalls
+
 # 02-03-2025
 
 - https://morganperry.substack.com/p/devtools-brew-71-early-revenue-illusion Early Revenue Illusion & Building Companies That Last. — As founder, this article is clearly spot-on!
