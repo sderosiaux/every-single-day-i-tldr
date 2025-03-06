@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 06-03-2025
+
+- https://vutr.substack.com/p/how-is-databricks-spark-different How is Databricks' Spark different from Open-Source Spark?
+
 # 03-03-2025
 
 - https://www.infoq.com/presentations/zero-trust-devsecops/ A Zero Trust Future for Applications: Practical Implementation and Pitfalls
