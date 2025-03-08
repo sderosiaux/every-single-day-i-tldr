@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 08-03-2025
 
+- https://www.reddit.com/r/apachekafka/comments/1j5mszx/kafka_dr_strategy_handling_producer_failover_with/ Kafka DR Strategy - Handling Producer Failover with Conduktor
 - https://www.blef.fr/data-news-week-25-10/ Data News — AI, dbt, SQLMesh, data teams
 
 # 06-03-2025
