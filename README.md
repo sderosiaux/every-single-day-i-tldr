@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 08-03-2025
+
+- https://www.blef.fr/data-news-week-25-10/ Data News — AI, dbt, SQLMesh, data teams
+
 # 06-03-2025
 
 - https://www.infoq.com/presentations/firewall-java-ebpf/ Building a Lightning Fast Firewall with Java & eBPF
