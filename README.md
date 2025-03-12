@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 12-03-2025
+
+- https://buf.build/blog/bufstream-multi-region Multi-region, active-active Bufstream at 100 GiB/s
+
 # 08-03-2025
 
 - https://www.reddit.com/r/apachekafka/comments/1j5mszx/kafka_dr_strategy_handling_producer_failover_with/ Kafka DR Strategy - Handling Producer Failover with Conduktor
