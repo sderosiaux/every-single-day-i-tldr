@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 15-03-2025
+
+- https://seattledataguy.substack.com/p/5-hard-earned-lessons-in-building 5 Hard-Earned Lessons in Building a Successful Data Career: Embracing Mistakes and Driving Impact
+
 # 12-03-2025
 
 - https://buf.build/blog/bufstream-multi-region Multi-region, active-active Bufstream at 100 GiB/s
