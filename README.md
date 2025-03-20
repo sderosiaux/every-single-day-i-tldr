@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 20-03-2025
 
+- https://lazypro.medium.com/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6 Evolution of RAG: RAG, GraphRAG, and KAG
 - https://medium.com/@getindatatechteam/the-evolution-of-real-time-data-streaming-in-business-7b4d24fe1af3 The Evolution of Real-Time Data Streaming in Business
 
 # 15-03-2025
