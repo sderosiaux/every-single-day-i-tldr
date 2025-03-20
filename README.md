@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 20-03-2025
+
+- https://medium.com/@getindatatechteam/the-evolution-of-real-time-data-streaming-in-business-7b4d24fe1af3 The Evolution of Real-Time Data Streaming in Business
+
 # 15-03-2025
 
 - https://seattledataguy.substack.com/p/5-hard-earned-lessons-in-building 5 Hard-Earned Lessons in Building a Successful Data Career: Embracing Mistakes and Driving Impact
