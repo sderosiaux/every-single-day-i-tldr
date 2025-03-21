@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 21-03-2025
+
+- https://redpanda-data.medium.com/apache-iceberg-topics-stream-directly-into-your-data-lake-0250a8dfdd76 Apache Iceberg Topics: Stream directly into your data lake
+
 # 20-03-2025
 
 - https://seanfalconer.medium.com/the-future-of-ai-agents-is-event-driven-9e25124060d6 The Future of AI Agents is Event-Driven
