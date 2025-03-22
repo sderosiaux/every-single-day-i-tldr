@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 22-03-2025
 
+- https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/ A Deep Dive Into MCP and the Future of AI Tooling
 - https://medium.com/@andrew_schofield/early-access-release-of-queues-for-kafka-in-apache-kafka-4-0-0ae2f3f69ac9 Early access release of Queues for Kafka in Apache Kafka 4.0
 
 # 21-03-2025
