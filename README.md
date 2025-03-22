@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 22-03-2025
+
+- https://medium.com/@andrew_schofield/early-access-release-of-queues-for-kafka-in-apache-kafka-4-0-0ae2f3f69ac9 Early access release of Queues for Kafka in Apache Kafka 4.0
+
 # 21-03-2025
 
 - https://redpanda-data.medium.com/apache-iceberg-topics-stream-directly-into-your-data-lake-0250a8dfdd76 Apache Iceberg Topics: Stream directly into your data lake
