@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 23-03-2025
+
+- https://medium.com/everyday-ai/craziest-mcp-servers-you-must-try-f23526a165f5 (not-so) Craziest MCP Servers You Must Try
+
 # 22-03-2025
 
 - https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/ A Deep Dive Into MCP and the Future of AI Tooling
