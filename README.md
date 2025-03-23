@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 23-03-2025
 
+- https://www.gartner.com/doc/reprints?id=1-2HKZSYYT&ct=240516&st=sb Trending Questions About Generative AI (Gartner)
 - https://medium.com/everyday-ai/craziest-mcp-servers-you-must-try-f23526a165f5 (not-so) Craziest MCP Servers You Must Try
 
 # 22-03-2025
