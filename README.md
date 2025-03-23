@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 23-03-2025
 
+- https://www.infoq.com/articles/secure-ai-powered-early-detection-system/ Secure AI-Powered Early Detection System for Medical Data Analysis & Diagnosis
 - https://medium.com/quantumblack/solving-data-quality-for-gen-ai-applications-11cbec4cbe72 Solving data quality for gen AI applications and unstructured documents
 - https://levelup.gitconnected.com/chain-of-draft-cod-is-the-new-king-of-prompting-techniques-d9dc17f12051 Chain-of-Draft (CoD): TLDR: think step by step, 5 words minimum for each step
 - https://www.gartner.com/doc/reprints?id=1-2HKZSYYT&ct=240516&st=sb Trending Questions About Generative AI (Gartner)
