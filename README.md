@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 24-03-2025
+
+- https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html In S3 simplicity is table stakes
+
 # 23-03-2025
 
 - https://medium.com/@danthelion/we-need-to-talk-about-byoc-b58c506aec4d We Need To Talk About BYOC.
