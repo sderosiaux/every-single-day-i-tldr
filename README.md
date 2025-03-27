@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 27-03-2025
+
+- https://vutr.substack.com/p/bufstream-stream-kafka-messages-to Bufstream: Stream Kafka Messages to Iceberg Tables in Minutes
+
 # 24-03-2025
 
 - https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html In S3 simplicity is table stakes
