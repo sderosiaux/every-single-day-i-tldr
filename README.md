@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 31-03-2025
+
+- https://speakerdeck.com/angioia/building-your-enterprise-knowledge-graph-one-data-product-at-a-time Building your Enterprise Knowledge Graph one data product at a time
+
 # 27-03-2025
 
 - https://vutr.substack.com/p/bufstream-stream-kafka-messages-to Bufstream: Stream Kafka Messages to Iceberg Tables in Minutes
