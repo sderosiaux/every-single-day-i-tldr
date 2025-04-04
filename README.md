@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 04-04-2025
+
+- https://gradientflow.substack.com/p/autonomous-ai-agents-are-changing Autonomous AI Agents Are Changing Knowledge Work—Fast
+
 # 31-03-2025
 
 - https://www.responsive.dev/blog/performance-optimization-kafka-streams-101 Kafka Streams 101: Optimizing your apps for maximum performance
