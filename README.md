@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 07-04-2025
+
+- https://www.datadoghq.com/blog/focus-and-datadog/ Simplify Multi-Cloud Cost Management With FOCUS and Datadog
+
 # 04-04-2025
 
 - https://gradientflow.substack.com/p/autonomous-ai-agents-are-changing Autonomous AI Agents Are Changing Knowledge Work—Fast
