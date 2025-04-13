@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 13-04-2025
+
+- https://seanfalconer.medium.com/how-to-build-a-multi-agent-orchestrator-using-flink-and-kafka-4ee079351161 How to Build a Multi-Agent Orchestrator Using Flink and Kafka
+
 # 07-04-2025
 
 - https://www.datadoghq.com/blog/focus-and-datadog/ Simplify Multi-Cloud Cost Management With FOCUS and Datadog
