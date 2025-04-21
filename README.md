@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 21-04-2025
+
+- https://moderndata101.substack.com/p/introducing-lakehouse-20-what-changes Lakehouse 2.0, decentralization
+
 # 13-04-2025
 
 - https://seanfalconer.medium.com/how-to-build-a-multi-agent-orchestrator-using-flink-and-kafka-4ee079351161 How to Build a Multi-Agent Orchestrator Using Flink and Kafka
