@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 23-04-2025
+
+- https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/ The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures - Menlo Ventures
+
 # 21-04-2025
 
 - https://moderndata101.substack.com/p/introducing-lakehouse-20-what-changes Lakehouse 2.0, decentralization
