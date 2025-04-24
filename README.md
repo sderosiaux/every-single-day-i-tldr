@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 24-04-2025
 
+- https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/ A Deep Dive Into MCP and the Future of AI Tooling | Andreessen Horowitz
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai The State of AI: Global survey | McKinsey
 - https://seanfalconer.medium.com/the-ai-silo-problem-how-data-streaming-can-unify-enterprise-ai-agents-0a138cf6398c The AI Silo Problem: How Data Streaming Can Unify Enterprise AI Agents
 
