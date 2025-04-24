@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 24-04-2025
 
+- https://topicpartition.io/blog/kip-1150-diskless-topics-in-apache-kafka KIP-1150 in Apache Kafka is a big deal (Diskless Topics)
 - https://www.youtube.com/watch?v=99HVEF7r2N4 Building Data Systems in 2025: S3 as Primary Storage: Cost, Latency, Caching Strategies
 - https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/ A Deep Dive Into MCP and the Future of AI Tooling | Andreessen Horowitz
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai The State of AI: Global survey | McKinsey
