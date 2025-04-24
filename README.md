@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 24-04-2025
+
+- https://seanfalconer.medium.com/the-ai-silo-problem-how-data-streaming-can-unify-enterprise-ai-agents-0a138cf6398c The AI Silo Problem: How Data Streaming Can Unify Enterprise AI Agents
+
 # 23-04-2025
 
 - https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/ The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures - Menlo Ventures
