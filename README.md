@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 25-04-2025
+
+- https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/ Novel Universal Bypass for All Major LLMs
+
 # 24-04-2025
 
 - https://topicpartition.io/blog/kip-1150-diskless-topics-in-apache-kafka KIP-1150 in Apache Kafka is a big deal (Diskless Topics)
