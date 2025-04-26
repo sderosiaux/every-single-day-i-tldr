@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 26-04-2025
 
+- https://ai.meta.com/blog/llama-4-multimodal-intelligence/ The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation
 - https://blog.owulveryck.info/2025/04/22/mcps-3-us-making-a-tool-useful-usable-and-used-by-and-for-an-llm.html MCP's 3 U's: Making a Tool Useful, Usable, and Used by and for an LLM #ontology
 - https://codemia.io/blog/path/Apache-Kafka-40-Deep-Dive-Breaking-Changes-Migration-and-Performance Apache Kafka 4.0 Deep Dive: Breaking Changes, Migration, and Performance
 - https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/ Azure MCP Server
