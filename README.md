@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 26-04-2025
+
+- https://medium.com/google-cloud/architecting-a-multi-agent-system-with-google-a2a-and-adk-4ced4502c86a Architecting a Multi-Agent System with Google A2A and ADK
+
 # 25-04-2025
 
 - https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/ Novel Universal Bypass for All Major LLMs
