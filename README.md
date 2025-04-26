@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 26-04-2025
 
+- https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/ Azure MCP Server
 - https://medium.com/google-cloud/architecting-a-multi-agent-system-with-google-a2a-and-adk-4ced4502c86a Architecting a Multi-Agent System with Google A2A and ADK
 
 # 25-04-2025
