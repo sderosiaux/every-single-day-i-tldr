@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 29-04-2025
 
+- https://www.decodable.co/blog/agentic-ai-will-make-things-worse-before-it-makes-them-better Agentic AI Will Make Things Worse Before It Makes Them Better
 - https://drive.google.com/file/d/10zJPuXAzEBIdnwSH14IQmt9KwQPyxMRV/view NEXT 25 DEVLT-202 - [Rubens de Almeida Zimbres] [Next25 - Lightning Talk]
 
 # 26-04-2025
