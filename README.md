@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 29-04-2025
+
+- https://drive.google.com/file/d/10zJPuXAzEBIdnwSH14IQmt9KwQPyxMRV/view NEXT 25 DEVLT-202 - [Rubens de Almeida Zimbres] [Next25 - Lightning Talk]
+
 # 26-04-2025
 
 - https://ai.meta.com/blog/llama-4-multimodal-intelligence/ The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation
