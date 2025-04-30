@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 30-04-2025
+
+- https://github.com/mcp-ecosystem/mcp-gateway mcp-ecosystem/mcp-gateway: MCP Gateway - A lightweight gateway service that transforms APIs into MCP servers
+
 # 29-04-2025
 
 - https://www.decodable.co/blog/agentic-ai-will-make-things-worse-before-it-makes-them-better Agentic AI Will Make Things Worse Before It Makes Them Better
