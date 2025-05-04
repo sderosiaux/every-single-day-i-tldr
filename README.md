@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 04-05-2025
 
+- https://www.anthropic.com/news/integrations Claude can now connect to your world \ Anthropic
 - https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df Agentic AI: Comparing New Open-Source Frameworks
 - https://blog.metamirror.io/zero-copy-a-modern-data-fantasy-a28b535b6bfa “Zero-Copy” a modern data fantasy
 
