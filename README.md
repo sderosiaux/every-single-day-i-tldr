@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 04-05-2025
+
+- https://blog.metamirror.io/zero-copy-a-modern-data-fantasy-a28b535b6bfa “Zero-Copy” a modern data fantasy
+
 # 30-04-2025
 
 - https://github.com/mcp-ecosystem/mcp-gateway mcp-ecosystem/mcp-gateway: MCP Gateway - A lightweight gateway service that transforms APIs into MCP servers
