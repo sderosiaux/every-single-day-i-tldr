@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 05-05-2025
 
+- https://www.khoslaventures.com/the-opportunity-for-ai-in-healthcare-is-here-now/ The Opportunity for AI in Healthcare is here now
 - https://www.docker.com/blog/build-to-prod-mcp-servers-with-docker/ How to build and deliver an MCP server for production
 - https://github.com/cloudflare/mcp-server-cloudflare mcp-server-cloudflare
 - https://longform.asmartbear.com/purgatory/ Product Purgatory: When they love it but still don’t buy
