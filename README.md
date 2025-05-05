@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 05-05-2025
+
+- https://longform.asmartbear.com/purgatory/ Product Purgatory: When they love it but still don’t buy
+
 # 04-05-2025
 
 - https://www.anthropic.com/news/integrations Claude can now connect to your world \ Anthropic
