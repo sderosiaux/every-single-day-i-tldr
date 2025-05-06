@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 06-05-2025
 
+- https://current.confluent.io/post-conference-videos-2025/re-engineering-kafka-consumers-for-india-scale-dream11s-journey-to-processing-millions-of-message-bng25 Re-engineering Kafka Consumers for 'India Scale': Dream11’s Journey to Processing Millions of Message
 - https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/ Achieving relentless Kafka reliability at scale with the Streaming Platform
 
 # 05-05-2025
