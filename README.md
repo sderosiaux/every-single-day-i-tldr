@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 06-05-2025
+
+- https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/ Achieving relentless Kafka reliability at scale with the Streaming Platform
+
 # 05-05-2025
 
 - https://www.khoslaventures.com/the-opportunity-for-ai-in-healthcare-is-here-now/ The Opportunity for AI in Healthcare is here now
