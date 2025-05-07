@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 07-05-2025
+
+- https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/07/empowering-multi-agent-apps-with-the-open-agent2agent-a2a-protocol/ Empowering multi-agent apps with the open Agent2Agent (A2A) protocol
+
 # 06-05-2025
 
 - https://current.confluent.io/post-conference-videos-2025/re-engineering-kafka-consumers-for-india-scale-dream11s-journey-to-processing-millions-of-message-bng25 Re-engineering Kafka Consumers for 'India Scale': Dream11’s Journey to Processing Millions of Message
