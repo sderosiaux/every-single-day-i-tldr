@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 10-05-2025
+
+- https://www.promptfiddle.com/ Prompt Fiddle using BAML #promptengineering
+
 # 07-05-2025
 
 - https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/07/empowering-multi-agent-apps-with-the-open-agent2agent-a2a-protocol/ Empowering multi-agent apps with the open Agent2Agent (A2A) protocol
