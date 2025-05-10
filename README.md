@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 10-05-2025
 
+- https://scet.berkeley.edu/the-next-next-big-thing-agentic-ais-opportunities-and-risks/ The Next “Next Big Thing”: Agentic AI’s Opportunities and Risks
 - https://www.promptfiddle.com/ Prompt Fiddle using BAML #promptengineering
 
 # 07-05-2025
