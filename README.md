@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 15-05-2025
+
+- https://batteryventures.substack.com/p/ai-is-growing-our-appetite-for-saas AI Is Growing Our Appetite for SaaS, Not Destroying It
+
 # 10-05-2025
 
 - https://scet.berkeley.edu/the-next-next-big-thing-agentic-ais-opportunities-and-risks/ The Next “Next Big Thing”: Agentic AI’s Opportunities and Risks
