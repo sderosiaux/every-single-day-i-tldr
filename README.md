@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 16-05-2025
+
+- https://www.infoq.com/articles/practical-design-patterns-modern-ai-systems/ Beyond the Gang of Four: Practical Design Patterns for Modern AI Systems
+
 # 15-05-2025
 
 - https://batteryventures.substack.com/p/ai-is-growing-our-appetite-for-saas AI Is Growing Our Appetite for SaaS, Not Destroying It
