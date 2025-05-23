@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 23-05-2025
+
+- https://www.anthropic.com/news/claude-4 Introducing Claude 4 \ Anthropic
+
 # 16-05-2025
 
 - https://www.infoq.com/articles/practical-design-patterns-modern-ai-systems/ Beyond the Gang of Four: Practical Design Patterns for Modern AI Systems
