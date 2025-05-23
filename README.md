@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 23-05-2025
 
+- https://moderndata101.substack.com/p/the-role-of-the-data-architect The Role of the Data Architect in AI Enablement
 - https://www.anthropic.com/news/claude-4 Introducing Claude 4 \ Anthropic
 
 # 16-05-2025
