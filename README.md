@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 24-05-2025
+
+- https://medium.com/snowflake/how-to-clean-and-enrich-data-before-it-lands-in-snowflake-5bc937486b82 How to Clean and Enrich Data Before It Lands in Snowflake
+
 # 23-05-2025
 
 - https://moderndata101.substack.com/p/the-role-of-the-data-architect The Role of the Data Architect in AI Enablement
