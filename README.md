@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 24-05-2025
 
+- https://www.infoq.com/articles/rethinking-medallion-architecture/ The End of the Bronze Age: Rethinking the Medallion Architecture
 - https://medium.com/snowflake/how-to-clean-and-enrich-data-before-it-lands-in-snowflake-5bc937486b82 How to Clean and Enrich Data Before It Lands in Snowflake
 
 # 23-05-2025
