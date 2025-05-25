@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 25-05-2025
+
+- https://blog.det.life/data-engineering-now-with-30-more-bullshit-b9de5f81f8c2 Data Engineering: Now with 30% More Bullshit
+
 # 24-05-2025
 
 - https://www.infoq.com/articles/rethinking-medallion-architecture/ The End of the Bronze Age: Rethinking the Medallion Architecture
