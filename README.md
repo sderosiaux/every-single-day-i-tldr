@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 25-05-2025
 
+- https://ainativedev.io/news/text-diffusion Is Text Diffusion for Code a Game Changer? dLLM
 - https://blog.det.life/data-engineering-now-with-30-more-bullshit-b9de5f81f8c2 Data Engineering: Now with 30% More Bullshit
 
 # 24-05-2025
