@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 25-05-2025
 
+- https://blog.jaisal.dev/articles/mcp MCP: May Cause Pwnage - MANY Backdoors in Disguise
 - https://seanfalconer.medium.com/how-kafka-flink-databricks-and-neon-power-the-modern-stack-for-ai-agents-6c7e4599567f How Kafka, Flink, Databricks, and Neon Power the Modern Data Stack for AI Agents
 - https://ainativedev.io/news/text-diffusion Is Text Diffusion for Code a Game Changer? dLLM
 - https://blog.det.life/data-engineering-now-with-30-more-bullshit-b9de5f81f8c2 Data Engineering: Now with 30% More Bullshit
