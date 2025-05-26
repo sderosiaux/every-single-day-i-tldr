@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 26-05-2025
 
+- https://www.youtube.com/watch?v=2-yrkW-nhlU Claude Sonnet Called the FBI (virtually) Over a $2 Vending Machine
 - https://lp.eptura.com/rs/267-JUP-120/images/2025%20Workplace%20Index_TL-EPT-2222-EN%201.pdf?version=0 2025 Workplace Index - Return To Office & AI stuff
 - https://www.youtube.com/watch?v=vtIzMaLkCaM The Craft of Writing Effectively - we write to *change* readers' ideas/world
 
