@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 26-05-2025
+
+- https://www.youtube.com/watch?v=vtIzMaLkCaM The Craft of Writing Effectively - we write to *change* readers' ideas/world
+
 # 25-05-2025
 
 - https://github.com/JorianWoltjer/mcp-cli mcp-cli: CLI to interact with and list Model Context Protocol (MCP) servers in SSE (Server-Sent Events) transport mode
