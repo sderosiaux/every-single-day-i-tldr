@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 29-05-2025
+
+- https://www.streamingdata.tech/p/current-london-2025 Current London 2025 - by Yaroslav Tkachenko
+
 # 26-05-2025
 
 - https://www.youtube.com/watch?v=2-yrkW-nhlU Claude Sonnet Called the FBI (virtually) Over a $2 Vending Machine
