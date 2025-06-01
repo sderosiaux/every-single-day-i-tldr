@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 01-06-2025
+
+- https://longform.asmartbear.com/more-or-less/ More for more / More for less / Less for less strategies
+
 # 29-05-2025
 
 - https://www.streamingdata.tech/p/current-london-2025 Current London 2025 - by Yaroslav Tkachenko
