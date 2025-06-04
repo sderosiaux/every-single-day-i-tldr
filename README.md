@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 04-06-2025
+
+- https://medium.com/@elisowski/mcp-explained-the-new-standard-connecting-ai-to-everything-79c5a1c98288 MCP Explained: The New Standard Connecting AI to Everything
+
 # 01-06-2025
 
 - https://longform.asmartbear.com/more-or-less/ More for more / More for less / Less for less strategies
