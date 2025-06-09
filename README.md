@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 09-06-2025
+
+- https://www.ibm.com/downloads/documents/gb-en/12f5a71117cdc329 Agentic AI in Financial Services - Opportunities, Risks, and Responsible Implementation
+
 # 04-06-2025
 
 - https://medium.com/@elisowski/mcp-explained-the-new-standard-connecting-ai-to-everything-79c5a1c98288 MCP Explained: The New Standard Connecting AI to Everything
