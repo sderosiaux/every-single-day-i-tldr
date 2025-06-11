@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 11-06-2025
+
+- https://zuplo.com/docs/handlers/mcp-server From OpenAPI to MCP in 2sec
+
 # 09-06-2025
 
 - https://www.ibm.com/downloads/documents/gb-en/12f5a71117cdc329 Agentic AI in Financial Services - Opportunities, Risks, and Responsible Implementation
