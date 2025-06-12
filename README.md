@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 12-06-2025
+
+- https://medium.com/@richardhightower/is-rag-dead-anthropic-says-no-290acc7bd808 Is Contextual Retrieval the new RAG?
+
 # 11-06-2025
 
 - https://zuplo.com/docs/handlers/mcp-server From OpenAPI to MCP in 2sec
