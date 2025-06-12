@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 12-06-2025
 
+- https://www.reddit.com/r/apachekafka/comments/1l9p6z0/costeffective_logging_at_scale_sharechats_journey/ Cost-Effective Logging at Scale: ShareChat’s Journey to WarpStream : r/apachekafka
 - https://medium.com/@richardhightower/is-rag-dead-anthropic-says-no-290acc7bd808 Is Contextual Retrieval the new RAG?
 
 # 11-06-2025
