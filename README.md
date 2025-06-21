@@ -10,6 +10,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 # 21-06-2025
 
+- https://medium.com/@hugolu87/everything-from-the-databricks-2025-summit-8c257aa44dee Everything from the Databricks 2025 summit
 - https://sanjmo.medium.com/the-era-of-passive-data-management-is-over-what-cdos-must-do-now-to-drive-ai-driven-9d2ea531806b The Era of Passive Data Management is Over; What CDOs Must Do (Now) to Drive AI-driven Transformation
 
 # 12-06-2025
