@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 22-06-2025
+
+- https://www.youtube.com/watch?v=LCEmiRjPEtQ (46) Andrej Karpathy: Software Is Changing (Again)
+
 # 21-06-2025
 
 - https://medium.com/@hugolu87/everything-from-the-databricks-2025-summit-8c257aa44dee Everything from the Databricks 2025 summit
