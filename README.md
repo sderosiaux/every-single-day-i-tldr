@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 29-06-2025
+
+- https://medium.com/@elisowski/databricks-vs-microsoft-fabric-which-one-is-best-for-your-data-needs-6154310084cc Databricks vs Microsoft Fabric
+
 # 22-06-2025
 
 - https://www.youtube.com/watch?v=LCEmiRjPEtQ (46) Andrej Karpathy: Software Is Changing (Again)
