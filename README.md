@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 01-07-2025
+
+- https://clickhouse.com/blog/why-openai-uses-clickhouse-for-petabyte-scale-observability Why OpenAI chose ClickHouse for petabyte-scale observability
+
 # 30-06-2025
 
 - https://wangjunfei.com/2025/02/10/Announcing-Stonemq-A-high-performance-and-efficient-message-queue-developed-in-Rust/ Stonemq: A high-performance and efficient message queue developed in Rust
