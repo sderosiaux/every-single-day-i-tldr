@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 03-07-2025
+
+- https://newsletter.pragmaticengineer.com/p/the-10x-overlemployed-engineer The 10x “overlemployed” engineer 
+
 # 01-07-2025
 
 - https://github.com/nimtable/nimtable nimtable/nimtable: The Control Plane for Apache Iceberg.
