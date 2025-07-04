@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 04-07-2025
+
+- https://juhache.substack.com/p/boring-semantic-layer-mcp Boring Semantic Layer + MCP = 🔥
+
 # 03-07-2025
 
 - https://gradientflow.substack.com/p/how-to-future-proof-your-ai-governance How to future-proof your AI governance strategy
