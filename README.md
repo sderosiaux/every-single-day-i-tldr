@@ -8,6 +8,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 
 ߚࠈappy reading!
 
+# 05-07-2025
+
+- https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-future-of-work-is-agentic Building and managing an agentic AI workforce | McKinsey
+
 # 04-07-2025
 
 - https://juhache.substack.com/p/boring-semantic-layer-mcp Boring Semantic Layer + MCP = 🔥
