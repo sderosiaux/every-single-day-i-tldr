@@ -1,196 +1,116 @@
 # _Almost_ every single day I TLDR!
-
 This repo is my personal archive of articles, blog posts, and videos I found interesting. Think of it as a massive shared bookmarks list—like a daily newsletter, but without the newsletter.
-
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
-
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
-
 ߚࠈappy reading!
-
 # 05-07-2025
-
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage GenAI paradox: exploring AI use cases | McKinsey
+> Data accessibility and quality gaps. These gaps tend to exist for both structured and unstructured data, with unstructured material remaining largely ungoverned in most organizations.
 - https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-future-of-work-is-agentic Building and managing an agentic AI workforce | McKinsey
-
 # 04-07-2025
-
 - https://juhache.substack.com/p/boring-semantic-layer-mcp Boring Semantic Layer + MCP = 🔥
-
 # 03-07-2025
-
 - https://gradientflow.substack.com/p/how-to-future-proof-your-ai-governance How to future-proof your AI governance strategy
 - https://newsletter.pragmaticengineer.com/p/the-10x-overlemployed-engineer The 10x “overlemployed” engineer 
-
 # 01-07-2025
-
 - https://github.com/nimtable/nimtable nimtable/nimtable: The Control Plane for Apache Iceberg.
 - https://clickhouse.com/blog/why-openai-uses-clickhouse-for-petabyte-scale-observability Why OpenAI chose ClickHouse for petabyte-scale observability
-
 # 30-06-2025
-
 - https://wangjunfei.com/2025/02/10/Announcing-Stonemq-A-high-performance-and-efficient-message-queue-developed-in-Rust/ Stonemq: A high-performance and efficient message queue developed in Rust
-
 # 29-06-2025
-
 - https://medium.com/@elisowski/databricks-vs-microsoft-fabric-which-one-is-best-for-your-data-needs-6154310084cc Databricks vs Microsoft Fabric
-
 # 22-06-2025
-
 - https://www.youtube.com/watch?v=LCEmiRjPEtQ (46) Andrej Karpathy: Software Is Changing (Again)
-
 # 21-06-2025
-
 - https://medium.com/@hugolu87/everything-from-the-databricks-2025-summit-8c257aa44dee Everything from the Databricks 2025 summit
 - https://sanjmo.medium.com/the-era-of-passive-data-management-is-over-what-cdos-must-do-now-to-drive-ai-driven-9d2ea531806b The Era of Passive Data Management is Over; What CDOs Must Do (Now) to Drive AI-driven Transformation
-
 # 12-06-2025
-
 - https://www.reddit.com/r/apachekafka/comments/1l9p6z0/costeffective_logging_at_scale_sharechats_journey/ Cost-Effective Logging at Scale: ShareChat’s Journey to WarpStream : r/apachekafka
 - https://medium.com/@richardhightower/is-rag-dead-anthropic-says-no-290acc7bd808 Is Contextual Retrieval the new RAG?
-
 # 11-06-2025
-
 - https://zuplo.com/docs/handlers/mcp-server From OpenAPI to MCP in 2sec
-
 # 09-06-2025
-
 - https://www.ibm.com/downloads/documents/gb-en/12f5a71117cdc329 Agentic AI in Financial Services - Opportunities, Risks, and Responsible Implementation
-
 # 04-06-2025
-
 - https://medium.com/@elisowski/mcp-explained-the-new-standard-connecting-ai-to-everything-79c5a1c98288 MCP Explained: The New Standard Connecting AI to Everything
-
 # 01-06-2025
-
 - https://longform.asmartbear.com/more-or-less/ More for more / More for less / Less for less strategies
-
 # 29-05-2025
-
 - https://www.streamingdata.tech/p/current-london-2025 Current London 2025 - by Yaroslav Tkachenko
-
 # 26-05-2025
-
 - https://www.youtube.com/watch?v=2-yrkW-nhlU Claude Sonnet Called the FBI (virtually) Over a $2 Vending Machine
 - https://lp.eptura.com/rs/267-JUP-120/images/2025%20Workplace%20Index_TL-EPT-2222-EN%201.pdf?version=0 2025 Workplace Index - Return To Office & AI stuff
 - https://www.youtube.com/watch?v=vtIzMaLkCaM The Craft of Writing Effectively - we write to *change* readers' ideas/world
-
 # 25-05-2025
-
 - https://github.com/JorianWoltjer/mcp-cli mcp-cli: CLI to interact with and list Model Context Protocol (MCP) servers in SSE (Server-Sent Events) transport mode
 - https://blog.jaisal.dev/articles/mcp MCP: May Cause Pwnage - MANY Backdoors in Disguise
 - https://seanfalconer.medium.com/how-kafka-flink-databricks-and-neon-power-the-modern-stack-for-ai-agents-6c7e4599567f How Kafka, Flink, Databricks, and Neon Power the Modern Data Stack for AI Agents
 - https://ainativedev.io/news/text-diffusion Is Text Diffusion for Code a Game Changer? dLLM
 - https://blog.det.life/data-engineering-now-with-30-more-bullshit-b9de5f81f8c2 Data Engineering: Now with 30% More Bullshit
-
 # 24-05-2025
-
 - https://www.infoq.com/articles/rethinking-medallion-architecture/ The End of the Bronze Age: Rethinking the Medallion Architecture
 - https://medium.com/snowflake/how-to-clean-and-enrich-data-before-it-lands-in-snowflake-5bc937486b82 How to Clean and Enrich Data Before It Lands in Snowflake
-
 # 23-05-2025
-
 - https://moderndata101.substack.com/p/the-role-of-the-data-architect The Role of the Data Architect in AI Enablement
 - https://www.anthropic.com/news/claude-4 Introducing Claude 4 \ Anthropic
-
 # 16-05-2025
-
 - https://www.infoq.com/articles/practical-design-patterns-modern-ai-systems/ Beyond the Gang of Four: Practical Design Patterns for Modern AI Systems
-
 # 15-05-2025
-
 - https://batteryventures.substack.com/p/ai-is-growing-our-appetite-for-saas AI Is Growing Our Appetite for SaaS, Not Destroying It
-
 # 10-05-2025
-
 - https://scet.berkeley.edu/the-next-next-big-thing-agentic-ais-opportunities-and-risks/ The Next “Next Big Thing”: Agentic AI’s Opportunities and Risks
 - https://www.promptfiddle.com/ Prompt Fiddle using BAML #promptengineering
-
 # 07-05-2025
-
 - https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/07/empowering-multi-agent-apps-with-the-open-agent2agent-a2a-protocol/ Empowering multi-agent apps with the open Agent2Agent (A2A) protocol
-
 # 06-05-2025
-
 - https://current.confluent.io/post-conference-videos-2025/re-engineering-kafka-consumers-for-india-scale-dream11s-journey-to-processing-millions-of-message-bng25 Re-engineering Kafka Consumers for 'India Scale': Dream11’s Journey to Processing Millions of Message
 - https://www.datadoghq.com/blog/engineering/streaming-platform-kafka-custom-abstractions/ Achieving relentless Kafka reliability at scale with the Streaming Platform
-
 # 05-05-2025
-
 - https://www.khoslaventures.com/the-opportunity-for-ai-in-healthcare-is-here-now/ The Opportunity for AI in Healthcare is here now
 - https://www.docker.com/blog/build-to-prod-mcp-servers-with-docker/ How to build and deliver an MCP server for production
 - https://github.com/cloudflare/mcp-server-cloudflare mcp-server-cloudflare
 - https://longform.asmartbear.com/purgatory/ Product Purgatory: When they love it but still don’t buy
-
 # 04-05-2025
-
 - https://www.anthropic.com/news/integrations Claude can now connect to your world \ Anthropic
 - https://medium.com/data-science-collective/agentic-ai-comparing-new-open-source-frameworks-21ec676732df Agentic AI: Comparing New Open-Source Frameworks
 - https://blog.metamirror.io/zero-copy-a-modern-data-fantasy-a28b535b6bfa “Zero-Copy” a modern data fantasy
-
 # 30-04-2025
-
 - https://github.com/mcp-ecosystem/mcp-gateway mcp-ecosystem/mcp-gateway: MCP Gateway - A lightweight gateway service that transforms APIs into MCP servers
-
 # 29-04-2025
-
 - https://www.decodable.co/blog/agentic-ai-will-make-things-worse-before-it-makes-them-better Agentic AI Will Make Things Worse Before It Makes Them Better
 - https://drive.google.com/file/d/10zJPuXAzEBIdnwSH14IQmt9KwQPyxMRV/view NEXT 25 DEVLT-202 - [Rubens de Almeida Zimbres] [Next25 - Lightning Talk]
-
 # 26-04-2025
-
 - https://ai.meta.com/blog/llama-4-multimodal-intelligence/ The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation
 - https://blog.owulveryck.info/2025/04/22/mcps-3-us-making-a-tool-useful-usable-and-used-by-and-for-an-llm.html MCP's 3 U's: Making a Tool Useful, Usable, and Used by and for an LLM #ontology
 - https://codemia.io/blog/path/Apache-Kafka-40-Deep-Dive-Breaking-Changes-Migration-and-Performance Apache Kafka 4.0 Deep Dive: Breaking Changes, Migration, and Performance
 - https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/ Azure MCP Server
 - https://medium.com/google-cloud/architecting-a-multi-agent-system-with-google-a2a-and-adk-4ced4502c86a Architecting a Multi-Agent System with Google A2A and ADK
-
 # 25-04-2025
-
 - https://hiddenlayer.com/innovation-hub/novel-universal-bypass-for-all-major-llms/ Novel Universal Bypass for All Major LLMs
-
 # 24-04-2025
-
 - https://topicpartition.io/blog/kip-1150-diskless-topics-in-apache-kafka KIP-1150 in Apache Kafka is a big deal (Diskless Topics)
 - https://www.youtube.com/watch?v=99HVEF7r2N4 Building Data Systems in 2025: S3 as Primary Storage: Cost, Latency, Caching Strategies
 - https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/ A Deep Dive Into MCP and the Future of AI Tooling | Andreessen Horowitz
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai The State of AI: Global survey | McKinsey
 - https://seanfalconer.medium.com/the-ai-silo-problem-how-data-streaming-can-unify-enterprise-ai-agents-0a138cf6398c The AI Silo Problem: How Data Streaming Can Unify Enterprise AI Agents
-
 # 23-04-2025
-
 - https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/ The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures - Menlo Ventures
-
 # 21-04-2025
-
 - https://moderndata101.substack.com/p/introducing-lakehouse-20-what-changes Lakehouse 2.0, decentralization
-
 # 13-04-2025
-
 - https://seanfalconer.medium.com/how-to-build-a-multi-agent-orchestrator-using-flink-and-kafka-4ee079351161 How to Build a Multi-Agent Orchestrator Using Flink and Kafka
-
 # 07-04-2025
-
 - https://www.datadoghq.com/blog/focus-and-datadog/ Simplify Multi-Cloud Cost Management With FOCUS and Datadog
-
 # 04-04-2025
-
 - https://gradientflow.substack.com/p/autonomous-ai-agents-are-changing Autonomous AI Agents Are Changing Knowledge Work—Fast
-
 # 31-03-2025
-
 - https://www.responsive.dev/blog/performance-optimization-kafka-streams-101 Kafka Streams 101: Optimizing your apps for maximum performance
 - https://speakerdeck.com/angioia/building-your-enterprise-knowledge-graph-one-data-product-at-a-time Building your Enterprise Knowledge Graph one data product at a time
-
 # 27-03-2025
-
 - https://vutr.substack.com/p/bufstream-stream-kafka-messages-to Bufstream: Stream Kafka Messages to Iceberg Tables in Minutes
-
 # 24-03-2025
-
 - https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html In S3 simplicity is table stakes
-
 # 23-03-2025
-
 - https://medium.com/@danthelion/we-need-to-talk-about-byoc-b58c506aec4d We Need To Talk About BYOC.
 - https://quesma.com/blog-detail/aiops-observability Lessons from the pre-LLM AI in Observability: Anomaly Detection and AIOps vs. P99
 - https://www.infoq.com/articles/secure-ai-powered-early-detection-system/ Secure AI-Powered Early Detection System for Medical Data Analysis & Diagnosis
@@ -198,221 +118,131 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://levelup.gitconnected.com/chain-of-draft-cod-is-the-new-king-of-prompting-techniques-d9dc17f12051 Chain-of-Draft (CoD): TLDR: think step by step, 5 words minimum for each step
 - https://www.gartner.com/doc/reprints?id=1-2HKZSYYT&ct=240516&st=sb Trending Questions About Generative AI (Gartner)
 - https://medium.com/everyday-ai/craziest-mcp-servers-you-must-try-f23526a165f5 (not-so) Craziest MCP Servers You Must Try
-
 # 22-03-2025
-
 - https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/ A Deep Dive Into MCP and the Future of AI Tooling
 - https://medium.com/@andrew_schofield/early-access-release-of-queues-for-kafka-in-apache-kafka-4-0-0ae2f3f69ac9 Early access release of Queues for Kafka in Apache Kafka 4.0
-
 # 21-03-2025
-
 - https://redpanda-data.medium.com/apache-iceberg-topics-stream-directly-into-your-data-lake-0250a8dfdd76 Apache Iceberg Topics: Stream directly into your data lake
-
 # 20-03-2025
-
 - https://seanfalconer.medium.com/the-future-of-ai-agents-is-event-driven-9e25124060d6 The Future of AI Agents is Event-Driven
 - https://lazypro.medium.com/evolution-of-rag-baseline-rag-graphrag-and-kag-93b6f221bde6 Evolution of RAG: RAG, GraphRAG, and KAG
 - https://medium.com/@getindatatechteam/the-evolution-of-real-time-data-streaming-in-business-7b4d24fe1af3 The Evolution of Real-Time Data Streaming in Business
-
 # 15-03-2025
-
 - https://seattledataguy.substack.com/p/5-hard-earned-lessons-in-building 5 Hard-Earned Lessons in Building a Successful Data Career: Embracing Mistakes and Driving Impact
-
 # 12-03-2025
-
 - https://buf.build/blog/bufstream-multi-region Multi-region, active-active Bufstream at 100 GiB/s
-
 # 08-03-2025
-
 - https://www.reddit.com/r/apachekafka/comments/1j5mszx/kafka_dr_strategy_handling_producer_failover_with/ Kafka DR Strategy - Handling Producer Failover with Conduktor
 - https://www.blef.fr/data-news-week-25-10/ Data News — AI, dbt, SQLMesh, data teams
-
 # 06-03-2025
-
 - https://www.infoq.com/presentations/firewall-java-ebpf/ Building a Lightning Fast Firewall with Java & eBPF
 - https://www.nationalsecurity.ai/ Superintelligence Strategy
 - https://vutr.substack.com/p/how-is-databricks-spark-different How is Databricks' Spark different from Open-Source Spark?
-
 # 03-03-2025
-
 - https://www.infoq.com/presentations/zero-trust-devsecops/ A Zero Trust Future for Applications: Practical Implementation and Pitfalls
-
 # 02-03-2025
-
 - https://morganperry.substack.com/p/devtools-brew-71-early-revenue-illusion Early Revenue Illusion & Building Companies That Last. — As founder, this article is clearly spot-on!
-
 # 01-03-2025
-
 - https://www.databricks.com/blog/improving-retrieval-and-rag-embedding-model-finetuning Improving Retrieval and RAG with Embedding Model Finetuning
-
 # 22-02-2025
-
 - https://grafana.com/blog/2025/02/20/the-next-generation-of-grafana-mimir-inside-mimirs-redesigned-architecture-for-increased-reliability/ The next generation of Grafana Mimir: Inside Mimir's redesigned architecture for increased reliability
-
 # 18-02-2025
-
 - https://thedatasource.substack.com/p/engineering-byoc-enterprise-startups Engineering BYOC: Enterprise Startups Share Their Playbooks
-
 # 16-02-2025
-
 - https://www.anthropic.com/news/the-anthropic-economic-index Introducing the Anthropic Economic Index
 - https://www.hotds.dev/p/humans-of-the-data-sphere-issue-8 Humans of the Data Sphere Issue #8
 - https://www.stream.security/post/toxic-combination-real-time-agents-on-top-static-cspm Toxic Combination: The Pitfalls of layering real-time agents on top of Static CSPM
 - https://kai-waehner.medium.com/real-time-model-inference-with-apache-kafka-and-flink-for-predictive-ai-and-genai-bf9459f66c13 Real-Time Model Inference with Apache Kafka and Flink for Predictive AI and GenAI
-
 # 12-02-2025
-
 - https://www.warpstream.com/blog/kafka-transactions-explained-twice Kafka Transactions Explained
 - https://www.infoq.com/articles/building-trust-ai/ Building Trust in AI: Security and Risks in Highly Regulated Industries
-
 # 11-02-2025
-
 - https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing (9) Tech's Dumbest Mistake: Why Firing Programmers for AI Will Destroy Everything
-
 # 10-02-2025
-
 - https://medium.com/codex/google-just-annihilated-deepseek-and-openai-with-their-new-flash-2-0-model-f5ac84b4bb60 Gemini Flash 2.0 is the new pop
 - https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/ Cloudflare incident on February 6, 2025
-
 # 05-02-2025
-
 - https://www.datadoghq.com/blog/data-jobs-monitoring/ Troubleshoot and Optimize Data Processing Workloads With Data Jobs Monitoring
 - https://medium.com/@msakhatsky/modern-data-architectures-explained-a9a4e0c8d8ed Modern Data Architectures Explained
-
 # 04-02-2025
-
 - https://www.nextdata.com/our-pov/the-data-mesh-challenge-how-to-close-the-gap-between-inception-and-operation-at-scale The data mesh challenge: closing the gap between strategy and operation at scale (high level generic stuff)
 - https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00468-0 Big data quality framework: a holistic approach to continuous quality management
 - https://jack-vanlightly.com/blog/2025/2/3/why-snowflake-wants-streaming Why Snowflake wants streaming — Jack Vanlightly
 - https://www.linkedin.com/pulse/more-freedom-means-problems-cost-decentralization-st%C3%A9phane-derosiaux-15bxe/ More Freedom means More Problems (the cost of decentralization) #me
 - https://futurism.com/deepseek-failed-every-security-test DeepSeek Failed Every Single Security Test, Researchers Found
-
 # 03-02-2025
-
 - https://youtubetranscriptoptimizer.com/blog/05_the_short_case_for_nvda The Short Case for Nvidia Stock [very long article] #ai
-
 # 02-02-2025
-
 - https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/ Every System is a Log: Avoiding coordination in distributed applications Restate
-
 # 01-02-2025
-
 - https://www.linkedin.com/pulse/subtle-art-cost-comparisons-tristan-stevens-tqtue/ The subtle art of cost comparisons #kafka #redpanda #warpstream
-
 # 30-01-2025
-
 - https://www.datadoghq.com/blog/engineering/husky-storage-compaction/ Husky: Efficient Compaction at Datadog Scale | Datadog
 - https://newsletter.pragmaticengineer.com/p/the-pulse-122-deepseek-rocks-the The Pulse #122: DeepSeek rocks the tech industry
 - https://blog.det.life/stream-processing-systems-in-2025-risingwave-flink-spark-streaming-and-whats-ahead-6e24927f7d8b Stream Processing Systems in 2025: RisingWave, Flink, Spark Streaming, and What’s Ahead
-
 # 21-01-2025
-
 - https://seanfalconer.medium.com/event-driven-ai-building-a-research-assistant-with-kafka-and-flink-e95db47eb3f3 Event-Driven AI: Building a Research Assistant with Kafka and Flink
 - https://startree.ai/resources/disaggregating-observability-with-kafka-startree-grafana Disaggregated Observability Stack with Kafka, StarTree, & Grafana
-
 # 20-01-2025
-
 - https://www.lesswrong.com/posts/njAZwT8nkHnjipJku/alignment-faking-in-large-language-models Alignment Faking in Large Language Models
-
 # 19-01-2025
-
 - https://dataengineeringcentral.substack.com/p/data-quality-with-databricks-labs Data Quality with Databricks Labs new DQX tool
 - https://blog.det.life/aws-s3-tables-what-it-means-for-apache-iceberg-and-the-data-ecosystem-4a1f6b978b22 AWS S3 Tables: What it Means for Apache Iceberg and the Data Ecosystem
 - https://blog.stackademic.com/linux-creator-reveals-the-future-of-programming-with-ai-91455af6747e AI will change the way we code, but it will be a gradual evolution, not a sudden revolution.
 - https://mill-build.org/blog/6-garbage-collector-perf.html Understanding JVM Garbage Collector Performance
-
 # 18-01-2025
-
 - https://www.latent.space/p/o1-skill-issue o1 isn’t a chat model: it needs your goal, some eventual warnings, and a massive context dump to do its job properly. Like a junior person.
-
 # 15-01-2025
-
 - https://materializedview.io/p/infrastructure-vendors-are-in-a-tough Infrastructure Vendors Are in a Tough Spot, Confluent, Warpstream, Kafka
-
 # 13-01-2025
-
 - https://sanjmo.medium.com/2025-enterprise-data-ai-trends-agents-platforms-and-moonshots-0010c8b4d1f3 2025 Enterprise Data & AI Trends: Agents, Platforms, and Moonshots
-
 # 12-01-2025
-
 - https://lukaspetersson.com/blog/2025/bitter-vertical/ AI founders will learn The Bitter Lesson
 - https://medium.com/@yingjunwu/data-engineers-why-you-really-need-to-learn-ai-61e408fa38df Data Engineers: Why You Really Need to Learn AI
 - https://www.dataengineeringweekly.com/p/the-future-of-data-lakehouses-a-fireside The Future of Data Lakehouses: A Fireside Chat with Vinoth Chandar - Founder CEO Onehouse & PMC Chair of Apache Hudi
 - https://matduggan.com/stop-trying-to-schedule-a-call-with-me/ Stop Trying To Schedule A Call With Me
-
 # 11-01-2025
-
 - https://www.youtube.com/watch?v=w9WE1aOPjHc François Chollet / Machine Learning Street Talk #podcast
 - https://qlikdork.com/2024/12/visualizing-dimensional-relationships/ Visualizing Dimensional Relationships: Sankey and Decomposition Tree #dataviz
 - https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/ I got OpenTelemetry to work. But why was it so complicated? #otel
-
 # 09-01-2025
-
 - https://unzip.dev/0x01f-ai-and-startup-moats/ AI and Startup Moats
-
 # 06-01-2025
-
 - https://blog.practicalengineering.management/the-changing-engineering-landscape-and-how-to-stay-ahead-of-it-1bcdf9d63f6a The Changing Engineering Landscape and How to Stay Ahead of It
-
 # 05-01-2025
-
 - https://zohaib.me/using-llms-and-cursor-for-finishing-projects-productivity/ Using LLMs and Cursor to become a finisher
-
 # 03-01-2025
-
 - https://minimaxir.com/2025/01/write-better-code/ Can LLMs write better code if you keep asking them to “write better code”?
-
 # 02-01-2025
-
 - https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html Databases in 2024: A Year in Review
 - https://simonwillison.net/2024/Dec/31/llms-in-2024/ Things we learned about LLMs in 2024
-
 # 01-01-2025
-
 - https://www.infoq.com/news/2024/12/cloudflare-2024-review-report/ Cloudflare 2024 Year in Review: Strong Growth for GitHub Copilot and Go Surpasses Node.js
-
 # 31-12-2024
-
 - https://aipapersacademy.com/chain-of-continuous-thought/ LLM Reasoning with Chain of Continuous Thought by Meta AI
 - https://aipapersacademy.com/chain-of-continuous-thought/ LLM Reasoning with Chain of Continuous Thought by Meta AI
-
 # 23-12-2024
-
 - https://newsletter.betterstack.com/p/how-dropbox-saved-millions-of-dollars How Dropbox Saved Millions of Dollars by Building a Load Balancer
-
 # 22-12-2024
-
 - https://www.youtube.com/watch?v=tOGK1nlHdFo Lenny & Marc Benioff (salesforce)
 - https://www.vldb.org/pvldb/vol16/p3335-butrovich.pdf Tigger: A Database Proxy That Bounces With User-Bypass
 - https://www.youtube.com/watch?v=vD-0dw4gUhw P99 CONF 2024 | The Next Chapter in the Sordid Love/Hate Relationship Btwn DBs & OSes by Andy #ebpf
-
 # 21-12-2024
-
 - https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf practices-for-governing-agentic-ai-systems.pdf
 - https://www.responsive.dev/blog/kafka-streams-2024-year-in-review Kafka Streams Wrapped: 2024 in review
 - https://medium.com/building-the-open-data-stack/a-guide-to-agentic-ai-architecture-c665f2ba30c2 A Guide to Agentic AI Architecture | Building Real-World, Real-Time AI
-
 # 20-12-2024
-
 - https://arcprize.org/blog/oai-o3-pub-breakthrough OpenAI o3 Breakthrough High Score on ARC-AGI-Pub
-
 # 19-12-2024
-
 - https://www.dataengineeringweekly.com/p/the-future-of-data-engineering-dews (4) The Future of Data Engineering: DEW's 2025 Predictions
-
 # 17-12-2024
-
 - https://towardsdatascience.com/top-10-data-ai-trends-for-2025-4ed785cafe16 Top 10 Data & AI Trends for 2025. Agentic AI, small data
 - https://www.dataengineeringweekly.com/p/the-state-of-data-engineering-in The State of Data Engineering in 2024: Key Insights and Trends
-
 # 16-12-2024
-
 - https://thealliance.ai/blog/the-state-of-open-source-trust The State of Open Source AI Trust and Safety - End of 2024 Edition
 - https://dataengineeringcentral.substack.com/p/aws-s3-tables-the-iceberg-cometh AWS S3 Tables?! The Iceberg Cometh
 - https://www.kai-waehner.de/blog/2024/12/04/the-data-streaming-landscape-2025/ The Data Streaming Landscape 2025
-
 # 15-12-2024
-
 - https://meltware.com/2024/12/04/s3-tables A First Look at S3 (Iceberg) Tables
 - https://gradientflow.substack.com/p/empowering-ai-agents-with-real-time Empowering AI Agents with Real-Time Data
 - https://towardsdatascience.com/agentic-mesh-the-future-of-generative-ai-enabled-autonomous-agent-ecosystems-d6a11381c979 Agentic Mesh: The Future of Generative AI-Enabled Autonomous Agent Ecosystems. // i find this overthinking what exist today (it's called applications) but good to know
@@ -422,378 +252,220 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://newsletter.pragmaticengineer.com/p/the-pulse-118 Particularly excited about Devin as AI agent to open PRs <3
 - https://www.bigtechnology.com/p/scale-ais-alexandr-wangs-predictions Scale AI’s Alexandr Wang’s Predictions for AI In 2025: Geopolitical Turf Wars Escalate, AI Agents Progress, Data Beats Compute
 - https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards NIST Releases First 3 Finalized Post-Quantum Encryption Standards | NIST
-
 # 11-12-2024
-
 - https://addyo.substack.com/p/the-70-problem-hard-truths-about The 70% problem: Hard truths about AI-assisted coding
-
 # 06-12-2024
-
 - https://www.streamingdata.tech/p/data-platforms-in-2030 Data Platforms in 2030
 - https://www.streamingdata.tech/p/fluss-first-impression Fluss: First Impression
-
 # 03-12-2024
-
 - https://newsletter.pragmaticengineer.com/p/how-genai-changes-tech-hiring How GenAI is reshaping tech hiring
 - https://towardsdatascience.com/your-data-quality-checks-are-worth-less-than-you-think-c8bd181a1327 "Nobody’s winning awards for generating pages and tickets for issues that couldn’t be resolved"
-
 # 02-12-2024
-
 - https://www.infoq.com/news/2024/11/effective-data-stream-processing/ Stream All the Things: Patterns of Effective Data Stream Processing
 - https://seattledataguy.substack.com/p/thinking-like-an-owner-elevating Thinking Like an Owner: Elevating Your Data Team's Impact In 2025
-
 # 01-12-2024
-
 - https://mailchi.mp/fmvilas.me/schema-first-asyncapi-is-just-a-config-file Schema-first AsyncAPI is just a config file
 - https://www.blackrock.com/corporate/literature/whitepaper/bii-megaforces-ai-november-2024.pdf BlackRock AI's big questions November 2024
-
 # 24-11-2024
-
 - https://vutr.substack.com/p/i-spent-4-hours-learning-the-architecture Architecture of BigQuery's storage engine
-
 # 17-11-2024
-
 - https://www.hotds.dev/p/humans-of-the-data-sphere-issue-2 Humans of the Data Sphere Issue #kafka #streaming
-
 # 13-11-2024
-
 - https://medium.com/@louise.de.leyritz/tracing-value-6-use-cases-for-data-lineage-fae59cd5a971 Tracing Value: 6 Use Cases for Data Lineage
 - https://www.hashicorp.com/blog/rotated-vs-dynamic-secrets-which-should-you-use Rotated vs. dynamic secrets: Which should you use?
-
 # 03-11-2024
-
 - https://www.decodable.co/blog/revisiting-the-outbox-pattern Revisiting the Outbox Pattern #kafka
-
 # 02-11-2024
-
 - https://www.thenile.dev/blog/multi-tenant-rag Nile: Building successful multi-tenant RAG applications
 - https://www.responsive.dev/blog/why-slatedb-for-kafka-streams RocksDB vs SlateDB for Stream Processing #kafka #cost
 - https://www.databricks.com/customers/coinbase/streaming The boom of SOON | Databricks Customer Story
 - https://www.linkedin.com/pulse/how-confluent-acquired-warpstream-220m-after-just-13-months-hxgyf How Confluent acquired WarpStream for $220m after just 13 months of operation
-
 # 30-10-2024
-
 - https://www.siliconcontinent.com/p/the-strange-kafka-world-of-the-eu The Strange Kafka World of the EU AI Act
-
 # 26-10-2024
-
 - https://yokota.blog/2021/08/26/understanding-protobuf-compatibility/ Understanding Protobuf Compatibility
 - https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/ Introducing quantized Llama models with increased speed and a reduced memory footprint
-
 # 25-10-2024
-
 - https://www.felicis.com/insight/unstructured-data-stack The three components of the unstructured data stack
 - https://seattledataguy.substack.com/p/should-you-build-a-custom-data-orchestration Should You Build a Custom Data Orchestration System?
-
 # 24-10-2024
-
 - https://moderndata101.substack.com/p/the-power-combo-of-ai-agents The Power Combo of AI Agents and the Modular Data Stack: AI that Reasons
-
 # 20-10-2024
-
 - https://towardsdatascience.com/safeguarding-your-rag-pipelines-a-step-by-step-guide-to-implementing-llama-guard-with-llamaindex-6f80a2e07756 Safeguarding Your RAG Pipelines: A Step-by-Step Guide to Implementing Llama Guard with LlamaIndex
 - https://towardsdatascience.com/how-to-choose-the-architecture-for-your-genai-application-6053e862c457 How to Choose the Architecture for Your GenAI Application
 - https://docs.kleiber.me/2023-12-29-Kleiber-A-Primer-On-LLM-Security.pdf A Primer on LLM Security
-
 # 19-10-2024
-
 - https://medium.com/@community_md101/metrics-focused-data-strategy-with-model-first-data-products-d2e5d23de7b9 Metrics-Focused Data Strategy with Model-First Data Products
 - https://kai-waehner.medium.com/the-shift-left-architecture-from-batch-and-lakehouse-to-data-streaming-d1ea7306ea30 The Shift Left Architecture — From Batch and Lakehouse to Data Streaming
 - https://towardsdatascience.com/i-fine-tuned-the-tiny-llama-3-2-1b-to-replace-gpt-4o-7ce1e5619f3d I Fine-Tuned the Tiny Llama 3.2 1B to Replace GPT-4o
-
 # 18-10-2024
-
 - https://nabeelqu.substack.com/p/reflections-on-palantir Reflections on Palantir
 - https://medium.nandos.dev/running-a-modern-data-platform-at-nandos-part-2-2-data-mesh-and-data-contracts-1d1937b6cac6 Running a Modern Data Platform at Nando’s #datamesh
-
 # 09-10-2024
-
 - https://towardsdatascience.com/how-to-choose-the-architecture-for-your-genai-application-6053e862c457 How to Choose the Architecture for Your GenAI Application
-
 # 05-10-2024
-
 - https://www.kai-waehner.de/blog/2024/10/04/what-is-microsoft-fabric-for-azure-cloud-beyond-the-buzz-and-how-it-competes-with-snowflake-and-databricks/ What is Microsoft Fabric for Azure Cloud and how it Competes with Snowflake and Databricks
-
 # 29-09-2024
-
 - https://pub.towardsai.net/not-rag-but-rag-fusion-understanding-next-gen-info-retrieval-477788da02e2 RAG Fusion: Understanding "Next-Gen" Info Retrieval
-
 # 28-09-2024
-
 - https://jack-vanlightly.com/blog/2024/9/26/table-format-interoperability-future-or-fantasy Table format interoperability, future or fantasy?
-
 # 23-09-2024
-
 - https://dropbox.tech/security/how-we-use-lakera-guard-to-secure-our-llms How we use Lakera Guard to secure our LLMs - Dropbox
 - https://blog.flipkart.tech/flipkart-enhances-ai-safety-in-e-commerce-implementing-nvidia-nemo-guardrails-cb2f293b29c0 Flipkart Enhances AI Safety in E-Commerce: Implementing NVIDIA NeMo Guardrails
-
 # 22-09-2024
-
 - https://www.youtube.com/watch?v=-wCzn9gKoUk A Short Summary of the Last Decades of Data Management - Tables are eternal, NoSQL was a bad idea, Big data is dead, DuckDB
 - https://www.youtube.com/watch?v=Sn6fVsOzrSU Current 2024 Keynote Day 1 - Data Streaming in the Age of AI #kafka
 - https://www.youtube.com/watch?v=UakqL6Pj9xo Francois Chollet - LLMs won’t lead to AGI
-
 # 21-09-2024
-
 - https://www.dataengineeringweekly.com/p/evaluating-data-observability-tools Evaluating Data Observability Tools
 - https://juhache.substack.com/p/rip-iceberg-catalogs RIP Iceberg Catalogs ? - by Julien Hurault
-
 # 20-09-2024
-
 - https://moderndata101.substack.com/p/semantics-and-data-product-enablement Semantics and Data Product Enablement
 - https://jack-vanlightly.com/blog/2024/9/19/table-format-comparisons-change-queries-and-cdc Table format comparisons - Change queries and CDC
-
 # 14-09-2024
-
 - https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b gRPC: 5 Years Later, Is It Still Worth It?
 - https://www.redpanda.com/blog/redpanda-one-multi-modal-streaming-data-engine Redpanda | Redpanda One
 - https://jack-vanlightly.com/blog/2024/9/11/byoc-not-the-future-of-cloud-services-but-a-pillar-of-an-everywhere-platform BYOC, not “the future of cloud services” but a pillar of an everywhere platform
-
 # 10-09-2024
-
 - https://newsletter.pragmaticengineer.com/p/ai-tooling-part-3 AI Tooling for Software Engineers: Rolling it out company-wide (Part 3)
-
 # 02-09-2024
-
 - https://streamingdata.substack.com/p/streaming-first-archirecture Streaming-First Architecture
-
 # 01-09-2024
-
 - https://alirezasadeghi1.medium.com/the-history-and-evolution-of-open-table-formats-0f1b9ea10e1e The History and Evolution of Open Table Formats
-
 # 31-08-2024
-
 - https://medium.com/starrocks-engineering/how-to-accelerate-semi-structured-data-analytics-13b7ae32e34f How To Accelerate Semi-Structured Data Analytics
-
 # 30-08-2024
-
 - https://www.elastic.co/blog/elasticsearch-is-open-source-again Elasticsearch is Open Source, Again (AGPL)
-
 # 29-08-2024
-
 - https://materializedview.io/p/unpacking-the-buzz-around-clickhouse Unpacking the Buzz around ClickHouse
-
 # 26-08-2024
-
 - https://www.responsive.dev/blog/async-processing-for-kafka-streams Async Processing in Kafka Streams
-
 # 25-08-2024
-
 - https://medium.com/confluent/the-mysteries-of-kip-813-8fd2e85ac1d9 KIP-813: Shareable State Stores aka Read-only State Stores
 - https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/ DoorDash Empowers Engineers with Kafka Self-Serve
 - https://martyoo.medium.com/stop-team-topologies-fd954ea26eca Stop Team Topologies. Reevaluating Team Topologies
-
 # 24-08-2024
-
 - https://supabase.com/blog/postgres-new postgres.new: In-browser Postgres with an AI interface
 - https://www.warpstream.com/blog/dealing-with-rejection-in-distributed-systems Dealing with rejection and back-pressure (in distributed systems)
-
 # 11-08-2024
-
 - https://netflixtechblog.com/java-21-virtual-threads-dude-wheres-my-lock-3052540e231d Java 21 Virtual Threads - Dude, Where’s My Lock?
 - https://www.timeplus.com/post/real-time-ddos-detection Real-Time AI-Powered DDoS Detection with Timeplus and OpenAI
 - https://playbooks.hypergrowthpartners.com/p/devtools-website-design-principles DevTools Website Design Principles
-
 # 04-08-2024
-
 - https://www.osohq.com/post/kafka-sqlite-low-latency Building a resilient and low-latency service using Kafka and SQLite
 - https://www.redpanda.com/blog/write-caching-performance-benchmark Redpanda adopting the same strategy as Apache Kafka regarding delayed fsyncs
-
 # 03-08-2024
-
 - https://aws.amazon.com/blogs/big-data/improve-apache-kafka-scalability-and-resiliency-using-amazon-msk-tiered-storage/ Improve Apache Kafka scalability and resiliency using Amazon MSK tiered storage
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-top-trends-in-tech?stcr=6025C6CA33D84B4FACD59ADC2A05E538&cid=other-eml-nsl-mip-mck&hlkid=67f3b99299784fce91b4af4207cbeebb&hctky=14255962&hdpid=7168a89b-3b02-450f-9ba3-5ceaef6f3881 McKinsey technology trends outlook 2024 | McKinsey
-
 # 19-07-2024
-
 - https://www.bigtechnology.com/p/the-end-of-investors-genai-honeymoon The End Of Investors’ GenAI Honeymoon
-
 # 16-07-2024
-
 - https://newsletter.mkt1.co/p/pricing-pages Why all B2B Startups need plans & pricing pages on their websites
-
 # 15-07-2024
-
 - https://streamingdata.substack.com/p/streaming-platforms-in-the-cloud-era Streaming Platforms in the Cloud Era, Warpstream #kafka
-
 # 14-07-2024
-
 - https://aws.amazon.com/blogs/aws/introducing-end-to-end-data-lineage-preview-visualization-in-amazon-datazone/ Introducing end-to-end data lineage (preview) visualization in Amazon DataZone
-
 # 13-07-2024
-
 - https://seattledataguy.substack.com/p/dont-lead-a-data-team-before-reading What it takes to Lead a Data Team
-
 # 03-07-2024
-
 - https://www.notion.so/blog/building-and-scaling-notions-data-lake Building and scaling Notion’s data lake: Kafka!
 - https://www.decodable.co/blog/flink-sql-misconfiguration-misunderstanding-and-mishaps Flink SQL—Misconfiguration, Misunderstanding, and Mishaps
 - https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html PgBouncer is useful, important, and fraught with peril
 - https://medium.com/@davorborcic/data-lineage-and-impact-analysis-8f16510cc089 Data Lineage and Impact Analysis.
 - https://medium.com/@matvey.mtn/fixing-kafka-streams-uneven-tasks-distribution-at-logz-io-50e7ac071b5b Fixing Kafka Streams Uneven Tasks Distribution at Logz.io
-
 # 24-06-2024
-
 - https://towardsdatascience.com/demystify-data-backfilling-cf1713d7f7a3 Demystify Data Backfilling.
-
 # 22-06-2024
-
 - https://www.blef.fr/databricks-snowflake-and-the-future/ Databricks, Snowflake and the future
-
 # 18-06-2024
-
 - https://www.responsive.dev/blog/guide-to-kafka-streams-state Don't Panic: The Definitive Guide to Kafka Streams State
-
 # 16-06-2024
-
 - https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data System
-
 # 15-06-2024
-
 - https://eng.lyft.com/druid-deprecation-and-clickhouse-adoption-at-lyft-120af37651fd Druid Deprecation and ClickHouse Adoption at Lyft
-
 # 14-06-2024
-
 - https://materializedview.io/p/musings-on-data-lakes-and-kafka-connect Musings on Data Lakes and Kafka Connect
-
 # 08-06-2024
-
 - https://en.wikipedia.org/wiki/Dead_Internet_theory Dead Internet theory
 - https://pivotal.substack.com/p/how-to-price-a-data-asset How To Price A Data Asset
 - https://towardsdatascience.com/why-data-is-not-the-new-oil-and-data-marketplaces-have-failed-us-b42dd87a0ba0 Why Data Is *Not* the New Oil and Data Marketplaces Have Failed Us
 - https://sookocheff.com/post/compliance/the-developers-guide-to-fips-compliance/ The Developers Guide to FIPS 140 Compliance
 - https://www.honeycomb.io/blog/investigating-kafka-tiered-storage Investigating Kafka Broker I/O When Using Tiered Storage
-
 # 04-06-2024
-
 - https://medium.com/@martin.hodges/why-do-i-need-a-service-mesh-as-well-as-a-cni-829b492398b7 Why do I need a Service Mesh as well as a CNI?
-
 # 29-05-2024
-
 - https://www.warpstream.com/blog/zero-disks-is-better-for-kafka Zero Disks is Better (for Kafka)
-
 # 27-05-2024
-
 - https://newrelic.com/blog/how-to-relic/tuning-apache-kafka-consumers Tuning Apache Kafka Consumers to maximize throughput and reduce costs
 - https://blog.cloudflare.com/ai-gateway-is-generally-available AI Gateway is generally available: a unified interface for managing and scaling your generative AI workloads
 - https://engineering.fb.com/2024/05/22/data-infrastructure/composable-data-management-at-meta/ Composable data management at Meta
-
 # 20-05-2024
-
 - https://dev.to/mrkandreev/what-is-rocksdb-and-its-role-in-streaming-3bla What is RocksDB (and its role in streaming)?
 - https://medium.com/@adam.bellemare/preventing-and-fixing-bad-data-in-event-streams-part-1-27bf2a99b48e Preventing and Fixing Bad Data in Event Streams #kafka
 - https://materializedview.io/p/nimble-and-lance-parquet-killers Nimble and Lance: The Parquet Killers
-
 # 19-05-2024
-
 - https://medium.com/israeli-tech-radar/how-to-save-90-on-bigquery-storage-a1ca99582c5c How to save 90% of BigQuery’s storage cost / Physical billing model and time travel
 - https://www.meltwater.com/en/blog/how-deliveroo-uses-machine-learning-to-power-food-delivery How Deliveroo uses machine learning to power food delivery
 - https://mikkeldengsoe.substack.com/p/data-about-data-from-1000-conversations Data about data from 1,000 conversations with data teams
-
 # 15-05-2024
-
 - https://devblogit.com/how-uber-uses-kafka/ Uber, Kafka, Dynamic Pricing
-
 # 05-05-2024
-
 - https://www.youtube.com/watch?v=JzT96Sju3aE Back Market: migration d'AWS vers GCP
 - https://www.youtube.com/watch?v=tB78_gQ2Wy8 Lessons from Building a Large-scale, Multi-cloud Data Platform at Databricks
-
 # 04-05-2024
-
 - https://www.warpstream.com/blog/tiered-storage-wont-fix-kafka Tiered Storage Won’t Fix Kafka
-
 # 03-05-2024
-
 - https://www.blef.fr/how-to-build-a-data-team/?ref=data-news-newsletter How to build a data team
 - https://www.alasdairb.com/posts/200-conversation-at-kafka-summit Conversations with 200+ people at Kafka Summit
 - https://medium.com/@yingjunwu/why-stream-processing-is-a-terrible-market-yet-we-are-still-investing-in-it-43e66cef7847 Why Stream Processing is a Terrible Market (Yet We Are Still Investing in It)
 - https://jack-vanlightly.com/blog/2024/5/2/hybrid-transactional-analytical-storage Hybrid Transactional/Analytical Storage
-
 # 23-04-2024
-
 - https://medium.com/@leal901/kafka-connect-a-love-hate-relationship-3fa69361f6e6 Kafka Connect: A Love/Hate Relationship
-
 # 08-04-2024
-
 - https://evaparish.com/blog/how-i-edit What I think about when I edit. (I'm a big fan of Writing Well)
-
 # 06-04-2024
-
 - https://romaricphilogene.substack.com/p/platform-tips-20-why-backstage-is Why Backstage is So Complex? Is There An Alternative?
 - https://medium.com/pinterest-engineering/how-we-built-text-to-sql-at-pinterest-30bad30dabff How we built Text-to-SQL at Pinterest
-
 # 03-04-2024
-
 - https://medium.com/vvus/data-council-2024-the-future-data-stack-is-composable-and-other-hot-takes-b6c5f2429e22 Data Council 2024: The future data stack is composable
-
 # 02-04-2024
-
 - https://medium.com/exness-blog/streaming-data-platform-at-exness-overview-cb0ffca5844b Streaming Data Platform at Exness: Overview
-
 # 01-04-2024
-
 - https://assets.confluent.io/m/16b20efd116686d9/original/20240322-WP-Guide_Streaming_Data_Mesh.pd Confluent Guide Streaming Data Mesh
 - https://elenaverna.substack.com/p/b2b-growth-irl-how-to-do-event-marketing?utm_source=tldrfounders B2B Growth, IRL: How to do event marketing that actually makes a difference.
-
 # 31-03-2024
-
 - https://medium.com/walmartglobaltech/building-walmarts-seamless-communication-leveraging-kafka-s-custom-partitioning-5d75a2ea61a0 Building Walmart’s Seamless Communication: Leveraging Kafka’s Custom Partitioning
-
 # 26-03-2024
-
 - https://engineering.depop.com/exploring-kafka-consumer-at-least-once-delivery-guarantees-expectations-vs-reality-36fd03e7a5e1 Exploring Kafka Consumer At-Least-Once Delivery Guarantees: Rebalancing causes, max.poll.records, Assignor!
-
 # 24-03-2024
-
 - https://joshaustin.tech/blog/kafka-as-an-antipattern/ Kafka As An Antipattern
-
 # 23-03-2024
-
 - https://jack-vanlightly.com/blog/2024/3/19/tableflow-the-stream-table-kafka-iceberg-duality Tableflow: the stream/table, Kafka/Iceberg duality
-
 # 15-03-2024
-
 - https://www.arroyo.dev/blog/why-arrow-and-datafusion We built a new SQL Engine on Arrow and DataFusion
-
 # 10-03-2024
-
 - https://www.youtube.com/watch?v=5t1vTLU7s40 Yann Lecun: Meta AI, Open Source, Limits of LLMs, AGI & the Future of AI
 - https://www.youtube.com/watch?v=IOJLFWXj4pA [DEVFEST Lille 2023] - Comment venir à bout d'un projet de migration ? Et si on utilisait Kafka ?
 - https://blog.allegro.tech/2024/03/kafka-performance-analysis.html Unlocking Kafka's Potential: Tackling Tail Latency with eBPF
 - https://www.warpstream.com/blog/kafka-kv-store Kafka as a KV Store: deduplicating millions of keys with just 128 MiB
 - https://medium.com/paypal-tech/the-next-generation-of-data-platforms-is-the-data-mesh-b7df4b825522 The next generation of Data Platforms is the Data Mesh
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-317%3A+Add+end-to-end+data+encryption+functionality+to+Apache+Kafka KIP-317: Add end-to-end data encryption functionality to Apache
-
 # 06-03-2024
-
 - https://seattledataguy.substack.com/p/the-state-of-data-engineering-part-b61 The State Of Data Engineering - Part 2
-
 # 05-03-2024
-
 - https://www.adventofdata.com/using-airflow-the-wrong-way/ Using Airflow the wrong way
-
 # 20-02-2024
-
 - https://materializedview.io/p/from-samza-to-flink-a-decade-of-stream From Samza to Flink: A Decade of Stream Processing
-
 # 13-02-2024
-
 - https://www.youtube.com/watch?v=uv52swYfStU Next Generation Data Mesh Catalogs
-
 # 11-02-2024
-
 - https://towardsdatascience.com/building-a-data-platform-in-2024-d63c736cccef Building a Data Platform in 2024. How to build a modern, scalable data platform
 - https://piethein.medium.com/understanding-data-modelling-in-data-mesh-bf0dfcfd0583 Understanding Data Modelling in Data Mesh
-
 # 05-02-2024
-
 - https://svenbalnojan.medium.com/product-data-teams-101-bf0e42c2000d Product Data Teams 101
 - https://blog.octo.com/data-as-a-product-pierre-angulaire-du-data-mesh Data-as-a-product: pierre angulaire du Data-Mesh
 - https://towardsdatascience.com/the-data-mesh-registry-a-window-into-your-data-mesh-20dece35e05a The Data Mesh Registry — a Window into Your Data Mesh
-
 # 04-02-2024
-
 - https://medium.com/@dmitri.mahayana/idx-stock-real-time-data-prediction-with-flink-kafka-mongodb-526c6abf291f IDX Stock — Real Time Data Prediction with Flink-Kafka-MongoDB
 - https://medium.com/decathlondigital/seamless-data-exchange-with-kafka-connect-and-strimzi-on-kubernetes-at-decathlon-e6f81d034535 Seamless data exchange with Kafka Connect and Strimzi on Kubernetes at Decathlon
 - https://cnr.sh/essays/what-the-heck-data-mesh What the Heck is a Data Mesh?!
@@ -801,263 +473,153 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.youtube.com/watch?v=0WAfevbtdeY (56) The State of Data Engineering Data Day Texas 2024
 - https://towardsdatascience.com/dont-fix-bad-data-do-this-instead-d45262444cf2 Fix Data Quality at the beginning
 - https://medium.com/swlh/growth-vs-marketing-bf421fa543af Growth vs Marketing. We need to stop equating the two
-
 # 03-02-2024
-
 - https://medium.com/capital-one-tech/introducing-data-mesh-2-0-a-new-era-of-data-governance-27170c7a75cb Data Mesh 2.0: Revolutionizing Data Governance | Capital One
-
 # 29-01-2024
-
 - https://www.linkedin.com/pulse/windowing-event-streams-bill-bejeck-jruye/ Windowing in event streams, Kafka Streams & Flink
-
 # 15-01-2024
-
 - https://medium.com/@debyroth340/identify-job-completion-in-multi-phase-kafka-consumers-33ee8a974963 Identify Job Completion in multi-phase Kafka consumers: always separate concerns
 - https://blog.iggy.rs/posts/building-message-streaming-in-rust/ Iggy.rs - building message streaming in Rust
 - https://medium.com/@axel.schwanke/data-mesh-in-practice-recommendations-from-roches-journey-e0e0d51c4a89 Data Mesh In Practice — Recommendations from Roche’s Journey
-
 # 08-01-2024
-
 - https://www.mostlymetrics.com/p/emergency-post-wtf-is-going-on-at Emergency post: WTF is going on at Carta?
-
 # 01-01-2024
-
 - https://jack-vanlightly.com/analyses/2023/11/15/neon-serverless-postgresql-asds-chapter-3 Neon - Serverless PostgreSQL
-
 # 31-12-2023
-
 - https://www.youtube.com/watch?v=gOJL3gjc8ak Improving our neuroplasticity
 - https://zendesk.engineering/kafka-automating-root-ca-rotation-with-vault-9bbbe07c7c6e Kafka: Automating Root CA rotation with Vault
-
 # 24-12-2023
-
 - https://docs.google.com/presentation/d/11YgRsOTtJDzLA5FBsJ4fhx_t_PgTUwNWUvZgx7ZMpO4/edit#slide=id.g282cd05ef4b_1_373 5-minute Practical Streaming Techniques that can Save You Millions
-
 # 23-12-2023
-
 - https://www.infoq.com/presentations/eventual-consistent/ Eventual Consistency – Don’t Be Afraid!
 - https://www.thenile.dev/blog/transaction-isolation-postgres Transaction Isolation in Postgres
-
 # 21-12-2023
-
 - https://clickhouse.com/blog/clickhouse-redpanda-architecture-with-goldsky Goldsky - A Gold Standard Architecture with ClickHouse and Redpanda
 - https://blog.px.dev/detect-pii/ I shouldn't be seeing this: anonymize sensitive data while debugging
-
 # 18-12-2023
-
 - https://motherduck.com/blog/big-data-is-dead/ Big Data is Dead
-
 # 10-12-2023
-
 - https://arxiv.org/pdf/2310.08697.pdf The Data Lakehouse: Data Warehousing and More
-
 # 09-12-2023
-
 - https://dipankar-tnt.medium.com/onetable-interoperability-for-apache-hudi-iceberg-delta-lake-bb8b27dd288d OneTable: Interoperability for Hudi, Iceberg, Delta
-
 # 04-12-2023
-
 - https://medium.com/@tarasslipets/data-mesh-in-kafka-a-practical-guide-fec23bc25fa2 Data Mesh in Kafka: A Practical Guide
-
 # 03-12-2023
-
 - https://www.youtube.com/watch?v=kCc8FmEb1nY Let's build GPT: from scratch, in code, spelled out.
 - https://www.infoq.com/news/2023/12/aws-reinvent-2023-recap/ Recap of AWS re:Invent 2023
 - https://www.youtube.com/watch?v=uRkZ8foazHU The Science of Growth with Sean Ellis
 - https://www.youtube.com/watch?v=zjkBMFhNj_g Intro to Large Language Models & LLM security
-
 # 02-12-2023
-
 - https://www.lennysnewsletter.com/p/lessons-from-going-freemium-a-decision Freemium: think carefully about the friction you want when onboarding users
-
 # 30-11-2023
-
 - https://towardsdatascience.com/rag-vs-finetuning-which-is-the-best-tool-to-boost-your-llm-application-94654b1eaba7 RAG vs Finetuning — Which Is the Best Tool to Boost Your LLM Application?
-
 # 26-11-2023
-
 - https://www.youtube.com/watch?v=1vkb7BCMQd0 Making Friends with Machine Learning: The Entire Course / Cassie Kozyrkov
-
 # 25-11-2023
-
 - https://www.immuta.com/blog/the-top-5-barriers-to-data-sharing-and-how-to-overcome-them/ The Top 5 Barriers to Data Sharing and How to Overcome Them
-
 # 22-11-2023
-
 - https://www.youtube.com/watch?v=aN3-Yp_28rM AI Expert Explains Future Programming Jobs… and Python
-
 # 12-11-2023
-
 - https://twitter.com/zeeg/status/1720971040606793799 David Cramer: "Still can’t believe we all got tricked into using graphql"
-
 # 10-11-2023
-
 - https://medium.com/project44-techblog/experiments-in-kafka-compression-ea975a65be92 Experiments in Kafka Compression.
-
 # 09-11-2023
-
 - https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/ 10 hard-to-swallow truths they won't tell you about software engineer job
-
 # 07-11-2023
-
 - https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/ Post Mortem on Cloudflare Control Plane and Analytics Outage
-
 # 06-11-2023
-
 - https://piotrminkowski.com/2023/11/06/apache-kafka-on-kubernetes-with-strimzi/ Apache Kafka on Kubernetes with Strimzi
-
 # 02-11-2023
-
 - https://www.reforge.com/blog/product-specializations The Growing Specialization of Product Management
 - https://medium.com/criteo-engineering/how-we-compute-data-lineage-at-criteo-b3f09fc5c577 How we compute data lineage at Criteo
-
 # 31-10-2023
-
 - https://medium.com/paypal-tech/scaling-kafka-to-support-paypals-data-growth-a0b4da420fab Scaling Kafka to Support PayPal’s Data Growth
-
 # 30-10-2023
-
 - https://dttung2905.medium.com/zero-trust-with-kafka-91376f7e162d Zero trust with Kafka
-
 # 29-10-2023
-
 - https://tcbakes.medium.com/intuits-data-mesh-concepts-214268257dd2 Intuit’s Data Mesh Concepts.
-
 # 23-10-2023
-
 - https://jack-vanlightly.com/blog/2023/10/2/the-advantages-of-queues-on-logs The advantages of queues on logs
-
 # 22-10-2023
-
 - https://www.restate.dev/blog/why-we-built-restate/ Why we built Restate Restate
 - https://www.arroyo.dev/blog/rust-for-data-infra Rust is the best language for data infra
 - https://queue.acm.org/detail.cfm?id=3321612 Online Event Processing - ACM Queue
 - https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86 Queues for Kafka. 
-
 # 12-10-2023
-
 - https://towardsdatascience.com/building-a-data-mesh-on-the-kafka-ecosystem-399a5bd8799c Building a Data Mesh on the Kafka Ecosystem
 - https://www.confluent.io/blog/building-a-realtime-service-marketplace-with-confluent-cloud/ Building a Real-Time Service Marketplace with Confluent Cloud
-
 # 10-09-2023
-
 - https://supabase.com/blog/supavisor-1-million Supavisor: Scaling Postgres to 1 Million Connections
-
 # 03-09-2023
-
 - https://medium.com/@RisingWave_Engineering/why-kafka-is-the-new-data-lake-dd6c1b6048e Why Kafka Is the New Data Lake?
-
 # 02-09-2023
-
 - https://www.confluent.io/blog/how-to-increase-throughput-on-kafka-connect-source-connectors/ Kafka Connect: How to Increase Throughput on Source Connectors
 - https://blog.1password.com/passkey-crates/ We’re Open-Sourcing the Library that Powers 1Password’s Passwordless Authentication
-
 # 30-08-2023
-
 - https://slack.engineering/slacks-migration-to-a-cellular-architecture/ Slack's Migration to a Cellular Architecture (intra-AZ comm only)
-
 # 28-08-2023
-
 - https://www.vldb.org/pvldb/vol16/p3822-povzner.pdf Kora: A cloud native #kafka
 - https://www.golem.cloud/post/why-wasm Why WASM?
-
 # 27-08-2023
-
 - https://medium.com/@gautamrajotya/data-lake-using-debezium-kafka-connect-apache-iceberg-sink-3d7aa32fa0c4 Data Lake using Debezium, Kafka Connect — Apache Iceberg Sink
-
 # 24-08-2023
-
 - https://blog.devgenius.io/kafka-streams-how-to-calculate-moving-average-for-stock-price-data-stream-in-real-time-9429617d5108 Kafka Streams — How to Calculate Moving Average for Stock Prices in Real-time
 - https://medium.com/illuminations-mirror/parsing-complex-json-in-kafka-source-using-apache-seatunnel-c776fabadb48 Parsing Complex JSON in Kafka Source using Apache Seatunnel
 - https://www.agileorgdesign.com/content/startup-structure-orgdesign-product-engg A Startup doesn't have to Grow into Product & Engineering
-
 # 21-08-2023
-
 - https://betterprogramming.pub/rethinking-stream-processing-and-streaming-databases-21076aaec375 Rethinking Stream Processing and Streaming Databases
 - https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/ Rama, a new platform unifying computation and storage to build end-to-end backends in less code. Here, an example building Twitter at Twitter-scale
 - https://jack-vanlightly.com/blog/2023/8/17/kafka-kip-966-fixing-the-last-replica-standing-issue Kafka KIP-966 - Fixing the Last Replica Standing issue
-
 # 13-08-2023
-
 - https://www.youtube.com/watch?v=zHzpoVgqgc4 Rethinking Distributed Programming with Unison Lang (with Rúnar Bjarnason)
 - https://www.datadoghq.com/blog/engineering/introducing-husky/ Introducing Husky, Datadog's Third-Generation Event Store
 - https://www.redpoint.com/infrared-report.pdf Redpoint InfraRed Report — Infratructure layer VS Software layer (infra = more profitable, more value, more critical)
 - https://towardsdatascience.com/data-mesh-architecture-and-the-role-of-apis-json-schemas-3dc616650960 Data Mesh Architecture and the Role of APIs & JSON Schemas
 - https://softwaremill.com/zookeeper-less-kafka/ ZooKeeper-less Kafka
-
 # 12-08-2023
-
 - https://redpanda-data.medium.com/raft-native-the-foundation-for-streaming-datas-best-future-6bf5baf1c1c Raft native: the foundation for streaming data’s best future?
 - https://www.honeycomb.io/blog/deploys-wrong-way-change-user-experience Feature flags in production: the way to go
 - https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1 On Becoming a VP of Engineering
 - https://kylepoyar.substack.com/p/pinecones-journey-from-seed-to-10000 Pinecone’s journey from seed to 10,000 sign-ups per day
-
 # 26-07-2023
-
 - https://morganperry.substack.com/p/devtools-brew-20dockers-remarkable Docker's Remarkable Turnaround, from 10M$ to 100M$ ARR
-
 # 10-07-2023
-
 - https://themoah.medium.com/lessons-learned-from-running-kafka-ecosystem-at-a-petabyte-scale-c0f437962ba0 Lessons learned from running Kafka ecosystem at a petabyte scale
-
 # 08-07-2023
-
 - https://www.turingpost.com/p/llmshistory3 There Would Have Been No LLMs Without This
-
 # 07-07-2023
-
 - https://www.databricks.com/blog/introducing-materialized-views-and-streaming-tables-databricks-sql Introducing Materialized Views and Streaming Tables for Databricks SQL
-
 # 04-07-2023
-
 - https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022
-
 # 03-07-2023
-
 - https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark Introducing English as the New Programming Language for Apache Spark
-
 # 02-07-2023
-
 - https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/ What Is a Transformer Model?
 - https://web.archive.org/web/20230621114132/https://www.nytimes.com/2023/06/07/technology/ai-san-francisco-tech-industry.html The AI Boom Is Pulling Tech Entrepreneurs Back to San Francisco
 - https://medium.com/lightspeed-venture-partners/eight-ai-startups-winning-the-race-for-tech-talent-571a18b03642 Eight AI Startups Winning the Race for Tech Talent
 - https://dev.to/thedanicafine/so-you-want-to-speak-at-a-technical-conference-responding-to-a-cfp-54m6 Technical Conference: Responding to a CfP
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier Economic potential of generative AI | McKinsey
 - https://venturebeat.com/ai/how-businesses-can-break-through-the-chatgpt-hype-with-workable-ai/ How businesses can break through the ChatGPT hype with 'workable AI'
-
 # 30-06-2023
-
 - https://hackingsaas.substack.com/p/event-sourcing-for-saas-applications Event Sourcing for SaaS applications
-
 # 27-06-2023
-
 - https://engineering.razorpay.com/reducing-data-platform-cost-by-2m-d8f82285c4ae Reducing Data Platform Cost by $2M
-
 # 26-06-2023
-
 - https://nebula.stream/paper/zeuch_cidr20.pdf The NebulaStream Platform: Data and Application: Management for the Internet of Things
-
 # 25-06-2023
-
 - https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c The Secret Sauce behind 100K context window in LLMs: all tricks in one place
 - https://github.com/ray-project/llm-numbers Numbers every LLM developer should know
 - https://medium.com/lydtech-consulting/kafka-streams-state-store-30110bf4f24 Kafka Streams: State Store
 - https://engineering.hellofresh.com/renaming-a-kafka-topic-d6ff3aaf3f03 Renaming a #ApacheKafka topic and MirrorMaker 2
-
 # 24-06-2023
-
 - https://medium.com/data-engineer-things/why-you-shouldnt-invest-in-vector-databases-c0cd3f59d23c Why You Shouldn’t Invest In Vector Databases? (because all major DBs support vectors)
 - https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/ Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’
 - https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/ PostgreSQL reconsiders its process-based model
 - https://www.infoq.com/news/2023/06/scoped-values-java-21/ Enhancing Java Concurrency with Scoped Values in JDK 21 (Preview)
 - https://devpod.sh/ DevPod - Open Source Dev-Environments-As-Code
-
 # 19-06-2023
-
 - https://strimzi.io/blog/2023/05/03/kafka-transactions/ Exactly-once semantics with Kafka transactions
-
 # 18-06-2023
-
 - https://blog.startupstash.com/crafting-the-right-product-led-growth-plg-strategy-for-your-startup-419be2e09376 Crafting The Right Product-led Growth (PLG) Strategy For Your Startup
 - https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up Kafka vs Redpanda Performance — Kafka outperforms Redpanda in real use-cases
 - https://www.saastr.com/ceo-systems-5-lessons-learned-from-scaling-at-every-growth-phase-with-hashicorp-ceo-dave-mcjannet-pod-598-video/ 5 Lessons Learned from Scaling at Every Growth Phase with HashiCorp CEO
@@ -1071,36 +633,24 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://huggingface.co/blog/falcon The Falcon has landed in the Hugging Face ecosystem
 - https://dmccreary.medium.com/lost-in-knowledge-space-14be123ea083 A Knowledge Space is your status in a graph of learning concepts
 - https://www.lennysnewsletter.com/p/what-working-at-figma-taught-me-about What working at Figma taught me about customer obsession
-
 # 12-06-2023
-
 - https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/ Kora: The Cloud Native Engine for Apache Kafka
-
 # 11-06-2023
-
 - https://dzone.com/articles/a-deep-dive-into-the-differences-between-kafka-and Deep Dive Into Kafka vs. Pulsar
 - https://kai-waehner.medium.com/apache-kafka-apache-flink-match-made-in-heaven-45dde9481a3c Apache Kafka + Apache Flink, the good parts, and also comparing to Kafka Streams
 - https://degoes.net/articles/splendid-scala-journey A Splendid Scala Journey, bye John
 - https://www.mckinsey.com/~/media/mckinsey/business%20functions/people%20and%20organizational%20performance/our%20insights/the%20state%20of%20organizations%202023/the-state-of-organizations-2023.pdf McKinsey — The State of Organizations 2023
 - https://medium.com/@abhishekranjandev/vector-databases-exploring-a-new-way-to-revolutionize-search-85cb1b1fc7b Vector Databases: Exploring a New Way to Search
 - https://m.mage.ai/apache-flink-vs-apache-spark-a-detailed-comparison-for-data-processing-5e70e1d6c8ab Apache #Flink vs Apache #Spark: A detailed comparison for data processing
-
 # 31-05-2023
-
 - https://medium.com/@andrew_schofield/queues-for-kafka-29afa8aeed86 Queues for Kafka
-
 # 08-05-2023
-
 - https://www.datamesh-governance.com/ Data Mesh Governance by Example
 - https://www.datamesh-architecture.com/ Data Mesh Architecture
 - https://www.tamr.com/wp-content/uploads/2022/11/Data-Mastering-Holds-Promise-as-Underpinning-Technology-for-Data-Mesh-451-Research.pdf Data Mastering Holds Promise as Underpinning Technology for Data Mesh (451 Research)
-
 # 04-05-2023
-
 - https://www.semianalysis.com/p/google-we-have-no-moat-and-neither Google "We Have No Moat, And Neither Does OpenAI"
-
 # 01-05-2023
-
 - https://www.youtube.com/watch?v=bGRE-tBsqoE Détectez et corrigez automatiquement les problèmes les plus fréquents avec Apache Kafka
 - https://www.arecadata.com/fake-data-kafka/ Effortless mock data generation for Kafka with LLMs
 - https://testing.googleblog.com/2023/04/sensenmann-code-deletion-at-scale.html Google Testing Blog: Sensenmann: Code Deletion at Scale
@@ -1112,128 +662,78 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.instaclustr.com/blog/apache-kafka-kraft-abandons-the-zookeeper-part-3-maximum-partitions-and-conclusions/ Apache Kafka® KRaft Abandons the Zoo(Keeper): Part 3—Maximum Partitions and Conclusions
 - https://www.exhypothesi.com/clocks-and-causality/ Clocks and Causality - Ordering Events in Distributed Systems
 - https://danielfrieling.medium.com/goodbye-chapter-leads-hello-engineering-managers-6e9d9d0aa8b7 Goodbye Chapter Leads, Hello Engineering Managers
-
 # 27-04-2023
-
 - https://engineering.instawork.com/unlocking-the-power-of-data-how-we-scaled-our-analytics-with-an-in-house-event-logging-platform-520d5b58f651 Unlocking the Power of Data: How we scaled our analytics with in-house Event Logging
-
 # 11-04-2023
-
 - https://joshua-robinson.medium.com/simplify-kafka-at-scale-with-confluent-tiered-storage-ae8c1a2c9c80 Simplify Kafka at Scale with Confluent Tiered Storage
-
 # 03-04-2023
-
 - https://medium.com/gojekengineering/sink-kafka-messages-to-clickhouse-using-clickhouse-kafka-ingestor-7898e3f5295b Sink Kafka Messages to ClickHouse
 - https://www.infoq.com/news/2023/04/strategies-principles-ml-ops/ Strategies and Principles to Scale and Evolve MLOps
-
 # 28-03-2023
-
 - https://terminusdb.com/blog/what-is-a-data-product/ What is Data Product? Data Mesh?
-
 # 24-03-2023
-
 - https://redpanda.com/blog/web-user-interface-tools-kafka Conduktor as the best web UIs for managing Apache Kafka
 - https://www.signadot.com/blog/testing-kafka-based-asynchronous-workflows-using-opentelemetry Testing Kafka-based Asynchronous Workflows Using OpenTelemetry
-
 # 12-03-2023
-
 - https://www.youtube.com/watch?v=XiCxj-bXu5M Ginni Rometty: IBM CEO on Leadership, Power, and Adversity
 - https://semaphoreci.com/blog/trunk-based-development Trunk-Based Development
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-848%3A+The+Next+Generation+of+the+Consumer+Rebalance+Protocol KIP-848: new Consumer Rebalance, moving complexity from Consumers to Group Coordinator
-
 # 11-03-2023
-
 - https://www.datasciencecentral.com/the-future-of-data-is-real-time/ The Future of Data is Real-Time
 - https://medium.com/lydtech-consulting/migrating-from-activemq-to-kafka-cc53c42b752 Migrating from ActiveMQ to Kafka
 - https://www.confluent.io/blog/multi-geo-replication-in-apache-kafka/ Multi-Geo Replication in Apache Kafka
 - https://twitter.com/sidpalas/status/1634194026500096000 Improve Dockerfile tremendously (for nodejs here)
 - https://bootcamp.uxdesign.cc/how-to-use-chatgpt-in-product-management-f96d8ac5ee6f How to use ChatGPT in product management
 - https://twitter.com/compound248/status/1634105371198644224 What happened with Silicon Valley Bank
-
 # 04-03-2023
-
 - https://www.honeycomb.io/blog/incident-response-at-honeycomb How We Manage Incident Response
 - https://hackernoon.com/build-vs-buy-what-we-learned-by-implementing-a-data-catalog-7b38377h Build vs Buy: What We Learned by Implementing a Data Catalog
 - https://medium.com/insiden26/engineering-at-n26-a-tour-of-our-tech-stack-and-architecture-9e58ce96f889 Engineering at N26: a Tour of our Tech Stack and Architecture
-
 # 20-02-2023
-
 - https://medium.com/ebaytech/resiliency-and-disaster-recovery-with-kafka-dc8901c881c Resiliency and Disaster Recovery with Kafka
-
 # 13-02-2023
-
 - https://www.highlight.io/blog/scalable-data-processing-with-apache-kafka Scalable Data Processing with Apache Kafka on AWS MSK
-
 # 11-02-2023
-
 - https://medium.com/event-driven-utopia/operational-use-case-patterns-for-apache-kafka-and-flink-part-1-5a0f8742df90 Operational Use case Patterns for Apache Kafka and Flink — Part 1
 - https://tech.ovoenergy.com/developer-experience-at-ovo/ Developer Experience at OVO
 - https://www.bytewax.io/blog/real-time-ml What is Real-Time ML and Why Does Stream Processing Matter
-
 # 05-02-2023
-
 - https://lajili.com/posts/post-2/ ChatGPT -> real Web 3.0 -> more subtle advertising
-
 # 04-02-2023
-
 - https://aws.amazon.com/blogs/big-data/create-more-partitions-and-retain-data-for-longer-in-your-msk-serverless-clusters/?sc_channel=sm&sc_campaign=DB_Event&sc_publisher=LINKEDIN&sc_geo=GLOBAL&sc_outcome=awareness&trk=DB_Event&linkId=199922767 Finally AWS MSK Serverless is "unlocked" for real usage!
-
 # 02-02-2023
-
 - https://twitter.com/destraynor/status/1620478505720123392?s=12&t=18l5KEsrM7BFPpk5t2SGQQ ChatGPT + Intercom
-
 # 31-01-2023
-
 - https://automerge.org/blog/automerge-2/ Automerge 2.0: from JS to Rust
 - https://medium.com/codex/supporting-cross-node-interactive-queries-in-kafka-streams-1b2972f84be2 Supporting Cross Node Interactive Queries In Kafka Streams
 - https://medium.com/trendyol-tech/performance-of-kafka-consumers-1-billion-messages-51b3bacef583 #Performance of Kafka Consumers: 1 Billion messages, Python VS Go
-
 # 29-01-2023
-
 - https://medium.com/clear-street/switching-to-protobuf-from-avro-on-kafka-3f139c5abf88 Switching to Protobuf (from Avro) on Kafka
-
 # 22-01-2023
-
 - https://betterprogramming.pub/journey-of-a-frontend-monorepo-what-i-learned-d6a0d142803f Journey of a Frontend Monorepo: Here’s What I Learned
-
 # 16-01-2023
-
 - https://www.kineticedge.io/blog/kafka-raft/ Apache Kafka using Kraft and a dedicated controller quorum
 - https://www.jesse-anderson.com/2023/01/analysis-of-confluent-buying-immerok/ Analysis of Confluent Buying Immerok + ksqlDB
-
 # 15-01-2023
-
 - https://blog.devgenius.io/evolutionary-from-batching-to-streaming-7a9a7942922 From Batching to Streaming
 - https://evan-soohoo.medium.com/elon-musk-and-1000-poorly-batched-rpcs-ad5970536974 Elon Musk And >1000 Poorly Batched RPCs
 - https://mbenedicto.medium.com/10-lessons-for-observability-what-every-vp-of-engineering-needs-to-know-1b46714b4d29 10 Lessons about Observability
-
 # 11-01-2023
-
 - https://jchyip.medium.com/fixing-too-much-wip-ba4d254048a3 Fixing “Too much WIP”
-
 # 10-01-2023
-
 - https://medium.com/agoda-engineering/adding-time-lag-to-monitor-kafka-consumer-2c626fa61cfc Adding Time Lag to Monitor Kafka Consumer
-
 # 07-01-2023
-
 - https://www.confluent.io/blog/cloud-kafka-meets-cloud-flink-with-confluent-and-immerok/ Unifying Kafka + Flink at Confluent.
 - https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/?email=sderosiaux%40conduktor.io Using Apache Kafka to process 1 trillion inter-service messages
 - https://medium.com/event-driven-utopia/operational-use-case-patterns-for-apache-kafka-and-flink-part-1-5a0f8742df90 From Apache Kafka and Flink to RedPanda + Decodable?
 - https://dev.to/bleporini/openid-connect-authentication-with-apache-kafka-31-5747 OpenID Connect authentication with Apache Kafka and Auth0
 - https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/every-company-is-a-software-company-six-must-dos-to-succeed?cid=other-eml-nsl-mip-mck&hlkid=fc71907dc37547c19aaee7959a5c988a&hctky=14255962&hdpid=7245674d-2291-47d7-872d-b41da7d86a46 Every company is a software company
-
 # 06-01-2023
-
 - https://medium.com/lydtech-consulting/securing-kafka-with-mutual-tls-and-acls-b235a077f3e3 Securing Kafka with Mutual TLS and ACLs
-
 # 01-01-2023
-
 - https://memphis.dev/blog/event-sourcing-outgrows-databases/ Event Sourcing & Databases
 - https://engineering.grab.com/zero-trust-with-kafka Leveraging Vault to mTLS Kafka (on Strimzi) + Open Policy Agent to manage Policies (Authorization)
-
 # 29-12-2022
-
 - https://www.benkuhn.net/abyss/ Staring into the abyss as a core life skill
 - https://blog.developer.adobe.com/wins-from-effective-kafka-monitoring-at-adobe-stability-performance-and-cost-savings-a3ecb701ee5b Wins from Effective Kafka Monitoring at Adobe: Stability, Performance, and Cost Savings
 - https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/starting-strong-making-your-ceo-transition-a-catalyst-for-renewal?cid=mbe-pde-pro-mip-mck-oth-2212 Starting strong: Making your CEO transition a catalyst for renewal | McKinsey
@@ -1241,9 +741,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.kai-waehner.de/blog/2022/11/16/when-to-choose-redpanda-instead-of-apache-kafka/ Redpanda or Apache Kafka?
 - https://www.atlassian.com/engineering/why-we-chose-kafka Trello dropping RabbitMQ and picking #Kafka. Less outages, less cost.
 - https://www.confluent.io/events/current-2022/buckle-up/ From Batch to Realtime
-
 # 28-12-2022
-
 - https://medium.com/google-cloud/dq-with-dataplex-c1f42195435d Data Governance with Dataplex, Google Cloud
 - https://medium.com/wix-engineering/troubleshooting-kafka-for-2000-microservices-at-wix-986ee382fd1e Troubleshooting Kafka for 2000 Microservices at Wix, many good insights
 - https://medium.com/codex/your-engineering-director-does-not-want-you-to-optimize-for-utilization-a48ad0368b8 Always limit your work in progress, always.
@@ -1251,58 +749,38 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://stateofapis.com/ "Kafka usage increased and more people are aware of it" <3 (2021 to 2022)
 - https://bothsidesofthetable.com/high-functioning-vs-low-functioning-startup-boards-ae3ebe69cd9e Why Startup Boards. Good and bad boards. A space of discussion and decisions, not only updates.
 - https://bytebaker.medium.com/we-migrated-to-rust-but-what-did-we-gain-1429d036d0c We migrated to Rust, but what did we gain? (a lot)
-
 # 25-12-2022
-
 - https://franklinlindemberg.medium.com/using-protobuf-with-apache-kafka-and-without-schema-registry-8535f43a2569 Using Protobuf without Schema Registry #kafka
 - https://chrisheilmann.medium.com/microdosing-burnout-on-working-remote-and-in-a-different-time-zone-ae0b4d8dd5bb On working remote and in a different time zone: remote is nice but not easy
 - https://betterprogramming.pub/building-a-high-performing-engineering-team-feb02c55283f Building a High-Performing Engineering Team: team player, accountability, fun, successes, clear communication, continuous improvements
 - https://medium.com/coriers/should-you-use-apache-airflow-e71c6cf7c0c4 Should You Use Apache Airflow?. Why Data Engineers Love/Hate Airflow (scaling, xcom)
-
 # 29-11-2022
-
 - https://medium.com/@bb8s/kafka-producer-deep-dive-batching-messages-in-recordaccumulator-aeaf5905fee Kafka producer deep-dive: batching messages in RecordAccumulator
 - https://medium.com/bazaar-tech/how-to-prioritise-technical-improvements-in-product-teams-da91e9a04156 How to Prioritise “Engineering Work” in Product Teams
 - https://abseil.io/resources/swe-book/html/ch07.html Software Engineering at Google — GSM + QUANTS
 - https://medium.com/@saurabhkaushik/develop-an-engineering-culture-for-speed-to-value-6e93d833a925 Develop an engineering culture for “Speed to Value"
 - https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47 Event-Driven Architecture Patterns
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-890%3A+Transactions+Server-Side+Defense #Kafka KIP-890: Transactions Server-Side Defense
-
 # 27-11-2022
-
 - https://stackoverflow.blog/2022/11/23/why-writing-by-hand-is-still-the-best-way-to-retain-information/ Why writing by hand is still the best way to retain information
-
 # 24-11-2022
-
 - https://medium.com/@eftal/keda-new-era-of-autoscaling-abf2d7f8aa85 KEDA: New Era of Autoscaling #kubernetes
-
 # 23-11-2022
-
 - https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454 Using Rust at a startup: A cautionary tale
 - https://gradientflow.com/the-stream-processing-index/ Measuring the popularity of different stream processing tools. #kafka #flink #spark
-
 # 20-11-2022
-
 - https://diataxis.fr/ How to write good tech documentation Diátaxis
 - https://productled.com/blog/how-to-build-a-product-led-sales-team How to Build a Product-Led Sales Team
-
 # 19-11-2022
-
 - https://blog.octo.com/en/un-schema-registry-pour-passer-a-lechelle/ Un schema registry pour passer à l'échelle #kafka
 - https://www.lydtechconsulting.com/blog-kafka-schema-registry-integration-test.html Integration Testing with Kafka Schema Registry & Avro
 - https://medium.com/lydtech-consulting/kafka-message-batch-consumer-retry-8e49bdb39f5c Kafka Message Batch Consumer Retry
 - https://dev.to/floord/developer-advocates-need-to-be-better-event-citizens-42hh Developer Advocates need to be better event citizens
-
 # 12-11-2022
-
 - https://riferrei.com/in-the-land-of-the-sizing-the-one-partition-kafka-topic-is-king/ The one-partition Kafka topic thing
-
 # 08-11-2022
-
 - https://medium.com/opendoor-labs/how-we-improved-reliability-of-kafka-consumers-441ccec1416d How we improved reliability of Kafka consumers in Go
-
 # 23-10-2022
-
 - https://www.datadoghq.com/blog/dash-2022-new-feature-roundup/#data-streams-monitoring Dash 2022: Guide to Datadog's Newest Announcements #kafka
 - https://www.datadoghq.com/state-of-aws-security/ The State of AWS Security in 2022. IAM, root users, access keys, public exposure of resources,  IMDSv2, no multiple AWS accounts
 - https://redpanda.com/blog/redpanda-vs-kafka-total-cost-ownership-comparison Redpanda vs Apache Kafka: Total Cost of Ownership + Performance comparaison
@@ -1311,66 +789,46 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/how-to-unlock-the-full-value-of-data-manage-it-like-a-product Manage data like a product to unlock full value | McKinsey
 - https://medium.com/@huynhquangthao/how-to-survive-the-kafka-rebalancing-protocol-6a6bbcf56784 Various ways to handle the Kafka rebalancing protocol
 - https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator Tim Urban: Inside the mind of a master procrastinator | TED Talk
-
 # 22-10-2022
-
 - https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f How to write better error messages
 - https://www.accel.com/noteworthy/accel-2022-euroscape-reset Accel 2022 Euroscape: The Reset #funding
 - https://towardsdatascience.com/topology-of-a-data-product-team-75dc5471fccf Topology of a Data Product Team
 - https://levelup.gitconnected.com/whats-the-difference-between-an-aggregate-and-a-bounded-context-85665c28411a #DDD Aggregates and Bounded Contexts
-
 # 21-10-2022
-
 - https://www.ben-evans.com/presentations Three Steps to the Future — Benedict Evans
 - https://blog.cloudera.com/using-kafka-connect-securely-in-the-cloudera-data-platform/ Kafka Connect in the Cloudera Data Platform
 - https://aws.amazon.com/blogs/big-data/use-msk-connect-for-managed-mirrormaker-2-deployment-with-iam-authentication/ Use MSK Connect for managed MirrorMaker 2 deployment with IAM authentication #kafka
 - https://medium.com/@danthelion/implementing-data-contracts-82800b9186b Implementing Data Contracts through Kafka Schema Registry
 - https://www.infoq.com/presentations/ebpf-resiliency/ eBPF, Cilium: Improve Resiliency, sidecarless service mesh
-
 # 10-10-2022
-
 - https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6 Platform Engineering: Creating your Internal Developer Platform
-
 # 09-10-2022
-
 - https://www.conduktor.io/blog/introducing-the-conduktor-platform Introducing the Conduktor Platform, the best Kafka platform out there :) #kafka 
 - https://medium.com/insiderengineering/apache-iceberg-reduced-our-amazon-s3-cost-by-90-997cde5ce931 Apache Iceberg Reduced Our Amazon S3 Cost by 90%
 - https://hemantjain.medium.com/how-platform-engineering-differ-from-devops-and-sre-723c63716d96 How Platform Engineering Differ from DevOps and SRE
 - https://www.fivetran.com/blog/nrr-doesnt-matter positive NRR = more revenue; but growth is governed by its number of customers only
 - https://www.confluent.io/blog/current-2022-event-recap/ Current 2022 Recap #kafka
 - https://medium.com/pinterest-engineering/optimizing-kafka-for-the-cloud-4e936643fde0 Pinterest: Optimizing Kafka for the cloud, using rack awareness / AZ
-
 # 25-09-2022
-
 - https://www.youtube.com/watch?v=YSLCz2CggL0 SaaS Access Control: a customer-centric approach
 - https://cpojer.net/posts/mastering-tech-lead-management Mastering Tech Lead Management
 - https://www.jeremiahlee.com/posts/failed-squad-goals/ Spotify’s Failed #SquadGoals
 - https://medium.com/@OmarElgabry/squad-vs-platform-product-teams-f68e02edd199 Squad vs Platform & Product Teams
-
 # 24-09-2022
-
 - https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-2-how-we-migrated-our-kafka-clusters-to-kubernetes-69174cea1559 Running Kafka in Kubernetes, Part 2: How we migrated our Kafka clusters to Kubernetes
 - https://andrewwinnicki.medium.com/better-software-engineering-teams-structures-roles-responsibilities-and-comparison-with-common-fb5c3161c13d Better Software Engineering teams — Structures, roles, responsibilities and comparison with common approaches.
 - https://www.youtube.com/watch?v=oEyZgL3sL84 Risks in Systems Design: Chaos Engineering in Apps & Cloud Security
-
 # 20-09-2022
-
 - https://blog.pragmaticengineer.com/pollen/ Inside Pollen’s Collapse: “$200M Raised” but Staff Unpaid
-
 # 18-09-2022
-
 - https://medium.com/wise-engineering/running-kafka-in-kubernetes-part-1-why-we-migrated-our-kafka-clusters-to-kubernetes-722101a2e751 Wise: Why we migrated our #Kafka clusters to Kubernetes
-
 # 17-09-2022
-
 - https://blog.devgenius.io/common-issues-in-data-platforms-3a735a4b7a42 Common Issues in Data platforms
 - https://itnext.io/event-sourcing-explained-b19ccaa93ae4 Event Sourcing vs EDA vs CQRS
 - https://medium.com/qe-unit/quality-engineering-or-die-trying-with-antoine-craske-306d4cac9e91 Quality Engineering or Die Trying
 - https://medium.com/@rphilogene/17-best-devops-tools-to-use-in-2022-for-infrastructure-automation-and-monitoring-b3470cf9e00f 17 Best DevOps Tools to Use in 2022 for Infrastructure Automation and Monitoring
 - https://levelup.gitconnected.com/top-10-distributed-tracing-tools-in-2022-b9ed12304e72 Top 10 Distributed Tracing Tools in 2022
-
 # 11-09-2022
-
 - https://www.confluent.io/blog/declarative-connectors-with-confluent-for-kubernetes/ Declarative Connectors with Confluent for Kubernetes (not fixing the previous pains)
 - https://www.morling.dev/blog/ideation-kubernetes-native-kafka-connect/ An Ideation for Kubernetes-native #Kafka Connect => One JVM process and Kubernetes pod per task
 - https://medium.com/lydtech-consulting/kafka-idempotent-consumer-transactional-outbox-74b304815550 Kafka Idempotent Consumer & Transactional Outbox
@@ -1378,77 +836,53 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/qe-unit/zalandos-quality-engineering-journey-from-monolith-to-microservices-5a7288a3759f Zalando’s Quality Engineering Journey — From Monolith to Microservices
 - https://softwaremill.com/implementing-raft-using-a-functional-effect-system/ Implementing Raft using #scala #zio #loom
 - https://kai-waehner.medium.com/streaming-data-exchange-with-kafka-and-a-data-mesh-in-motion-d3e7d24bf576 Streaming Data Exchange with #Kafka and a Data Mesh in Motion 
-
 # 10-09-2022
-
 - https://github.com/withastro/astro withastro/astro: Build faster websites with Astro's next-gen island architecture
 - https://slack.engineering/remote-development-at-slack/ Remote Development at Slack
-
 # 09-09-2022
-
 - https://medium.com/@hardiktaneja_99752/lessons-after-running-kafka-in-production-626974ffd700 Lessons after running #Kafka in production 
 - https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86 Behind the scenes: McDonald’s event-driven architecture #kafka
-
 # 02-09-2022
-
 - https://medium.com/codex/implementing-a-clean-architecture-application-in-scala-part-1-1442f0438b03 Implementing a Clean Architecture Application in #Scala
 - https://medium.com/@nadinCodeHat/http-based-microservices-is-a-bad-idea-670d3db29ca6 HTTP based Microservices is a bad idea -> #Kafka :)
 - https://medium.com/data-monzo/the-many-layers-of-data-lineage-2eb898709ad3 The many layers of data lineage
-
 # 26-08-2022
-
 - https://stassajin.medium.com/how-to-hire-for-director-roles-bb0690f49a51 How to hire for Director+ roles?
 - https://medium.com/qonto-way/do-you-need-elasticsearch-when-you-have-postgresql-94ef69f5570f Do you need ElasticSearch when you have PostgreSQL?
-
 # 25-08-2022
-
 - https://shahirdaya.medium.com/data-discovery-lineage-for-an-event-streaming-platform-26208ec2f9bd Apache Atlas for Data Discovery & Lineage #kafka
 - https://medium.com/@darefamuyiwa/kafka-bidirectional-client-broker-compatibility-21c1b26e9d61 Kafka Bidirectional Client/Broker Compatibility
-
 # 31-07-2022
-
 - https://www.confluent.io/blog/data-flow-the-key-to-modern-data-pipelines/ Modern Data Flow: The Key to Modern Data Pipelines. ETL, ELT, Reverse ETL. Stream Processing. #kafka
 - https://databricks.com/blog/2022/06/28/project-lightspeed-faster-and-simpler-stream-processing-with-apache-spark.html Project Lightspeed: Faster and Simpler Stream Processing With Apache Spark
 - https://medium.com/rocksetcloud/streaming-analytics-with-ksql-vs-a-real-time-analytics-database-41459fd8f26b Streaming Analytics With KSQL vs. Rockset, a Real-Time Analytics Database 
 - https://www.confluent.io/events/kafka-summit-london-2022/keep-your-cache-always-fresh-with-debezium/ Kafka: Keep Your Cache Always Fresh with Debezium
 - https://rockset.com/blog/converged-indexing-the-secret-sauce-behind-rocksets-fast-queries/ Converged Index: Rockset's Fast Query Speed
 - https://medium.com/shippeo-tech-blog/debezium-to-snowflake-lessons-learned-building-data-replication-in-production-a5430a9fe85b Debezium to Snowflake: Lessons learned building data replication in production
-
 # 12-03-2022
-
 - https://redpanda.com/blog/tiered-storage-architecture-shadow-indexing-deep-dive/ How we built Shadow Indexing, the subsystem powering Redpanda’s tiered storage
 - https://medium.com/geekculture/kafka-in-f1-replaying-messages-53b3bd7d3a61 Kafka in F1 — Replaying messages
 - https://medium.com/@kanchan.tewary/data-quality-data-catalogs-and-data-governance-99cb18a022c5 Data Quality, Data Catalogs and Data Governance
 - https://bytes.swiggy.com/introduction-to-cdc-system-an-efficient-way-to-replicate-transactional-data-into-data-lake-c10f99c7a3fd Introduction to CDC System — An efficient way to replicate Transactional data into Data Lake
 - https://stackoverflow.com/questions/71222496/how-to-achieve-high-availability-in-a-kafka-streams-app-during-deployment How to achieve high availability in a Kafka Streams app during deployment?
 - https://medium.com/productboard-engineering/9-ingredients-of-excellence-tip-of-the-iceberg-159d4073eba0 9 ingredients of an excellent Engineering Manager
-
 # 07-03-2022
-
 - https://medium.com/@emergeit/realtime-data-streaming-with-apache-kafka-apache-pinot-apache-druid-and-apache-superset-e67161eb9666 Apache Kafka + Apache Pinot + Apache Druid + Apache Superset
 - https://www.confluent.io/blog/ksqldb-0-23-1-features-updates/  ksqlDB 0.23.1 - GRACE PERIOD in! (default was 24h, which was huge)
 - https://www.eweek.com/big-data-and-analytics/apache-kafka/ Apache Kafka Gains Adoption as Streaming Data Grows
-
 # 06-03-2022
-
 - https://medium.com/@StartupBusinesstips/8-common-go-to-market-mistakes-38435151a0ea 8 common Go-to-market mistakes.
 - https://medium.com/meroxa/conduit-a-leap-forward-for-real-time-data-integration-67272fe50a84 Conduit, an alternative to Kafka Connect?
-
 # 13-02-2022
-
 - https://medium.com/devrev/10-product-led-growth-plg-principles-in-action-34dfbe72e981 10 Product-Led Growth (PLG) principles in action
-
 # 31-01-2022
-
 - https://www.confluent.io/blog/real-time-data-integrations-at-scale-with-confluent-q1-22-launch/ Announcing the Confluent Q1 ‘22
 - https://userpilot.medium.com/how-to-build-and-structure-a-saas-product-marketing-team-9af811354dbc How To Build And Structure A SaaS Product Marketing Team
 - https://medium.com/point-nine-news/how-to-hire-a-vp-marketing-cf15adbdb8d3 How to hire a VP Marketing. It's complicated.
 - https://www.kai-waehner.de/blog/2022/01/04/when-not-to-use-apache-kafka/ When NOT to use Apache Kafka?  What is Kafka, What is NOT Kafka
 - https://martinfowler.com/articles/data-monolith-to-mesh.html How to Move Beyond a Monolithic Data Lake to a Distributed Data Mesh
 - https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/ 5 Common Pitfalls When Using Apache Kafka
-
 # 30-01-2022
-
 - https://medium.com/positiveslope/10-forecasts-for-the-near-future-of-tech-61e73b51647c 10 Forecasts For The Near Future Of Tech
 - https://userpilot.medium.com/2022-guide-to-saas-product-metrics-for-product-growth-managers-5c349ffdf9b 2022 Guide To SaaS Product Metrics For Product Growth Managers
 - https://www.forbes.com/sites/ciocentral/2012/08/22/12-factors-to-consider-when-hiring-a-head-of-sales/?sh=2de411217c08 12 Factors To Consider When Hiring A Head of Sales
@@ -1457,22 +891,14 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://streamnative.io/blog/release/2022-01-25-moving-toward-a-zookeeperless-apache-pulsar/ ZooKeeper-Less Apache Pulsar
 - https://cutlefish.substack.com/p/tbm-452-an-actionable-post-with-examples Product Management: Tree/Loop Prompts
 - https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/ Two reasons Kubernetes is so complex • Kubernetes is a cluster operating system
-
 # 18-01-2022
-
 - https://medium.com/geekculture/5-way-to-stay-technical-as-an-engineering-manager-bfa1c6d5a126 5 Ways to Stay Technical as an Engineering Manager
 - https://userpilot.medium.com/2022-guide-to-saas-product-metrics-for-product-growth-managers-5c349ffdf9b 2022 Guide To SaaS Product Metrics For Product Growth Managers
-
 # 12-01-2022
-
 - https://cloud.google.com/blog/products/data-analytics/data-governance-and-operating-model-for-analytics-pt1 Data governance and operating model for analytics
-
 # 11-01-2022
-
 - https://moxie.org/2022/01/07/web3-first-impressions.html "My first impressions of web3" We're not there yet
-
 # 09-01-2022
-
 - https://engineering.grab.com/designing-products-and-services-based-on-jtbd Designing products and services based on Jobs to be Done
 - https://dzone.com/articles/kafka-streams-tips-on-how-to-decrease-rebalancing Kafka-Streams - Tips on How to Decrease Re-Balancing Impact for Real-Time Event Processing On Highly Loaded Topics
 - https://strimzi.io/blog/2021/12/17/kafka-segment-retention/ Deep dive into Apache Kafka storage internals: segments, rolling and retention
@@ -1484,9 +910,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://towardsdatascience.com/re-evaluating-kafka-issues-and-alternatives-for-real-time-395573418f27 Re-evaluating Kafka: issues and alternatives for real-time
 - https://medium.com/interviewnoodle/engineering-manager-vs-tech-lead-which-is-better-d8896d7f3b10 Engineering manager vs. tech lead — which is better? (-> PM+EM+TL !)
 - https://medium.com/leading-literally/im-an-engineering-manager-who-can-t-code-235ad35557b I’m an Engineering Manager who can’t code
-
 # 08-01-2022
-
 - https://sookocheff.com/post/time/vector-clocks/ Vector Clocks
 - https://selectfrom.dev/5-megatrends-that-will-shift-the-data-and-analytics-market-bdd8639893e1 5 Megatrends That Will Shift the Data and Analytics Market
 - https://blog.serenacapital.com/2021-european-saas-benchmark-65e3e1863906 2021 EUROPEAN SAAS BENCHMARK
@@ -1494,30 +918,18 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe Event Driven hotel reservations with Kafka
 - https://www.confluent.io/blog/data-sharing-patterns-with-confluent-schema-registry/ Data Sharing Patterns with Confluent’s Schema Registry #kafka
 - https://www.morling.dev/blog/kafka-where-art-thou/ How do you deal in #Kafka producers with brokers not being available?
-
 # 04-01-2022
-
 - https://www.chrisbehan.ca/posts/atomic-habits The Thinner Book: Atomic Habits by James Clear
-
 # 26-12-2021
-
 - https://nurkiewicz.com/slides/reactor-workshop Reactor Workshop
-
 # 12-12-2021
-
 - https://medium.com/edifyhouses/how-we-billed-500k-in-less-than-3-months-with-nocode-f259a6784451 How we billed +€500K in less than 3 months with #nocode
-
 # 11-12-2021
-
 - https://ishadeed.com/article/defensive-css/ Defensive CSS
-
 # 05-12-2021
-
 - https://www.confluent.io/blog/push-queries-v2-with-ksqldb-scalable-sql-query-subscriptions/ Push Queries v2 with ksqlDB 0.22: Scalable SQL Query Subscriptions
 - https://www.confluent.io/blog/ksqldb-0-22-new-features-major-upgrades/ Announcing ksqlDB 0.22: new SOURCE TABLE, range-scan expressions optimizations
-
 # 04-12-2021
-
 - https://engineering.razorpay.com/the-platform-engineer-db2b21434911 The Platform Engineer
 - https://bootcamp.uxdesign.cc/okrs-vs-kpis-understanding-measurements-for-your-saas-product-ac44451a0dc OKRs vs KPIs: understanding measurements for your SaaS product
 - https://medium.com/senovovc/b2b-saas-the-right-organization-structure-at-the-right-stage-727c01e06996 B2B SaaS: the right Org Structure at the right Stage
@@ -1527,13 +939,9 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/ Scaling Kafka at Honeycomb -> Confluent Tiered Storage -> Beefy AWS
 - https://uxplanet.org/how-to-solve-a-product-design-challenge-22c4daa27117 How to solve a Product Design Challenge
 - https://databricks.com/blog/2021/12/03/scala-at-scale-at-databricks.html Scala at Scale at Databricks
-
 # 28-11-2021
-
 - https://future.a16z.com/hire-vp-engineering/ How and Why To Hire a VP of Engineering (early)
-
 # 14-11-2021
-
 - https://www.youtube.com/watch?v=Dm0Cj7LsjgA Onboarding managers into an engineering team
 - https://herbig.co/product-discovery/ Product Discovery: ​A Practical Guide for Agile Teams (2021)
 - https://itnext.io/how-i-learned-to-onboard-effectively-in-an-engineer-manager-role-8ea76627e36c How I Learned to Onboard Effectively in an Engineer Manager Role
@@ -1541,16 +949,12 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://betterprogramming.pub/9-things-every-new-engineering-manager-should-know-773b9c3b9667 9 Things Every New Engineering Manager Should Know
 - https://blog.mission.dev/growing-your-leadership-skills-as-a-developer-47deb34f26d Growing your Leadership Skills as a Developer
 - https://medium.com/@jordan_volz/whos-who-in-the-modern-data-stack-ecosystem-fall-2021-69d8b46b2e88 Who’s Who in the Modern Data Stack Ecosystem
-
 # 13-11-2021
-
 - https://medium.com/manomano-tech/why-do-all-tech-companies-converge-towards-the-same-product-organization-manomanos-case-d6f235743ae2 Why do all tech companies converge towards the same product organization?
 - https://medium.com/manomano-tech/the-making-of-a-product-centric-organization-key-takeaways-from-a-3-year-journey-in-the-french-9d26658a5210 The making of a product-centric organization: key takeaways from the French scale-up ManoMano
 - https://amplitude.com/blog/how-to-build-product-oriented-engineering-teams How to Build Product-Oriented Engineering Teams
 - https://www.infoq.com/news/2021/11/rudra-rust-safety/ Static Analyzer Rudra Found Over 200 Memory Safety Issues in Rust Crates
-
 # 08-11-2021
-
 - https://medium.com/agileinsider/writing-great-key-results-for-your-okrs-f0213517c79e Writing great key results for your OKRs
 - https://bootcamp.uxdesign.cc/what-does-your-product-org-look-like-eece7cbbdf1a What does your product org look like?
 - https://medium.com/interviewnoodle/engineering-manager-as-an-architect-791362213a0b Engineering Manager as an Architect
@@ -1558,22 +962,16 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://jkebertz.medium.com/should-staff-engineers-be-writing-code-1237abf891f4 Should Staff+ Engineers Be Writing Code?
 - https://medium.com/google-cloud/everything-you-always-wanted-to-know-about-vpc-peering-but-were-afraid-to-ask-2b26267ba7d9 Everything You Always Wanted to Know About VPC Peering (Google Cloud)
 - https://productcoalition.com/4-fundamental-mistakes-you-are-making-with-product-okrs-6ab36d3fadc0 Four Fundamental Mistakes You Are Making With Product OKRs
-
 # 07-11-2021
-
 - https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66 Mistakes I’ve Made as an Engineering Manager — so you can avoid them
 - https://queue.acm.org/detail.cfm?id=3454124 The SPACE of Developer Productivity
 - https://medium.com/swlh/minimum-viable-product-manager-852e744f041d Minimum Viable Product Manager. Bringing up first time product managers
 - https://blog.kronis.dev/articles/never-update-anything Never update anything
-
 # 02-11-2021
-
 - https://www.confluent.io/blog/how-kafka-streams-works-guide-to-stream-processing/ How Kafka Streams Works: A Guide to Stream Processing
 - https://blog.coinbase.com/how-we-scaled-data-streaming-at-coinbase-using-aws-msk-4595f171266c How we scaled data streaming at Coinbase using AWS MSK
 - https://medium.com/startup-grind/whats-a-cto-vs-vp-engineering-b24095d36d6a What’s a CTO vs. VP Engineering?
-
 # 01-11-2021
-
 - https://wotnot-io.medium.com/10-growth-hacking-strategies-for-saas-companies-f1fef859a2ed 10 Growth Hacking Strategies for SaaS Companies
 - https://medium.com/graalvm/graalvm-21-3-is-here-java-17-native-image-performance-updates-and-more-ac4cbafcfc05 GraalVM 21.3 is here: Java 17, Native Image performance updates and more ������
 - https://medium.com/swlh/a-startup-founders-framework-for-evaluating-mentor-advice-ed2a0949e76 A Startup Founder’s Framework for Evaluating Mentor Advice
@@ -1584,29 +982,19 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://uxdesign.cc/the-po-vs-pm-madness-13ee6642077a The PO vs PM or PO + PM madness
 - https://medium.com/@anupmarwadi/your-first-30-days-as-a-cto-d5ec5b58723e Your first 30-days as a CTO
 - https://www.capitalone.com/tech/software-engineering/zio-roadmap/ Where the ZIO Roadmap is Headed Next
-
 # 30-10-2021
-
 - https://github.com/github/copilot-docs/blob/main/docs/jetbrains/gettingstarted.md#getting-started-with-github-copilot-in-jetbrains Github Copilot for IntelliJ
-
 # 25-10-2021
-
 - https://nmoryl.com/dont-hire-a-chief-of-staff-b65c16d56eac Don’t Hire a Chief of Staff. 
-
 # 17-10-2021
-
 - https://productcoalition.com/what-do-product-managers-do-ce076ad4a8e7 What Makes a Unicorn Product Managager
 - https://blog.softwaremill.com/will-project-loom-obliterate-java-futures-fb1a28508232 Will Project Loom obliterate Java Futures? #fibers
 - https://eventuallycoding.com/2021/07/06/les-salaires-dans-la-tech/ Les salaires dans la tech
 - https://medium.com/event-driven-utopia/real-time-streaming-for-mortals-how-redpanda-and-materialize-making-it-a-reality-18ac0bdc6f43 Redpanda + Materialize as streaming database #kafka
-
 # 16-10-2021
-
 - https://venturebeat.com/2021/09/14/data-streaming-service-streamnative-raises-23-7m/ Data streaming service StreamNative takes in $23.7M #pulsar
 - https://github.com/lampepfl/monadic-reflection Loom to use direct code style instead of a monadic flow #scala
-
 # 10-10-2021
-
 - https://www.loom.com/share/5efceb288b634a449041918bdba08202 Google Chrome - High WIP consequences — John Cutler
 - https://achardypm.medium.com/introduction-to-roadmap-architecture-7dee6234a688 Introduction to Roadmap Architecture
 - https://medium.com/serious-scrum/how-to-nail-a-product-owner-interview-4c475e4f8c74 How to Nail a Product Owner Interview
@@ -1614,444 +1002,266 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/building-carta/how-to-be-a-successful-manager-of-managers-1b3954428312 How to be a successful manager of managers
 - https://medium.com/technexthere/data-engineering-technologies-2021-8f46bb284474 Data Engineering Technologies in 2021
 - https://medium.com/wix-engineering/5-database-technologies-used-by-2000-wix-microservices-e4769638b8c3 5 Database technologies used by 2000 Wix microservices
-
 # 06-10-2021
-
 - https://thedataguy.in/debezium-with-aws-msk-iam-authentication/ Debezium With AWS MSK IAM Authentication
 - https://medium.com/technexthere/have-to-know-30-data-streaming-and-event-processing-technologies-in-2021-aaf02977de75 Top Data Streaming and Event Processing Technologies in 2021 (Conduktor!)
 - https://forum.confluent.io/t/partitioning-gotchas-dont-use-avro-json-or-protobuf-for-keys-and-be-aware-of-client-hashing-differences/2718 Partitioning gotchas -- Don't use Avro, Json, or Protobuf for keys and be aware of client hashing differences
 - https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623 Towards a Reliable Device Management Platform using Alpakka Kafka
 - https://blog.crunchydata.com/blog/postgres-change-data-capture-with-debezium Change Data Capture in Postgres With Debezium
 - https://canvatechblog.com/scaling-engineering-at-canva-ca10c6b5410a Scaling engineering at Canva
-
 # 05-10-2021
-
 - https://medium.com/race-conditions/kafka-the-afterthoughts-the-schema-management-7ea30e9518e4 Kafka the afterthoughts: message encoding and schema management
-
 # 03-10-2021
-
 - https://itnext.io/hydrating-a-data-lake-using-log-based-change-data-capture-cdc-with-debezium-apicurio-and-kafka-799671e0012f Hydrating a Data Lake using Log-based Change Data Capture (CDC) with Debezium, Apicurio, and Kafka Connect on AWS
 - https://newsletter.pragmaticengineer.com/p/project-management-in-tech How Big Tech Runs Tech Projects and the Curious Absence of Scrum
 - https://aws.amazon.com/blogs/aws/introducing-amazon-msk-connect-stream-data-to-and-from-your-apache-kafka-clusters-using-managed-connectors/ Amazon MSK Connect – Stream Data to and from Your Apache Kafka Clusters Using Managed Connectors
-
 # 02-10-2021
-
 - https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/ What is Apache Kafka, and what are Kafka use cases?
 - https://medium.com/@balbinolucas/the-ultimate-guide-of-a-product-managers-day-to-day-activities-841ebe3df16b The Ultimate Guide of a Product Manager’s Day to Day Activities
 - https://medium.com/management-matters/afc-7c2dff1c31d6 How to spread and save the company’s technical knowledge
 - https://medium.com/technexthere/modern-streaming-database-technologies-in-2021-5a23181ab0c Modern Streaming Database Technologies in 2021
-
 # 26-09-2021
-
 - https://emaxklein.medium.com/10-micro-habits-for-better-leadership-1bb18a444378 10 Micro-Habits for Better Leadership
 - https://medium.com/event-driven-utopia/understanding-materialized-views-3-stream-table-joins-with-cdc-77591d2d6fa0 Understanding Materialized Views — 3 : Stream-Table Joins with CDC
-
 # 23-09-2021
-
 - https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623 Kafka streams processing. Spring Kafka vs Alpakka
-
 # 21-09-2021
-
 - https://www.youtube.com/watch?v=dunoZF1rs7o Java 17 features
-
 # 18-09-2021
-
 - https://medium.com/teads-engineering/investigating-a-network-issue-encountered-with-kafka-on-aws-38148fc391 Investigating a network issue with Kafka on AWS
-
 # 13-09-2021
-
 - https://eng.uber.com/kafka-async-queuing-with-consumer-proxy/ Enabling Seamless Kafka Async Queuing with Consumer Proxy
-
 # 12-09-2021
-
 - https://tgrez.github.io/posts/2019-04-13-kafka-transactions.html Apache Kafka transactional.id impact, to fence producers
-
 # 05-09-2021
-
 - https://medium.com/event-driven-utopia/rise-of-the-streaming-databases-episode-1-materialize-36d0cfbfb730 Rise of the Streaming Databases: Materialize
 - https://medium.com/whispering-data/the-state-of-data-engineering-in-2021-478f49e89873 The State of Data Engineering in 2021
 - https://www.confluent.io/blog/ksqldb-architecture-and-advanced-features/ Guide to ksqlDB Architecture and Advanced Features
-
 # 01-09-2021
-
 - https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/ there is no such thing as a “glibc based alpine image” – Ariadne's Space
-
 # 15-08-2021
-
 - https://www.touilleur-express.fr/2021/08/14/lundi-12-juillet-chez-doctolib/ Retour sur la soirée du lundi 12 juillet chez Doctolib #aws #aurora
-
 # 14-08-2021
-
 - https://pganalyze.com/blog/postgres-create-index Postgres CREATE INDEX: Operator classes, index types & more
-
 # 08-08-2021
-
 - https://medium.com/@sgblank/a-path-to-the-minimum-viable-product-d54d5a500baf A Path to the Minimum Viable Product
-
 # 07-08-2021
-
 - https://www.infoq.com/articles/microservices-inside-out/ Turning Microservices Inside-Out
-
 # 31-07-2021
-
 - https://eng.uber.com/pinot-real-time-ingestion/ Pinot Real-Time Ingestion with Cloud Segment Storage
 - https://www.crowdstrike.com/blog/how-crowdstrike-addressed-uneven-partition-lag-in-kafka/ How CrowdStrike Addressed Uneven Partition Lag in Kafka
-
 # 30-07-2021
-
 - https://gist.github.com/djspiewak/f4cfc08e0827088f17032e0e9099d292 cats-effect 3 and ZIO 2: comparative-benchmarks
-
 # 25-07-2021
-
 - https://medium.com/@jboogie/what-does-an-agile-product-roadmap-look-like-cf0dbe5be4ef What does an agile product roadmap look like?
 - https://www.astronomer.io/blog/airflow-dbt-1 Airflow and dbt at scale
-
 # 21-07-2021
-
 - https://uxdesign.cc/we-gave-up-sketch-and-rebuilt-our-design-system-in-figma-a1dfc64948e5 We gave up Sketch and rebuilt our design system in Figma
-
 # 18-07-2021
-
 - https://vgallet.github.io/posts/kafka-features/ Kafka Features good to know
 - https://github.com/slouc/concurrency-in-scala-with-ce Concepts of asynchronous and concurrent programming in Scala, based on the Cats Effect library.
-
 # 17-07-2021
-
 - https://leevs.dev/kafka-cost-reduction/ A Practical Guide for Kafka Cost Reduction
 - https://blog.michalp.net/posts/scala/oauth2-app-p2/ OAuth2 Scala application with sttp-oauth2
 - https://medium.com/whispir/how-our-cross-functional-teams-decide-what-to-build-at-whispir-e97757171e49 How Our Cross-Functional Teams Decide What to Build
 - https://jefago.medium.com/establishing-a-product-organization-structure-5cb4fbc2153 Establishing a Product Organization Structure
-
 # 10-07-2021
-
 - https://strimzi.io/blog/2021/06/08/broker-tuning/ Optimizing Kafka broker configuration
-
 # 04-07-2021
-
 - https://www.youtube.com/watch?v=oKaQXxEa7a8 Part 3 - ZIO[_, Error, _] & Variance - Getting Started with #ZIO in #Scala3
 - https://www.youtube.com/watch?v=0OTYAVWUnU4 Scala with ZIO: Introduction to Fibers
 - https://www.youtube.com/watch?v=VVKBoSryJFg Tooling Talks Episode 2 - Scala 3, Metals, Scalafix - Meriam Lachkar
-
 # 27-06-2021
-
 - https://marcosbento.medium.com/confluent-an-ipo-breakdown-where-infrastructure-it-happens-32ee3dfd77f3 Confluent — An IPO breakdown
-
 # 05-06-2021
-
 - https://tech.ebayinc.com/engineering/resiliency-and-disaster-recovery-with-kafka/ Resiliency and Disaster Recovery with Kafka
 - https://www.infoq.com/articles/saga-orchestration-outbox/ Saga Orchestration for Microservices Using the Outbox Pattern
 - https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/ Off-Heap memory reconnaissance • Brice Dutheil
 - https://gist.github.com/djspiewak/8c3c0eadabf16c2fddda796531c3d5ec Building Remote Teams
-
 # 04-06-2021
-
 - https://github.com/feltcoop/why-svelte Why Svelte is our choice for a large web project in 2020
 - https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html My thoughts about the Principal (Software Engineer) role
-
 # 01-06-2021
-
 - https://itnext.io/pulsar-advantages-over-kafka-7e0c2affe2d6 Pulsar Advantages Over Kafka
-
 # 30-05-2021
-
 - https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/ Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance
 - https://strimzi.io/blog/2021/05/07/deploying-kafka-with-lets-encrypt-certificates/ Deploying Kafka with Strimzi and Let's Encrypt certificates
 - https://www.morling.dev/blog/exploring-zookeeper-less-kafka/ Exploring ZooKeeper-less Kafka - Gunnar Morling
 - https://thinkbeforecoding.com/post/2018/01/25/functional-core Functional Core: Errors are events
-
 # 15-05-2021
-
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-698%3A+Add+Explicit+User+Initialization+of+Broker-side+State+to+Kafka+Streams KIP-698: Add Explicit User Initialization of Broker-side State to Kafka Streams
-
 # 05-05-2021
-
 - https://www.confluent.io/blog/announcing-ksqldb-0-17-0-new-features-and-updates/ ksqlDB 0.17.0 - Pull Queries updates & lambda functions
-
 # 30-04-2021
-
 - https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/ Internal VS Eventual consistency in streaming systems. Kafka Streams, ksqlDB, Flink
 - https://medium.com/mobimeo-technology/how-kafka-helped-us-to-restructure-our-analytics-solution-2f2ee7efeec2 How Kafka helped us to restructure our Analytics solution
-
 # 22-04-2021
-
 - https://www.kai-waehner.de/blog/2021/04/20/comparison-open-source-apache-kafka-vs-confluent-cloudera-red-hat-amazon-msk-cloud/ Comparison of Open Source Apache Kafka vs Vendors including Confluent, Cloudera, Red Hat, Amazon MSK, and tools like Conduktor :)
 - https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0 System Design: WhatsApp
-
 # 19-04-2021
-
 - https://kubernetes.io/blog/2021/04/19/introducing-indexed-jobs/ Introducing Indexed Jobs in Kubernetes
-
 # 18-04-2021
-
 - https://f.hubspotusercontent30.net/hubfs/5193039/Engineering%20Retrospectives/Kafka%20Migration%20and%20Lessons%20Learned%20-%20April%202021.pdf Kafka Migration, AWS, Lessons Learned @ Honeycomb
-
 # 02-04-2021
-
 - https://www.47deg.com/blog/arrow-0.13.0-release/ A good decision: many things deprecated in ArrowKt, and a better syntax overall 
-
 # 28-03-2021
-
 - https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03 Why Kafka Is so Fast.
 - https://www.morling.dev/blog/talking-to-postgres-through-java-16-unix-domain-socket-channels/ Talking to Postgres Through Java 16 Unix-Domain Socket Channels
 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/kafka-as-a-storage-system.html Kafka as a storage system at Twitter
-
 # 23-03-2021
-
 - https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc Introducing ZIO http
 - https://medium.com/milkie-way/we-burnt-72k-testing-firebase-cloud-run-and-almost-went-bankrupt-part-1-703bb3052fae We Burnt $72K testing Firebase + Cloud Run and almost went Bankrupt
-
 # 21-03-2021
-
 - https://ssudan16.medium.com/exactly-once-processing-in-kafka-explained-66ecc41a8548 Exactly-Once Processing in Kafka
 - https://medium.com/free-code-camp/books-that-every-engineering-manager-should-read-7a053e296d11 Engineering Manager Books
 - https://medium.com/efesent-solutions/the-three-perspectives-of-a-software-engineering-manager-53fcf6ea525d Perspectives of a software engineering manager
-
 # 20-03-2021
-
 - https://guidoschmutz.wordpress.com/2021/03/20/last-week-in-stream-data-integration-stream-analytics-20-3-2021/ Last Week in Stream Data Integration & Stream Analytics – 20.3.2021 | Enjoy IT - SOA, Java, Event-Driven Computing and Integration
 - https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/ Relay Hooks: Improved React APIs for Relay
 - https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/ The Modern Java Platform - 2021
-
 # 16-03-2021
-
 - https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396 Tapir serverless: a proof of concept
-
 # 15-03-2021
-
 - https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f 4 Microservices Caching Patterns at Wix (s3, kafka, dynamodb/cdc, varnish)
 - https://medium.com/@Python_Primer/server-less-cloud-sql-backups-on-gcp-d3c3d43548ca Serverless Cloud SQL backups on GCP
-
 # 14-03-2021
-
 - https://www.confluent.io/blog/how-to-tune-rocksdb-kafka-streams-state-stores-performance/ Performance Tuning RocksDB for Kafka Streams’ State Stores
-
 # 13-03-2021
-
 - https://www.confluent.io/blog/integrate-kafka-and-jaeger-for-distributed-tracing-and-monitoring/ Integrate Kafka Clients with Jaeger for Distributed Tracing and Monitoring
 - https://kornel.ski/rust-c-speed Speed of Rust vs C
-
 # 08-03-2021
-
 - https://www.youtube.com/watch?v=NY2ZkcYZj54 Scala 3
 - https://www.youtube.com/watch?v=PaogLRrYo64 Structuring Services with ZIO and ZLayer
 - https://www.infoq.com/articles/saga-orchestration-outbox/ Saga Orchestration for Microservices Using the Outbox Pattern
-
 # 07-03-2021
-
 - https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/ How To Implement Streaming Microservices Using ZIO and Kafka
 - https://typelevel.org/blog/2021/02/21/fibers-fast-mkay.html Eat Fibers
 - https://coralogix.com/log-analytics-blog/the-coralogix-operator-a-tale-of-zio-and-kubernetes/ The Coralogix Operator: A Tale of ZIO and Kubernetes
 - https://itnext.io/ingest-data-from-apache-kafka-into-azure-cosmos-db-cassandra-api-using-kafka-connect-11e054f82a05 Ingest data from Apache Kafka into Azure Cosmos DB Cassandra API using Kafka Connect
 - https://blog.bitsrc.io/will-deno-catchup-with-nodejs-in-2021-7ab758429647 Deno / NodeJS in 2021
-
 # 06-03-2021
-
 - https://medium.com/expedia-group-tech/fully-reactive-stream-processing-727c4c4371e8 Reactive Stream Processing with Apache Kafka and Project Reactor
 - https://www.confluent.io/blog/running-kafka-at-scale-at-pinterest/ How Pinterest Runs Kafka at Scale
 - https://levelup.gitconnected.com/6-things-you-need-to-know-about-kafka-before-using-it-in-a-system-design-interview-1fc31451732c Kafka / System Design Interview 
 - https://www.confluent.io/blog/ksqldb-0-15-reads-more-message-keys-supports-more-data-types/#multiple-key-columns Compound KEYs, group by & partition by multiple fields
-
 # 28-02-2021
-
 - https://www.oreilly.com/radar/what-you-need-to-know-about-product-management-for-ai/ What you need to know about product management for AI
-
 # 27-02-2021
-
 - https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html Tuples bring generic programming (HList~) to Scala 3.
-
 # 21-02-2021
-
 - https://www.confluent.io/blog/42-ways-zookeeper-removal-improves-kafka/ 42 Ways Zookeeper Removal Improves Apache Kafka
-
 # 20-02-2021
-
 - https://www.confluent.io/blog/ksqldb-0-15-features-updates/ Announcing ksqlDB 0.15
 - https://appddeevvmeanderings.blogspot.com/2021/02/zio-quick-read-extracting-executor-for.html ZIO executor, service, layers, http, blocking #scala
 - https://sookocheff.com/post/architecture/making-modular-monoliths-work/ Making Modular Monoliths Work
-
 # 13-02-2021
-
 - https://www.confluent.io/blog/write-a-kafka-connect-connector-with-configuration-handling/ How to Write a Kafka Connector with Proper Configuration Handling
 - https://levelup.gitconnected.com/fixing-debezium-connectors-when-they-break-on-production-49fb52d6ac4e Tips about Fixing Debezium Connectors
 - https://medium.com/swlh/netty-nio-distilled-c1f053911950 Netty NIO Distilled
 - https://medium.com/moveax/how-postgresql-replication-works-6288b3e6000e How PostgreSQL replication works
 - https://www.wix.engineering/post/4-steps-for-kafka-rebalance-notes-from-the-field 4 Steps for Kafka Rebalance - Wix
-
 # 03-02-2021
-
 - https://hakibenita.com/postgresql-unused-index-size Save lots of space: you may need to create a *partial* INDEX on your Postgres table if you're not looking for NULL on large tables
-
 # 01-02-2021
-
 - https://webtransparency.cs.princeton.edu/dark-patterns/ Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites
-
 # 31-01-2021
-
 - https://www.youtube.com/watch?v=4v_m7xtDCNk Kafka Streams Interactive Queries and gRPC
 - https://learnk8s.io/terraform-gke Provisioning Kubernetes clusters on GCP with Terraform and GKE
-
 # 26-01-2021
-
 - https://portavita.github.io/2021-01-25-Why_Kafka_compression_might_save_you_thousands_of_dollars/ Apache Kafka compression: zstd: save space & time = money
 - https://medium.com/wix-engineering/kafka-cron-using-wix-greyhound-64c7b99a1c3e Kafka Cron using wix/greyhound #scala #zio
 - https://medium.com/google-cloud/google-pub-sub-lite-for-kafka-users-dec8a7cfc5e5 Pub/Sub Lite <-> Kafka
-
 # 25-01-2021
-
 - https://blog.softwaremill.com/sttp-client-3-is-here-bb9ebe925931 sttp client 3 is here!
-
 # 19-01-2021
-
 - https://www.elastic.co/blog/why-license-change-AWS Amazon: NOT OK - why we had to change Elastic licensing | Elastic Blog
-
 # 15-01-2021
-
 - https://strimzi.io/blog/2021/01/07/consumer-tuning/ Optimizing Kafka consumers
-
 # 11-01-2021
-
 - https://www.youtube.com/watch?v=iFeTUhYpPLs ZIO Cache, Compositional Caching by Adam Fraser
 - https://mikemybytes.com/2021/01/11/single-partition-kafka-topics/ Single-partition Kafka topics
-
 # 28-12-2020
-
 - https://medium.com/cloud-belivers/olap-system-selection-choose-apache-kylin-or-clickhouse-718a972498bb OLAP: Apache Kylin or ClickHouse?
-
 # 21-12-2020
-
 - https://www.confluent.io/blog/apache-kafka-2-7-features-updates-improvements/ Apache Kafka 2.7 - Latest Features, Updates, and Improvements
 - https://www.infoq.com/news/2020/12/aws-reinvent-2020/ Recap of AWS re:Invent 2020
-
 # 16-12-2020
-
 - https://www.scala-lang.org/blog/2020/12/15/scala-3-crossing-the-finish-line.html Scala 3 - Crossing the finish line (!!!!!)
-
 # 14-12-2020
-
 - https://towardsdatascience.com/enabling-a-powerful-search-capability-building-and-deploying-a-real-time-stream-processing-etl-a27ecb0ab0ae Building and Deploying a Real-Time Stream Processing ETL Engine with Kafka and ksqlDB #elasticsearch
-
 # 12-12-2020
-
 - https://www2.slideshare.net/DmitryKarlinsky1/demystifying-functional-effect-systems-in-scala/DmitryKarlinsky1/demystifying-functional-effect-systems-in-scala Demystifying functional effect systems in Scala: construction of a stacksafe fiber-capable IO monad
 - https://blog.octo.com/en/technical-due-diligence-safeguarding-your-it-startup-investment/ Technical Due Diligence–Safeguarding your IT Startup Investment
 - https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/ Apache Kafka Lag Monitoring  using Burrow
 - https://medium.com/better-programming/integration-test-for-kafka-consumer-be76528b843a Integration Tests for Kafka Consumer (and Spring ������)
 - https://engineering.linecorp.com/en/blog/kafka-based-job-queue-library-decaton-examples/ Kafka-based job queue library 'Decaton' examples
 - https://fasterthanli.me/articles/aiming-for-correctness-with-types Aiming for correctness with types (JS/Go/Rust)
-
 # 10-12-2020
-
 - https://github.com/scala/scala/releases/tag/v2.13.4 Release Scala 2.13.4
-
 # 08-12-2020
-
 - https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/ Grafana Tempo, a Distributed Tracing System
-
 # 05-12-2020
-
 - https://cloud.google.com/blog/products/application-development/get-to-know-google-cloud-workflows Google Cloud Workflows: serverless mode, failover management, retries, timeout, security aspects. Looking good.
-
 # 04-12-2020
-
 - https://medium.com/@svroonland/processing-zio-effects-through-a-pipeline-c469e28dff62 Processing ZIO effects through a pipeline #scala
 - https://blog.timescale.com/blog/timescaledb-vs-amazon-timestream-6000x-higher-inserts-175x-faster-queries-220x-cheaper/ TimescaleDB vs. Amazon Timestream: a total destroyer. 6000x faster inserts, 5-175x query speed
 - https://aws.amazon.com/blogs/opensource/want-more-postgresql-you-just-might-like-babelfish/ AWS: Babelfish, a PostgreSQL compatiblity layer for Amazon Aurora
-
 # 03-12-2020
-
 - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/ Don't Panic: Kubernetes and Docker
-
 # 28-11-2020
-
 - https://towardsdatascience.com/why-the-future-of-etl-is-not-elt-but-el-t-880f08aab74a The Future of ETL Is Not ELT, But EL(T)
-
 # 20-11-2020
-
 - https://www.scala-lang.org/blog/2020/11/19/scala-3-forward-compat.html Migrating to Scala 3 has never been so easy!
-
 # 16-11-2020
-
 - https://alexn.org/blog/2020/11/15/managing-database-migrations-scala.html Database Migrations using Flyway #Scala
-
 # 15-11-2020
-
 - https://medium.com/datadriveninvestor/if-youre-using-kafka-with-your-microservices-you-re-probably-handling-retries-wrong-8492890899fa Kafka: Aggregates and Retries
-
 # 14-11-2020
-
 - https://www.confluent.io/blog/spring-kafka-protobuf-part-1-event-data-modeling Apache Kafka and Protobuf Part 1: Event Data Modeling
-
 # 13-11-2020
-
 - https://www.youtube.com/watch?v=SJeAb-XEIe8 The Rise Of Loom And The Evolution Of Reactive Programming #scala #zio
 - https://scalameta.org/metals/blog/2020/11/06/sbt-BSP-support.html sbt BSP support · Metals
-
 # 12-11-2020
-
 - https://www.youtube.com/watch?v=hvYqSz_BgUM Netty 5: Lessons Learned
 - https://turkogluc.com/postgresql-capture-data-change-with-debezium/ CDC Pipelines for Postgres with Debezium Kafka Connector
-
 # 11-11-2020
-
 - https://hmemcpy.com/2020/08/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/ Running Postgres integration tests easily with TestContainers and ZIO Test
 - https://medium.com/google-cloud/google-cloud-pub-sub-ordered-delivery-1e4181f60bc8 Google Cloud Pub/Sub Ordered Delivery
 - https://blog.softwaremill.com/whats-coming-up-in-sttp-client-3-30d01ab42d1b sttp client 3: simplification & Improvements #scala
 - https://softwaremill.com/kafka-pitfalls-kafka-architect/ Kafka pitfalls - Q&A with a Kafka Architect
-
 # 10-11-2020
-
 - https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html From implicits to extension and given #scala
-
 # 08-11-2020
-
 - https://www.confluent.io/blog/pull-queries-in-preview-confluent-cloud-ksqdb/ Preview Feature: Pull Queries in Confluent Cloud ksqlDB. Sweet!
 - https://github.com/erebe/personal-server A complete "tutorial" to configure a personal server (security, firewall, k3s, ingress, certificates, mail server, github actions, backups, vpn, pihole..)
 - https://typelevel.org/blog/2020/10/30/concurrency-in-ce3.html Concurrency in Cats Effect 3 #scala
 - https://www.slideshare.net/streamnative/low-latency-stream-processing-with-jet Low latency stream processing with Jet and Kafka (Hazelcast)
 - https://www.slideshare.net/ConfluentInc/performance-tuning-rocksdb-for-kafka-streams-state-stores Performance Tuning RocksDB for Kafka Streams’ State Stores
 - https://medium.com/helidon/can-java-microservices-be-as-fast-as-go-5ceb9a45d673 Benchmarking Java + Graal & Go. Java is better at multi-threading (and mem+), otherwise Go crunches it.
-
 # 07-11-2020
-
 - https://rmoff.net/2020/11/03/streaming-geopoint-data-from-kafka-to-elasticsearch/ Ways to stream geopoint data from Kafka to Elasticsearch
-
 # 06-11-2020
-
 - https://github.com/leobenkel/ZparkIO ZparkIO: Framework to use Spark and ZIO
 - https://www.youtube.com/watch?v=xWCb54turxg Scala 3 Indentation; -Yindent-colons
 - https://bszwej.medium.com/domain-driven-design-with-fp-in-scala-21b557f94aa5 Domain-Driven Design with FP in Scala
-
 # 27-10-2020
-
 - https://blog.softwaremill.com/designing-tapirs-websockets-support-ff1573166368 Designing tapir’s WebSockets support
-
 # 23-10-2020
-
 - https://medium.com/botify-labs/experience-working-with-600-tb-elasticsearch-cluster-b6b5a4fa9127 Experience working with 600+TB ElasticSearch cluster
 - https://www.confluent.io/blog/bounding-ksqldb-memory-usage/ Interesting post about Memory Usage in ksqlDB and malloc issues
-
 # 22-10-2020
-
 - https://engineering.fb.com/networking-traffic/how-facebook-is-bringing-quic-to-billions/ QUIC + HTTP/3 impact at Facebook
-
 # 18-10-2020
-
 - https://build.thebeat.co/yet-another-kubernetes-dns-latency-story-2a1c00ebbb8d Yet Another Kubernetes DNS Latency Story. Node Local DNS Cache issues.
 - https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82 CI/CD Pipelines With Kubernetes in Docker (KinD)
 - https://jet-start.sh/blog/2020/10/06/enabling-full-text-search Using Hazelcast Jet + Debezium to sink into Elasticsearch
-
 # 16-10-2020
-
 - https://www.cybercite.fr/core-web-vitals-google.html Core Web Vitals: de nouvelles règles côté Google 2021 à prendre en compte pour le SEO
 - https://www.confluent.io/blog/how-real-time-materialized-views-work-with-ksqldb/ How Real-Time Materialized Views Work with ksqlDB, with animations <3
 - https://blog.kowalczyk.info/article/19f2fe97f06a47c3b1f118fd06851fad/lessons-learned-porting-50k-loc-from-java-to-go.html Lessons learned porting 50k loc from Java to Go
-
 # 12-10-2020
-
 - http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/ Rust tips
-
 # 07-10-2020
-
 - https://www.confluent.io/blog/ksqldb-0-12-0-features-updates/ ksqlDB 0.12.0: CREATE OR REPLACE <3
 - https://www.confluent.io/blog/confluent-platform-6-0-delivers-the-most-powerful-event-streaming-platform-to-date/ Kafka: Tiered Storage, Self-Balancing clusters
 - https://medium.com/swlh/how-to-consume-kafka-efficiently-in-golang-264f7fe2155b Consume Kafka Efficiently in Golang
@@ -2064,319 +1274,199 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/expedia-group-tech/be-vigilant-about-time-order-in-event-based-data-processing-cbfde600dd7d Time Ordering in Event-Based Data Processing
 - https://www.paepper.com/blog/posts/how-to-properly-manage-ssh-keys-for-server-access/ Manage ssh keys for server access, dedicated certificates & roles
 - https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492 Java 15 through the eyes of a Scala programmer. Java 15: Only simple cases are handled by new features.
-
 # 04-10-2020
-
 - https://cloud.google.com/pubsub/docs/ordering#go Gcloud Pub/Sub: Ordering messages & filtering messages.
 - https://aws.amazon.com/blogs/aws/store-and-access-time-series-data-at-any-scale-with-amazon-timestream-now-generally-available/ Amazon Timestream database now GA
 - https://www.infoq.com/presentations/java-11-production-story/ A Year with Java 11 in Production
 - https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c Things in Scala 2 that’ll be (mostly) gone in Scala 3
-
 # 02-10-2020
-
 - https://www.hownormalami.eu/ How normal am I? Interesting to try out by yourself
-
 # 24-09-2020
-
 - https://www.postgresql.org/about/news/2077/ PostgreSQL 13 Released!
 - https://medium.com/bakdata/solving-my-weird-kafka-rebalancing-problems-c05e99535435 Kafka Rebalancing Problems
 - https://medium.com/gumgum-tech/5-things-we-overlooked-when-putting-our-first-app-on-kubernetes-58583c1783e4 Things to know when using Kubernetes
-
 # 22-09-2020
-
 - https://build.affinity.co/how-we-used-postgres-extended-statistics-to-achieve-a-3000x-speedup-ea93d3dcdc61 Postgres extended statistics to achieve a 3000x speedup
 - https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability Postgres 13: Better Performance, Monitoring & More
 - https://jet-start.sh/blog/2020/09/18/cdc-meets-stream-processing Hazelcast Jet meets Debezium for CDC #kafka
 - https://medium.com/@cbenaveen/high-available-task-scheduling-design-using-kafka-and-kafka-streams-dcd81121d43b Using Kafka Streams to schedule tasks
 - https://letsencrypt.org/2020/09/17/new-root-and-intermediates.html Saving bandwidth using ECDSA. Let's Encrypt's New Root and Intermediate Certificates
 - https://github.com/svroonland/rezilience ZIO circuit breaker (+ retry, bulkhead) #scala
-
 # 20-09-2020
-
 - https://cloud.google.com/blog/products/containers-kubernetes/how-gvisor-protects-google-cloud-services-from-cve-2020-14386 New container escape, to obtain root privileges on the host node. Hopefully we have gVisor on GCP!
 - https://medium.com/@codeboten/bpf-experiments-on-macos-9ad0cf21ea83 BPF Experiments on MacOS / TIL Remote-SSH using VSCode (doesn't work with a RPi :()
-
 # 18-09-2020
-
 - https://tech.ovoenergy.com/safe-expressive-code-with-refinement-types/ Expressive Code with Refinement Types #scala
 - https://jamesmcm.github.io/blog/2020/07/25/intro-dod/ Data Oriented Design with Rust
 - https://medium.com/wix-engineering/5-lessons-learned-from-my-continuing-awesome-journey-with-zio-66319d12ed7c Some tips using ZIO
 - https://levelup.gitconnected.com/top-4-dying-programming-languages-of-2020-1a4149753e92 Top 4 Dying Programming Languages: "Still, [Scala] is not a very active language." He has no idea.
 - https://www.scala-lang.org/blog/2020/09/15/scala-3-the-community-powered-release.html Scala 3 by fall 2020 ❤️
-
 # 17-09-2020
-
 - https://kotlinlang.org/docs/reference/whatsnew14.html#coroutine-debugger What's New in Kotlin 1.4: so many things! ������
 - https://debezium.io/blog/2020/09/15/debezium-auto-create-topics/ Auto-creating Debezium Change Data Topics with custom config
 - https://guidoschmutz.wordpress.com/2020/09/15/last-week-in-stream-data-integration-stream-analytics-14-9-2020/ Last Week in Stream Data Integration & Stream Analytics – 15.9.2020
 - https://github.com/n8n-io/n8n An awesome visual Workflow Automation tool. Mix that to some ksqldb pull queries and..
-
 # 16-09-2020
-
 - https://medium.com/swlh/how-to-deploy-a-cloud-sql-db-with-a-private-ip-only-using-terraform-e184b08eca64 Private Cloud SQL with a bastion; using Terraform
 - https://medium.com/better-programming/event-driven-architecture-as-a-strategy-dfb8370724c9 Event-Driven Architecture as a Strategy
-
 # 15-09-2020
-
 - https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec Kubernetes Ingress Controller Overview & Comparison
 - https://codeburst.io/automating-kubernetes-best-practices-7a8276ff7b08 Kubernetes Best Practices with Polaris
-
 # 09-09-2020
-
 - https://medium.com/inlocotech/challenges-of-running-grpc-services-in-production-b3a113df2542 gRPC services in production, Envoy as side-car + DNS service discovery
 - https://itnext.io/architecting-kubernetes-clusters-choosing-a-worker-node-size-b3729cc0c78f Architecting Kubernetes clusters — choosing a worker node size
-
 # 08-09-2020
-
 - https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88 Go vs Rust: Writing a CLI tool
-
 # 07-09-2020
-
 - https://medium.com/@bbau00/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d Antipatterns for Kubernetes Deployments
-
 # 05-09-2020
-
 - https://blog.trailofbits.com/2019/07/08/fuck-rsa/ Seriously, stop using RSA
 - https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a Cryptographic Best Practices: "... you should stop using RSA and switch to elliptic curve software"
 - https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767 NATS and Apache Kafka: differences, use-cases, guarantees
 - https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1 Go: Multiple Errors Management + goroutine cancellation on error
 - https://github.com/rook/rook rook: Storage Orchestration for Kubernetes
 - https://medium.com/firebase-developers/the-tradeoffs-between-performance-cost-and-security-with-firestore-ef72ba43f316 The trade-offs between performance, cost, and security with Firestore
-
 # 02-09-2020
-
 - https://leanpub.com/jvm-scala-book ebook: Things you need to know about JVM things that matter in Scala
 - https://learnk8s.io/setting-cpu-memory-limits-requests Setting the right requests and limits in Kubernetes
-
 # 31-08-2020
-
 - https://casbin.org/en/ Casbin · An authorization library that supports access control models like ACL, RBAC, ABAC
 - https://medium.com/swlh/building-a-realtime-dashboard-with-reactjs-go-grpc-and-envoy-7be155dfabfb Realtime "dashboard" with ReactJS, Go, gRPC, and Envoy (to convert http1 <-> http2)
-
 # 30-08-2020
-
 - https://www.youtube.com/watch?v=W2VB9HuzsMM Building a Telegram bot with Apache Kafka, ksqlDB, and Go. Another amazing walkthrough by Robin Moffatt
 - https://medium.com/coralogix-engineering/kafka-streams-window-by-rocksdb-tuning-c06a858029eb Kafka Streams Window By & RocksDB Tuning
 - https://www.fpcomplete.com/blog/different-levels-async-rust/ async or not async in Rust
-
 # 29-08-2020
-
 - https://www.confluent.io/blog/kafka-fastest-messaging-system/ Kafka vs. Pulsar vs. RabbitMQ: throughput & latency
 - https://www.confluent.io/blog/testing-kafka-streams/ Testing Kafka Streams using TestContainers to save your from bugs TopologyTestDriver couldn't detect
 - https://info.crunchydata.com/blog/why-postgresql-13-is-a-lucky-release PostgreSQL 13 has nice updates
 - https://medium.com/@nandovillalba/why-i-think-gcp-is-better-than-aws-ea78f9975bda Why I think GCP is better than AWS. Agreed!
-
 # 18-08-2020
-
 - https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html Laying the foundation for Rust's future
 - https://proandroiddev.com/security-best-practices-symmetric-encryption-with-aes-in-java-7616beaaade9 Security Best Practices: Symmetric Encryption with AES in Java
-
 # 14-08-2020
-
 - https://fasterthanli.me/articles/frustrated-its-not-you-its-rust A nice and long story about Rust pecularities, to encourage beginners..?
 - https://kubernetes.io/blog/2020/08/14/introducing-hierarchical-namespaces/ New "Hierarchical Namespaces" in #kubernetes to provide policy Inheritance between ns.
-
 # 13-08-2020
-
 - https://www.confluent.io/blog/kafka-consumer-multi-threaded-messaging/ One way of doing multi-threaded processing with a Kafka consumer (single threaded)
 - https://www.confluent.io/blog/ksqldb-state-stores-in-recovery/ An interesting Incident about schemas with ksqlDB + State Store Recovery
-
 # 11-08-2020
-
 - https://romefrontend.dev/blog/2020/08/08/introducing-rome.html Introducing Rome #frontend
 - https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html zio-prelude and applicative's ap
-
 # 07-08-2020
-
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-441%3A+Smooth+Scaling+Out+for+Kafka+Streams KIP-441: A long KIP to prevent our Kafka Streams app to be "stuck" on some partitions while rebuilding its state, after a rebalance
 - https://degoes.net/articles/zio-1.0 ZIO 1.0 Released | A game changer
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-649%3A+Dynamic+Client+Configuration Apache Kafka: KIP-649: Dynamic Client Configuration. I truly hate config mutability at runtime; but that could be useful in large corps I suppose.
 - https://www.youtube.com/watch?v=OwmHgL9F_9Q SF Scala <3: Reimagining Functional Type Classes
 - https://www.youtube.com/watch?v=wlvKAT7SZIQ Parsing JSON Really Quickly: Lessons Learned (SIMD!)
-
 # 06-08-2020
-
 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/ A nice "Let's build a Full-Text Search engine" in Go
-
 # 05-08-2020
-
 - https://docs.google.com/document/d/1MQQoJk4ewedYgFfgSA2axx3VhRwgj_0rO1tf3yezV0c/edit# What's new in Apache Kafka 2.6.0 (Draft) - Many good things!
 - https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df Fixing a whole system performances. ie: fix your cache!
 - https://medium.com/@tomasz.zieleniewski/mental-and-technical-reasons-for-upgrading-java-from-8-to-14-2e43b37b99dd Java: from 8 to 14
 - https://medium.com/sysf/getting-started-with-docker-1-b4dc83e64389 Anatomy of Docker.
-
 # 02-08-2020
-
 - https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy A very interesting reading about How Dropbox is migrating from Nginx to Envoy
 - https://medium.com/coralogix-engineering/kafka-streams-window-by-rocksdb-tuning-c06a858029eb Kafka Streams Window By & RocksDB Tuning
-
 # 01-08-2020
-
 - https://adamw.github.io/loom-pres/ Java: Project Loom & virtual threads
-
 # 31-07-2020
-
 - https://www.confluent.io/blog/ksqldb-0-10-updates-key-columns Many breaking changes in ksqlDB 0.10 about keys, but for the greater good!
-
 # 29-07-2020
-
 - https://jalammar.github.io/how-gpt3-works-visualizations-animations/ How GPT3 Works - Visualizations and Animations – Jay Alammar
-
 # 25-07-2020
-
 - https://www.confluent.io/blog/simplified-robust-exactly-one-semantics-in-kafka-2-5/ Apache Kafka’s Exactly-Once Semantics Are Now Easier & More Robust | aka: how to deal with UNKNOWN_PRODUCER_ID error!
-
 # 23-07-2020
-
 - https://medium.com/zendesk-engineering/an-investigation-into-kafka-log-compaction-5e520f4291f0 Some insights from the Kafka Log Compaction
-
 # 21-07-2020
-
 - https://www.youtube.com/watch?v=XTkhxRTH1nE ZIO + gRPC
 - https://home.apache.org/~rhauch/kafka-2.6.0-rc1/RELEASE_NOTES.html Kafka 2.6.0 Releases notes <3
-
 # 16-07-2020
-
 - https://ziverge.com/blog/introduction-to-zio-kafka/ ZIO Kafka nice walkthrough
 - https://github.com/ElasticHQ/elasticsearch-HQ elasticsearch-HQ: Monitoring and Management Web Application for ElasticSearch instances and clusters
 - https://medium.com/blackrock-engineering/utilizing-oauth-for-kafka-security-5c1da9f3d3d Utilizing OAuth for Kafka Security
-
 # 14-07-2020
-
 - https://martin.kleppmann.com/2020/07/06/crdt-hard-parts-hydra.html CRDTs: The Hard Parts — Martin Kleppmann’s talks
-
 # 06-05-2020
-
 - https://cloud.google.com/blog/topics/anthos/anthos-service-mesh-deep-dive Anthos Service Mesh last updates
 - https://blog.laputa.io/graceful-shutdown-in-kubernetes-85f1c8d586da Graceful shutdown in Kubernetes. It's not as simple as it looks.
 - https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html Scala 3 will be a so good langage with many Scala 2.x flaws fixed
-
 # 18-03-2020
-
 - https://blog.cloudera.com/benchmarking-time-series-workloads-on-apache-kudu-using-tsbs/ Apache Kudu Time Series benchmarking against InfluxDB, ClickHouse. Nice results.
-
 # 08-03-2020
-
 - https://github.com/adamgfraser/solving-the-dependency-injection-problem-with-zio/blob/master/solving-the-dependency-injection-problem-with-zio.pdf Can't wait to try these ZLayers with ZIO
 - https://superorganizers.substack.com/p/how-to-build-a-learning-machine### How to Make Yourself Into a Learning Machine - Superorganizers
 - https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-2-c7762110c0f9 GraphQL in Scala with Caliban — Query optimization. Amazing job.
 - https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html Docker Images : Reducing Image Size
 - https://medium.com/nick-tune-tech-strategy-blog/visualising-sociotechnical-architecture-with-ddd-and-team-topologies-48c6be036c40 Visualising Sociotechnical Architecture with DDD and Team Topologies
 - https://www.scala-lang.org/2020/02/20/community-build.html Scala/Dotty community builds evolution. Love to see the JDK11/14 compat growing too.
-
 # 05-03-2020
-
 - https://community.letsencrypt.org/t/2020-02-29-caa-rechecking-bug/114591 Let's Encrypt: millions of certificates revoked due to "CAA Rechecking Bug"
-
 # 26-02-2020
-
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-557%3A+Add+emit+on+change+support+for+Kafka+Streams Discard idempotent updates in Kafka Streams: that's great news because so often needed (bye dedup processors)
 - https://www.rea-group.com/blog/to-kill-a-mockingtest/ Mocking code is a bad smell. I also really dislike it.
 - https://blog.mozilla.org/netpolicy/2020/02/25/the-facts-mozillas-dns-over-https-doh/ DNS over HTTPs (DoH)
-
 # 22-02-2020
-
 - https://github.com/adamgfraser/solving-the-dependency-injection-problem-with-zio/blob/master/solving-the-dependency-injection-problem-with-zio.pdf ZIO Layers: a new way to deal with Dependency Injection. Can't wait to test it!
-
 # 21-02-2020
-
 - https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/ Event Sourcing, CQRS, Change Data Capture
 - https://sysdig.com/blog/kubernetes-limits-requests/ Understanding Kubernetes limits and requests
 - https://blog.softwaremill.com/will-project-loom-obliterate-java-futures-fb1a28508232 Will Project Loom obliterate Java Futures?
-
 # 11-02-2020
-
 - https://www.matthowlett.com/2020-01-14-confluent-schema-registry-protobuf.html Protobuf support in the Confluent Schema Registry.
 - https://www.lightbend.com/blog/alpakka-kafka-flow-control-optimizations A smart fix to Kafka to avoid dumping data then fetch them again
-
 # 10-02-2020
-
 - https://dotty.epfl.ch/blog/2020/02/05/22nd-dotty-milestone-release.html Scala 3 will be awesome
-
 # 07-02-2020
-
 - https://idursun.com/posts/rust_zero_cost_abstractions_in_action/ Rust zero cost abstractions in action. And it's awesome.
-
 # 03-02-2020
-
 - https://www.jesseyates.com/2020/01/01/high-performance-kafka-producers.html A simple guide to quickly tune Kafka Producers
 - https://debezium.io/blog/2020/01/22/outbox-quarkus-extension/ Quarkus & Debezium using Outbox pattern
 - https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/ error reporting in optics using Dotty
-
 # 30-01-2020
-
 - https://www.confluent.io/blog/streaming-machine-learning-with-tiered-storage/ An example using Kafka Tiered Storage to store ML models (which can be updated in real-time)
 - https://github.com/LINCnil/Guide-RGPD-du-developpeur Guide RGPD pour les développeurs <3
 - https://cloud.google.com/blog/products/data-analytics/what-to-consider-in-an-apache-kafka-to-pubsub-migration Apache Kafka or Pub/Sub? I love comparing-marketing post like this. Pub/Sub is completing its offer and is becoming even more useful. The only thing I hate was: no ad-hoc dynamic consume à la Kafka (you have to create subscriptions beforehand)
 - https://tech.ovoenergy.com/scala-3-and-what-it-means-to-me/ A nice recap of the changes from Scala 2 to Scala 3 Dotty
 - https://medium.com/@leventov/cronscheduler-a-reliable-java-scheduler-for-external-interactions-cb7ce4a4f2cd Issues with the current Java schedulers (clock drifts, freezing..)
-
 # 28-01-2020
-
 - https://cloud.google.com/blog/products/containers-kubernetes/config-connector-bridges-kubernetes-gcp-resources Config Connector: manage your GCP resources with YAML. Not sure it's a good idea.
-
 # 23-01-2020
-
 - https://www.confluent.io/blog/infinite-kafka-storage-in-confluent-platform/ Tiered storage for Kafka. (I hope the impl will be free to use & open-source)
 - https://cloud.google.com/blog/products/identity-security/introducing-google-clouds-secret-manager Secret Manager: the new "Vault" of GCP to Store and manage sensitive data
-
 # 22-01-2020
-
 - https://engineeringblog.yelp.com/2020/01/streams-and-monk-how-yelp-approaches-kafka-in-2020.html Streams and Monk – How Yelp is Approaching Kafka in 2020
-
 # 17-01-2020
-
 - https://blog.christianposta.com/microservices/istio-as-an-example-of-when-not-to-do-microservices/ From microservices to monolith: istiod in sigh! That's a good idea.
 - https://humanreadablemag.com/issues/1/articles/unionizing-for-pleasure-and-profit Type level programming is awesome #scala
 - https://www.mostly.codes/blog/creating-scalajs-gcp-cloud-functions GCP Cloud Functions with Scala.js in 10 lines(ish) - And 600 lines after transpilation, hm!
-
 # 15-01-2020
-
 - https://www.youtube.com/watch?v=bbss7elSfxs Modern Data Driven Applications with ZIO Streams #scala
-
 # 04-01-2020
-
 - https://www.infoq.com/presentations/data-streaming-kafka-debezium/?utm_campaign=infoq_content&utm_source=twitter&utm_medium=feed&utm_term=architecture-design Practical Change Data Streaming Use Cases with Apache Kafka & Debezium
 - https://medium.com/@BladeCoder/exploring-kotlins-hidden-costs-part-1-fbb9935d9b62 Exploring Kotlin’s hidden costs, always good to know.
-
 # 03-01-2020
-
 - https://geirsson.com/2019.html Scala tooling state-of-art in 2019
-
 # 29-12-2019
-
 - https://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html Standardizing IO Interfaces for Scala Libraries | Streaming payload à la Unix
 - https://www.youtube.com/watch?v=mkQLU7OzqYM Adding laws to Tagless Final algebras #scala
 - https://www.youtube.com/watch?v=16slh29iN1g BPF performance analysis at Netflix
 - https://www.youtube.com/watch?v=AdNJ3fydeao Rethinking reactivity, demostrating Svelte. Lots of code generation (meta programming-like), but still a crappy templating language to learn inside a language.
 - https://www.youtube.com/watch?v=r-TLSBdHe1A "Performance Matters" by Emery Berger. coz / jcoz
-
 # 27-12-2019
-
 - https://github.com/GoogleCloudPlatform/terraformer The inverse of Terraform, from resources to .tf <3
-
 # 26-12-2019
-
 - https://medium.com/google-cloud/cloud-run-vs-cloud-functions-whats-the-lowest-cost-728d59345a2e Cloud Run VS Cloud Functions: What’s the lowest cost?
-
 # 24-12-2019
-
 - https://quarkus.io/guides/kafka-streams#kafka-streams-health-checks Quarkus & Kafka Streams with Healthchecks
-
 # 23-12-2019
-
 - http://degoes.net/articles/fp-glossary A Glossary of Functional Programming
-
 # 22-12-2019
-
 - https://developer.ibm.com/blogs/kubernetes-helm-3/ A very good post explaining diffs between Helm 2 and 3
-
 # 21-12-2019
-
 - https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/ Xor Filters: Faster and Smaller Than Bloom Filters
-
 # 20-12-2019
-
 - https://www.0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html The Architecture of a Large-Scale Web Search Engine, circa 2019. A must-read if you wanna discover many cloud-native tools
 - https://sbt-kubeyml.vaslabs.org/ Generate kubectl yaml direclty from sbt, useful with ci/cd
 - https://zeebe.io/blog/2018/12/writing-an-apache-kafka-connector-for-zeebe/ Kafka Connector for Zeebe
@@ -2385,58 +1475,38 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.youtube.com/watch?v=qYDcbcOVurc Using TLA+ for fun and profit in the development of Elasticsearch . I need to buy a TLA+ book.
 - https://blog.rust-lang.org/2019/12/19/Rust-1.40.0.html Rust 1.40.0
 - https://www.youtube.com/watch?v=FTsAXJdrJbI Everything you wanted to know about Stack Traces and Heap Dumps
-
 # 19-12-2019
-
 - https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f? Explicit nulls are in Dotty. Looks more like Kotlin now :)
 - https://www.scala-lang.org/2019/12/18/road-to-scala-3.html Scala 2 to Scala 3. Gonna be awesome.
 - https://rmoff.net/2019/12/18/detecting-and-analysing-ssh-attacks-with-ksqldb/ A really great walkthrough by Robin through ksqlDB using Elasticsearch, Neo4j
 - https://towardsdatascience.com/kafka-gotchas-c1da4c0b3e95 Kafka Gotchas: "bad" defaults, not really multitenant, non-Java libs always "late" and not as bullet-proof as Java's?
-
 # 18-12-2019
-
 - https://www.confluent.io/blog/apache-kafka-producer-improvements-sticky-partitioner/ Kafka Producer: Sticky Partitioner, for better perf (less latency)
-
 # 16-12-2019
-
 - https://www.confluent.io/blog/apache-kafka-2-4-latest-version-updates/ Apache Kafka 2.4 - Latest Version, KIPs & New Features. Awesome release: fetch from replicas, consumer incremental rebalance protocol, mm2, non-key joins in Streams, and lots of new metrics everywhere, and Scala 2.13 <3
-
 # 15-12-2019
-
 - https://www.youtube.com/watch?v=Uav5jWHNghY An impressive code session by Martin Kleppmann to find & write the correctness proofs of a "simple" distributed systems with Isabelle/HOL, and explains the difference with TLA+.
 - https://jeremyrsmith.github.io/polynote-2019-slides/ Polynote: Solving the Scala Notebook Experience. Using FP and ZIO all the way down. Great.
 - https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677 How to deploy Jaeger on Kubernetes
 - https://medium.com/@wigahluk/generalizing-functions-with-profunctors-7773a83557b5 From functions to Profunctors
-
 # 13-12-2019
-
 - https://www.youtube.com/watch?v=fs-TkRkFgDI (very) fast Scala Builds & Test using Bazel (parallism, smart resolutions, distributed cache, devbox)
 - https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html Oh my! Combining zio, scala.js, react, query management
-
 # 11-12-2019
-
 - https://medium.com/streamthoughts/understanding-kafka-partition-assignment-strategies-and-how-to-write-your-own-custom-assignor-ebeda1fc06f3 Kafka partition assignment strategies + custom assignor
 - https://gvisor.dev/ A user-space kernel to provide secured & sandboxed environments for containers
 - https://www.confluent.io/blog/kafka-connect-tutorial-transfer-avro-schemas-across-schema-registry-clusters/ Copy Avro schemas + update Kafka records using Connect SMT to "sync" two distinct Kafka clusters
 - https://aws.amazon.com/builders-library/implementing-health-checks/?did=ba_card&trk=ba_card A superbe article about the complexity of health checks
 - https://medium.com/pinterest-engineering/using-kafka-to-throttle-qps-on-mysql-shards-in-bulk-write-apis-a326ae0f1ac1 Using Kafka to throttle QPS on MySQL shards in bulk write APIs
 - https://blog.pragmaticengineer.com/the-product-minded-engineer/ The Product-Minded Software Engineer: it should be the norm ¯\_(ツ)\_/¯
-
 # 10-12-2019
-
 - https://sematext.com/blog/kubernetes-elasticsearch/ Running & Deploying Elasticsearch on Kubernetes
 - https://github.com/ahmetb/cloud-run-faq#how-is-it-different-than-app-engine-flexible Google Cloud Run compared to AppEngine Flex, AWS Fargate, Azure CI, ... and everything about Cloud Run to know
-
 # 05-12-2019
-
 - https://ordepdev.me/posts/tales-from-running-kafka-streams-in-production Tales from running Kafka Streams in Production (rocksdb, memory mngmt, external calls, ...)
-
 # 30-11-2019
-
 - https://medium.com/streamthoughts/introducing-azkarra-streams-the-first-micro-framework-for-apache-kafka-streams-e13605f3a3a6 Azkarra Streams : a sweet wrapper above Kafka Streams to simplify code + provide a nice UI to admin, see the DAG, do IQ etc.
-
 # 29-11-2019
-
 - https://github.com/awslabs/djl New! awslabs/djl: An Engine-Agnostic Deep Learning Framework in Java
 - https://www.youtube.com/watch?v=mJDbQ2gqo2g Our friend Tim Berglung at GOTO 2019: Processing Streaming Data with KSQL
 - https://timpigden.github.io/_pages/zio-http4s/intro.html ZIO, Http4s, Auth, Codecs and zio-test
@@ -2447,107 +1517,71 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.youtube.com/watch?v=nD-p-cEKjHE set up sbt projects
 - https://medium.com/@endofcake/terraform-vs-cloudformation-1d9716122623 Terraform vs CloudFormation: TF mostly wins except for the management of the state, CF handles it for us
 - https://blog.softwaremill.com/migrating-to-sttp-client-2-x-and-tapir-0-12-x-7956e6c79c52 sttp client and tapir evolving #scala
-
 # 28-11-2019
-
 - http://book.mixu.net/distsys/single-page.html Distributed systems for fun and profit. Perfect for whoever starting or working with distributed systems (everyone?)
-
 # 26-11-2019
-
 - https://dev.to/awwsmm/20-reasons-to-move-on-from-java-8-1dio 20 Reasons to Move On to Java >8, a nice recap
-
 # 25-11-2019
-
 - https://cloudflow.io/docs/current/get-started/deploy-to-gke-cluster.html Cloudflow: a new take to quickly develop & deploy distributed stream processing on k8s (define "Streamlets" aka connector, write the dependencies graph in yaml, them deploy them as pods)
-
 # 24-11-2019
-
 - https://www.youtube.com/watch?v=JoQN4xoXY5Y Quickly Analysing A Heap Memory Leak
 - https://www.youtube.com/watch?v=aQb2_WrmED0 Consul et Conseul Connect Service Mesh chez Criteo
-
 # 23-11-2019
-
 - https://www.youtube.com/watch?v=hvYqSz_BgUM Netty 5 incoming, lots of performance improvements!
 - https://medium.com/opentracing/opentracing-on-kubernetes-get-yer-tracing-for-free-7a69cca03c8a TIL we can easily create "webhooks" on any kubernetes operations through a dedicated resource (to alter how pods deploy, add sidecar etc.)
 - https://www.youtube.com/watch?v=m64SWl9bfvk Rate limiting, Queues Theory, Little's Lawn, API Adaptative Capacity (using back-pressure signals)
-
 # 22-11-2019
-
 - https://gluonhq.com/gluon-substrate-and-graalvm-native-image-with-javafx-support/ Gluon Substrate and GraalVM Native Image with JavaFX support. That's. Awesome.
-
 # 21-11-2019
-
 - https://www.confluent.io/blog/intro-to-ksqldb-sql-database-streaming ksqlDB: previously KSQL, now an "event streaming database". It adds pull queries ("classic" SQL point-in-time query) & connectors management
 - https://github.com/joaomilho/Enterprise /? ������ The Enterprise™ programming language ?/;;;
 - https://blog.jetbrains.com/idea/2019/11/meet-grazie-the-ultimate-spelling-grammar-and-style-checker-for-intellij-idea/ Grazie plugin: less typos in all our code (IntelliJ IDEA)
 - https://www.youtube.com/watch?v=WKR384ZeBgk Arrow Meta: metaprogramming in the Kotlin Compiler. Generate code at compile-time. <3
 - https://tv.octo.com/videos/fine-tuning-kafka-allons-voir-sous-le-capot/ FR: Fine Tuning Kafka, allons voir sous le capot ! Kafka 101, la perte de données, la conf producer/consumer, JProfiler et les brokers
 - https://www.getrevue.co/profile/zio/issues/zio-news-issue-2-209078 ZIO is improving and spread everywhere <3
-
 # 18-11-2019
-
 - https://medium.com/better-practices/api-specifications-d87588ac874 Bringing law and order to APIs with OpenAPI Specifications
 - https://medium.com/@andy.bryant/processing-guarantees-in-kafka-12dd2e30be0e Processing guarantees in Kafka, at-least, at-once, effectively-once
-
 # 14-11-2019
-
 - https://medium.com/streamthoughts/apache-kafka-rebalance-protocol-or-the-magic-behind-your-streams-applications-e94baf68e4f2 Kafka Rebalance Protocol
 - https://itnext.io/introduction-to-event-streaming-with-kafka-and-kafdrop-73290625b1e2 Introduction to Event Streaming with Kafka and Kafdrop
 - https://medium.com/@johnclarke_82232/mono-or-multi-repo-6c3674142dfc Mono- or Multi-repo?
 - https://blogs.apache.org/preview/kafka/?previewEntry=what-s-new-in-apache1 Kafka 2.4 changelog. Awesome.
 - https://www.youtube.com/watch?v=MU8NapbG1IQ Understanding Low Latency JVM GCs, Shenandoah, C4
-
 # 13-11-2019
-
 - https://vimeo.com/370819261 Scala Italy 2019 - John A De Goes - A Tour of Functional Design
 - http://reasonablypolymorphic.com/blog/protos-are-wrong/ Protobuffers Are Wrong: lack of compositionality & laws
-
 # 12-11-2019
-
 - https://medium.com/swlh/advantages-and-disadvantages-of-kubernetes-the-business-perspective-5bb81e4eb4cb Advantages and Disadvantages of Kubernetes
 - https://blog.bernd-ruecker.com/the-microservice-workflow-automation-cheat-sheet-fc0a80dc25aa The Microservices Workflow Automation Cheat Sheet
 - https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234 Open Sourcing Amundsen: A Data Discovery And Metadata Platform
-
 # 10-11-2019
-
 - https://www.youtube.com/watch?v=iwSCtxMbBLI Beyond ByteBuffers by Brian Goetz (Memory Access API in Java)
 - https://ebaytech.berlin/microservices-and-kafka-part-2-b37dd08a7d8f Microservices and Kafka — Part 2 - eBay Tech Berlin
 - https://ebaytech.berlin/microservices-and-kafka-part-1-614767d27b20 Microservices and Kafka — Part 1 - eBay Tech Berlin
 - https://blog.7mind.io/constructive-test-taxonomy.html Unit, Functional, Integration Test? Another test taxonomy proposed..
 - https://dzone.com/articles/whats-the-proper-kubernetes-health-check-for-a-kaf Proper Kubernetes Health Check for a Kafka Streams Application
 - https://medium.com/faun/invoking-the-aws-cli-with-terraform-4ae5fd9de277 Invoking the AWS CLI with Terraform
-
 # 08-11-2019
-
 - https://contributors.scala-lang.org/t/pre-sip-make-classes-sealed-by-default/3767/2 PRE-SIP: Make classes `sealed` by default: YES! #scala
-
 # 07-11-2019
-
 - https://www.ibm.com/cloud/blog/announcements/kafka-monthly-digest-october-2019 Kafka Monthly Digest: October 2019 | IBM
 - https://blog.rust-lang.org/2019/11/07/Async-await-stable.html Async-await on stable Rust
 - https://tech.ovoenergy.com/monorepo-microservices-in-go/ Monorepo Microservices using Go, Helm, Terraform
-
 # 06-11-2019
-
 - https://www.youtube.com/watch?v=5fqhT82wghY Apache Pulsar 101: architecture, concepts et comparaison
 - https://www.youtube.com/watch?v=CwqFpSByEI0 Infrastructure As Code, il n'y a pas que Terraform dans la vie: Pulumi
-
 # 05-11-2019
-
 - https://www.youtube.com/watch?v=71yhnTGw0hY John De Goes - 12 Steps To Better #Scala (Part I)
 - https://dev.to/fppt/managing-delivery-networks-a-use-case-for-graph-databases-2jb0 Delivery Networks: A Use Case For Graph Databases #scala #tinkerpop #graph
 - https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603 Scala application lifecycle, from pure Scala to cats IO to FS2
 - https://eventmodeling.org/posts/what-is-event-modeling/ Event Modeling: What is it?
-
 # 04-11-2019
-
 - https://www.confluent.io/blog/event-sourcing-cqrs-stream-processing-apache-kafka-whats-connection/ Event sourcing, CQRS, stream processing and Apache Kafka: What’s the connection?
 - https://www.hillelwayne.com/talks/distributed-systems-tlaplus/ Designing Distributed Systems with TLA+
 - https://blog.colinbreck.com/on-embracing-error-in-distributed-software-systems/ On Embracing Error in Distributed Software Systems
 - https://www.confluent.io/blog/apache-kafka-purgatory-hierarchical-timing-wheels/ Apache Kafka, Purgatory, and Hierarchical Timing Wheels - Confluent
-
 # 03-11-2019
-
 - https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/ Building a Microservices Ecosystem with Kafka Streams and KSQL
 - https://medium.com/expedia-group-tech/ml-in-ksql-a44d455b0687 PMML + KSQL
 - https://www.youtube.com/watch?v=06iRM1Ghr1k What is Apache Kafka®? (Confluent Lightboard)
@@ -2555,9 +1589,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://docs.google.com/presentation/d/16VdLeGwpKWRjA4H9ojWCGBWzSPKEo7p5cQRA74__ew0/edit#slide=id.p SBT, monorepo et livraison (ScalaIO19)
 - https://harrylaou.com/slides/AlgebrasInProgramming.pdf Algebras In Programming (ScalaIO19)
 - https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d Kadane’s Algorithm Dynamic Programming
-
 # 02-11-2019
-
 - https://medium.com/teads-engineering/give-meaning-to-100-billion-events-a-day-part-ii-how-we-use-and-abuse-redshift-to-serve-our-data-bc23d2ed3e07 Give meaning to 100 Billion events a day, Redshift based & user-facing webapps
 - https://polynote.org/ Polynote | The polyglot Scala notebook
 - https://blog.timescale.com/blog/building-columnar-compression-in-a-row-oriented-database/ Building columnar compression in a row-oriented database
@@ -2565,51 +1597,33 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/@ayanonagon/the-y-combinator-no-not-that-one-7268d8d9c46 The Y Combinator (no, not that one)
 - http://blog.wikipme.fr/startup-plus-difficile-a-scaler-cest-lhumain/ Startup : le plus difficile à scaler, c’est l’humain
 - https://www.slideshare.net/MarilynKol/rduire-la-dette-motionnelle-dans-une-quipe-scrum/1 Réduire la dette émotionnelle dans une équipe Scrum
-
 # 26-10-2019
-
 - https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447 Open-sourcing Polynote: an IDE-inspired polyglot notebook
 - https://services.google.com/fh/files/misc/state-of-devops-2019.pdf State of DevOps
-
 # 25-10-2019
-
 - https://www.youtube.com/watch?v=WoP8p7oDe84 Trains & KSQL (Robin Moffatt)
-
 # 19-10-2019
-
 - https://www.youtube.com/watch?v=USgfku1h7Hw John De Goes - Upgrade Your Future (Scala Russia 28.09.2019) - YouTub
 - https://www.scala-lang.org/2019/10/17/dependency-management.html Better management of transitive dependencies and conflicts with sbt #scala
-
 # 18-10-2019
-
 - https://medium.com/swlh/performance-comparison-between-apache-pulsar-and-kafka-latency-79fb0367f407 Performance Comparison Between Apache Pulsar and Kafka: Latency. Spikes for Kafka, no for Pulsar.
 - https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f A little bit of Data Science in Scala
-
 # 17-10-2019
-
 - https://www.youtube.com/watch?v=93uE_kWWQjs Kernel Recipes 2019 - ftrace: Where modifying a running kernel all started
 - https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper Kafka without Zookeeper explanations
 - https://www.confluent.io/kafka-summit-san-francisco-2019/ksql-performance-tuning-for-fun-and-profit KSQL Performance Tuning for Fun and Profit, very good stuff
 - https://www.confluent.io/kafka-summit-san-francisco-2019/why-stop-the-world-when-you-can-change-it-design-and-implementation-of-incremental-cooperative-rebalancing Why stop the world when you can change it? Design and implementation of Incremental Cooperative Rebalancing
 - https://tokio.rs/blog/2019-10-scheduler/ Making the Tokio scheduler 10x faster #rust
-
 # 10-10-2019
-
 - https://www.youtube.com/watch?v=I3loMuHnYqw Adam Warski—Designing Programmer-Friendly APIs using Tapir library: excellent
-
 # 08-10-2019
-
 - https://medium.com/@cparageaud/aws-lambda-java-11-3-3-5492b13c1aba AWS Lambda : Java 11
 - https://www.infoq.com/presentations/event-driven-benefits-pitfalls/ Opportunities and Pitfalls of Event-Driven Utopia- Excellent, get the same xp
-
 # 07-10-2019
-
 - https://www.youtube.com/watch?v=x5_MmZVLiSM Fabio Labella—How do Fibers Work? A Peek Under the Hood
 - https://www.youtube.com/watch?v=PgQyCnqm4QQ Jorge Vicente Cantero—Design Challenges of Bloop
 - https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka Incremental Cooperative Rebalancing in Apache Kafka
-
 # 06-10-2019
-
 - https://yokota.blog/2019/09/23/building-a-relational-database-using-kafka/ Building A Relational Database Using Kafka (+ Avro, Calcite, Omid, Avatica)
 - https://databricks.com/blog/2019/09/16/adventures-in-the-tcp-stack-performance-regressions-vulnerability-fixes.html Troubleshooting TCP SACKs Vulnerability Fixes
 - https://medium.com/@D11Engg/building-scalable-real-time-analytics-alerting-and-anomaly-detection-architecture-at-dream11-e20edec91d33 Building Scalable Real Time Analytics, classic Kafka way: Debezium, Connect, Streams/KSQL, Elasticsearch
@@ -2617,144 +1631,94 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e From @Transactional to type-safe, reasonable transactions
 - https://speakerdeck.com/nikkithean/kafka-on-kubernetes-keeping-it-simple Kafka on Kubernetes: Keeping It Simple
 - https://speakerdeck.com/loicdivad/streaming-apps-and-poison-pills-handle-the-unexpected-with-kafka-streams Streaming Apps and Poison Pills: Handle the Unexpected with Kafka Streams
-
 # 05-10-2019
-
 - https://wikido.isoftdata.com/index.php?title=The_GROUPing_pitfall The SQL GROUPing pitfall
-
 # 03-10-2019
-
 - https://www.infoq.com/news/2019/09/cqrs-event-sourcing-production/ Day Two Problems When Using CQRS and Event Sourcing
-
 # 15-09-2019
-
 - https://www.confluent.io/blog/kafka-rebalance-protocol-static-membership Kafka Rebalance Protocol for the Cloud: Static Membership
 - https://medium.com/better-programming/helm-3-fun-with-the-new-beta-8f91c70891ff Helm 3: Fun With the New Beta: no more "tiller"
 - https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/ On Eliminating Error in Distributed Software Systems: Types! and FP. Simple as that.
-
 # 12-09-2019
-
 - https://lamport.azurewebsites.net/tla/paxos-algorithm.html Paxos Algorithm + TLA+ explained by Leslie Lamport
-
 # 08-09-2019
-
 - https://www.pulumi.com/blog/pulumi-1-0/ Pulumi 1.0 GA. Infrastructure as code FTW
-
 # 05-09-2019
-
 - https://www.cloudamqp.com/blog/2019-04-03-quorum-queues-internals-a-deep-dive.html CloudAMQP Quorum Queues
 - https://nrinaudo.github.io/much-ado-about-testing/ Property based testing & Metamorphic testing
 - https://www.infoq.com/presentations/microservices-ddd-bounded-contexts Bounded Contexts + Events + Commands
 - https://www.infoq.com/presentations/ddd-functional-programming DDD, Event Sourcing
-
 # 04-09-2019
-
 - https://twitter.com/withoutboats/status/1027702531361857536 Rust: why async/await instead of do notation
 - https://fp-tower.github.io/foundation/2-SideEffect.html Side Effect, IO, Futures, and Free monad
 - https://www.youtube.com/watch?v=63x_G6vrwgs Ask Confluent #15: Attack of the Zombie Controller
-
 # 30-08-2019
-
 - https://blog.zenika.com/2019/08/30/cilium-firewall-pour-les-conteneurs/ Cilium : un firewall pour les conteneurs
 - https://www.youtube.com/watch?v=KNqOWT0lOYY Temporal Modelling • Mathias Verraes
 - https://vimeo.com/353579169 Travis Brown - Library design for Dotty: a preview of Cats and Circe in 2021
 - https://www.youtube.com/watch?v=vGVJYoKIzjU John Hughes - Why Functional Programming Matters
 - https://netdevconf.org/1.2/papers/ktls.pdf KTLS implementation (TLS management in kernel space)
-
 # 28-08-2019
-
 - https://medium.com/@bharatnc/kubernetes-garbage-collection-781223f03c17 Kubernetes Garbage Collection. TIL about "ownerReferences"
 - https://levelup.gitconnected.com/kubernetes-merge-multiple-yaml-into-one-e8844479a73a Kubernetes: Merge Multiple YAML Files Into One. Kustomize.
 - https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e A reference, about Monitoring and Observability
-
 # 25-08-2019
-
 - http://www.jonathanturner.org/2019/08/introducing-nushell.html Introducing nushell, an amazing new shell in Rust
 - https://contributors.scala-lang.org/t/pre-sip-curried-varargs/3608 Pre SIP: Curried varargs in Scala
-
 # 23-08-2019
-
 - https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19 10 Key Learnings in Rust after 30,000 Lines of Code
 - https://github.com/alexellis/inlets A better ngrok. Expose your local endpoints to the Internet
 - https://engineering.linkedin.com/blog/2019/data-hub Data Hub: A Generalized Metadata Search & Discovery Tool | LinkedIn Engineering
 - https://www.youtube.com/watch?v=m9cu4xUvrUs Resource composition in cats-effect with the Resource data type
-
 # 20-08-2019
-
 - https://www.confluent.io/blog/building-shared-state-microservices-for-distributed-systems-using-kafka-streams Kafka Streams and a Shared State Microservices REST API
-
 # 18-08-2019
-
 - https://www.confluent.io/blog/kafka-connect-improvements-in-apache-kafka-2-3 Kafka Connect Improvements in Apache Kafka 2.3
 - https://video.ias.edu/VoevodskyMemConf-2018/0911-DanGrayson The mathematical work of Vladimir Voevodsky. Homotopy theory to type theory (HoTT)
-
 # 17-08-2019
-
 - https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c Static Analysis at Scale in Instagram, using Pyre (for Python)
 - https://medium.com/@mattia.battiston/why-i-love-trunk-based-development-641fcf0b94a0 Why I love Trunk Based Development (or pushing straight to master)
 - https://medium.com/@ghostdogpr/wrapping-impure-code-with-zio-9265c219e2e Wrapping impure code with ZIO
 - https://www.youtube.com/watch?v=VV9lPg3fNl8 GADTs in Dotty
 - https://www.youtube.com/watch?v=v__IRT-QkwY Using Blocker in cats-effect for blocking IOs
 - https://blog.ploeh.dk/2019/07/01/yes-silver-bullet/ "The only way to decrease the overall complexity is to reduce the accidental complexity."
-
 # 15-08-2019
-
 - https://www.youtube.com/watch?v=POUEz8XHMhE ZIO to rule them all
 - https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952 Why our team cancelled our move to microservices
 - https://rmoff.net/2019/08/15/reset-kafka-connect-source-connector-offsets/ Reset Kafka Connect Source Connector Offsets
 - https://stripe.com/en-fr/atlas/guides/andrew-chen-marketplaces Marketplaces
-
 # 12-08-2019
-
 - http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html Writing a Kubernetes CRD Controller in Rust
-
 # 09-08-2019
-
 - https://jack-vanlightly.com/blog/2018/10/2/understanding-how-apache-pulsar-works Understanding How Apache Pulsar Works
 - https://hal.archives-ouvertes.fr/hal-02114296/document Comparison Matrices of Semantic RESTful APIs Technologies
 - https://martin.kleppmann.com/2019/06/27/hydra-interview.html Figuring out the future of distributed data systems (Martin Kleppmann)
 - https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf Callbacks and Kotlin Flows
 - https://dbmsmusings.blogspot.com/2019/06/correctness-anomalies-under.html Anomalies Under Serializable Isolation
 - https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/ Benchmarking Functional Error Handling in Scala (Either[T], IO, ZIO..)
-
 # 07-08-2019
-
 - https://medium.com/@mattklein123/monorepos-please-dont-e9a279be011b Monorepos: Please don’t! It's not always pink. And far from it when it's a large company (>100)
-
 # 05-08-2019
-
 - https://tech.transferwise.com/achieving-high-availability-with-kafka-streams/ Achieving high availability with stateful Kafka Streams applications
-
 # 02-08-2019
-
 - https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum KIP-500: Replace ZooKeeper by "Kafka Controllers Quorum". It's official now!
 - https://itnext.io/how-to-use-knative-pipelining-component-to-automate-an-application-build-and-deployment-on-442b0b1bebf Knative + Tekton integration
 - http://eed3si9n.com/dependency-resolver-semantics semantics of dependency resolvers, comparison between maven, ivy, coursier
-
 # 01-08-2019
-
 - https://argumatronic.com/posts/2019-06-21-algebra-cheatsheet.html a Brief Guide to A Few Algebraic Structures
 - https://www.slideshare.net/KaiWaehner/confluent-operator-as-cloudnative-kafka-operator-for-kubernetes Confluent Operator as Cloud-Native Kafka Operator for Kubernetes
-
 # 30-07-2019
-
 - https://banzaicloud.com/blog/kafka-on-istio-performance/ Kafka over Istio - benchmarks / GCP & EKS / plain, ssl, mtls
 - https://www.youtube.com/watch?v=RtHA1YVLW5Y Cliff Click — A JVM Does That? ==> A LOT!
 - https://www.confluent.io/online-talks/from-zero-to-hero-with-kafka-connect-on-demand From Zero to Hero with Kafka Connect!
-
 # 28-07-2019
-
 - https://www.youtube.com/watch?v=PQ5ykHwXJfA Understanding Low Latency JVM GCs: Shenandoah, ZGC, C4
-
 # 25-07-2019
-
 - https://speakerdeck.com/kubukoz/flawless-testing-for-the-functional-folks Flawless: a FP test lib, it's gonna be awesome
 - https://lsug.github.io/workshop/scala/2019/07/21/workshop-run-scalac-run.html Using Bloop, GraalVM, and scalac profiling to reduce build time
 - https://www.confluent.io/blog/fault-tolerance-distributed-systems-tracing-with-apache-kafka-jaeger Sending tracing spans into a kafka topic for later consumption by Jaeger
 - https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500 "I think we could call Rust a superior language to Go in, quite literally, every single way possible." \o/
-
 # 23-07-2019
-
 - https://quarkus.io/blog/kafka-streams-applications-with-quarkus-and-microprofile/ Kafka Streams applications with Quarkus: auto-expose liveness check, metrics, native compilation. Very nice.
 - https://jdk.java.net/jpackage/ TIL about jpackage in JDK 14+: package a Java app with its JRE.
 - https://www.youtube.com/watch?v=GXJ0D2tfZCM Automerge: to deal with online collaboration without central servers
@@ -2762,15 +1726,11 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.julian.com/blog/mental-model-examples "You are doing X. Why aren’t you doing Y instead? What would a mental model suggest is the best path forward?”
 - https://blog.octo.com/en/cache-me-if-you-can-2/ A nice overview of the HTTP Caching system
 - https://mixitconf.org/2019/the-internet-in-2030 The internet ... and the world in 2030
-
 # 22-07-2019
-
 - https://docs.confluent.io/5.3.0/release-notes.html Kafka 2.3.0 release notes + Connect + Streams + KSQL: huge!
 - https://blog.pragmaticengineer.com/operating-a-high-scale-distributed-system/ Lots of good insights operating a distributed system
 - https://objectcomputing.com/news/2019/07/18/unleashing-predator-precomputed-data-repositories Predator: Precomputed Data Repositories: aka compile-time repositories
-
 # 21-07-2019
-
 - https://github.com/scala/scala/releases/tag/v2.13.0?source=post_page--------------------------- Release Scala 2.13.0 · scala/scala: HUGE!
 - https://medium.com/@linas.m/my-favorite-new-features-of-scala-2-13-standard-library-909a89b0da4 A bit about new stuff in Scala 2.13 stdlib
 - https://blog.softwaremill.com/comparing-ethereum-and-the-libra-blockchain-64bec7dd70c0 Comparing Ethereum and the Libra blockchain
@@ -2778,258 +1738,164 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.lightbend.com/blog/scala-inliner-optimizer Scala Inliner and Optimizer
 - https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/ Data Exchange With the Outbox Pattern
 - https://twitter.com/itrvd/status/1152580754393718786 ZStream upcoming in ZIO, very good stuff
-
 # 17-07-2019
-
 - https://www.lightbend.com/blog/use-kafka-streams-dynamically-controlled-streams An interesting take about Kafka Streams compared to Akka Streams, Flink, Spark
 - https://blog.cloudera.com/blog/2019/07/yunikorn-a-universal-resource-scheduler/ YuniKorn: a "universal"/unified resource scheduler, run on Yarn or more interestingly on Kubernetes
 - https://github.com/kubernetes-sigs/kube-batch A batch scheduler on kubernetes
-
 # 11-07-2019
-
 - https://medium.com/@dominik.tornow/the-kubernetes-scheduler-cd429abac02f Interesting insights around the Kubernetes Scheduler
-
 # 09-07-2019
-
 - https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283 ZIO + Akka PubSub + Cluster Sharing for distributed computing
 - http://natpryce.com/articles/000819.html Mistakes we made adopting event sourcing (and how we recovered)
 - https://medium.com/@copyconstruct/distributed-tracing-weve-been-doing-it-wrong-39fc92a857df Very nice insights about Distributed Tracing  tools:  why we’ve been doing it "wrong"
 - https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-ii/#fnref2 I always like reading some Akka Streams processing. A very nice example of a pagination API converted to a generic "Source"
 - https://www.youtube.com/watch?v=a3agLJQ6vt8 Structured Concurrency in Kotlin with coroutines
-
 # 06-07-2019
-
 - http://w.pitula.me/presentations/2019-07-lxscala/#/ From initial to final, tagged to tagless; why; lib vs apps
-
 # 05-07-2019
-
 - https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa Understanding Rust Lifetimes
 - https://blog.jetbrains.com/scala/2019/07/02/functional-highlighting-for-functional-programming IntelliJ Scala is getting better at error highlighting
 - https://itnext.io/kubernetes-ingress-controllers-how-to-choose-the-right-one-part-1-41d3554978d2 Kubernetes Ingress Controllers (nginx, aws alb..)
 - https://medium.com/graalvm/safe-and-sandboxed-execution-of-native-code-f6096b35c360 Sandboxed execution of native code in GraalVM
-
 # 04-07-2019
-
 - https://www.buzzsprout.com/186154/1323595 Rolling Kafka Upgrades and Confluent Cloud ft. Gwen Shapira
 - https://kafkaesque.io/7-reasons-we-choose-apache-pulsar-over-apache-kafka/ Stateless brokers (Pulsar), Separation of data and brokering (Pulsar), Queues & Topics
 - https://www.youtube.com/watch?v=DBfmKE42PiY Kafka Streams, profiling, framegraphs
 - https://www.youtube.com/watch?v=ryFAZZEZbyw OpenTracing -> OpenTelemetry
 - https://medium.com/graalvm/isolates-and-compressed-references-more-flexible-and-efficient-memory-management-for-graalvm-a044cc50b67e GraalVM SubstrateVM has "Isolates" to provide a dedicated heap that can be teardown quickly. Useful to ensure isolation.
-
 # 03-07-2019
-
 - https://retrocomputing.stackexchange.com/questions/11533/why-did-moving-the-mouse-cursor-cause-windows-95-to-run-more-quickly "Moving the mouse cursor cause Windows 95 to run more quickly." Magic.
-
 # 30-06-2019
-
 - http://verraes.net/2019/05/ddd-msg-arch/ DDD and Messaging Architectures
 - https://penberg.org/parakernel-hotos19.pdf I/O Is Faster Than the CPU – Let's Partition Resources and Eliminate (Most) OS Abstractions
-
 # 26-06-2019
-
 - https://gist.github.com/Matthias247/5e5e7430149bbb04eebf18cf31747fe0 Async/Await in rust: challenging
 - https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design Microservices, Kafka, and DDD
-
 # 24-06-2019
-
 - https://www.defmacro.org/2019/03/26/startup-checklist.html Startup idea checklist
-
 # 21-06-2019
-
 - https://medium.com/solo-io/api-gateways-are-going-through-an-identity-crisis-d1d833a313d7 API Gateways, Management, Service Mesh
-
 # 20-06-2019
-
 - https://www.youtube.com/watch?v=li2aowPnezA Jun Rao, Confluent - Kafka Controller: A Deep Dive
 - https://www.infoq.com/presentations/rust-tradeoffs/ How Rust Views Tradeoffs
-
 # 18-06-2019
-
 - https://blog.softwaremill.com/thread-shifting-in-cats-effect-and-zio-9c184708067b Thread shifting in cats-effect and ZIO – Reminds me of Kotlin coroutine withContext, great.
 - http://degoes.net/articles/tagless-horror Why not use Tagless-Final in Scala
-
 # 17-06-2019
-
 - https://kubuszok.com/2019/io-monad-which-why-and-how/ IO monad: which, why and how. — A huge post tons of pointers
 - https://medium.com/ssense-tech/csv-vs-parquet-vs-avro-choosing-the-right-tool-for-the-right-job-79c9f56914a8 CSV vs Parquet vs Avro
-
 # 16-06-2019
-
 - https://www.youtube.com/watch?v=OXP-sUS6ffE Lambda World 2018 - The Complexity Trap: Think Before You Leap
 - https://www.slideshare.net/legendofklang/making-our-future-better The "new" Scala Future
-
 # 15-06-2019
-
 - https://julesh.com/2017/04/22/on-compositionality/ About compositionality and emergence
 - https://www.youtube.com/watch?v=I1RAij4aX6Y Path-Dependent Types
 - https://www.lightbend.com/blog/managing-streaming-and-queryable-state-in-spark-akka-streams-kafka-streams-flink Managing Streaming And Queryable State In Spark, Akka Streams, Kafka Streams, And Flink
 - https://cloud.google.com/blog/products/networking/google-cloud-networking-in-depth-cloud-cdn Google Cloud networking in depth: Cloud CDN
 - http://www.lihaoyi.com/post/HowtoworkwithHTTPJSONAPIsinScala.html How to work with HTTP JSON APIs in Scala
 - https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html Ten Reasons Why I Don't Like Golang | I wasn't aware of all the implicit conventions. I wonder if this has changed since 2016!
-
 # 14-06-2019
-
 - https://www.slideshare.net/Odersky/a-tour-of-scala-3 A Tour of Scala 3— It will be awesome to use <3
 - https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f The Evolution of a Scala Programmer – From beginning to typelevel & algebras masters
-
 # 02-06-2019
-
 - https://amplitude.engineering/dedupe-events-at-scale-f9e416e46ca9 Dedupe Events at Scale – Bloom Filters powered
 - https://www.youtube.com/watch?v=tL6DtN0zhrQ Monitor Kafka Like a Pro - Good tips about monitoring Kafka brokers & clients
 - https://www.youtube.com/watch?v=08eSR0vn4Vw ZIO to code a Concurrent Web Crawler purely functional <3
 - http://verraes.net/2019/06/eventsourcing-patterns-migration-events-ghost-context/ Eventsourcing Patterns: Migration Events in a Ghost Context. LegacyCustomerWasImported. \o/
-
 # 31-05-2019
-
 - https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4 Must have Kubernetes tools
-
 # 30-05-2019
-
 - https://www.infoq.com/fr/presentations/flowcon-2018-Arnaud-Lemaire Dette Technique Et Entropie Logicielle
 - https://www.youtube.com/watch?v=pLISFJM22ro Et si on redémarrait l'agile ?
-
 # 29-05-2019
-
 - http://verraes.net/2019/05/eventsourcing-patterns-decision-tracking/ Eventsourcing Patterns: Decision Tracking
 - https://www.youtube.com/watch?v=9xFfOhasiOE "CRDTs Illustrated" by Arnout Engelen
 - https://www.ebayinc.com/stories/blogs/tech/monitoring-at-ebay-with-druid/ Monitoring at eBay with Druid
 - https://queue.acm.org/detail.cfm?id=3321612 Online Event Processing - ACM Queue. Write into the logs then write into the DB using processors
-
 # 28-05-2019
-
 - https://www.confluent.io/blog/17-ways-to-mess-up-self-managed-schema-registry 17 Ways to Mess Up Self-Managed Schema Registry | "delete \_schemas" ahah !
-
 # 19-05-2019
-
 - https://cloudmark.github.io/A-Journey-To-Zio/ Using ZIO
-
 # 16-05-2019
-
 - https://www.youtube.com/watch?v=mGxcaQs3JWI Error Management: Future vs ZIO. I'm eager to use ZIO on something useful!
 - https://www.lightbend.com/blog/sbt-1.3.0-release sbt 1.3.0-RC1 released. I miss working on a Scala project.
 - https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en Simon Sinek: How great leaders inspire action
 - https://boyter.org/posts/file-read-challange/ Processing Large Files – Java, Go and 'hitting the wall'
 - https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/ MirrorMaker 2.0
 - https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud?mkt_tok=eyJpIjoiTlRnNU9XUXlaVGM0WTJJdyIsInQiOiI3V1FRSmtzMjk1aGxIZVVrbDZhYTRZTFZsR1wvclwvdmFjYWlJbEprSHI1M2dyTmxRZG5PUjZ5YTBjN2Rjc0RjbmI5d0VOR1luQ1JuMVFHUXBVOEo2U3lUbzhScTRlWXkzZFZnaUc0SysrZkFqTDBtekV6MG1JMXZtS3luWVYwNFczIn0%3D Kafka Serverless, awesome.
-
 # 10-05-2019
-
 - https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices Four Pillars of Event Streaming Microservices
 - https://medium.com/enfuse-io/a-diy-guide-to-kafka-connectors-38ad7cd82e02 Guide to Kafka Connectors deployments on Kubernetes
 - https://www.youtube.com/watch?v=6n9Y5Ik4jGI Un peu de sociologie, appliquée à notre métier de développeur
-
 # 07-05-2019
-
 - http://pages.cs.wisc.edu/~rgrandl/papers/link.pdf Fast key-value stores: An idea whose time has come and gone
 - https://tgrez.github.io/posts/2019-04-13-kafka-transactions.html Kafka transactions and fencing
-
 # 02-05-2019
-
 - https://www.youtube.com/watch?v=pRmwrp_99fA TLS 1.2 & 1.3
 - https://blog.softwaremill.com/docker-support-in-new-java-8-finally-fd595df0ca54 Beware of Docker support in "old" Java 8
-
 # 01-05-2019
-
 - https://docs.google.com/document/d/1nFGazvrCvHMZJgFstlbzoHjpAVwv5DEdnaBr_5pKuHo/edit# Java Is Still Free
 - https://github.com/google/flogger A Fluent Logging API for Java
-
 # 27-04-2019
-
 - https://medium.freecodecamp.org/optional-in-java-and-anti-patterns-using-it-7d87038362ba Optional datatype anti-patterns
-
 # 25-04-2019
-
 - https://medium.com/xebia-france/kafka-streams-a-road-to-autoscaling-via-kubernetes-417f2597439 Kafka-Streams: a road to autoscaling via Kubernetes
 - https://medium.com/@wiemzin/concurrency-is-complicated-e44ddb5aa9ef Concurrency is complicated
 - https://www.buzzsprout.com/episodes/1046878-diving-into-exactly-once-semantics-with-guozhang-wang Diving into Exactly Once Semantics with Guozhang Wang
-
 # 23-04-2019
-
 - https://blog.zenika.com/2019/04/23/zoom-sur-quarkus/ Zoom sur Quarkus
 - https://www.slideshare.net/FlorentRamiere/apache-kafka-patterns-antipatterns Kafka anti-patterns
 - https://www.slideshare.net/giridhar510/kafka-streams-fifth-elephant-2018 Kafka streams fifth elephant 2018
-
 # 22-04-2019
-
 - https://www.confluent.io/kafka-summit-ny19/exactly-once-semantics-revisted Kafka Exactly Once Semantics
-
 # 19-04-2019
-
 - http://degoes.net/articles/zio-cats-effect ZIO vs Cats Effect.
 - https://contributors.scala-lang.org/t/proposal-to-revise-implicit-parameters/3044 `def f given (u: Universe) (x: u.T) given Context = ...`
 - https://www.scala-lang.org/2019/04/16/metals.html Metals is now awesome to use in VSCode (code completion, diag, docs at point, hints..)
 - https://possiblywrong.wordpress.com/2019/04/06/follow-up-i-found-two-identical-packs-of-skittles-among-468-packs-with-a-total-of-27740-skittles/ Dude found two identical packs of Skittles, among 468 packs with a total of 27,740 Skittles and make stats.
-
 # 16-04-2019
-
 - https://www.youtube.com/watch?v=d6WWmia0BPM ZIO STM in Scala for safe composable transactional boundaries
-
 # 15-04-2019
-
 - https://cloud.google.com/blog/topics/inside-google-cloud/100-plus-announcements-from-google-cloud-next19 122+ announcements from Google Cloud Next ‘19
-
 # 13-04-2019
-
 - https://medium.com/@elizarov/structured-concurrency-722d765aa952 Structured concurrency. Kotlin coroutines
-
 # 04-04-2019
-
 - https://www.youtube.com/watch?v=-KA3BSdqYug John A. De Goes at #ScalaUA - Thinking Functionally. From imperative buggy code to ZIO
-
 # 03-04-2019
-
 - https://www.youtube.com/watch?v=OMHG_p8VmcA Data Processing @Spotify using Scio
 - https://www.youtube.com/watch?v=ei66Fr25Y2M Kotlin: Write Once, Run (Actually) Everywhere
 - https://www.confluent.io/blog/ksql-whats-new-in-5-2 More operators for KSQL! (such as CASE)
 - http://systemfw.org/TL-Summit-Philly-2019/#/ Ref + Deferred
 - https://blog.univalence.io/typeclass-derivation-faites-eclore-vos-instances-avec-magnolia/ Typeclass derivation avec Magnolia
 - https://chriswhocodes.com/hotspot_option_differences.html#JDK13 Differences between HotSpot VM Versions
-
 # 02-04-2019
-
 - https://andyadams.org/everything-i-know-about-freelancing/ Everything I know about freelancing
 - https://www.youtube.com/watch?v=5iV_hB08Uns BostonDynamics strikes again: Handle Robot Reimagined for Logistics
 - https://blog.cloudflare.com/1111-warp-better-vpn/ Warp: 1.1.1.1 VPN on mobiles!
-
 # 30-03-2019
-
 - https://killedbygoogle.com/ Killed by Google - Holy Moly
 - https://killedbygoogle.com/ Killed by Google - Holy Moly
 - https://www.confluent.io/blog/consuming-messages-out-of-apache-kafka-in-a-browser/2 Consuming Messages Out of Apache Kafka using Websockets in Webworkers
-
 # 29-03-2019
-
 - https://chrilves.github.io/hugo/posts/recursion_schemes_intro/ Recursion Schemes: the high-school introduction
 - https://blog.oyanglul.us/scala/3-layer-cake 3 Layer Scala Cake
 - http://pseudo.co.de/seastar-dpdk-web-framework-showdown/ Seastar DPDK Web Framework Showdown
 - https://www.infoq.com/presentations/gcp-cloud-native-arch Google Cloud-native Architecture with Spring Cloud GCP
-
 # 28-03-2019
-
 - https://github.com/valeriansaliou/sonic A fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
-
 # 26-03-2019
-
 - https://chriskiehl.com/article/event-sourcing-is-hard Don't Let the Internet Dupe you, Event Sourcing is Hard
 - https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/ Tackling Complexity in CQRS
-
 # 22-03-2019
-
 - http://archive.wikiwix.com/cache/?url=http%3A%2F%2Fwww.ics.uci.edu%2F~dutt%2Fics212-wq05%2Flogical-time-tutorial.pdf Capturing Causality in DIstributed Systems
 - https://www.microsoft.com/en-us/research/uploads/prod/2016/12/Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System.pdf Time-Clocks-and-the-Ordering-of-Events-in-a-Distributed-System
-
 # 20-03-2019
-
 - https://medium.com/devopslinks/how-to-build-a-serverless-ci-cd-pipeline-on-aws-907be91c2e48 How to build a serverless CI/CD pipeline on AWS
 - https://www.confluent.io/blog/kafka-streams-take-on-watermarks-and-triggers Kafka Streams' Take on Watermarks and Triggers
-
 # 18-03-2019
-
 - http://tamaszilagyi.com/blog/2019/2019-03-05-dbt/ ETL with dbt
 - https://rjzaworski.com/2019/03/7-commandments-for-event-driven-architecture Some tips for Event-Driven Architecture
-
 # 16-03-2019
-
 - http://www.batey.info/docker-jvm-k8s.html The JVM in Docker 2018
 - https://medium.com/bakdata/fluent-kafka-streams-tests-e641785171ec A Fluent Kafka Streams tests lib
 - https://www.ibm.com/blogs/bluemix/2019/03/kafka-monthly-digest-february-2019/ Kafka Monthly Digest: February 2019
@@ -3041,21 +1907,15 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://aws.amazon.com/blogs/aws/new-open-distro-for-elasticsearch/ New Open Distro for Elasticsearch by AWS
 - https://blog.koan.co/how-on-demand-pricing-slashed-our-dynamodb-bill-by-90-27857c49f30b Switching to On-Demand DynamoDB to reduce bill
 - https://github.com/JohnSully/KeyDB Multithreaded Fork of Redis
-
 # 08-03-2019
-
 - https://medium.com/solo-io/building-a-control-plane-for-envoy-7524ceb09876 Gloo, a Control Plane for Envoy
 - https://www.triplequote.com/blog/2019-guide-to-amazon-instances/ "Scala 2.12.8 turned out to be 20-25% faster so the upgrade is totally worth it."
-
 # 07-03-2019
-
 - https://github.com/GoogleContainerTools/distroless Language focused docker images, minus the operating system (no shell)
 - https://www.youtube.com/watch?v=F02LKnWJWF4 Functional Programming Patterns with Java8
 - https://sematext.com/blog/x-pack-alternatives/ Elastic Stack (X-Pack) Alternatives
 - https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d Comparing Final Tagless, ZIO env, Free moads, Reader Monad
-
 # 06-03-2019
-
 - https://developer.ibm.com/tutorials/reactive-in-practice-1/ Reactive in practice: Event storming the stock trader domain
 - https://drive.google.com/file/d/1Z7NK59Ct29AWd-8ZKdf3Y0R2Gqyp_UEb/view Cultivating Production Excellence - Measure, Debug, Collaborate, Fix.
 - https://www.youtube.com/watch?v=HgtRAbE1nBM Is It Time to Rewrite the Operating System in Rust?
@@ -3072,9 +1932,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - http://www.touilleur-express.fr/2014/05/20/eventstorming-technique-de-modelisation-en-equipe/ EventStorming, technique de modélisation en équipe – Le Touilleur Express
 - https://medium.com/nick-tune-tech-strategy-blog/managing-complexity-in-complex-adaptive-systems-with-domain-driven-design-eb79f0ca37bb Managing Complexity in Complex Adaptive Systems with Domain-Driven Design
 - https://www.infoq.com/articles/ddd-contextmapping Strategic Domain Driven Design with Context Mapping
-
 # 03-03-2019
-
 - http://tonsky.me/blog/github-redesign/ Redesigning Github repository page
 - https://www.confluent.io/blog/put-several-event-types-kafka-topic/ Should You Put Several Event Types in the Same Kafka Topic? Look at option: key|value.subject.name.strategy
 - https://www.confluent.io/blog/how-choose-number-topics-partitions-kafka-cluster How to choose the number of topics/partitions in a Kafka cluster?
@@ -3083,333 +1941,215 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.youtube.com/watch?v=UC9yFQOJtbQ Neha Narkhede (CTO, Confluent) | SpringOne Platform 2018
 - https://www.youtube.com/watch?v=SQt5RNcMDrc Ask Confluent #10 and all of them!: Cooperative Rebalances for Kafka Connect
 - https://speakerdeck.com/rmoff/the-changing-face-of-etl-event-driven-architectures-for-data-engineers The Changing Face of ETL: Event-Driven Architectures for Data Engineers
-
 # 02-03-2019
-
 - https://medium.com/jayanthg/transparently-securing-kafka-istio-style-with-up-to-300-higher-performance-than-native-tls-in-aa95731b5d40 Securing Kafka with Istio
-
 # 28-02-2019
-
 - https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html My next Scala project will use Bazel, so nice x_x
 - https://medium.com/@cheron.antoine/reactor-java-1-how-to-create-mono-and-flux-471c505fa158 Introduction to Reactor
-
 # 26-02-2019
-
 - http://degoes.net/articles/zio-environment Read the article to get the talk quickly
 - https://skillsmatter.com/skillscasts/13247-scala-matters ZIO[R, E, A] instead of Final Tagless. Very interesting solution less complex (?) and with a better Scala compiler help (type inference, type aliases..)
-
 # 25-02-2019
-
 - https://medium.com/@teivah/understanding-the-lmax-disruptor-caaaa2721496 LMAX Disruptor - A inter-thread messaging Java lib I didn't used yet, look so nice.
-
 # 24-02-2019
-
 - https://cloud.google.com/blog/products/ai-machine-learning/enabling-connected-transformation-with-apache-kafka-and-tensorflow-on-google-cloud-platform A (marketing) article about running Confluent Center + TensorFlow on GCP
-
 # 22-02-2019
-
 - https://www.confluent.io/blog/improving-stream-data-quality-with-protobuf-schema-validation Improving Stream Data Quality with Protobuf Schema Validation
 - https://pythonspeed.com/articles/faster-db-tests/ Use real db in tests using Docker and removing fsync() calls, or use RAM fs
 - https://dbdiagram.io/home Nice tool! Database Relationship Diagrams Design Tool
 - https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html Don't Use Await.result! - Clearly not
 - https://www.cockroachlabs.com/blog/jepsen-tests-lessons/ CockroachDB fixing a bug thanks to nightly Jepsen tests
-
 # 21-02-2019
-
 - https://queue.acm.org/detail.cfm?id=3314115 Identity by Any Other Name
 - https://www.confluent.io/blog/sysmon-security-event-processing-real-time-ksql-helk Sysmon Security Event Processing in Real Time with KSQL
-
 # 18-02-2019
-
 - https://medium.com/@adirmashiach/defend-your-infrastructure-handling-3-000-hungry-users-379783b24d51 Defend Your Infrastructure — "1 user, who created 1 scheduled report that generated thousands of Impala queries per hour." :o
 - https://streaml.io/blog/saving-money-with-apache-pulsar-tiered-storage Saving Money with Apache Pulsar Tiered Storage
 - https://www.youtube.com/watch?v=_ahvzDzKdB0 Awesome talk: Growing a Language, by Guy Steele
 - https://www.infoq.com/news/2019/02/rethinking-observability Three Pillars with Zero Answers: Rethinking Observability
 - https://www.youtube.com/watch?v=8pTEmbeENF4 Bret Victor The Future of Programming
-
 # 16-02-2019
-
 - https://medium.com/pinterest-engineering/how-pinterest-runs-kafka-at-scale-ff9c6f735be How Pinterest runs Kafka at scale
 - https://hortonworks.com/blog/introducing-hortonworks-streams-messaging-manager-smm/ Streams Messaging Manager (SMM), monitoring Kafka ecosystem
 - https://databricks.com/blog/2019/02/15/how-to-work-with-avro-kafka-and-schema-registry-in-databricks.html How to Work with Avro, Kafka, and Schema Registry with Spark
-
 # 14-02-2019
-
 - https://www.youtube.com/watch?v=TjEbd9BcL6c Redesigning management -- le don. ted talk sur le fait de donner pleinement et de savoir recevoir
-
 # 13-02-2019
-
 - https://typelevel.org/blog/2019/02/06/algebraic-api-design.html Using a Monte Carlo strategy to resolve SameGame, i love it!
 - https://www.oreilly.com/ideas/why-local-state-is-a-fundamental-primitive-in-stream-processing Why local state is a fundamental primitive in stream processing - Samza, the premises of Kafka Streams!
 - https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture Definitely yes! "You don’t need yet another microservice framework when you use Kafka as an event streaming platform"
-
 # 12-02-2019
-
 - http://blemoine.github.io/xke-types/ Ce type ne me revient pas !
 - https://github.com/antonmedv/fx a JSON viewer in cli
 - https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything Why Event-First Thinking Changes Everything
 - https://www.confluent.io/blog/kafka-connect-jdbc-source-connector-deep-dive Kafka Connect JDBC Source Connector
-
 # 10-02-2019
-
 - https://engineering.linkedin.com/blog/2019/02/introducing-kafka-cruise-control-frontend Introducing Kafka Cruise Control Frontend
-
 # 09-02-2019
-
 - https://thehoard.blog/techniques-to-achieve-high-write-throughput-with-elasticsearch-519ead926b63 Achieve High Write Throughput With Elasticsearch
 - https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7 Apache Kafka without ZK but Atomix
-
 # 07-02-2019
-
 - https://www.youtube.com/watch?v=fQfMiUDsLv4 Jakub Kozlowski, Microservices with fp, http4s and doobie
 - https://medium.com/@shl/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7 Gumroad—Reflecting on My Failure to Build a Billion-Dollar Company
 - https://cloud.google.com/blog/products/application-development/build-containers-faster-with-cloud-build-with-kaniko Kaniko, to build containers faster within Cloud Build (cache)
-
 # 04-02-2019
-
 - https://cloud.google.com/blog/products/application-development/introducing-websockets-support-for-app-engine-flexible-environment WebSockets for App Engine Flexible
 - https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/ Finding Kafka’s throughput limit: 60MB/s per broker
 - https://blog.godatadriven.com/spark-beware Spark and its lazyness could lead to bugs
-
 # 03-02-2019
-
 - https://overreacted.io/react-as-a-ui-runtime/ Deep dive into React
-
 # 02-02-2019
-
 - https://vasters.com/blog/data-encodings-and-layout/ Data Encodings and Layout
-
 # 01-02-2019
-
 - https://www.youtube.com/watch?v=_ahvzDzKdB0 Growing a Language, by Guy Steele
 - https://pchiusano.github.io/2016-02-25/tech-adoption.html Design for experts; accomodate beginners
 - https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/ Scala compiler phases with pictures
-
 # 31-01-2019
-
 - https://www.infoq.com/news/2019/01/envoy-reddit Adopting Envoy as a Service-to-Service Proxy at Reddit
 - https://medium.com/@vroyer/kubernetes-logs-analysis-with-elassandra-fluent-bit-and-kibana-4f827854e5c8 Kubernetes logs analysis with Elassandra, Fluent-Bit and Kibana
 - https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything Journey to Event Driven – Part 1: Why Event-First Thinking Changes Everything | Confluent
 - http://marxsoftware.blogspot.com/2019/01/jep-280-indify-string-concatenations.html Inspired by Actual Events: JDK 9/JEP 280: String Concatenations Will Never Be the Same
-
 # 27-01-2019
-
 - https://syslog.ravelin.com/the-joy-and-pain-of-using-google-bigtable-4210604c75be The Joy and Pain of using Google BigTable – "If you use Bigtable, you should be using region replication and failover. Otherwise, you will see failed requests."
 - https://medium.com/@unmeshvjoshi/choosing-a-stream-processing-framework-spark-streaming-or-kafka-streams-or-alpakka-kafka-fa0422229b25 Choosing a Stream Processing framework. Spark Streaming or Kafka Streams or Alpakka Kafka?
 - https://www.youtube.com/watch?v=OmJ-4B-mS-Y The Map of Mathematics
-
 # 26-01-2019
-
 - https://alex.dzyoba.com/blog/envoy/ A small comparaison between Envoy and nginx
 - http://degoes.net/articles/zio-threads Thread Pool Best Practices with ZIO
-
 # 25-01-2019
-
 - https://tech.transferwise.com/achieving-high-availability-with-kafka-streams/ Rolling upgrades with Kafka Streams applications
 - https://www.cockroachlabs.com/blog/consistency-model/ A great reminder of consistency models (and ACID), and how CRDB deals with them
 - https://www.47deg.com/blog/introducing-the-mu-open-source-library/ Mu: FP (tagless final) to communicate between microservices <3
-
 # 22-01-2019
-
 - https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/ Porting 30K lines of code from Flow to TypeScript. Flow=better inference; TS=better community/definitions
 - https://github.com/schollz/howmanypeoplearearound Count the number of people around you by monitoring wifi signals
-
 # 21-01-2019
-
 - http://squidarth.com/scala/types/2019/01/11/type-erasure-scala.html Type Erasure in Scala
 - https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/ CockroachDB built on top of RocksDB
 - https://github.com/jpzk/mockedstreams Testing Kafka Streams in Scala
 - https://sematext.com/blog/rum-vs-apm/ What is RUM and APM when considering monitoring
-
 # 18-01-2019
-
 - https://www.youtube.com/watch?v=rhvoKCS5v9g Rob Norris presenting skunk features
-
 # 17-01-2019
-
 - https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/ Container Storage Interface (CSI) for Kubernetes is now GA
 - https://github.com/tantivy-search/tantivy Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - https://engineeringblog.yelp.com/2019/01/migrating-kafkas-zookeeper-with-no-downtime.html Migrating Kafka's Zookeeper With No Downtime
 - https://grahamlyons.com/article/everything-you-need-to-know-about-networking-on-aws AWS networking 101
-
 # 16-01-2019
-
 - https://medium.com/@daniel.p.woods/on-infrastructure-at-scale-a-cascading-failure-of-distributed-systems-7cff2a3cd2df A nice story about k8s & docker cascading failure (read comments for more)
 - https://dawnlabs.io/now-2/ Migrating to Now 2.0: from expressjs to lambdas!
-
 # 11-01-2019
-
 - https://cloud.google.com/blog/products/identity-security/identity-and-authentication-the-google-cloud-way Identity and authentication, the Google Cloud way
 - https://risingstars.js.org/2018/en/ 2018 JavaScript Rising Stars
-
 # 10-01-2019
-
 - https://www.infoq.com/presentations/geode-architecture Geode is Not a Cache, it's an Analytics Engine: running functions directly on data, on the Geode nodes
 - http://degoes.net/articles/rotating-effects High-Performance Functional Programming Through Effect Rotation | Looks like IndexedReaderWriterStateT in cats :-)
-
 # 06-01-2019
-
 - https://shipilev.net/jvm-anatomy-park/22-safepoint-polls/ JVM Anatomy Park #22: Safepoint Polls
-
 # 05-01-2019
-
 - http://www.lihaoyi.com/post/CompactStreamingPrettyPrintingofHierarchicalData.html Compact, Streaming Pretty-Printing of Hierarchical Data
-
 # 26-12-2018
-
 - https://www.youtube.com/watch?v=7eEOzguzOg0 Scaling Kafka at Datadog with Kubernetes and Kafka-Kit
 - https://github.com/actix/actix An Actor framework for Rust
-
 # 24-12-2018
-
 - https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff Running and monitoring Airflow At Lyft
 - https://github.com/Wikia/discreETLy ETLy is an add-on dashboard service on top of Apache Airflow.
 - https://medium.com/@rinu.gour123/kafka-performance-tuning-ways-for-kafka-optimization-fdee5b19505b Some tips around Kafka Performance Tuning
 - https://code.fb.com/data-infrastructure/hyperloglog/ HyperLogLog in Presto: Faster cardinality estimation
-
 # 23-12-2018
-
 - https://github.com/bkirwi/decline A composable command-line parser for Scala.
-
 # 22-12-2018
-
 - http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html The Configuration Complexity Clock: from hardcoded values to config to rules to dsl to hard coded
 - https://www.youtube.com/watch?v=WtPFvLfHYtM Adding kind-polymorphism to the Scala programming language
 - https://www.iteratorshq.com/blog/tagless-with-discipline-testing-scala-code-the-right-way/ Using Discipline to test Tagless final code in Scala, very convincing
-
 # 21-12-2018
-
 - https://cloud.google.com/blog/products/gcp/every-gcp-blog-post-2018 "557 GCP blog posts from 2018" OMG!
 - https://scalameta.org/metals/blog/2018/12/12/fast-goto-definition.html metals for Scala in VSCode <3
 - https://kubuszok.com/2018/different-ways-to-understand-a-monad/ monads, free monads, monad transformers, the whole thing
 - https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe Functional references: Lens and other Optics in Scala
-
 # 16-12-2018
-
 - https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77 Apache Kafka Security
 - https://skillsmatter.com/skillscasts/12811-introduction-to-kafka-streaming Using Kafka Streams to process \_\_consumer_offsets
 - https://skillsmatter.com/skillscasts/12634-cats-effect-tagless-final-and-beyond Cats Effect, Tagless Final & beyond
 - https://skillsmatter.com/skillscasts/13304-kotlin-vs-scala Still not convined why would I use Kotlin instead of Scala :|
-
 # 15-12-2018
-
 - https://skillsmatter.com/skillscasts/12805-factor-recursion-out-of-your-codebase Recursion Schemes
 - https://github.com/grafana/loki Like Prometheus, but for logs.
 - https://github.com/GoogleChromeLabs/quicklink Add <link prefetch> for all <a> in the page, to improve load time of next pages
 - https://jakearchibald.com/2018/when-packages-go-bad/ When packages (npm) go bad
 - https://m.signalvnoise.com/give-it-five-minutes-b8115d6f2361 Give it five minutes <3
-
 # 14-12-2018
-
 - https://blog.buildo.io/anatomy-of-a-scala-quirk-b8c086b56423 wtf with: List("a", "b", "c").toSet() + "d"
 - https://www.cockroachlabs.com/blog/2018_cloud_report/ AWS Outperforms GCP in the 2018 Cloud Report, uh
-
 # 12-12-2018
-
 - https://github.com/softwaremill/tapir Generate akka-http or openapi client from a Scala val. Very nice, compile-time check.
 - http://enear.github.io/2018/12/11/imposing-invariants-in-scala/ Imposing invariants in Scala
 - https://tpolecat.github.io/2014/06/09/methods-functions.html Methods (not values) or functions (values)?
 - https://www.youtube.com/watch?v=vKrCdO5NgrA Functional Domain Modeling with Effects
 - https://underscore.io/blog/posts/2018/12/12/bridges.html Bridging Scala and the Front-End: generate typescript or flow types from Scala
-
 # 10-12-2018
-
 - https://www.youtube.com/watch?v=mLJYODobz44 Scalaz Stream: Rebirth with ZIO !
 - https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html Error handling in Http4s with classy optics, very interesting!
 - https://www.lightbend.com/stateful-cloud-native-services-with-akka-and-kubernetes Akka + Kubernetes
-
 # 09-12-2018
-
 - https://kubukoz.github.io/talks/ocado-concurrency-cats/slides/ Concurrency with Cats
 - https://stackoverflow.com/questions/53451103/java-using-much-more-memory-than-heap-size-or-size-correctly-docker-memory-limi/53624438#53624438 Sizing JVM memory and link with the containers
 - https://chrilves.github.io/hugo/posts/folds/ Let's meet the charming fold family
-
 # 08-12-2018
-
 - https://vimeo.com/294736344 Why Ref[F, A] rocks, compared to the State monad
-
 # 07-12-2018
-
 - https://medium.com/@adam_carroll/java-packager-with-jdk11-31b3d620f4a8 Packaging a JavaFX app with Java Packager in JDK 11
 - https://overreacted.io/why-do-react-elements-have-typeof-property/ Interesting story of why Do React Elements Have a \$\$typeof Property?
 - https://blog.npmjs.org/post/180868064080/this-year-in-javascript-2018-in-review-and-npms Predictions: React, GraphQL, TypeScript. ORLY?
 - https://blogs.msdn.microsoft.com/typescript/2018/12/05/intellicode-for-typescript-javascript/ ML incoming in our IDE: IntelliCode for TypeScript/JavaScript
 - https://scalameta.org/metals/ Metals, an LSP for Scala, integrated with VSCode <3
-
 # 04-12-2018
-
 - https://code.quicksign.io/kafka-encryption/ Kafka Encryption Serdes
 - https://blog.twitter.com/engineering/en_us/topics/insights/2018/twitters-kafka-adoption-story.html Twitter going from their DistributedLog to Kafka. Better p99 latency. Forgetting the separation serving/storage layer (It's the same for Kafka)
 - https://github.com/wepay/kafka-connect-bigquery A Kafka Connect BigQuery sink connector
 - https://stripe.com/atlas/guides/scaling-eng Stripe Atlas: Guide to scaling engineering organizations / recruiting process
-
 # 03-12-2018
-
 - https://blog.zenika.com/2018/12/03/tdd-est-mort-longue-vie-tcr/ TCR: test && commit || revert
-
 # 02-12-2018
-
 - https://blog.kubukoz.com/what-makes-a-function-pure What makes a function pure?
-
 # 01-12-2018
-
 - https://www.youtube.com/watch?v=A8IO7QdEOGI Akka Streams to ES ingestion
 - https://www.youtube.com/watch?v=x3GLwl1FxcA Compose your program flow with fs2.Stream
 - https://databricks.com/blog/2018/11/30/apache-avro-as-a-built-in-data-source-in-apache-spark-2-4.html Reading Avro 2 times faster with builtin avro Spark module
 - https://speakerdeck.com/mpilquist/concurrency-with-cats-effect Concurrency with Cats Effect
 - https://underscore.io/blog/posts/2018/03/20/fs2.html Tips for working with FS2
-
 # 30-11-2018
-
 - https://blog.cloudflare.com/cloud-computing-without-containers/ No Containers but V8 Isolated environments
 - https://blog.golang.org/go2-here-we-come Go 2!
-
 # 29-11-2018
-
 - https://www.youtube.com/watch?v=pFZBs_8hmyo Deploying Kafka Streams Applications + Kubernetes
 - https://reactjs.org/blog/2018/11/27/react-16-roadmap.html React 16.x Roadmap
 - https://github.com/gvolpe/http4s-tracer End-to-end tracing system for Http4s
 - https://wordsandbuttons.online/fortran_is_still_a_thing.html [About Fortran] Many thought that the competition will never start due to the lack of applicants. In fact, it was cancelled for the exact opposite reason.
 - https://nginxconfig.io/ Generate nginx config easily
 - https://github.com/BcRikko/NES.css NES-style CSS Framework
-
 # 27-11-2018
-
 - https://www.youtube.com/watch?v=XO55cz7fg-g BDX I/O 2018 - Mon premier service en Rust - Francois Teychene
 - https://www.infoq.com/news/2018/11/google-squoosh-pwa-webassembly Squoosh! Image Compression PWA labs
-
 # 26-11-2018
-
 - https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81 Correlation IDs in Scala using Monix
 - https://stackoverflow.com/questions/20918650/what-are-the-benefits-of-javas-types-erasure What are the benefits of Java's types erasure?
 - https://zeit.co/blog/ncc ncc: Node.js Compiler Collection. Easily package a js app, like for serverless programs
-
 # 23-11-2018
-
 - https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a A small FS2 introduction
 - https://medium.com/@boriscoder/peeking-under-the-hood-of-redesigned-gmail-dd84b532e0f5 I hope a rewrite of gmail with modern tech is in progress
 - http://www.aston.ac.uk/news/releases/2018/november/scientists-improve-smart-phone-battery-life-by-up-to-60-percent/ Simple idea to save phones' batteries: move the computing part over the cloud, just let the phone send the "program" over there
-
 # 22-11-2018
-
 - https://sdd-manifesto.org/ "The Software Defined Delivery Manifesto" Delivery code must be the same quality as application code
-
 # 21-11-2018
-
 - https://drive.google.com/file/d/1vq1tcLk4FWK7BKRG5cEhOzbeXoy65hUK/view Event Driven Microservices with Apache Kafka
 - https://medium.com/dailyjs/goodbye-electron-hello-desktop-pwas-f316b8f39882 Back to Desktop PWAs
-
 # 19-11-2018
-
 - https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c Druid @ Airbnb Data Platform
 - https://blog.erratasec.com/2018/11/some-notes-about-http3.html Some notes about HTTP/3
-
 # 18-11-2018
-
 - https://gist.github.com/yelouafi/57825fdd223e5337ba0cd2b6ed757f53 Algebraic Effects and Continuations
-
 # 17-11-2018
-
 - https://www.youtube.com/watch?v=v-jdlc5YdDc SystemD en profondeur (3h!)
 - https://typelevel.org/blog/2018/10/06/intro-to-mtl.html cats-mtl FTW
 - https://queue.acm.org/detail.cfm?ref=rss&id=2611829 Mostly functional programming does not exist
@@ -3420,48 +2160,34 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://github.com/lampepfl/dotty/blob/25b84a9e30c723cde2e5d2ba36b12a5c71e93d8c/docs/docs/reference/witnesses/witnesses.md#witnesses-as-typeclass-instances Typeclasses encoding using "witness"
 - https://www.youtube.com/watch?v=wXLf18DsV-I React With Hooks— Ryan Florence
 - https://medium.freecodecamp.org/these-are-the-concepts-you-should-know-in-react-js-after-you-learn-the-basics-ee1d2f4b8030 It's always good to reread about ReactJS evols
-
 # 16-11-2018
-
 - https://www.slideshare.net/jdegoes/orthogonal-functional-architecture Orthogonal Functional Architecture
 - https://www.elastic.co/blog/elasticsearch-6-5-0-released Tons of nice improvements for Elasticsearch 6.5.0 (a new snapshot strategy, new filters, SQL, JDK11 and G1GC)
 - https://medium.com/earnest-engineering/using-applicative-style-to-increase-compositionality-part-ii-266472396795 Applicatives (and Alternatives) to compose logics
 - https://github.com/pulumi/pulumi SDK for cloud native infrastructure as code. No Yaml.
 - https://www.scala-lang.org/blog/2018/11/16/scalafix-scalameta.html New websites for Scalameta and Scalafix!!
 - https://databricks.com/blog/2018/11/16/introducing-new-built-in-functions-and-higher-order-functions-for-complex-data-types-in-apache-spark.html New Built-in and HOF in Apache Spark 2.4
-
 # 14-11-2018
-
 - https://github.com/sokra/rawact A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
 - https://github.com/ikhoon/functional-programming-jargon.scala Jargon from the functional programming world
 - https://sematext.com/blog/elasticsearch-ingest-node-vs-logstash-performance/ Elasticsearch Ingest vs Logstash Performance
-
 # 13-11-2018
-
 - https://www.youtube.com/watch?v=MmLezWRI3Ys The Rebalance Protocol of Apache Kafka is generic and can be used for anything
 - https://web.dev/measure Lighthouse as a service
 - https://status.cloud.google.com/incident/container-engine/18005 3 days of outage for GKE :o
-
 # 12-11-2018
-
 - https://www.premieroctet.com/blog/plongee-dans-les-hooks-react/ les Hooks React
 - https://nrinaudo.github.io/talk-scala-best-practices/#1 Scala Best Practices I Wish Someone'd Told Me About; I learned some stuff :)
 - https://paidy.github.io/talks/scalaio2018/ A nice talk about side-effects (IO Monad) and abstracting parts of a program
 - https://blog.cloudflare.com/the-road-to-quic/ Cloudflare already talked about it: the Road to QUIC
 - https://daniel.haxx.se/blog/2018/11/11/http-3/ HTTP/3 will run over UDP
 - https://v8.dev/blog/fast-async Faster async functions and promises · V8
-
 # 11-11-2018
-
 - https://www.youtube.com/watch?v=YFXoNTp6YmM Scala Compilation explained
 - https://www.youtube.com/watch?v=onQSHiafAY8 ZIO Schedule: composable to the max
-
 # 10-11-2018
-
 - https://www.cortes.design/post/best-saas-landing-page-examples-inspiration The Best SaaS Landing page examples
-
 # 09-11-2018
-
 - https://www.caida.org/research/id-consumption/whois-map/images/whois-20071001.png The same but better and larger!
 - http://maps.measurement-factory.com/ IPv4 address space
 - https://medium.freecodecamp.org/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa sbt-native-packager and Docker
@@ -3469,52 +2195,38 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/@LightspeedHQ/google-cloud-spanner-the-good-the-bad-and-the-ugly-5795f37a7684 Google Cloud Spanner: the good, the bad and the ugly
 - http://mjk.space/git-aliases-i-cant-live-without/ Git aliases I can't live without – Just sweet shortcuts. I prefer the long version. \o/
 - https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8 A recap of all console.\*() in JS
-
 # 08-11-2018
-
 - https://www.ebayinc.com/stories/blogs/tech/sre-case-study-mysterious-traffic-imbalance/ A funny SRE Case Study: Mysterious Traffic Imbalance
 - https://databricks.com/blog/2018/11/08/introducing-apache-spark-2-4.html Spark 2.4: Scala 2.12 support! and a better k8s support
 - https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster In Kafka 1.1+, one broker, up to 4000 partitions. One cluster, up to 200k partitions
 - https://developer.lightbend.com/blog/2018-11-01-the-scala-2.12-2.13-inliner-and-optimizer/index.html Interesting article about Scalac's Inliner and Optimizer
 - https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/ More on Hexagonal Architecture
 - https://jvns.ca/blog/2018/10/27/envoy-basics/ A sweet article about Envoy basics
-
 # 07-11-2018
-
 - https://kubernetes.io/blog/2018/11/07/grpc-load-balancing-on-kubernetes-without-tears/ gRPC Load Balancing on Kubernetes with linkerd
-
 # 06-11-2018
-
 - https://hackernoon.com/apache-kafkas-distributed-system-firefighter-the-controller-broker-1afca1eae302 Explanations around Apache Kafka’s Controller job
 - https://cloud.google.com/blog/products/application-development/announcing-cloud-scheduler-a-modern-managed-cron-service-for-automated-batch-jobs Announcing Cloud Scheduler: a modern, managed cron service for automated batch jobs
 - https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs-kafka-connect-vs-kafka-streams-vs-ksql-ef584274c1e The Kafka API Battle: Producer vs Consumer vs Kafka Connect vs Kafka Streams vs KSQL !
 - https://cloud.google.com/blog/products/storage-data-transfer/hdfs-vs-cloud-storage-pros-cons-and-migration-tips HDFS vs. Cloud Storage: Pros, cons and migration tips
 - https://actualite.housseniawriting.com/science/intelligence-artificielle/2015/05/22/peur-de-lintelligence-artificielle-ou-la-theorie-du-basilic-de-roko/4303/ Le Basilic de Roko. Are you scared of AI?
-
 # 04-11-2018
-
 - https://medium.com/graalvm/under-the-hood-of-graalvm-jit-optimizations-d6e931394797 GraalVM JIT optimizations: powerful inlining strategies
 - https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4 A usage of reactive streams wih Akka HTTP, to track user behavior at Paypal
 - https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/ Stacked Diffs Versus Pull Requests. Pretty sure it's useful, but couldn't get through the article.
 - https://medium.com/capital-one-tech/toward-a-functional-programming-analogy-for-microservices-ba6f49b94ad Microservices and FP
 - https://github.com/wagoodman/dive A tool for exploring each layer in a docker image
-
 # 03-11-2018
-
 - https://mixitconf.org/2018/bug-free-by-design Bug free. By design - En gros, du clean code, et du typage :-)
 - https://medium.com/@sankar.p/how-grpc-convinced-me-to-chose-it-over-rest-30408bf42794 Why gRPC is great
 - https://www.iteratorshq.com/blog/scala-compiler-phases-with-pictures/ Scala compiler phases
 - http://www.lihaoyi.com/post/Fastparse2EvenFasterScalaParserCombinators.html Fastparse 2 compared to Fastparse 1
 - https://jvican.github.io/post/overload-methods-with-more-parameter-lists/ Relying on linearization to overload methods with extra parameters
 - https://www.justinobeirne.com/new-apple-maps A long study of Apple’s "New Map" (better but still..)
-
 # 01-11-2018
-
 - https://speakerdeck.com/ogirardot/high-performance-privacy-by-design-using-matryoshka-and-spark Matryoshka & Spark, a not-trivial talk
 - https://www.awsgeek.com/ Impressive collection of cool diagrams & notes about AWS services
-
 # 30-10-2018
-
 - https://hackernoon.com/distributed-log-analytics-using-apache-kafka-kafka-connect-and-fluentd-303330e478af Distributed log analytics using Apache Kafka, Kafka Connect and Fluentd
 - https://www.infoq.com/articles/apache-kafka-best-practices-to-optimize-your-deployment Apache Kafka: Ten Best Practices to Optimize Your Deployment
 - https://kubernetes.io/blog/2018/10/01/health-checking-grpc-servers-on-kubernetes/ Health checking gRPC servers on Kubernetes
@@ -3525,56 +2237,38 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/adobetech/creating-the-adobe-experience-platform-pipeline-with-kafka-4f1057a11ef The Adobe Experience Platform "Pipeline" to work with Kafka at scale
 - https://www.confluent.io/blog/apache-kafka-kubernetes-could-you-should-you If you're already working with k8s, yes you should.
 - https://typelevel.org/blog/2018/11/02/semirings.html Semirings and their relation to other structures such as Monoid
-
 # 27-10-2018
-
 - https://docs.google.com/presentation/d/1a4IAux4tNo7F7mQ6fbzIVPEHxQQ0buD15Cm8vSMJFb0/mobilepresent?slide=id.p So many knowledge and Bash tips
-
 # 22-10-2018
-
 - https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3 Dotty's Opaque types FTW
 - https://developers.google.com/web/updates/2018/10/nic70?linkId=58284450 New in Chrome 70
 - https://www.madewithtea.com/using-monix-with-kafka-avro-and-schema-registry.html Using Monix with Kafka, Avro and Schema Registry
 - https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8 Machine learning & Kafka KSQL stream processing
 - https://www.infoq.com/news/2018/10/gcp-cloud-spanner-bigtable Google's Cloud Spanner DML Updates and Cloud Bigtable's New Key Visualization Feature
 - https://dotty.epfl.ch/blog/2018/10/10/10th-dotty-milestone-release.html Dotty 0.10.0-RC1 !
-
 # 20-10-2018
-
 - https://reactjs.org/blog/2018/10/01/create-react-app-v2.html Create React App 2.0 out! So many improvements
-
 # 30-09-2018
-
 - https://www.infoq.com/articles/modeling-uncertainty-reactive-ddd Modeling Uncertainty With Reactive DDD
-
 # 23-09-2018
-
 - https://ipfs.io/ipns/Qme48wyZ7LaF9gC5693DZyJBtehgaFhaKycESroemD5fNX/post/putting_this_blog_on_ipfs/ Putting This Blog on IPFS
 - https://phoboslab.org/log/2018/09/underrun-making-of Making a sublime 13kb webgl game
-
 # 22-09-2018
-
 - https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514 scalafmt and the git pre-commit hook
 - http://www.geekabyte.io/2018/09/easing-into-cats-and-case-for-category.html cats is the de-facto lib to use in Scala (Scala)
 - https://philipwalton.com/articles/idle-until-urgent/ Mixing requestIdleCallback and lazy behavior in JS
 - https://github.com/yahoo/HaloDB A new Java fast key-value storage engine
 - https://cloud.google.com/blog/products/ai-machine-learning/simplifying-ml-predictions-with-google-cloud-functions Cloud Functions + ML Engine at Google
 - https://www.sqlstyle.guide/ A very nice SQL style guide I agree to
-
 # 20-09-2018
-
 - https://github.com/chrishtr/display-locking Display Locking spec: look an element, modify it, and release it
-
 # 19-09-2018
-
 - https://v8project.blogspot.com/2018/09/dataview.html Greatly Improving DataView performance in V8 compared to TypedArrays
 - https://www.missingfaktor.me/writing/2018/08/12/composable-table-updates-in-slick/ Composable table updates in Slick
 - http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/ "Falling in love with Rust" this article makes me want to write some Rust
 - https://blog.cloudflare.com/distributed-web-gateway/ IPFS, the future of the web?
 - https://blog.usejournal.com/how-to-fail-as-a-new-engineering-manager-30b5fb617a Tips to know how to act as a engineering manager
-
 # 16-09-2018
-
 - https://martinfowler.com/articles/extract-data-rich-service.html Migrating from monolith to services by extracting data-rich services
 - https://www.youtube.com/watch?v=hzf3hTUKk8U Functional Programming was Terrible in Scala 2014
 - https://www.youtube.com/watch?v=GqmsQeSzMdw Constraints Liberate, Liberties Constrain — Runar Bjarnason
@@ -3585,18 +2279,12 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://code.fb.com/developer-tools/finding-and-fixing-software-bugs-automatically-with-sapfix-and-sapienz/ Developers soon replaced by Infer/Sapienz/SapFix :-)
 - https://about.sourcegraph.com/go/gophercon-2018-from-prototype-to-production-lessons-from-building-and/ Building and Scaling Reddit's Ad Serving Platform (with Go). From 90ms to 10ms.
 - https://www.infoq.com/presentations/event-flow-distributed-systems Complex Event Flows in Distributed Systems
-
 # 15-09-2018
-
 - https://www.theverge.com/2018/9/12/17849868/eu-internet-copyright-reform-article-11-13-approved EU Copyright Directive vote: Articles 11 and 13 approved
 - https://www.infoq.com/articles/ddd-do-over DDD feedback
-
 # 11-09-2018
-
 - https://v8project.blogspot.com/2018/09/10-years.html 10 years for V8 JavaScript Engine
-
 # 09-09-2018
-
 - https://www.slideshare.net/jdegoes/zio-queue ZIO Queue
 - https://www.youtube.com/watch?v=vpcKnqyNdSQ Why FP matters, how to introduce the FP world in a company
 - https://michaelzg.com/akka/2018/09/03/akka-actor-fsm-comparison-part1/ Comparing Akka Untyped, FSM, and Typed Actors
@@ -3606,28 +2294,18 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/@francois.chollet/notes-to-myself-on-software-engineering-c890f16f4e4d Interesting notes about Software Engineering (we could almost talk about Software Craftmanship)
 - https://www.confluent.io/blog/putting-power-apache-kafka-hands-data-scientists/ Another story switching to the Kafka platform to help Data Scientists
 - http://marxsoftware.blogspot.com/2018/09/jdk-12-switch-expressions-in-action.html JDK 12's new switch as expression
-
 # 03-09-2018
-
 - https://github.com/electronicarts/ea-async async-await methods in the JVM!
 - https://jvns.ca/blog/2018/09/03/editing-my-blog-s-http-headers-with-cloudflare-workers/ A weird header bug fixed thanks to Cloudflare workers
-
 # 02-09-2018
-
 - http://degoes.net/articles/modern-fp-part-2 Higher order category theory
 - https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/ Java's new Z Garbage Collector (ZGC)
-
 # 30-08-2018
-
 - https://speakerdeck.com/copyconstructor/prometheus-a-whirlwind-tour A very good tour about Prometheus
 - https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html Gttp4s error handling with Cats Meow MTL
-
 # 29-08-2018
-
 - https://github.com/vectos/goedverhaal Saga in Scala for effects which have a cats.effect.Sync instance.
-
 # 27-08-2018
-
 - https://towardsdatascience.com/tracking-nyc-citi-bike-real-time-utilization-using-kafka-streams-1c0ea9e24e79 Kafka Streams usage and code
 - https://medium.com/@jerolba/persisting-fast-in-database-1af4a281e3a Batching operations in Hibernate for better throughput
 - http://blog.ploeh.dk/2018/08/27/on-constructor-over-injection/ constructor over-injection=bad smell / break of Single Resp principle
@@ -3636,57 +2314,39 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://speakerdeck.com/copyconstructor/prometheus-a-whirlwind-tour?slide=191 Very nice overview of Prometheus
 - https://www.percona.com/blog/2018/08/20/using-aws-ec2-instance-store-vs-ebs-for-mysql-how-to-increase-performance-and-decrease-cost/ AWS EC2 instance store vs EBS for MySQL: better perf, less cost
 - https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a Feedback about Event Sourcing and CQRS.
-
 # 26-08-2018
-
 - https://blog.scrt.ch/2018/08/24/remote-code-execution-on-a-facebook-server/ Remote Code Execution on a Facebook server; ~15 lines, \$5000!
-
 # 25-08-2018
-
 - https://github.com/mafintosh/turbo-json-parse Turbocharged JSON.parse for type stable JSON data
-
 # 23-08-2018
-
 - https://medium.com/@duhroach/datastore-lexicographical-contention-fc02fb4864e9 Basic lesson: never use a timestamp as key in Datastore
 - https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node nodejs REST API and OAuth 2.0
 - https://www.digitalocean.com/community/tutorials/how-to-develop-a-node-js-tcp-server-application-using-pm2-and-nginx-on-ubuntu-16-04 Nginx and tcp client/servers using "stream"
 - https://dejanseo.com.au/competitor-hack/ "How I recorded user behaviour on my competitor's websites"
 - https://www.nearform.com/blog/avoiding-common-hurdles-in-unit-testing/ Better mocking in NodeJS: aws s3, server mock, generic http requests/response, module mocking, file system, dates and timers
-
 # 22-08-2018
-
 - https://developers.google.com/web/updates/2018/08/web-performance-made-easy #webperfmatters optimizing a front-end
 - https://blog.colinbreck.com/maximizing-throughput-for-akka-streams/ Maximizing Throughput for Akka Streams
 - https://databricks.com/blog/2018/05/03/benchmarking-apache-spark-on-a-single-node-machine.html Spark on a Single Node Machine, comparaison between Pandas and PySpark (the latter wins easy)
 - http://tech.trello.com/why-we-chose-kafka/# From RabbitMQ to Kafka: more resilient, less cost.
 - https://www.taniarascia.com/getting-started-with-react/ A fresh "Getting Started with React"
 - https://modern-sql.com/blog/2018-08/whats-new-in-mariadb-10.3 What’s new in MariaDB 10.3
-
 # 20-08-2018
-
 - https://kubuszok.com/2018/kinds-of-types-in-scala-part-3/ Kinds of types in Scala, part 3— Love it!
 - https://medium.com/@chandukavar/testing-in-airflow-part-1-dag-validation-tests-dag-definition-tests-and-unit-tests-2aa94970570c Testing in Airflow
 - https://www.infoq.com/news/2018/08/Prometheus-Graduates-CNCF Prometheus "Graduates" from the Cloud Native Computing Foundation
 - https://engineering.pandora.com/using-memsql-at-pandora-79a86cb09b57 Good insights about their call to use MemSQL
 - https://clemenswinter.com/2018/08/13/how-read-100s-of-millions-of-records-per-second-from-a-single-disk/ LocustDB, backed by RocksDB
-
 # 18-08-2018
-
 - https://www.confluent.io/blog/build-udf-udaf-ksql-5-0 How to Build a UDF and/or UDAF in KSQL
-
 # 17-08-2018
-
 - https://www.datadoghq.com/blog/engineering/introducing-kafka-kit-tools-for-scaling-kafka/ Kafka-Kit: Tools for repartition a topic on brokers (it's a pain manually)
-
 # 16-08-2018
-
 - https://www.youtube.com/watch?v=dRiQIo9moSw The latest Scala Plugin Improvements in IntelliJ IDEA 2018.2 are very good! Implicits ftw
 - https://richardimaoka.github.io/blog//akka-http-marshalling-details/ How Akka HTTP marshalling works. Marshallable, Marshalling, Marshaller. Repeat 3x.
 - https://cloud.google.com/blog/products/gcp/introducing-headless-chrome-support-in-cloud-functions-and-app-engine GCP: headless Chrome support in Cloud Functions and App Engine. So good!!
 - https://www.sqlite.org/draft/releaselog/current.html SQLite adds window functions, huge!
-
 # 13-08-2018
-
 - https://blog.bugsnag.com/bug-day-race-condition-therac-25/ A bug causing several patients to die. No good at all.
 - https://github.com/umpox/TinyEditor TinyEditor: A functional HTML/CSS/JS editor in less than 400 bytes. Nuts!
 - https://azure.microsoft.com/en-us/blog/how-microsoft-drives-exabyte-analytics-on-the-world-s-largest-yarn-cluster/ How Microsoft drives exabyte analytics on the world’s largest YARN cluster
@@ -3694,15 +2354,11 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://blog.cloudera.com/blog/2018/08/robust-message-serialization-in-apache-kafka-using-apache-avro-part-3/ Storing Avro Schemas into Kafka instead of another backend (SR)
 - https://news.ycombinator.com/item?id=17700360 General consensus: Kubernetes on Azure sucks
 - https://movingfulcrum.com/horrors-of-using-azure-kubernetes-service-in-production/ Horrors of using Azure Kubernetes Service in production: ouch!
-
 # 10-08-2018
-
 - https://cloud.google.com/blog/products/gcp/expanding-the-cloud-firestore-beta-to-more-users DataStore will be more consistent under Cloud Firestore
 - https://kubuszok.com/2018/kinds-of-types-in-scala-part-1/ Types in Scala
 - https://hackernoon.com/python-tricks-101-2836251922e0 Python Tricks, i keep learning a bit.
-
 # 09-08-2018
-
 - https://www.lightbend.com/reactive-programming-versus-reactive-systems Reactive Programming versus Reactive Systems
 - https://medium.com/@vesirin/how-i-gained-commit-access-to-homebrew-in-30-minutes-2ae314df03ab By getting their bot's API github token from their public Jenkins :o
 - https://www.spinellis.gr/blog/20180805/ from 380h with MariaDB to 12h with two Unix commands
@@ -3712,22 +2368,16 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://wsargent.github.io/ocaps/slides/#1 Security in Scala: Refined Typed and Object Capabilities
 - https://moz.com/blog/beginners-guide-to-seo-chapter-4 SEO, On-Page Optimization
 - http://marxsoftware.blogspot.com/2018/08/apis-to-be-removed-from-java-11.html APIs & modules To Be Removed from Java 11, lean!
-
 # 08-08-2018
-
 - https://www.confluent.io/blog/getting-started-apache-kafka-kubernetes/ Helm templates for Apache Kafka
 - https://dawn.cs.stanford.edu/2018/08/07/sparser/ Impressive: Filtering before parsing data = massive speedup. JSON/Parquet/Avro/etc.
 - https://www.image-charts.com/ A drop-in replacement for Google Image Charts (deprecated)
 - http://marxsoftware.blogspot.com/2018/08/jdk-12-merging-collectors-naming-challenge.html The Challenge of Naming
-
 # 07-08-2018
-
 - https://logallthethings.com/2016/06/28/how-to-read-to-the-end-of-a-kafka-topic/ How to know when you're at the end of a Kafka topic
 - https://v8project.blogspot.com/2018/08/v8-release-69.html Memory savings, WASM speedups, in Javascript V8
 - https://blog.acolyer.org/2018/08/07/bleak-automatically-debugging-memory-leaks-in-web-applications/ BLeak: automatically debugging memory leaks in web applications
-
 # 06-08-2018
-
 - https://medium.com/netflix-techblog/pseudo-localization-netflix-12fff76fbcbe ƒîîîกี้ð Ĥéééļþ ÖÖกี้ļîîîกี้ééé
 - https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f Bad code leads to bugs, no surprise here
 - https://richardimaoka.github.io/blog/akka-http-operation-scope/ Akka HTTP request/response scope operations, vs. Deferred operations
@@ -3737,45 +2387,33 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://techlab.bol.com/how-not-to-sink-a-data-stream-to-files-journeys-from-kafka-to-parquet/ Kafka to parquet: solution: read the topic later in one shot, done! (but high latency)
 - https://blog.gojekengineering.com/sakaar-taking-kafka-data-to-cloud-storage-at-go-jek-7839da20b5f3 Sakaar: another at-least once cloud storage saver
 - https://blog.godatadriven.com/multiformat-spark-partition Spark PR to deal with multiple partition formats (avro & parquet)
-
 # 03-08-2018
-
 - https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/ TypeScript 3 is out. New features, better error messages. And... the new "unknown" type forcing you to cast later. Wth don't you have a proper sum type/tagged union beforehands.
 - https://www.datanami.com/2018/07/31/inside-fortnites-massive-data-analytics-pipeline/ Fortnite arch on AWS
 - https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/ Amazon Aurora VS RDS MySQL
 - https://blog.timescale.com/sql-vs-flux-influxdb-query-language-time-series-database-290977a01a8a SQL vs. Flux (InfluxDB query language). Flux was made to avoid verbosity but you can just hide it even in SQL.
 - https://blog.joegreen.pl/Scala-imitating-case-class-apply.html TIL case class extends FunctionN
 - https://issues.apache.org/jira/browse/SPARK-14220 Spark on Scala 2.12, huge!!
-
 # 02-08-2018
-
 - https://www.infoq.com/presentations/serverless-patterns-antipatterns Cool talk presenting different architectures around serverless apps
 - https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4 Huge article recapitulating "The Cost Of JavaScript In 2018"
 - https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial Puppeteer tips and tricks
 - http://marxsoftware.blogspot.com/2018/08/single-file-java-source-code-programs.html JDK 11: #!/bin/java programs
 - https://www.robinwieruch.de/react-pass-props-to-component/ A nice recap article to React props/state/context and more
-
 # 01-08-2018
-
 - https://blog.softwaremill.com/keep-your-domain-clean-in-event-sourcing-5db6ddc26fe4 Keep your domain clean in Event Sourcing
 - https://www.quora.com/Why-were-weakly-typed-programming-languages-created/answer/Bartosz-Milewski?share=799ea4c2 Why were weakly-typed programming languages created? "an evolutionary aberration"
 - https://www.youtube.com/watch?v=J31o0ZMQEnI Project Loom: Fiber in Java, how to deal with the existing, Threads etc.
 - https://www.youtube.com/watch?v=sxudIMiOo68 John De Goes - FP to the Max. Really nice video to know how to translate an imperative-flawed program to a FP program.
 - http://enear.github.io/2018/07/30/Play-Framework-in-Scala-Action-Composition/ Play Framework in Scala - Action Composition
-
 # 30-07-2018
-
 - https://www.infoq.com/news/2018/07/knative-kubernetes-serverless Knative: A Kubernetes Framework to Build, Deploy, and Manage Serverless Workloads
 - https://quickbooks-engineering.intuit.com/re-think-your-data-pipelines-in-the-decoupled-era-5b032bc8b779 Possible patterns to process and serve data (no data copy, 1 or more data copies)
 - http://debezium.io/blog/2018/07/19/advantages-of-log-based-change-data-capture/ Change Data Capture vs Polling. No match here.
 - https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste 8 Fallacies of Distributed Systems: why and solutions
-
 # 28-07-2018
-
 - https://www.infoq.com/news/2018/07/conduit-merges-linkerd2 Conduit was merged into Linkerd: Linkerd2
-
 # 27-07-2018
-
 - https://ai.googleblog.com/2018/07/machine-learning-in-google-bigquery.html The official post about BigQuery ML
 - https://github.com/yipeeio/kubeiql A GraphQL interface for Kubernetes. :heart:
 - https://yokota.blog/2018/07/23/kafka-graphs-graph-analytics-with-apache-kafka/ A new lib: Kafka Graphs, to work with Kafka Streams
@@ -3784,39 +2422,27 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.infoq.com/articles/system-behaviour-time-series-ml Understanding Software System Behaviour With ML and Time Series Data
 - https://kubuszok.com/compiled/implicits-type-classes-and-extension-methods/ Implicits, type classes, and extension methods
 - http://lampwww.epfl.ch/~doeraene/thesis/doeraene-thesis-2018-cross-platform-language-design.pdf The ScalaJS Thesis by Sébastien Doeraene (June, 2018)
-
 # 26-07-2018
-
 - https://developers.google.com/web/updates/2018/07/site-isolation Why we should enable CORB (CORB, not CORS!)
 - http://technosophos.com/2018/07/04/be-nice-and-write-stable-code.html A guide about respecting semver (respecting the users, the major/minor/patch cycle, the deprecations..)
 - https://medium.com/@jeffrey.allen.lewis/http-requests-compared-why-axios-is-better-than-node-fetch-more-secure-can-handle-errors-better-39fde869a4a6 I remember using Axios, a loong time ago.
-
 # 25-07-2018
-
 - https://cloud.google.com/bigtable/docs/keyvis-overview When dataviz meet Bigtable. Key Visualizer
 - https://landing.google.com/sre/book.html The new "Site Reliability Engineering" book from Google
 - https://cloudplatform.googleblog.com/2018/07/announcing-resource-based-pricing-for-google-compute-engine.html More discounts with GCE!
 - https://kubuszok.com/2018/scala-fud-faq-for-newbies/ Scala FUD FAQ for newbies
 - https://jvns.ca/blog/2018/07/24/ip-addresses-routing/ Subnets and having fun with iptables
 - https://kubernetes.io/blog/2018/07/24/feature-highlight-cpu-manager/ Adding CPU Affinity through the CPU Manager (to share caches, and other things)
-
 # 24-07-2018
-
 - https://github.com/GoogleChromeLabs/ndb Another nodejs debugger, using a standalone Chrome DevTools
-
 # 23-07-2018
-
 - https://medium.com/@george3d6/imaginary-problems-d4f2921bd1b8 We often create and try to resolve Imaginary problems
 - https://medium.com/@pankajroark/sorting-and-parquet-3a382893cde5 According to your reading pattern, sorting by a column in parquet can be a win
 - https://code.fb.com/data-infrastructure/location-aware-distribution-configuring-servers-at-scale/ Location-Aware Distribution as a replacement for zookeeper (p2p-based, and sharded)
 - https://www.xaprb.com/slides/how-to-monitor-your-database/ How to Monitor Your Database
-
 # 22-07-2018
-
 - https://github.com/unisonweb/unison Haskell-like programming platform, distributed-systems oriented
-
 # 20-07-2018
-
 - https://github.com/lihaoyi/requests-scala A Scala port of the Python Requests HTTP client
 - https://blog.drone.io/ CI/CD made _very_ easy using GCE
 - https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d How Vue's "Reactivity" (bindings) works
@@ -3824,9 +2450,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://blog.timescale.com/sql-nosql-data-storage-for-prometheus-devops-monitoring-postgresql-timescaledb-time-series-3cde27fd1e07 PostgreSQL as data store for Prometheus
 - https://blog.softwaremill.com/why-scala-a6ac8c98c541 Scala FTW
 - https://www.inderapotheke.de/blog/farewell-google-maps Alternative to Google Maps
-
 # 19-07-2018
-
 - http://blog.christianposta.com/istio-workshop Workshop with Kubernetes, Envoy, and Istio
 - https://github.com/OptimalBits/bull Queue system over Redis, in nodejs
 - http://jxnblk.com/writing/posts/defining-component-apis-in-react/ Tips about writing ReactJS components
@@ -3835,46 +2459,32 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://github.com/prometheus/prometheus/blob/master/documentation/internal_architecture.md Internal Architecture of Prometheus
 - https://www.imaging-resource.com/news/2018/07/17/pixels-for-geeks-a-peek-inside-nikons-super-secret-sensor-design-lab A peek inside Nikon’s super-secret sensor design lab
 - https://github.com/imbrn/v8n A sweet and fluent Javascript validation library
-
 # 18-07-2018
-
 - https://www.confluent.io/blog/apache-kafka-vs-enterprise-service-bus-esb-friends-enemies-or-frenemies/ Kafka vs. Enterprise Service Bus (ESB)
 - https://medium.com/google-design/google-photos-45b714dfbed1 Building the Google Photos Web UI
 - https://leanpub.com/esversioning/read#leanpub-auto-general-versioning-concerns Read Versioning in an Event Sourced System
 - https://github.com/hasura/graphql-engine GraphQL APIs over Postgres with fine grained access control
-
 # 17-07-2018
-
 - https://cloudplatform.googleblog.com/2018/07/cloud-spanner-adds-import-export-functionality-to-ease-data-movement.html Cloud Spanner adds import/export functionality (avro)
-
 # 16-07-2018
-
 - https://fosdem.org/2018/schedule/event/datastore/attachments/slides/2618/export/events/attachments/datastore/slides/2618/designing_distributed_datastore_in_go_timbala.pdf Designing and building a distributed timeseries datastore in Go: Timbala
 - https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/ A simple illustrated explanation of the CAP Theorem
 - https://github.com/andyburgin/hadoopi Hadoop over Raspberry Pi 3's \o/
-
 # 15-07-2018
-
 - http://degoes.net/articles/fpoop-vs-fp FP-OOP vs FP: the case of IO
-
 # 13-07-2018
-
 - http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/ Why You Should Never Use MongoDB: documents are for self-contained content only
 - http://blog.memsql.com/nosql/ From SQL to NoSQL to NewSQL
 - https://www.gethighlights.co/blog/choose-right-analytics-platform/ Study of the available Analytics platforms (Google, Mixpanel, Amplitude, Heap, Flurry, Pendo, Hotjar..)
 - https://medium.com/@duhroach/the-impact-of-blocksize-on-persistent-disk-performance-7e50a85b2647 Throughput (M/sB) = IOPS \* Blocksize
 - https://medium.com/bigpanda-engineering/understanding-parametricity-in-scala-520f9f10679a Why Parametricity is good to use: less features space, less mistakes
-
 # 12-07-2018
-
 - https://www.deps.co/blog/google-cloud-platform-good-bad-ugly/ Google Cloud Platform - The Good, Bad, and Ugly
 - https://www.youtube.com/watch?v=QM86Ab3lL20 Nice talk about generalizing the more (don't commit to an impl just yet) we can to simplify our code (using cats-mtl here)
 - https://www.youtube.com/watch?v=RySodlS3cSI Beyond MonadError, change types when we know errors are handled
 - https://jvns.ca/blog/2018/07/11/netdev-day-1--ipsec/ Some IPsec knowledge, basically a TLS for ips
 - https://getstream.io/blog/takeaways-on-building-a-react-based-app-with-electron/ Takeaways on Building a React Based App with Electron
-
 # 11-07-2018
-
 - https://www.youtube.com/watch?v=v8IQ-X2HkGE The problem with Scala (academic, not business oriented, too many features, oop should be removed and focus on fp)
 - https://css-tricks.com/the-css-paint-api/ The Awesome CSS Paint API !
 - https://www.sitepen.com/blog/2018/07/06/web-components-in-2018/ Where are we with the Web Components in 2018 (is this going somewhere?)
@@ -3884,16 +2494,12 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://hpbn.co/ Finally, I've read what I wanted from this reference: High Performance Browser Networking
 - https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60 Spark performance tuning
 - https://www.karllhughes.com/posts/plumbing "The Bulk of Software Engineering in 2018 is Just Plumbing"
-
 # 10-07-2018
-
 - https://cloudplatform.googleblog.com/2018/07/introducing-jib-build-java-docker-images-better.html Jib: build & publish Java Docker image from mvn
 - https://www.youtube.com/watch?v=lIWCxRBaQG8 Bartosz Milewski - Free Monoidal Functors
 - http://sellmysite.com/keyword-research/ SEO Keywords research done right
 - https://github.com/annoy4s/annoy4s Approximate Nearest Neighbors in Scala, JNA wrapper around spotify/annoy
-
 # 09-07-2018
-
 - https://nothingventured.rocks/agile-story-grooming-checklist-75d953ea863b A story and checklist to do story grooming to avoid simplicity bias, mental fatigue, and team incomfort
 - https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684 Vue.js: the good, the meh, and the ugly
 - https://typelevel.org/blog/2018/06/27/optimizing-tagless-final-2.html Optimizing Tagless Final by generalizing using FunctorK and CartesianK
@@ -3903,22 +2509,16 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.youtube.com/watch?v=-f-7l8X716k Bootstrap a Simple REST API with Spring Data REST and Spring Boot 2. - Yeah, annotations and runtime magic everywhere!
 - https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2 Providing a type-safe Scala APIs (typeclasses+shapeless for derivation) based on a Java API
 - https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3 Compiling Scala Faster with GraalVM. Demonstrating GraalVM CE and native-image for Scala.
-
 # 04-07-2018
-
 - https://medium.com/google-cloud/kubernetes-w-lets-encrypt-cloud-dns-c888b2ff8c0e Kubernetes w/ Let’s Encrypt & Cloud DNS
 - https://slideslive.com/38908182/functional-interpreters-and-you Interpreters used with the free monad and tagless final encoding
 - https://robertheaton.com/2018/07/02/stylish-browser-extension-steals-your-internet-history/ "Stylish" browser extension is a piece of shit: steals all your internet history
-
 # 03-07-2018
-
 - https://remotemarketing.org/4-million/ Really cool feedback about their road to \$4 million ARR
 - https://dev.to/juanmanuelramallo/i-was-billed-for-14k-usd-on-amazon-web-services-17fn Never commit your AWS tokens :(
 - https://www.infoq.com/presentations/java-jvm-scalability Java itself from the smallest usage (JavaCard) to the biggest (cloud, love the: "-Xmx=100\$") + understanding what the Java Language Spec is for. JVMs must focus on ML capabilities / specialized hardware (gpu, asic, etc.)
 - https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b never used npx before, cool stuff to avoid global package, and nice features like reading from a gist
-
 # 02-07-2018
-
 - https://github.com/scalaz/scalaz-plugin Excellent compiler plugin to ensure a better fp-oriented code. (no null, no \*instanceOf, no side-effects, no equals, toString etc.)
 - https://www.digitalocean.com/community/tutorials/architecting-applications-for-kubernetes Tips about architecting applications for Kubernetes
 - https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/ An cool feedback from developer to CTO managing more than 100 engineers
@@ -3929,14 +2529,10 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.edrawsoft.com/google-cloud-platform-software.php Drawingi GCP Diagram with edrawsoft
 - https://blog.acolyer.org/2018/07/02/the-rise-of-the-citizen-developer-assessing-the-security-impact-of-online-app-generators/ Most mobile apps generated by generators have tons of security issues
 - http://tayler.io/jobs-to-be-done-summary/ Formulate outcome statements as ‘[direction], [metric], [object of control], [optional: contextual clarifier]’
-
 # 01-07-2018
-
 - https://www.slideshare.net/piggybox/migration-from-redshift-to-spark Migration from Redshift to Spark on EMR
 - https://medium.com/@serverpunch/why-you-should-not-use-google-cloud-75ea2aec00de A crazy story where the whole GCP project was shut down unexpectedly by Google Oo
-
 # 29-06-2018
-
 - https://www.youtube.com/watch?v=hUwNgxwN_pE NerdWallet website: from 0 to 1m Monthly Visitors thanks to SEO and good content
 - http://tech.marksblogg.com/billion-nyc-taxi-rides-sqlite-parquet-hdfs.html 1.1 Billion Taxi Rides with SQLite, Parquet & HDFS
 - https://news.umich.edu/u-m-researchers-create-worlds-smallest-computer/ 0.3 mm: this is very small computer
@@ -3944,34 +2540,26 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/google-cloud/airflow-for-google-cloud-part-1-d7da9a048aa4 Using Airflow to insert data into BigQuery (going through Avro)
 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale.html The Infrastructure Behind Twitter
 - https://speakerdeck.com/tpolecat/functional-programming-with-effects?slide=157 Sweet presentation of effects in FP by tpolecat
-
 # 28-06-2018
-
 - https://slideslive.com/38907884/adding-kindpolymorphism-to-the-scala-programming-language Kind polymorphism in scala!
 - https://medium.com/dailyjs/threads-in-node-10-5-0-a-practical-intro-3b85a0a3c953 Threads in nodejs !
 - https://css-tricks.com/drawing-images-with-css-gradients/ Drawing Images with CSS Gradients (linear and radial)
 - https://fil.forbrukerradet.no/wp-content/uploads/2018/06/2018-06-27-deceived-by-design-final.pdf A study of Google/Facebook/Microsoft UI/UX using "dark patterns" to discourage users from exercising rights to privacy
 - https://nickjanetakis.com/blog/docker-tip-60-what-really-happens-when-you-run-docker-compose-up?mkt_tok=eyJpIjoiWmpFeE5HUTROR1UyTnpkaSIsInQiOiJYOUNNdlpnTm9XUEhhem8rWDhPXC9GQXJPa3VZNTBxcnFsQmlGRFFtUjZuSXlvaUZHa1N0amZkcXBBS2RDSmtDaVJLQllCc1lJY09xQ1wvVVwvMGxnUEQ2bXJlbStUTThsMGsyZkNtT2RiaE1QbDNnUFYwaWtqdkJndzh2c0s1V25jQSJ9 What Really Happens When You Run docker-compose up?
 - https://www.cambus.net/oldest-domains-in-the-com-net-and-org-tlds/ Oldest domains in the .com, .net, and .org TLDs: mostly short names btw
-
 # 27-06-2018
-
 - https://slideslive.com/38908147/unshaped-protos-beyond-code-generation-for-protocol-buffers Exploration to deal with custom classes in ScalaPB (manual, shapeless, macros)
 - https://eng.uber.com/h3/ City mapping and bucketing with hexagons instead of classic squares
 - https://www.youtube.com/watch?v=CIPGZzbPpeg John A. De Goes, about the Design of the Scalaz 8 Effect System (IO, Fiber)
 - https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325 Taking control of IoTs through DNS Rebinding, yikes
 - https://cloudplatform.googleblog.com/2018/06/New-Cloud-Filestore-service-brings-GCP-users-high-performance-file-storage.html Filestore: a new high-performance filesystem for GCP to bind to VMs
-
 # 26-06-2018
-
 - https://blog.zenika.com/2018/04/27/traefik-comme-reverse-proxy-sur-gke/ Traefik on GKE with letsencrypt
 - https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b?gi=8e8fac87cdc New operators in Javascript incoming. ? ?? |>
 - https://mapr.com/blog/how-guide-getting-started-apache-drill/ A long overview of Apache Drill
 - https://www.infoq.com/articles/C4-architecture-model The C4 Model for Software Architecture, 4 types of diagrams: "Context, Containers, Components, Code (uml)"
 - https://docs.scala-lang.org/overviews/compiler-options/index.html New page: Scala Compiler Options, so many options we never use
-
 # 25-06-2018
-
 - https://prospect.io/blog/cold-email-illegal/ Cold email and laws: where it is okay, where it is not
 - https://dev.to/indy_singh_uk/strings-are-evil-9f9 Parsing a csv, from 8GB memory to 32kb (using the same byte buffer over and over, avoid StringBuffer, split..)
 - https://javelin.com/ Javalin is a really nice "all-in-one" software for startups and innovation teams, helping you defining the necessary steps to launch
@@ -3981,50 +2569,36 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/futuretech-industries/postgres-raffle-10k-connections-35-mo-part-two-b4c2e0c86e37 Demonstrating the usage of PgBouncer and its options
 - https://www.citusdata.com/blog/2018/06/14/scalable-incremental-data-aggregation/ Rollups using Citus
 - https://github.com/facebookresearch/DensePose mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
-
 # 24-06-2018
-
 - https://making.pusher.com/how-pusher-channels-has-delivered-10000000000000-messages/index.html LB, sharding, fan-out with Redis to deliver tons of messages per sec
 - https://blog.stephanbehnke.com/3-years-on-google-app-engine-an-epic-review/ 3 years on Google App Engine. An Epic Review (from 2016 !).
-
 # 23-06-2018
-
 - https://www.computerworld.com/article/3162416/data-center/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer.html Booted up in 1993, this server was still running last year :o
 - https://vincent.bernat.im/en/blog/2017-ipv4-route-lookup-linux IPv4 routes are stored as Patricia trie (a compressed trie)
 - https://www.bloomberg.com/news/articles/2018-06-21/states-can-require-internet-tax-collection-supreme-court-rules-jiomtl5c More taxes for online retailers such as amazon, ebay, etsy etc.
-
 # 22-06-2018
-
 - https://www.scylladb.com/2018/06/21/impact-virtualization-database/ "The Impact of Virtualization on Your Database": bare metal have ~30% better throughput, use way less cpu, and way lower read latencies
 - https://bettereveryday.vc/how-much-traction-do-you-really-need-to-raise-a-seed-or-series-a-round-5fb0cf532201 Some thresholds to know about, in order to seed or series A, according to the type of business
 - https://www.youtube.com/watch?v=JZPXzJ5tp9w Nice talk about functors, contra & profunctors
 - https://cloudplatform.googleblog.com/2018/06/How-to-connect-Stackdriver-to-external-monitoring.html using webhooks called by StackDriver to monitor external resources
-
 # 21-06-2018
-
 - http://blog.karumi.com/replacing-creational-patterns-for-testing-with-property-based-generators/ Scalacheck generators ftw
 - https://v8project.blogspot.com/2018/06/v8-release-68.html Speed & memory improvements in V8!
 - https://medium.com/netflix-techblog/simplifying-media-innovation-at-netflix-with-archer-3f8cbb0e2bcb Archer: media processing at scale, make easy
 - https://arp242.net/weblog/yaml_probably_not_so_great_after_all.html YAML sucks
 - https://samnewman.io/patterns/architectural/bff/ When to use or not use Backends For Frontends pattern (BFF)
-
 # 20-06-2018
-
 - https://typelevel.org/blog/2018/06/15/typedapi.html How to derive clients and servers from types. Shapeless inside.
 - https://www.smashingmagazine.com/2018/06/placeholder-attribute/ Don’t Use The Placeholder Attribute; a11y, translation, interop, help
 - https://blog.softwaremill.com/akka-vs-zio-vs-monix-part-2-communication-9ce7261aa08c A web crawler implements with Akka vs ZIO vs Monix.
 - https://jakearchibald.com/2018/i-discovered-a-browser-bug/ Bypassing CORS to get data from other websites :o
 - https://cloudplatform.googleblog.com/2018/06/Cloud-TPU-now-offers-preemptible-pricing-and-global-availability.html Preemptible Cloud TPUs ftw. Cost--.
 - https://github.com/dylanaraps/pure-bash-bible You think you know bash?
-
 # 19-06-2018
-
 - https://stripe.com/atlas/guides/ama-tom-blomfield A nice AMA with Monzo, a modern-day bank.
 - http://www.unixguide.net/unix/faq/1.3.shtml "What does {some strange unix command name} stand for?" some are good to remember
 - https://gregable.com/2010/09/why-you-should-know-just-little-awk.html Awk can tremendously help just by knowing so little
-
 # 18-06-2018
-
 - https://www.infoq.com/presentations/liberty-monolith-ddd-microservices Deconstructing Monoliths with Domain-driven Design
 - https://www.scala-lang.org/blog/2018/06/15/bsp.html The day DSP fully works will be blessed (because currently, in Intellij, it's.........)
 - http://highscalability.com/blog/2018/6/18/how-ably-efficiently-implemented-consistent-hashing.html Consistent Hashing explained
@@ -4038,44 +2612,32 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://blog.gojekengineering.com/kafka-4066a4ea8d0d Feedback about the need to have a frontier kafka to deal with failures (backed with Redis)
 - https://pierangeloc.github.io/blog/2018/06/01/on-RT-and-FP Sweet recap about why referential transparency is necessary to have a local and easy reasoning
 - https://nrinaudo.github.io/workshop-minimum-git/#1 Nice slides to ensure you know the "bare minimum" of git
-
 # 16-06-2018
-
 - https://medium.freecodecamp.org/the-top-contributors-to-github-2017-be98ab854e87 Always interesting to know the "big names" doing open sources
 - https://facebook.github.io/react-native/blog/2018/06/14/state-of-react-native-2018 React Native goes into a refactoring process (for the better)
-
 # 15-06-2018
-
 - https://www.cybertec-postgresql.com/en/index-decreases-select-performance/# Postgres sometimes think using a given index will be faster, but it's not always the case
 - https://www.elastic.co/blog/elasticsearch-6-3-0-released Elasticsearch now do rollups (batch jobs)
 - https://cloudplatform.googleblog.com/2018/06/Behind-the-scenes-with-the-Dragon-Ball-Legends-GCP-backend.html Dragon Ball Legends is GCP backed! Spanner, Google Network for low latency using its PoPs, PubSub, Dataflow, BigQuery. Scalability to the max!
 - https://github.com/Netflix/pollyjs/ Record, Replay, and Stub HTTP Interactions.
 - https://kubuszok.com/2018/sbt-tips-and-tricks/ A sweet recap of sbt how-to and useful plugins
-
 # 14-06-2018
-
 - https://www.slideshare.net/avleenvig/elk-mooseively-scaling-your-log-system Scaling out ELK stack
 - https://cloudplatform.googleblog.com/2018/06/Introducing-QUIC-support-for-HTTPS-load-balancing.html You should now enable QUIC support on your HTTPS load balancers
 - https://www.microsoft.com/developerblog/2016/05/26/creating-universal-windows-apps-with-react-native/ I didn't see that one: react-native-windows
 - https://twitter.com/thelarkinn/status/1006746626617008128?s=21 Microsoft going almost-full-typescript (Skype, Office 365..)
-
 # 13-06-2018
-
 - https://www.scala-lang.org/blog/2018/06/13/scala-213-collections.html Sweet and short summary of Scala 2.13’s Collections changes
 - https://cloudplatform.googleblog.com/2018/06/Now-you-can-deploy-your-Node-js-app-to-App-Engine-standard-environment.html node.js into App Engine standard
 - https://medium.com/@olxc/ethereum-and-smart-contracts-basics-e5c84838b19 Ethereum and smart contracts basics
 - https://medium.com/@olxc/catamorphisms-and-f-algebras-b4e91380d134 Catamorphisms and F-Algebras
-
 # 12-06-2018
-
 - https://www.smashingmagazine.com/2018/06/nodejs-tools-techniques-performance-servers/ Using autocannon (load tester) and clinic to analyze and improve a nodejs server using frame graphs
 - http://rea.tech/use-the-decorator-pattern-for-clean-i-o-boundaries/ Using decorator pattern for separation of concerns and in particular here, I/O boundaries
 - https://www.loriskumo.com/journal/guide-typographique-de-base Guide typographique de base, ou l'écriture pour les pros.
 - https://blog.softwaremill.com/scalaz-8-io-vs-akka-typed-actors-vs-monix-part-1-5672657169e1 Scalaz 8 IO vs Akka (typed) actors vs Monix; using a rate limiter example.
 - https://engineeringblog.yelp.com/2018/06/yelps-secret-detector.html Preventing Secrets in Source Code by looking for high entropy strings: smart
-
 # 11-06-2018
-
 - https://www.youtube.com/watch?v=SV-cgdobtTA Learning Deep Learning in JS
 - https://gist.github.com/SystemFw/deb56c93e37af6a1fb1b48f878256b6b Explaining some of the mechanics of interpretation of Free programs
 - https://medium.com/@simon.aubury/using-ksql-apache-kafka-a-raspberry-pi-and-a-software-defined-radio-to-find-the-plane-that-wakes-14f6f9e74584 Using KSQL to track planes
@@ -4083,9 +2645,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://medium.com/@andy.bryant/kafka-streams-work-allocation-4f31c24753cc Understanding how Kafka Streams tasks allocation works
 - https://restoreprivacy.com/google-alternatives/ Alternatives to Google Products, privacy-oriented
 - https://www.destroyallsoftware.com/blog/2017/the-biggest-and-weirdest-commits-in-linux-kernel-git-history octopus merge in git! (more than 2 parents)
-
 # 08-06-2018
-
 - https://medium.com/google-cloud/google-kubernetes-engine-load-testing-and-auto-scaling-with-locust-ceefc088c5b3 "workshop": playing with GKE and do some load-testing using Locust, then k8s auto-scaling
 - https://medium.com/blablacar-tech/streaming-data-out-of-the-monolith-building-a-highly-reliable-cdc-stack-d71599131acb Cool feedback using CDC to migrate stuff and adding a deduplicator app (as always) —because CDC=at least once— backed by Cassandra LOCAL_QUORUM (strong cons)
 - https://cloudplatform.googleblog.com/2018/06/Introducing-sole-tenant-nodes-for-Google-Compute-Engine.html GCP now provides machines for yourself!
@@ -4096,16 +2656,12 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://streaml.io/blog/pulsar-topic-compaction/ Pulsar now can compact topics too
 - https://www.jetbrains.com/research/devecosystem-2018/scala/ A very odd Scala survey (30% on 2.13? 26% on java9? 25% are not using any lib to do webdev?)
 - https://plokhotnyuk.github.io/jsoniter-scala/ jsoniter-scala has tons of public benchmarks. It just beats 'em all (throughput, mem alloc, gc..)
-
 # 06-06-2018
-
 - https://www.slideshare.net/jdegoes/blazing-fast-pure-effects-without-monads-lambdaconf-2018 New type in scalaz8: KleisliIO, to dispatch effects with performance
 - https://medium.com/@urish/thank-you-google-how-to-mine-bitcoin-on-googles-bigquery-1c8e17b04e62 Mining Bitcoin on Google’s BigQuery Oo
 - https://www.confluent.io/blog/may-preview-release-advancing-ksql-and-schema-registry/ KSQL and Schema Registry integration into Confluent Platform
 - https://flagtheory.com/stripe-atlas/ Why is Stripe Atlas is Bad for Foreigners? because it's damn complicated
-
 # 05-06-2018
-
 - https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life The steps to create a startup, from the name, to the validation, to the ppl, to the money
 - https://producthabits.com/how-to-design-a-sticky-product-experience/ How to Design a Sticky Product Experience—"In SaaS, your stickiest features won’t necessarily be the ones that are used the most often"
 - https://medium.com/tradecraft-traction/10-ways-to-use-trello-for-product-management-db520b95dd9d Ways to use Trello. I like the retrospective/paint points/grouping usage.
@@ -4113,9 +2669,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://redditblog.com/2017/05/24/view-counting-at-reddit/ Interesting feedback to implement a "View Counting" using Redis (hll) + Cass for persistence
 - https://www.indiehackers.com/@vbordo/from-failed-launch-to-going-viral-on-hacker-news-bdd734e742 If Show HN doesn't work the first time, try again
 - https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing Pool sizing performances
-
 # 04-06-2018
-
 - https://tech.trivago.com/2017/01/25/learn-redis-the-hard-way-in-production/ Basically, don't forget to add a connection pooler to your redis.
 - http://www.vertabelo.com/blog Tons of SQL modeling, from dating app, to restaurant delivery, to santa's!
 - https://blog.outlyer.com/top10-open-source-time-series-databases An "old" (2016) top 10 Time Series Databases with pros and cons.
@@ -4128,23 +2682,17 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://github.com/trueadm/ssr-with-prepack-hackathon Totally removing ReactJS source from the output using prepack (SSR)
 - https://dev-blog.apollodata.com/graphql-over-rest-with-node-heroku-and-apollo-engine-fb8581f8d77f GraphQL over REST with Node, Heroku, and Apollo Engine
 - https://medium.engineering/2-fast-2-furious-migrating-mediums-codebase-without-slowing-down-84b1e33d81f4 Medium is migrating to... _drum rolls_ ReactJS and GraphQL.
-
 # 03-06-2018
-
 - https://www.youtube.com/watch?v=BT9hUusNKQ8 SaaS focus too much on customer acquisition; features cost less and less (because we have more and more SaaS, easier to build nowadays)
 - https://www.julian.com/blog/what-you-should-do-with-your-life Assess your life: What you should do with your life
 - https://www.youtube.com/watch?v=jwG_qR6XmDQ Jeff Bezos about minimizing regrets: try or you'll always regret it
 - https://trac.torproject.org/projects/tor/wiki/org/meetings/2018Rome/Notes/FusionProject Merging Tor and Firefox, to avoid managing Tor's fork.
-
 # 02-06-2018
-
 - https://gist.github.com/gvolpe/d4facceedf12ab7870934cbf9d6174e9 Shared state in fp, flatmap once and pass the ref!
 - https://copyhackers.com/2017/09/cold-emails A story about cold emails
 - https://cloudplatform.googleblog.com/2018/06/Kubernetes-best-practices-upgrading-your-clusters-with-zero-downtime.html k8s upgrade: either do a rolling upgrade, or create a node pools and migrate yourself
 - https://threadreaderapp.com/thread/1002103360646823936.html "How to Get Rich (without getting lucky)" AH! :)
-
 # 01-06-2018
-
 - http://www.mikaelmayer.com/2018/05/23/migrating-makefile-to-mill/ Migrating Makefile to Mill. Not convinced.
 - https://www.useronboard.com/how-duolingo-onboards-new-users/ Duolingo onboarding
 - https://redis.io/topics/streams-intro Redis Streams: a concept similar to Kafka topics with consumers groups
@@ -4155,9 +2703,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://functional.works-hub.com/learn/implicit-implications-part-3-the-future-is-functional-implicitly-c410c Implicit functions in-depth, and comparison with ReaderT usages
 - https://sake92.github.io/hepek/index.html A Scala static website generator
 - https://www.wrike.com/ A project management/kanban/gantt/etc. tools for your business
-
 # 31-05-2018
-
 - https://www.w3.org/TR/websub/ WebSub, a new standard to deal with HTTP web hooks
 - http://shoutcloud.io/ SHOUTCLOUD: THE CLOUD THAT SHOUTS BACK
 - https://japgolly.blogspot.com/2017/06/dependently-typed-functions.html Dealing with dependently-typed functions
@@ -4169,25 +2715,19 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://zachholman.com/talk/utc-is-enough-for-everyone-right Talking about history, timezones, UTC is always a fun story
 - https://cloudplatform.googleblog.com/2018/05/Cloud-Source-Repositories-more-than-just-a-private-Git-repository.html Cloud Source Repositories features: git (ofc), trigger auto-build (container, appengine), integrated with stackdriver debug
 - https://github.com/yandex/odyssey Another PostgreSQL connection pooler
-
 # 30-05-2018
-
 - https://jrsinclair.com/articles/2017/faster-better-cheaper-art-of-making-software/ Reduce customer pain, reduce lead time, estimates are useless, make developer feel the customer pain, have a tigh feedback loop
 - https://warpspire.com/posts/work-life-balance "How many hours you work" is not a useful metric
 - https://www.devmynd.com/blog/five-factor-testing/ Why write tests
 - https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439 Of the usage of UUIDs as PK
 - https://www.slideshare.net/julienledem/improving-python-and-spark-performance-and-interoperability-with-apache-arrow Arrow, or Parquet in-memory, as a standard in-memory columnar structure
 - https://kubuszok.com/2018/relearn-your-sbt/ Reintroduction of sbt for those who knows it
-
 # 29-05-2018
-
 - https://www.youtube.com/watch?v=z-6JC0_cOns React Suspense (async rendering and dealing with spinners) and smarter SSR
 - https://github.com/eli-jordan/tagless-final-jam A sweet and short workshop on tagless final
 - http://joeduffyblog.com/2013/02/17/software-leadership-series/ Superb series about Software Leadership, a must-read
 - http://www.nicolasbize.com/blog/30-years-later-qbasic-is-still-the-best/ I've started with QBasic too, wonderful memories <3
-
 # 28-05-2018
-
 - http://joeduffyblog.com/2015/11/03/blogging-about-midori/ HUGE amazing feedbacks about several parts of Midori, a (discontinued) project from Microsoft. From capabilities, asynchronous model, error model, concurrency, why, how etc.
 - http://chrisseaton.com/truffleruby/jokerconf17/ Graal is a masterpiece. A Java JIT, an AOT compiler (SubstrateVM), and with Truffle, a framework to get polyglottism on top of the JVM
 - http://eed3si9n.com/power-assert-with-expecty Expecty or exactly know why an assertion failed
@@ -4202,26 +2742,18 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://segment.com/blog/introducing-centrifuge/ How segment built a system to deliver events to partners (failures, fairness, scalability..)
 - https://pgdash.io/blog/partition-postgres-11.html Finally, with the tons of improvements they did, the partitions in pg11 look useful!
 - https://speakerdeck.com/paf31/the-future-is-comonadic Comonads for user interfaces
-
 # 27-05-2018
-
 - https://cloudplatform.googleblog.com/2018/05/Kubernetes-best-practices-mapping-external-services.html Access to an external resource from k8s: service without selector + endpoint, or ExternalName service to act as cname
 - https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/ The Importance of Deep Work & The 30-Hour Method for Learning a New Skill
-
 # 26-05-2018
-
 - https://eng.uber.com/deckgl-v5/ deck.gl v5: react-independant!
 - https://apility.io/2018/05/25/gdpr-lazy-block-european-users-cloudflare-workers/ Block all European users. \o/
-
 # 25-05-2018
-
 - https://medium.com/@joang/a-cqrs-approach-with-kafka-streams-and-scala-49bfa78e4295 Simple API + CQRS using Kafka Streams
 - https://thenewstack.io/gatsbyjs-the-open-source-react-based-ssg-creates-company-to-evolve-cloud-native-website-builds/ Gatsby is now a startup
 - https://www.youtube.com/watch?v=uZnHMhtMEbo "Implementation" of actors Actors using Cats Effect and FS2
 - http://blog.rekawek.eu/2017/02/09/coffee-gb/ Implementing a Gameboy emulator is the new Todo list, err, HN tutorial.
-
 # 24-05-2018
-
 - https://typelevel.org/blog/2018/05/09/tagless-final-streaming.html Sweet exploration of Tagless Final with fs2.Stream
 - https://github.com/scodec/scodec Working with binary data in Scala
 - https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80 Cool gist about tagless final vs initial encoding; and extensibility/transformations
@@ -4238,9 +2770,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - http://blog.leifbattermann.de/2017/04/21/12-things-you-should-know-about-event-sourcing/ How to do Event Sourcing
 - https://blog.softwaremill.com/scalar-2018-whiteboard-voting-results-c6f50f8fb16d Scalar 2018 whiteboard voting results, to know with what the community is working with, see if you're not far away
 - https://cloudplatform.googleblog.com/2018/05/Better-cost-control-with-Google-Cloud-Billing-programmatic-notifications.html on GCP, budget now generates proper events we can react to (pubsub'ed)
-
 # 23-05-2018
-
 - https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html git new protocol, to reduce bandwidth usage for huge projects (tons of branches and tags)
 - https://techblog.bozho.net/gdpr-practical-guide-developers/ GDPR - A (very good) Practical Guide For Developers
 - https://jacquesmattheij.com/gdpr-hysteria GDPR myths busting
@@ -4265,9 +2795,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - https://www.reddit.com/r/tifu/comments/8kvias/tifu_by_getting_google_to_ban_our_entire_company/ "Getting Google to ban our entire company"
 - https://threadreaderapp.com/thread/998660806005768192.html @Suhail providing insights about becaming CEO
 - https://github.com/olistic/warriorjs A programming game where your warrior has feeling
-
 # 22-05-2018
-
 - http://degoes.net/articles/bifunctor-io Scalaz IO[E, A] distinguish between recoverable & non-recoverable errors, can represent IO that _won't_ fail (already .attempt for instance), make errors composition explicit, is a superset of the existing IO[A] so no need to worry about.
 - https://www.oreilly.com/ideas/how-will-the-gdpr-impact-machine-learning How will the GDPR impact machine learning?
 - https://medium.com/webpack/webpacks-new-cli-hotness-d6a2063168a8 I didn't used webpack in ages, but still nice to see its CLI getting very good!
@@ -4286,54 +2814,39 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 - http://twicsy-blog.tumblr.com/post/174063770074/how-i-targeted-the-reddit-ceo-with-facebook-ads-to Using Facebook ads to target the Reddit CEO to make it read your own article, ahah
 - https://cloudplatform.googleblog.com/2018/05/Google-Kubernetes-Engine-1-10-is-generally-available-and-ready-for-the-enterprise.html GKE goes full scale: Regional PD and Regional Clusters (multi-masters)
 - https://medium.com/@sinisalouc/whats-new-in-scala-3-28d9c11eec30 A written recap of what's new in Scala 3
-
 # 21-05-2018 (back from :norway: :heart:)
-
 - http://eed3si9n.com/hot-source-dependencies-using-sbt-sriracha working with unpublished dependencies directy using the sources (to test newer scala version for instances)
 - https://www.slideshare.net/Odersky/preparing-for-scala-3 Updated slides about Scala 3 roadmap (very clear)
 - https://www.saastr.com/catfished-by-a-candidate/ A catfish candidate wouldn't appear in the code-tech industry!
 - https://github.com/chrissimpkins/Crunch Lossy PNG image optimization
-
 # 05-05-2018
-
 - http://blog.leifbattermann.de/2017/04/21/12-things-you-should-know-about-event-sourcing/ A nice recap about ES
 - https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/ A kind of Airflow (ie: an ETL) dedicated to data processing
 - http://degoes.net/articles/effects-without-transformers Details about why MTL is a trade-off in Scala (large overhead), and even more when we want to get them stack-safe. Could be limited by using dedicated monads such as MonadState (instead of StateT), and IO of Scalaz8.
 - https://speakerdeck.com/dwestheide/the-essence-and-fundamentals-of-scala Scala for the newcomer
 - https://slides.com/ivantopo/dtw/ A recent presentation of Kamon features. Soon, without AspectJ!
-
 # 04-05-2018
-
 Being on holidays in Norway :norway:, I won't post a lot of links during a few weeks.
-
 - https://medium.com/@mustafaakin/previewing-elasticsearch-6-3-sql-feature-2d3a1d60cab4 SQL in Elasticsearch, no more complex JSON language to memorize (i always forget it anyway).
-
 # 03-05-2018
-
 - https://www.confluent.io/blog/introducing-the-confluent-operator-apache-kafka-on-kubernetes/ Confluent working on Kafka for Kubernetes
 - https://www.slideshare.net/jdegoes/scalaz-8-a-whole-new-game A damn good presentation about incoming Scalaz 8
 - https://medium.com/padlet-ink/an-honest-guide-to-the-san-francisco-startup-life-6df13d23689 Hialrious guide to San Francisco startup life
 - https://engineeringblog.yelp.com/2018/05/android-search-perf-improvements-part-1.html How Yelp improves its native app (less jank), because #perfmatters
 - https://akka.io/blog/news/2018/05/02/alpakka-team Alpakka has now its own team. EAI ftw.
-
 # 02-05-2018
-
 - https://news.ycombinator.com/item?id=16954306 A one-man startup shuts down because he can't assume GDPR regulations
 - https://spectrum.ieee.org/telecom/internet/your-guide-to-the-gdpr A clear guide to the GDPR
 - https://cloudplatform.googleblog.com/2018/05/regional-replication-for-cloud-bigtable.html Bigtable replications in multiple zones (same region)
 - https://github.com/cyanharlow/purecss-francine Come on, a portrait in pure css manually crafted. How on earth.
-
 # 01-05-2018
-
 - https://www.confluent.io/blog/introducing-confluent-platform-preview-releases/ a UI for KSQL (in Confluent Control Center), misc protections around deletion of kstreams, and more features, looks good
 - https://developers.google.com/web/updates/2018/05/bigint BigInt: arbitrary-precision integers in JavaScript
 - https://www.youtube.com/watch?v=V10hzjgoklA Category Theory by Philip Wadler
 - https://reactjs.org/blog/2018/03/01/sneak-peek-beyond-react-16.html Very cool features in React to suspend rendering and load anything async (+ display loaders if needed) data very cleanly
 - https://www.scala-lang.org/blog/2018/04/30/in-a-nutshell.html Scala 3 macros update
 - http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/ I'm barely following the react scene nowaydays, and "Redux - Not Dead Yet!" Seems some FUD was spread.
-
 # 30-04-2018
-
 - https://dzone.com/articles/understanding-sunmiscunsafe Demystifying java's Unsafe
 - https://arstechnica.com/tech-policy/2018/04/france-seizes-france-com-from-man-whos-had-it-since-94-so-he-sues/ France seizes France.com from man who’s had it since ‘94, so he sues
 - https://github.com/scala/scala-collection-compat/ Already use Scala 2.13 Collection Compatibility in 2.12 !
@@ -4343,9 +2856,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.infoq.com/presentations/taking-back-swe Interesting talk about Software Engineering in general
 - https://github.com/airflow-plugins Tons of Airflow Plugins maintained by Astronomer, Inc
 - https://www.slideshare.net/tedmiston/momentum-dev-con-airflow-talk-final-version-pdf/tedmiston/momentum-dev-con-airflow-talk-final-version-pdf Modern Data Pipelines with Apache Airflow (Momentum Dev Con 2018)
-
 # 29-04-2018
-
 - https://www.slideshare.net/jboner/scalability-availability-stability-patterns Long presentation about scalability, availability & stability patterns
 - https://www.youtube.com/watch?v=IOiZatlZtGU "Propositions as Types" by Philip Wadler. Links between theorem provers and programming languages.
 - https://www.youtube.com/watch?v=VCeHkcwfF9Q Shenandoah explained by Aleksey Shipilev
@@ -4355,9 +2866,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.youtube.com/watch?v=FnDHp3Qya6s JVM JIT for Dummies
 - https://www.youtube.com/watch?v=rPyqB1l4gko JVM Bytecode for Dummies (and the Rest of Us Too)
 - https://www.youtube.com/watch?v=_cltA0W-ehQ A Google talk from 2006 (!) about building large systems at Google (scalability, MR, bigtable, hardware)
-
 # 28-04-2018
-
 - https://www.epicgames.com/fortnite/en-US/news/postmortem-of-service-outage-4-12 A good and honest postmortem of a 22h outage on Fortnite, mostly centered around MongoDB
 - https://github.com/nhnent/tui.calendar A JavaScript calendar very similar to the Google Agenda's
 - https://www.youtube.com/watch?v=6nyGVgGEKdA Excellent talk presenting Optics
@@ -4366,18 +2875,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/neo4j/graph-visualization-with-neo4j-using-neovis-js-a2ecaaa7c379 Graph visualization with neo4j using neovis.js
 - https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-Organizing-with-Namespaces.html Organizing kubernetes with namespaces
 - https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/ Soon, a StackOverflow ISSUE_TEMPLATE for beginners
-
 # 27-04-2018
-
 - http://tomasp.net/coeffects/ Coeffects and Comonad: Context-aware programming languages
 - https://thoughts.t37.net/designing-the-perfect-elasticsearch-cluster-the-almost-definitive-guide-e614eabc1a87 A nice guide about designing an elasticsearch cluster
 - https://www.infoq.com/news/2018/04/oracle-graalvm-v1 Interview from the Research Directory at Oracle Labs about GraalVM: why it exists, features, "concurrents", roadmap
 - https://github.com/lampepfl/dotty/issues/4389 A code fuzzer that blows up Dotty quite a lot.
 - https://cloud.google.com/kubernetes-engine/kubernetes-comic/ A gem: learn what is Kubernetes through a comic with the Goddess Athena.
 - https://cloudplatform.googleblog.com/2018/04/Introducing-Kubernetes-Catalog-and-GCP-Open-Service-Broker.html An addon to kubernetes on GCP to "find and connect services to your cloud-native apps". Not sure I understand the thing and the need.
-
 # 26-04-2018
-
 - https://jobs.zalando.com/tech/blog/distributed-cache-akka-kubernetes/ Distributed cache using Akka Cluster on Kubernetes with StatefulSets
 - http://olegpy.com/better-logging-monix-1/ Using Monix's Local to deal with MDC
 - https://medium.com/graalvm/graalvm-ten-things-12d9111f307d GraalVM is definitely a crazy project changing the world of languages. Mind blow.
@@ -4385,9 +2890,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.infoq.com/presentations/tensorflow-ml Great talk from Google about TensorFlow and the need of TPUs
 - https://www.infoq.com/presentations/linuxkit-agile-os unikernels, linuxkit, eBPF, where OS are going
 - https://cloudplatform.googleblog.com/2018/04/Accelerating-innovation-for-cloud-native-managed-databases.html Bigtable regional replication, Redis (Cloud Memorystore) as a managed service
-
 # 25-04-2018
-
 - https://www.youtube.com/watch?v=0vfFHMGESVQ Let's Talk About Invokedynamic
 - https://fpj.me/2017/07/04/no-consensus-in-exactly-once/ Consensus and exactly-once
 - https://medium.com/myheritage-engineering/kafka-to-bigquery-load-a-guide-for-streaming-billions-of-daily-events-cbbf31f4b737 Different strategies to send data from Kafka to BigQuery
@@ -4396,9 +2899,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.christianposta.com/microservices/application-network-functions-with-esbs-api-management-and-now-service-mesh/ From ESBs to API Gateways and Service Mesh
 - https://dzone.com/articles/synchronous-or-asynchronous-and-why-wrestle-with-wrappers Synchronous and Asynchronous code, why, how
 - https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f Internet security at stake
-
 # 24-04-2018
-
 - https://www.youtube.com/watch?v=eublKlalobg Kafka Summit 2018 Keynote
 - https://github.com/LukaJCB/typeclass-proposal LukaJCB/typeclass-proposal: Typeclass proposal for Dotty
 - https://www.youtube.com/watch?v=FBg7K6LKdVg macros: syntactif stuff, shapeless: structural stuff
@@ -4415,27 +2916,19 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://blog.ssanj.net/posts/2017-04-12-how-does-scalacheck-shrinking-work.html Property based testing shrinking explained. Unfortunately, doesn't talk about type vs integrated shrinking (which follows invariants).
 - https://threadreaderapp.com/thread/987602838594445312.html Using SQL queries à la old school to reward or reengage customers. No need of ML to do that.
 - https://github.com/scalaz/scalaz/issues/1526 Scalaz 8 Roadmap: implement more and more category theory structures
-
 # 23-04-2018
-
 - http://www.janvsmachine.net/2016/07/effective-typesafe-config.html How to deal properly with a (typesafe) config, naming, organization, units..
 - http://lampwww.epfl.ch/~doeraene/presentations/binary-compat-scala-sphere-2018 Designing libraries for source and binary compatibility can be hard
-
 # 22-04-2018
-
 - https://www.charlesproxy.com/ An alternative to fiddler, to monitor http(s) traffic on a machine (to debug)
 - https://www.youtube.com/watch?v=-4lB5EKS5Uk Nice talk about Freestyle lib in Scala (using Free & Tagless:) to separate concerns. A bit complex at the end for newcomers (running Frees in Frees).
 - https://www.youtube.com/watch?v=_p9_Ut3caLA A truly wonderful talk about Sangria and mostly about GraphQL in general (pros and cons)
 - https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html Asynchronous Programming and Scala
-
 # 21-04-2018
-
 - https://www.confluent.io/blog/apache-kafka-for-service-architectures/ A great article from July 2017 about Apache Kafka architecture
 - http://strategy-madlibs.herokuapp.com/ Business Strategy as a Service, randomly generated, and so real!
 - https://cloudplatform.googleblog.com/2018/04/Kubernetes-best-practices-how-and-why-to-build-small-container-images.html Using multi-build Dockerfile to largely reduce space of image (splitting build and run images); smaller containers also have a smaller attack surface.
-
 # 20-04-2018
-
 - https://read.acloud.guru/how-we-built-a-big-data-analytics-platform-on-aws-for-100-large-users-for-under-2-a-month-b37425b6cc4 Using Amazon Athena (serverless db) to query S3 files to reduce costs (BigQuery can do it too); adding compression and caching to reduce costs again.
 - https://hackernoon.com/unethical-growth-hacks-a-look-into-the-growing-youtube-news-bot-epidemic-e1ef8c98b605 Youtube news videos automatically generated every few minutes, just to get revenue ahah, that exists.
 - http://www.scala-lang.org/blog/2018/04/19/scala-3.html Dotty will become Scala 3.0
@@ -4444,16 +2937,12 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.breakdown-notes.com/makemap All the psychological biases we're dealing with :-(
 - https://github.com/apple/foundationdb Apple open-sourced FoundationDB: a (very great it seems according to HN) distributed transactional (external consistency) key-value store
 - https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/ Update to the "chromatic number of the plane" problem: the answer is now 5 colors! (was 4 previously)
-
 # 19-04-2018
-
 - https://www.infoq.com/presentations/java9-modules Live demo and explanations of how to migrate a spring+hibernate java 8 app to java 9 app, tons of caveats to deal with.
 - https://cloudplatform.googleblog.com/2018/04/Cloud-SQL-for-PostgreSQL-now-generally-available-and-ready-for-your-production-workloads.html CloudSQL backed by PostgreSQL is out of beta
 - https://www.youtube.com/watch?v=m663bWN8KkY A wonderful lib to work with Intervals (of anything) in Scala. Useful for calendar and time allocation logic.
 - https://medium.com/stashaway-engineering/running-a-modern-infrastructure-on-kubernetes-286ad6dab002 Presentation of the different parts needed to properly run a Kubernetes cluster (service discovery, dns, routing, monitoring, logging, deploying, ssl)
-
 # 18-04-2018
-
 - https://www.youtube.com/watch?v=7xSfLPD6tiQ Reading recursive data from database (using Doobie and recursion scheme)
 - https://medium.com/@olxc/catamorphisms-and-f-algebras-b4e91380d134 More on Catamorphisms
 - https://www.youtube.com/watch?v=I-5yvVp74Vk More recursion schemes: Going bananas with recursion schemes for fixed point data types
@@ -4462,9 +2951,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.christianposta.com/our-book-has-been-released-introducing-istio-service-mesh-for-microservices/ A fresh book about Istio!
 - https://github.com/fosskers/scalaz-and-cats#results Benchmarks between Scalaz and Cats updated with the new IO Bifunctor. (note: Haskell is so fast!)
 - https://www.reddit.com/r/haskell/comments/7ykrv3/xkcds_prediction_for_a_haskellrelated_cve_in_2018/dujbmid/?context=3 Discussion about referencial transparency in Haskell/Scala
-
 # 17-04-2018
-
 - https://www.bleepingcomputer.com/news/government/russia-bans-18-million-amazon-and-google-ips-in-attempt-to-block-telegram/ Russia banned millions of ips from Amazon and GCP to block one app. -\_-
 - https://newsroom.fb.com/news/2018/04/data-off-facebook/ "What Data Does Facebook Collect When I’m Not Using Facebook" Social plugins, analytics, ads!
 - https://github.com/uber/prototool "Your Swiss Army Knife for Protocol Buffers"
@@ -4472,9 +2959,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.infoq.com/articles/managing-data-microservices A large feedback about data independance managed by microservices; use events; sagas for "transactions".
 - https://dcgross.com/decide-what-to-build/ Realize you're thinking about a problem you could fix/simplify. Gather info from ppl (market). Tell friends. Start small. Release quickly.
 - https://cloudplatform.googleblog.com/2018/04/introducing-kaniko-Build-container-images-in-Kubernetes-and-Google-Container-Builder-even-without-root-access.html Build Dockerfile images directly within k8s
-
 # 16-04-2018
-
 - http://yowconference.com.au/slides/yowwest2014/Morris-ParametricityTypesDocumentationCodeReadability.pdf Wonderful slideshow demonstrating that "FP à la Scala" has tons of caveats, and that type parametricity is a wonderful tool and documentation
 - https://www.youtube.com/watch?v=Eihz7kqn6mU The hot talk: Scalaz 8 vs Akka actors
 - https://blog.algolia.com/building-real-time-analytics-apis/ Doing what's Druid do but using postgresql (distributed via Citus) and custom rollups
@@ -4489,20 +2974,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/opentracing/the-difference-between-tracing-tracing-and-tracing-84b49b2d54ea Tracing is about multiple things: recording, describing (OpenTracing), analyzing/exposing (dashboards)
 - http://blog.ploeh.dk/2018/04/16/endomorphic-composite-as-a-monoid/ Using Endo[A] to compose a list of endomorphisms A->A into single endomorphism
 - https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html Why JS's Promise sucks (it leaks memory on recursive calls). Very important when working in a FP mode where recursion is massively used..
-
 # 15-04-2018
-
 - https://www.ctheu.com/2018/04/12/an-ode-to-the-kind-projector-and-to-the-partial-unification-of-scala/ My own work this time: Scala's kind-projector and partial-unification demystified
-
 # 14-04-2018
-
 - http://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/ A sweet idea to deal with GDPR and Kafka/Event Sourcing. Encrypt user data, save the keys into a compacted topic. If need to erase the data: remove the key: data becomes garbages (can't decrypt).
 - https://brianmckenna.org/blog/constraints_are_for_methods Constraints are for methods, not data (ie: implicits on methods, not on the trait/class type parameters because some methods may no need it)
 - https://brianmckenna.org/blog/polymorphic_programming A generic and abstract language to generate the same functions but in any language?
 - https://github.com/promises-aplus/promises-spec/issues/94 Now, we know where the "Fantasy land" JavaScript library name comes from
-
 # 13-04-2018
-
 - https://www.deconstructconf.com/2017/caitie-mccaffrey-the-path-towards-simplifying-consistency-in-distributed-systems An overview of the (complex) distributed systems evolution: what about simplifying and forgetting a bit this consistency thing?
 - https://martinfowler.com/articles/microservice-testing/#conclusion-summary Testing Strategies in a Microservice Architecture. From Unit to Inte to Component to Contract to E2E.
 - https://www.youtube.com/watch?v=wi_vLNULh9Y The Design of the Scalaz 8 Effect System, looks really good.
@@ -4513,9 +2992,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://functional.works-hub.com/learn/the-science-behind-functional-programming-3b060 Category Theory applied in Kotlin using Arrow library
 - https://bjankie1.github.io/blog/ Speculative Tasks using Monix
 - https://svs.gsfc.nasa.gov/4619 Tour of the Moon 4K Redux
-
 # 12-04-2018
-
 - http://degoes.net/articles/only-one-io Very good article on (the multiple) IO and Async monads in Scala-land
 - https://blog.redelastic.com/transitioning-to-scala-d1818f25b2b7 The most important: "Learning Scala will make you a better programmer" Definitely TRUE!
 - https://vimeo.com/233649102 Building a Company on Scala. Takeaways: mastering FP is not mandatory, there is no "one solution" in Scala, so be rigorous and consistent when adopting patterns; try to have a homogenous codebase (same level everywhere)
@@ -4524,9 +3001,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.youtube.com/watch?v=AHrCI9eSJGQ 30 Days Timelapse at Sea; a mesmerizing video to watch
 - http://highscalability.com/blog/2017/9/25/adcash-1-trillion-http-requests-per-month.html The evolution of Adcash (from php/mysql on one server to GCP and 1500 servers), too short :)
 - https://jneem.github.io/merging/ A VCS with perfect merges (no more conflicts). Patches content forms a DAG that can be flatten into a regular file (lossy). The article is accessible, compared to the paper. "One could expect the free conservative finite cocompletion of L to be..."
-
 # 11-04-2018
-
 - https://blog.softwaremill.com/synchronous-or-asynchronous-and-why-wrestle-with-wrappers-2c5667eb7acf A long (too much, but some parts are still interesting) article about sync vs async, and coroutines (async/await)
 - https://cloud.google.com/bigquery/docs/reference/standard-sql/dml-syntax#merge_statement A new "MERGE" operator in BigQuery to merge one table into another (joined) while controlling the insertion/update clauses
 - https://techcrunch.com/2018/04/11/google-is-about-to-launch-a-gmail-web-redesign/ Can't wait for a redesign, Inbox is so damn slow (but the design is so good..)
@@ -4538,9 +3013,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.infoq.com/articles/architecturally-aligned-testing Microservices, autonomy, and testing
 - https://medium.com/capital-one-developers/toward-a-functional-programming-analogy-for-microservices-ba6f49b94ad Microservices: OOP vs FP style (cqrs, es, explained with Kafka\*)
 - https://medium.com/netflix-techblog/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69 Instead of ad-hoc error-prone human Canary version analysis, Kayenta relies on statistics (source of metrics, logs) and no human to decide if a canary is ready-for-prod.
-
 # 10-04-2018
-
 - https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate/ Pagination technique in Postgres, from the basic to the exotic
 - https://developers.google.com/machine-learning/glossary/ An impressive glossary about Machine Learning
 - https://github.com/sigalor/whatsapp-web-reveng Reverse engineering WhatsApp Web
@@ -4559,30 +3032,22 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://developer.lightbend.com/blog/2018-04-09-sbt-1-1-4-hotfix/ Tons of improvements in sbt 1.1.4. (better filewatch on osx; faster build!)
 - https://github.com/sgreben/jp plots from JSON in console :O
 - https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8 A nice review about several hashing techniques (classic consistent, jump, multi probe, rendezvous, maglev)
-
 # 09-04-2018
-
 - https://github.com/hablapps/stateless Optics which are not bound to in-memory data structures
 - https://artplusmarketing.com/how-i-write-10-000-words-per-day-every-day-818421c980f0 How I Write 10,000 Words Per Day, Every Day
 - https://baekdal.com/strategy/publishers-havent-realized-just-how-big-a-deal-gdpr-is/ "Publishers Haven't Realized Just How Big a Deal GDPR is."
-
 # 08-04-2018
-
 - https://labs.unacast.com/one-year-with-bigquery-e3ebd73749cd Feedback from using BigQuery. Awesome, less strain overall, but more responsability: \$\$\$.
 - https://www.scotthyoung.com/blog/2015/01/19/speed-reading-redo/ Speed Reading
 - https://www.slideshare.net/paulszulc/illogical-engineers Why "Software Engineering"; links with the category theory and Howard-Curry theorem, usage in Scala ("= implement")
 - https://www.slideshare.net/LukaJacobowitz/traversals-for-all-ocasions The Traverse typeclass
-
 # 07-04-2018
-
 - http://rcardin.github.io/design/programming/2018/04/02/template-method-pattern-revised.html Template Method pattern revised / use composition (and mixins) over inheritance.
 - http://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/ Streams vs Tables in Kafka
 - https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/ A sublime article every engineer should read
 - https://www.youtube.com/watch?v=HjbvMEfLrGk Introducing and "hiding" Writer Monad usages for easier learning curve
 - https://www.youtube.com/watch?v=Juuucx5xaCo Big Data at the Intersection of Typed FP and Category Theory / Algebra
-
 # 06-04-2018
-
 - https://medium.com/@PS_/image-processing-go-microservice-df423d1b8ddd Image processing not done in the classic serverless-way but with replicated pods in k8s and an internal LB.
 - https://medium.com/google-cloud/internal-load-balancing-for-kubernetes-services-on-google-cloud-f8aef11fb1c4 Internal LB for k8s services on GCP: `"cloud.google.com/load-balancer-type": "Internal"`
 - https://github.com/Netflix/flamescope visualization tool for exploring different time ranges as Flame Graphs
@@ -4592,9 +3057,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://stripe.com/blog/billing Stripe Billing to handle more complex billing models (recurrent)
 - https://cloudplatform.googleblog.com/2018/04/introducing-VPC-Flow-Logs-network-transparency-in-near-real-time.html New on GCP: VPC Flow Logs
 - https://www.binarylane.com.au/support/solutions/articles/1000055889-how-to-benchmark-disk-i-o How to benchmark disk I/O
-
 # 05-04-2018
-
 - https://medium.com/@unmeshvjoshi/service-discovery-with-crdts-fb02bb48cfff Using Akka Distributed Data to do Actors Service Discovery
 - https://streaml.io/blog/exactly-once/ Exactly-once naming is discussed (snapshot or at-least-once+dedup) and could lead to not-exactly-once effects
 - https://blog.manifold.co/graphql-fragments-are-the-best-match-for-ui-components-72b8f61c20fe Why we should use GraphQL Fragments
@@ -4602,9 +3065,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/APIs-guru/graphql-voyager look at any GraphQL API as an interactive graph, very cool
 - https://blog.wallaroolabs.com/2017/10/why-we-used-pony-to-write-wallaroo/ Feedback of using the language "Pony" (actor based, gc per actor (no STW)) to write the Wallaroo framework (distributed data processing)
 - https://blog.risingstack.com/the-history-of-react-js-on-a-timeline/ The History of React.js on a Timeline.
-
 # 04-04-2018
-
 - https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e A very good guide: "How to solve 90% of NLP problems"
 - http://www.grahamlea.com/2016/08/distributed-transactions-microservices-icebergs/ Beware of the hidden distributed transactions in your systems. Some ways to "fix" them (a central service that retries, not a huge fan). Nowadays, it would be more about Event Sourcing, Sagas, or Kafka Streams/Connect.
 - https://github.com/kailuowang/mainecoon Transform and compose tagless final encoded algebras in scala
@@ -4615,9 +3076,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.youtube.com/watch?v=JFbYQGG2Nb4 Monix's Observable and Iterant
 - https://www.youtube.com/watch?v=JH_Ou17_zyU Bartosz Milewski's Category Theory crash course, he's very good at teaching.
 - https://cloudplatform.googleblog.com/2018/04/new-ways-to-manage-and-automate-your-Stackdriver-alerting-policies.html New API to manage Stackdriver alerting policies. Surprised it didn't existed before.
-
 # 03-04-2018
-
 - https://www.youtube.com/watch?v=3a5oE3p3jDA about SIP-35 / opaque types. Could replace Option and such "easy" type, also provide type tagging without overhead at runtime.
 - https://www.youtube.com/watch?v=JMP6gI5mLHc Parallels between Category Theory definition (+ Functors) and languages (mostly Java)
 - https://blog.cloudflare.com/cloudflare-workers-unleashed/ JavaScript "lambdas" on Cloudflare with Workers
@@ -4632,9 +3091,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/lampepfl/dotty/pull/4153 Hot debate about Typeclass implemented with subtyping proposal in Scala
 - https://medium.com/@nex3/pubgrub-2fb6470504f Resolving package dependencies graph is far from trivial; here nice explanations about a new method implemented in the Dart package manager.
 - http://www.scanamo.org/ DynamoDB Scala wrapper
-
 # 02-04-2018
-
 - https://www.youtube.com/watch?v=YXDm3WHZT5g Devoxx Belgium 2017, Plain Functional Programming by Martin Odersky; example using Kleisli (for config) against implicit types (incoming)
 - https://github.com/mikolak-net/travesty Generating diagram for akka streams
 - https://alistapart.com/article/coding-with-clarity Single responsability principle, low coupling/high cohesion, with analogies to real-world example
@@ -4644,18 +3101,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://highscalability.com/blog/2018/4/2/how-ipdata-serves-25m-api-calls-from-10-infinitely-scalable.html Very cool feedback and archi about by ipdata (using aws gateway, dynamo, lambdas, kinesis, cloudwatch)
 - https://levelup.gitconnected.com/how-to-use-technical-debt-in-your-favor-98bae475ba68?ref=hn322 Dealing with technical debt: always start naive, then refactor the past when it's more clear and patterns emerge
 - https://medium.com/databasss/on-disk-io-part-1-flavours-of-io-8e1ace1de017 Multiple posts explaining how ios work, very interesting to get the base
-
 # 01-04-2018
-
 - https://alligator.io/graphql/graphql-yoga/ An easy way to spin-up a GraphQL server
 - https://medium.com/capital-one-developers/blazing-fast-data-lookup-in-a-microservices-world-dd3ae548ca45 Using a bloom filter to filter out bad emails
 - http://fluentbit.io/ A lightweight fluentd written in C container oriented?
 - https://medium.com/@adirmashiach/partition-index-selective-queries-on-really-big-tables-795fea737570 Maintaining a index table to know which partition to read (for a given PK) instead of doing a full scan
 - https://blog.cloudflare.com/announcing-1111/ 1.1.1.1 as (privacy-respected) DNS resolver ! (unfortunately, does work with Orange in France yet...)
 - https://www.apache.org/dist/kafka/1.1.0/RELEASE_NOTES.html Kafka 1.1.0 out; few new features but tons of fix and improv
-
 # 31-03-2018
-
 - https://graphcms.com/blog/gatsby-graphcms-plugin/ Combining Gatsby and GraphCMS (to host content) because Gatsby can fetch GraphQL endpoints to grab content
 - http://shiroyasha.io/transaction-isolation-levels-in-postgresql.html Time to refresh what are the different transaction isolation levels
 - http://lucidsoftware.github.io/relate/ Relative: another blazing fast Scala SQL "framework" sql"SELECT xx".asList { \_.string("name") }
@@ -4664,9 +3117,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/@abinoda/how-teams-get-microservices-wrong-from-the-start-51777c99c059 Each team should define what a "microservice" is and what are the pros/cons of switching to it. (future replacement? teams organization? productivity boost? delivery boost?)
 - http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html Netflix: creating a cloud inside their cloud
 - http://openjdk.java.net/projects/amber/LVTIstyle.html Guidelines for when to use "var" in Java
-
 # 30-03-2018
-
 - https://medium.com/activewizards-machine-learning-company/top-15-scala-libraries-for-data-science-in-2018-4b2cb5c5367e Some nice pointers for data science in scala: Breeze (Analysis, NLP), Saddle (Analysis), Breeze-vis (dataviz), Vegas (dataviz), Smile (ML), and Spark stuff
 - https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html Spanner and its "external consistency" (strongly consistent + serializability): no trade-off in the apps!
 - https://www.youtube.com/watch?v=BgcJnurVFag Building a 400TB PostgreSQL clusters: tips and tricks
@@ -4680,9 +3131,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.lightbend.com/blog/the-six-questions-architects-ask-about-using-akka-in-production Some points of why using Akka. It misses the part "why NOT".
 - https://github.com/envoyproxy/envoy/issues/2852 Sending req/res into Kafka within Envoy?
 - https://github.com/scala-native/scala-native/releases/tag/v0.3.7 Scala Native 0.3.7 and sbt-crossproject to compile a project to js/native/jvm
-
 # 29-03-2018
-
 - https://www.youtube.com/watch?v=9Wp_riP8LQw Implicit FunctionTypes soon in Scala? basically type Gimme[E] = implicitly Int => E, implicit is part of the type (for easy reusability)
 - https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a An ode to the functional data engineering: how to "data engineer" with functional principles
 - https://gtoonstra.github.io/etl-with-airflow/index.html A very good and complete documentation about Airflow and ETLs in general
@@ -4695,9 +3144,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.landoop.com/blog/2018/03/cassandra-to-kafka-part-2/ Cassandra to Kafka using Connect (and a polling strategy)
 - https://cloudplatform.googleblog.com/2018/03/how-we-used-Cloud-Spanner-to-build-our-email-personalization-system-from-Soup-to-nuts.html An interesting feedback of a company going from HBase+Hive to Spanner, why & takeaways
 - https://cloudplatform.googleblog.com/2018/03/introducing-Stackdriver-APM-and-Stackdriver-Profiler-Distributed-tracing-debugging-and-profiling-for-your-performance-sensitive-applications.html GA: Stackdriver Profiler to analyze application cpu, mem etc. through flame charts; Debugger to easily debug (breakpoint) and log in prod (without redeploying); Trace to do trace (spans) analysis through the services (à la OpenTracing, with propagation, latency etc.).
-
 # 28-03-2018
-
 - https://blog.apnic.net/2018/01/29/measuring-quic-vs-tcp-mobile-desktop/ QUIC (by Google) vs TCP: QUIC is globally faster (and Chrome users use it when contacting Google!) except in some conditions (packets out-of-order, mobiles where resources are limited)
 - https://blog.hasura.io/an-exhaustive-guide-to-writing-dockerfiles-for-node-js-web-apps-bbee6bd2f3c4 Good practices on how to write Dockerfiles for nodejs webapps
 - https://www.datanami.com/2018/02/07/erasure-coding-changes-hadoop-storage-economics/ Changing how HDFS store its data to make it more economic, causing a bit more network and cpu processing. Also leaving behind the "storage and compute" paradigm.
@@ -4707,9 +3154,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://cloudplatform.googleblog.com/2018/03/introducing-Cloud-Text-to-Speech-powered-by-Deepmind-WaveNet-technology.html Awesome Text-to-Speech + wavenet variation (en only) available on GCP
 - https://the-composition.com/why-you-need-a-software-delivery-machine-85e8399cdfc0 Tons of details about Atomist: why, how it works, which events it reacts to, how does it evolve etc. Support a project from scratch to delivery 100%.
 - https://www.youtube.com/watch?v=O-LWbSUaEQU Property-Based testing overview, why, how
-
 # 27-03-2018
-
 - https://jakubstransky.com/2018/02/03/jvm-code-friendly-to-jit-optimisation/ Using jitwatch to analyze bytecode and inlining tips
 - https://www.youtube.com/watch?v=wZ7cxcU4iPE Long hexagonal arch explanation with examples
 - https://streaml.io/blog/pulsar-effectively-once/ Effectively(exactly)-once semantics in Apache Pulsar
@@ -4721,9 +3166,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/fullstack-academy/better-js-cases-with-sum-types-92876e48fd9f Very cool long article about sum and product types, comparing the feature in different nice languages (and js).
 - https://cloudplatform.googleblog.com/2018/03/kubernetes-engine-private-clusters-now.html Deploy GKE in a VPC to get a better isolation
 - https://medium.com/@richard534/getting-started-with-data-engineering-3d2e728d0c1f All the things about Data Engineering
-
 # 26-03-2018
-
 - https://inviqa.com/blog/lagom-tutorial-using-event-sourcing-create-online-shopping-cart Small Lagom tutorial, properly explained from scratch
 - https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/ A nice explanation of a wonderful hack through PostgreSQL to mine minero
 - https://www.sqreen.io/checklists/saas-cto-security-checklist The SaaS CTO Security Checklist
@@ -4733,33 +3176,23 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/@adirmashiach/apache-impala-my-insights-and-best-practices-8e0507089935 Impala vs the world, and best practices
 - https://kudu.apache.org/releases/1.7.0/docs/release_notes.html Kudu 1.7.0, tons of features and improvements
 - https://github.com/gkossakowski/kentuckymule/issues/6#issuecomment-375949236 Smart idea of how to detect cycles using queues (kentuckymule is a experimental fast Scala type-checker)
-
 # 25-03-2018
-
 - http://beckje01.com/talks/greach-2018-zipkin-light.html Small presentation about Zipkin, screenshots, demos
 - https://quickbooks-engineering.intuit.com/lessons-learnt-from-netflix-keystone-pipeline-with-trillions-of-daily-messages-64cc91b3c8ea Wow, immutable infra to the end. "Handling Config Changes as simulated failure: Changes to the Kafka cluster (code upgrades, topic scale up or scale down, moving partitions) are handled by failover to a new Kafka cluster."
 - https://medium.com/beingprofessional/understanding-functor-and-monad-with-a-bag-of-peanuts-8fa702b3f69e Functors and monads explained with peanuts, you _will_ understand
 - https://typelevel.org/cats-effect/datatypes/io.html The Cats Effect's IO documentation is phenomenal. So many possibilities!
-
 # 24-03-2018
-
 - https://blog.ycombinator.com/congratsdropbox/ Dropbox goes public. A small message from ycombinator, because it's dropbox's origin (2007!), impressive.
-
 # 23-03-2018
-
 - http://blog.christianposta.com/how-a-service-mesh-can-help-with-microservices-security/ make microservices communications secured (tls, jwt) using istio to manage all that, and not the apps
 - http://www.edc4it.com/blog/scala/io-monad-and-monad-transformers-for-rookies.html A simple example of using IO and EitherT monads
 - http://degoes.net/articles/kill-data Don't prematurely commit to specific datastructures
 - https://corecursive.com/009-throw-away-the-irrelevant-with-john-a-de-goes Interesting podcast with John A De Goes about functional programming in general, why is this useful, advantages (smaller scope to think about; more extensible than OOP with typeclasses) stacking monads is a perf-blow (and we should use MonadError, MonadState instead)
-
 # 22-03-2018
-
 - https://functional.works-hub.com/learn/avoid-pattern-matching-with-list-in-scala-01c8e Careful of pattern matching List/Seq
 - https://slidr.io/mathiasbynens/what-s-new-in-es2018 ES2018: async generators and a demo to "act like" RxJs's Observable (fromEvent, filter, etc.), regexes, spread (finally!), finally in promise
 - http://seg.phault.net/blog/2018/03/async-iterators-cancellation/ cancelling async iterators
-
 # 21-03-2018
-
 - https://en.wikipedia.org/wiki/Quine_(computing) TIL about Quines and Multiquines. Programs that produce a copy of their own source code.
 - https://www.infoq.com/presentations/microservices-data-centric Very nice talk about microservices management and techniques of migration
 - https://shipilev.net/blog/2014/safe-public-construction/ Double-checked locking in Java (quite subtle!), applied to the Singleton Factory pattern
@@ -4774,9 +3207,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/scala/scala/releases/tag/v2.12.5 scalac -release 9 !!
 - https://www.youtube.com/watch?v=wfWYm0MYj_8 Java 10: Panama (replace JNI, use JIT to generate the C layer), Amber: type inference, '\_', pattern matching (+ scalaish sealed ADTs and extractors)
 - https://cloudplatform.googleblog.com/2018/03/understand-your-spending-at-a-glance-with-Google-Cloud-Billing-reports-beta.html GCP Billing reports: group by project and product (gae, bq, pubsub etc.) to see the trends, nice
-
 # 20-03-2018
-
 - http://lptk.github.io/programming/2018/03/02/a-dual-to-iterator.html Compute any aggregations in one pass using for-comp syntax
 - https://www.dropbox.com/s/qmuwo7z0v9jmnwi/NEScala2018.pdf "Composing programs": explaining why the composition is the essence of functional programming. Also discuss some category theory elements (kleisli, functors, monads).
 - https://github.com/plokhotnyuk/jsoniter-scala ultra-fast JSON codecs in Scala
@@ -4791,9 +3222,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://monix.io/blog/2018/03/20/monix-vs-cats-effect.html Monix vs cats-effect, and some history about Monix and cats-effect and misc (cancellability, reactive streams, scalaz's Task, optimizations, monix's Iterant)
 - https://medium.com/@muuki88/follow-the-stacktraces-jvm-performance-profiling-3c371d323e5f Lesson learned: Never use exceptions for control flow in your hot code path
 - https://cloudplatform.googleblog.com/2018/03/introducing-the-ability-to-connect-to-Cloud-Shell-from-any-terminal.html We can now access the Cloud Shell (was in-browser only before) from "gcloud alpha cloud-shell" command now (it comes with preinstalled stuff, to avoid polluting the local env)
-
 # 19-03-2018
-
 - https://cloudplatform.googleblog.com/2018/03/automatic-serverless-deployments-with-Cloud-Source-Repositories-and-Container-Builder.html Mirror git source into GCP Repo, and write a "build trigger" (yaml) in Container Builder to be triggered when source changes
 - https://github.com/GoogleCloudPlatform/skaffold In the "same" vein, skaffold auto-runs the whole build/deploy pipeline on code change
 - https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/ Jenkins X: CI/CD with a new cli "jx" to create apps and handle the whole ci/cd cycle automatically (versioning, envs, builds (jenkinsfile, dockerfile, helm chart), deployments, pull requests, issues..). A sub-project of Jenkins.
@@ -4812,20 +3241,15 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://cloudplatform.googleblog.com/2018/03/introducing-GCPs-new-interactive-CLI.html CLI are some ubiquitous right now, gcloud offers a better alternative: "gcloud alpha interactive --update-cli-trees"
 - https://www.nginx.com/blog/nginx-1-13-10-grpc/ gRPC support in nginx
 - https://chrome.google.com/webstore/detail/personal-blocklist-by-goo/nolijncfnkgaikbjbdaogikpmpbdcdef?hl=en Google's own extension to block some websites to appear in search results. But the last Chrome version makes it useless, #willfixlater ?
-
 :ski:
-
 # 09-03-2018
-
 - https://lwn.net/Articles/679786/ Understanding cgroup v2
 - https://gist.github.com/odersky/f91362f6d9c58cc1db53f3f443311140 Some notes about metaprogramming in Scala by odersky. If you're brave.
 - http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/ Insightful post about microservices constraints and failures to deal with (latencies, timeouts., retries, routing, observability)
 - https://github.com/shekhargulati/hands-on-serverless-guide/tree/master/01-aws-lambda-serverless-framework A trully wonderful guide about building a pure serverless app using AWS api gateway -> lambdas -> ses for emails + dynamodb and its streams + s3 (with presigned urls)
 - https://engineering.instagram.com/open-sourcing-a-10x-reduction-in-apache-cassandra-tail-latency-d64f86b43589 Rockssandra, a combinaison of RocksDB and Cassandra to greatly improve (and stabilize) r/w latencies
 - https://github.com/druid-io/druid/releases/tag/druid-0.12.0 Druid 0.12.0 out!
-
 # 08-03-2018
-
 - https://stripe.com/blog/operating-kubernetes Stripe extensively testing k8s mainly to run tons of cronjob, fixing bugs, and best "practices", the "game" day. Know how k8s behaves in case of different failures. Beware of etcd. Improve monitoring,
 - https://community.monzo.com/t/resolved-current-account-payments-may-fail-major-outage-27-10-2017/26296/95 Outage caused by 2 bugs: a bug in k8s and etcd client; and another with k8s Service without pods + linkerd "old" version (bug was fixed in next versions)
 - http://blog.erratasec.com/2018/03/some-notes-on-memcached-ddos.html Find the vulnerable memcached instances using masscan and how to deal with it
@@ -4834,9 +3258,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.facebook.com/business/gdpr how Facebook handles GDPR (both a data controller & processor)
 - http://dotty.epfl.ch/blog/2018/03/05/seventh-dotty-milestone-release.html Better enum semantics, "erased" term to remove stuff at compile time (just used to type-check), better GADT support
 - https://cloudplatform.googleblog.com/2018/03/optimizing-your-Cloud-Storage-performance-Google-Cloud-Performance-Atlas.html Some smart advices when using gsutil to improve up/download speed (parallelism -m, auto "chunkage" -o GSUtil:parallel_composite_upload_threshold=150M)
-
 # 07-03-2018
-
 - http://docs.scala-lang.org/sips/pending/inline-meta.html SIP-2[89], a new block to replace macro: meta {... }; meta annotations; "inline" achieves guaranteed inlining, regardless of the backend (contrary to @inline); will whiteboxing will stay? (bring tons of complexity)
 - https://begin.com/ A Slack bot to declare on what you're working on and create task list other can see. Not sure it's the right way to go (Slack becoming a first class tool of your workflow?) but it can help i guess!
 - https://github.com/Kanaka-io/play-monadic-actions Simplify (monadify) how to write Play! actions when dealing with services calls/http responses
@@ -4845,9 +3267,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://docs.google.com/spreadsheets/d/17bZrKTk8dOx5nomLrD1-93uBfajK5JS-v1o-nCLJmzE/edit#gid=0 Kubernetes Features OSS tracking board (1.10 release)
 - https://githubengineering.com/ddos-incident-report/ DDoS through the open misconfigured memcached over the world.
 - https://github.com/typelevel/machinist Avoid implicit class wrapping
-
 # 06-03-2018
-
 - https://www.youtube.com/watch?v=hzf3hTUKk8U A 2014 talk about why functional programming is good! composability, modularity, genericity, less strain, happiness. But code could be complicated (yeah).
 - https://github.com/estatico/scala-newtype Haskell's "newtype" for Scala (to replace value classes and their undesired effects)
 - https://github.com/mathiasbynens/dotfiles useful dotfiles to use on macosx (tune them!). I discovered some nice shortcuts and tools in there.
@@ -4858,39 +3278,29 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39 From Cassandra, to Cass+Cache, to compression/parallelization/chunkages to get better r/w latency, less Cass maintenance, less data size.
 - https://www.reoptimize.io/ Control you GCP billing
 - https://medium.com/google-cloud/understanding-kubernetes-networking-services-f0cb48e4cc82 kube-proxy is the "hidden" gem in k8s that manages internal traffic packets routing (using netfilter and iptables in kernel space to do the routing)
-
 # 05-03-2018
-
 - https://medium.com/google-cloud/this-week-in-google-cloud-platform-datastore-backups-configurable-ssl-a-new-billing-api-and-52cd3aeba9a2 Parquet with BigQuery is available! and other GCP-related gems
 - http://alistair.cockburn.us/Hexagonal+architecture The Hexagonal architecture. Basically, ports (what is exposed) and adapters (what is provided). Explicit the dependencies and get the ability to create mocks (of a repository for instance). Think by feature, not by tech.
 - https://medium.com/nick-tune-tech-strategy-blog/managing-complexity-in-complex-adaptive-systems-with-domain-driven-design-eb79f0ca37bb Help modelling subdomains: Event Storming, Domain Story telling, Business Model Canvas
 - https://www.youtube.com/watch?v=5bgxzaHCyCs A talk by Nick Tune if you don't want to read its book :) (04-03-2018 designing-autonomous-teams-and-services)
 - https://www.iravid.com/posts/resource-management.html ManagedT, or how to compose resource management. Very useful and slick. Even works with a Monoid[ResourceType].
 - https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/ Type of macros in rust: function and attributes (derive to create boilerplate, and a more generic way, still in alpha). Why use them.
-
 # 04-03-2018
-
 - https://blog.envoyproxy.io/envoy-threading-model-a8d44b922310 Envoy threading model – locks, logging, stats, and.. i didn't got everything!
 - https://akka.io/blog/news/2018/02/23/akka-2.5.10-released Many updates in Akka: Akka Typed is there, StreamRefs (RS over the network, finally!), Artery with TCP/TLS, not production ready but still.
 - http://the-paper-trail.org/blog/exactly-not-atomic-broadcast-still-impossible-kafka/#more-660 Theorical consensus can't be solved (thus no atomic broadcast, thus no exactly-once), but partial consensus can be, so Kafka can be.
 - https://barryoreilly.com/2015/12/14/lean-pmo-explore-vs-exploit/ Balance exploring new business with exploiting proven existing business models – and how to transition businesses successfully between these domains
 - https://barryoreilly.com/2016/01/13/lean-pmo-managing-the-innovation-portfolio/ Good post about the necessity of having a business Portfolio. Explore/Exploit/Sustain/Retire features and products. Classify them and act. Beware of the Feature Fallacy. (more features does not have necessary add value)
 - http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp Very interesting ebook. Helps you to get insights how to break down a company business into autonomous teams and bounded contexts; identify bottlenecks; all sort of schemas to pinpoint knowledge, boundaries, and organizational behavior.
-
 # 03-03-2018
-
 - https://cloudplatform.googleblog.com/2018/03/queue-based-scaling-made-easy-with-new-stackdriver-per-group-metrics.html Create a pool of workers on GCE which will scale according to the lag of a pubsub subcription, and easily monitor within StackDriver
-
 # 02-03-2018
-
 - http://openjdk.java.net/jeps/326 JEP 326: Raw String Literals using \`...\`, handle multilines ! \o/
 - https://www.prismagraphql.com/ Define your GraphQL entities, let Prisma do the rest
 - https://www.infoq.com/minibooks/emag-streaming-architecture This ebook contains several topics about streaming: dataflow, dynamicdb streams, confluent, and 2 case studies, the more interesting! One from Netflix migrating batch jobs to Flink, providing tons of advices and feedbacks. As they said: "batch failures have to be addressed urgently; streaming failures have to be addressed immediately" (a perfect monitoring and alerting is needed)
 - https://blogs.dropbox.com/tech/2018/03/meet-bandaid-the-dropbox-service-proxy/ A very interesting post about Dropbox's service proxy, with explications about requests dispatching strategies it handles
 - https://www.wired.com/story/github-ddos-memcached/ A 1.3Tbs DDoS hit GitHub on wednesday, the largest yet recorded; using memcached amplification.
-
 # 01-03-2018
-
 - https://www.youtube.com/watch?v=k9rwU8G1Oi0 A quick talk about typed actors, enough to get it. Actors are becoming "Behavior" following a protocol. The root ActorSystem also has get behavior now.
 - http://www.lambdadays.org/static/upload/media/1519663154528176valentinkasasthese10000classesineverwrote.pdf A truly impressive case study using recursion schemes, ana/cata to build a hylomorphism, and convert parquet<->avro<->json<->anything in a generic way with the least possible code, with validation
 - https://mtlynch.io/why-i-quit-google/ A ex-Googler talking about promotion in Google, metrics oriented instead of actual work-oriented
@@ -4900,107 +3310,75 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://cloudplatform.googleblog.com/2018/02/announcing-SSL-policies-for-HTTPS-and-SSL-proxy-load-balancers.html Create and link an SSL policy (custom or predefined) to a LB
 - https://cloudplatform.googleblog.com/2018/02/fully-managed-export-and-import-with-Cloud-Datastore-now-generally-available.html Export and import with Cloud Datastore now GA!
 - http://www.scalactic.org/user_guide Scalactic, originated from ScalaTest, is a small lib providing simple and useful structures such as "Or" and "Every" to type like: "String Or One[Error]", left biased; provides some "===" and neat stuff.
-
 # 26-02-2018
-
 - https://www.cnbc.com/2018/02/26/apple-confirms-it-uses-google-cloud-for-icloud.html So Apple iCloud is using Google Storage ? -\_-
 - http://www.wired.co.uk/article/google-chrome-ad-blocker-filter-how-works-coalition-ads "Chrome is removing ads from websites that don't meet standards laid out by the Coalition for Better Ads, of which Google is a founding member and has a seat on the board."
 - https://support.google.com/adwords/answer/7544674 New strategy in adwords: parallel tracking. The user is directly redirected to the adservertiser website, no more redirect, better conversion
 - https://developers.google.com/speed/docs/insights/rules Basic checklist to ensure website speed
-
 # 25-02-2018
-
 - https://adtoken.com/uploads/white-paper.pdf adChain, a protocol around the ethereum blockchain and its smart contract
 - https://medium.com/@anicolaspp/java-optional-is-complicated-d6dc5c061e57 Yeah, Java Optional is crap, no surprise.
 - https://lists.apache.org/thread.html/a9186930d46eba8136e6f2d29646efab33390b213515b76deea71c57@%3Cgeneral.incubator.apache.org%3E Druid into the Apache Incubator !
 - https://medium.com/swlh/effective-time-management-how-to-byo-productivity-system-ae3ac3672149 Time Management tips
-
 # 24-02-2018
-
 - http://www.bluemintmarketing.com/blog/remarketing/ A crazy long long about Remarketing, mostly using Adwords/GA
 - http://cockpit-project.org/ Easy administration of Linux servers via web browser
 - http://cloudplatform.googleblog.com/2018/02/how-Google-Cloud-Storage-offers-strongly-consistent-object-listing-thanks-to-Spanner.html Google Cloud Storage offers strongly consistent object listing thanks to Spanner
-
 # 23-02-2018
-
 - https://stripe.com/atlas/guides/business-of-saas A wonderful article about SaaS business models
 - https://blog.riseml.com/benchmarking-googles-new-tpuv2-121c03b71384 Google’s TPUv2 are faster, more expensive, but more cost efficient in the end (Tensorflow related)
-
 # 22-02-2018
-
 - https://medium.com/codefx-weekly/no-free-java-lts-version-b850192745fb Java 10.0.2 (July 2018) will be the last free Oracle JDK.
 - https://www.youtube.com/watch?v=cCOL7MC4Pl0 Probably the best talk about javascript requestAnimatinFrame/tasks/micro-tasks processing
 - https://dzone.com/articles/deploying-java-apps-with-kubernetes-and-the-ambass Using ambassador.io on k8s to manage microservices communication
-
 # 21-02-2018
-
 - https://dzone.com/articles/why-developers-should-bet-big-on-streaming Streaming is becoming main-stream (!)
 - https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/ 500M passwords from previous breach to download, and an free API to check if some pwd was already leaked (nice!)
 - https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525 I haven't write any css since a while but come on, it hasn't changed at the speed JS is changing at least ;-)
 - https://www.youtube.com/watch?v=Txf7swrcLYs Parsing a language using Monoid (in haskell here): how, and difficulties. Very insightful.
-
 # 20-02-2018
-
 - https://medium.com/google-cloud/tcp-bbr-magic-dust-for-network-performance-57a5f1ccf437 TCP BBR for a better throughput in congestioned/lossy networks
 - https://cloudplatform.googleblog.com/2017/11/5-steps-to-better-GCP-network-performance.html GCP: the more cpus, the greater network throughput; use internal ips when you can
 - https://typelevel.org/blog/2017/02/13/more-types-than-classes.html Types are compile-time, and classes are runtime.
-
 # 19-02-2018
-
 - https://blogs.oracle.com/java/jdbc-next%3a-a-new-asynchronous-api-for-connecting-to-a-database Async JDBC incoming?
 - https://fosdem.org/2018/schedule/event/zgc/attachments/slides/2211/export/events/attachments/zgc/slides/2211/ZGC_FOSDEM_2018.pdf The Z Garbage Collector - Bet: less than 10ms pauses, no matter the heap
 - https://www.youtube.com/watch?v=qBQtbkmURiQ Shenandoah GC: less STW (not on young gen), generational hypothesis is not needed, bigger mem footprint (fwdptr), more barriers, lower throughput
 - http://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html Optimizing Javascript and V8 to get a 4x speedup, impressive profiling and fixes
 - https://github.com/funfix/funfix The great author of monix is writting a fp library for js/ts inspired by monix and cats. Pretty sure it's a good quality!
-
 # 16-02-2018
-
 - https://randomascii.wordpress.com/2018/02/04/what-we-talk-about-when-we-talk-about-performance/ A 90% reduction in time is a ten-times speedup. We often say "90% faster" (because we optimized something and get a 90% reduction in time) when it's truly 900% faster. So we should never use this formulation.
 - https://www.confluent.io/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data A wonderful article about using KSQL to create and exploit streams of data
-
 # 15-02-2018
-
 - https://techcrunch.com/2018/02/13/amp-for-email-is-a-terrible-idea/ AMP for email is a terrible idea; goal: ads!
 - https://ops.tips/blog/nginx-http2-server-push/ Nginx now deals with HTTP2 Server Push! As a proxy, it transform h2 to http1 only (no h2 forwarding)
 - https://github.com/propensive/efflorescence A nice tiny lib to deal with Google DataStore properly: ie: transparently and strongly-typed
 - https://staltz.com/promises-are-not-neutral-enough.html JS Promises are like Futures in Scala. BAD! (well, Promises are worst)
 - https://cloud.google.com/blog/big-data/2017/06/introducing-cloud-dataflow-shuffle-for-up-to-5x-performance-improvement-in-data-analytic-pipelines I didn't noticed before but Google has an experimental mode for Dataflow shuffling, to run it outside our the Dataflow machine to reduce its strain.
-
 # 14-02-2018
-
 - http://blog.xebia.fr/2016/03/16/perennisez-votre-metier-avec-larchitecture-hexagonale/ L'architecture hexagonale ftw !
 - https://github.com/propensive/kaleidoscope/ A new lib from propensive, to compile-time check strings in pattern matching
 - http://www.scylladb.com/2017/10/05/io-access-methods-scylla/ Different I/O access methods; mmap; sync/async direct io; tradeoffs with kernel, scheduling, cache control
 - http://xcorpion.tech/2016/09/10/It-s-all-about-buffers-zero-copy-mmap-and-Java-NIO/ Some reminders about zero-copy and mmap
-
 # 13-02-2018
-
 - https://alexn.org/blog/2018/02/12/in-defense-oofp.html OO+FP. A regard on Scala Collection. I didn't get the whole code (when dealing with the Suspendable thing) but I get the idea.
 - https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7 A comparaison between ClickHouse, Druid and Pinot (OLAP dbs)
-
 # 12-02-2018
-
 - https://www.opsian.com/blog/top-3-java-performance-improvements/ More to Java 10+: Value type "Valhalla" to avoid object reference (think C struct) and primitive specialization à la Scala; new GCs: Shenandoah and ZGC (low pauses on large heaps); and maybe NIO API improvements
 - http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/ Hilarious -fake- job interview of a person implementing fizzbuzz with tensorflow
 - http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html Considerations and opinions about testing strategies in general, test should respects the same rules of quality and review as non-test code, dsls, unit vs integration (means nothing truly), example vs bulk (ie: scalacheck, prod data)
-
 # 11-02-2018
-
 - https://ordina-jworks.github.io/microservices/2016/04/22/Lagom-First-Impressions-and-Initial-Comparison-to-Spring-Cloud.html Lagom's impression... in 2016! The Java version is just so verbose. :(
 - https://techbeacon.com/project-management-surefire-way-kill-your-software-product Sweet post critizing project management for being centered on the project, not the product. Projects metrics are not a measure of success. Product metrics (with customers) are. Guesstimate is useless.
 - https://www.pluralsight.com/blog/software-development/java-9-new-features Java 9: modules with proper resolution at startup (Jigsaw); jlink to create minimal image; jshell; new collections and stream methods; interface private methods; new HttpClient (handle h2) to replace HttpURLConnection; no more jre/ in jdk/.
 - http://openjdk.java.net/jeps/282 JEP 282: jlink: The Java Linker— Nice to package "only what you need"; it relies on Java 9 modules
 - https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html The fateful date is coming: July 2018: HTTP = "Not secure"
-
 # 10-02-2018
-
 - https://thoughts.t37.net/migrating-a-130tb-cluster-from-elasticsearch-2-to-5-in-20-hours-with-0-downtime-and-a-rollback-39b4b4f29119 Migrating a 130TB Cluster from Elasticsearch 2 to 5, interesting insights
 - https://github.com/elastic/elasticsearch-migration/tree/2.x A migration check tool for elastichsearch clusters
 - http://scala-lang.org/blog/2018/02/09/collections-performance.html Performance about the "new" view-based Collections; also with some StrictOptimized\* version
 - http://scala-lang.org/blog/2017/11/28/view-based-collections.html view based collections (lazy by default) for the new Scala collection
-
 # 09-02-2018
-
 - http://www.bigeng.io/elasticsearch-scaling-multitenant/ A very interesting post about optimizing elasticsearch in a multitenant environment
 - https://velotio.com/blog/2017/7/5/http-load-balancing-in-kubernetes-with-ingress Simple Ingress on GCP
 - https://www.confluent.io/blog/enabling-exactly-kafka-streams/ How Exactly-Once works in Kafka Streams
@@ -5010,44 +3388,30 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.youtube.com/watch?v=YgGAUGC9ksk Very good talk about String methods, optimizations and tradeoffs
 - https://www.youtube.com/watch?v=wIyeOaitmWM Aleksey Shipilëv on Compact Strings; some parts are quite advanced, and it seems to be a real mess to optimize those Strings :)
 - https://shipilev.net/talks/devoxx-Nov2012-perfMethodology.pdf A very good ("old" but still relevant) recap of how to monitor/understand/fix performance issues
-
 # 08-02-2018
-
 - https://trac.webkit.org/changeset/228266/webkit native .flatmap now in webkit! Soon, the monads.
-
 # 07-02-2018
-
 - https://zeit.co/blog/streaming-server-rendering-at-spectrum Streaming SSR content ftw
 - https://manuel.bernhardt.io/2017/07/26/a-new-adaptive-accrual-failure-detector-for-akka/ Another adaptive accrual failure detector for Akka
 - https://www.confluent.io/blog/handling-gdpr-log-forget/ No magic: compacted topics, CDC
 - https://speakerdeck.com/ianlewis/kubernetes-security-best-practices Kubernetes Security Best Practices
-
 # 06-02-2018
-
 - http://enear.github.io/2016/09/27/bits-of-shapeless-2/ Generic Derivation in shapeless. The little tour about literal types is almost absolete thanks to the native integration in Scala 2.13!
 - https://github.com/graphcool/prisma easily implement a graphql server over any database
 - https://blog.mozilla.org/security/2018/01/31/preventing-data-leaks-by-stripping-path-information-in-http-referrers/ Firefox will automatically add a "Referrer Policy" to avoid leaking querystring and hash to third parties
 - https://tech.travelaudience.com/bigtable-storing-protobuf-bytes-in-one-column-vs-splitting-the-content-into-column-families-c231bdff8db7 Storing protobuf into one col (instead of splitting in numerous cols) uses less cpu (on bigtable) and is easier to deal with read pattern modification and evolution
 - https://markmanson.net/how-to-let-go Life is a long series of losses. Think about it.
-
 # 05-02-2018
-
 - https://gravitational.com/blog/kubernetes-release-cycle/# The full-time job of keeping up with Kubernetes
 - https://github.com/facebook/osquery A damn good idea: query all your system parts using SQL
 - https://www.cakesolutions.net/teamblogs/demystifying-the-blocking-construct-in-scala-futures A complete post about the "blocking" in Scala. Only works with the global ExecutionContext (or you need to DIY)
-
 # 04-02-2018
-
 - http://www.corbinstreehouse.com/blog/2018/01/code-reviews-part-1-dont-do-them/ Surprising opinion: "Code reviews: don't do them"
-
 # 03-02-2018
-
 - https://www.youtube.com/watch?v=_Cct8b8OO2E Measure everything with Kamon (1.0.0) + prom + spans (opentracing)
 - https://hackernoon.com/part-2-how-to-stop-me-harvesting-credit-card-numbers-and-passwords-from-your-site-844f739659b9 How to secure sensitive pages: csp is not enough: iframe, another domain, postMessage (iframe -> parent)
 - http://www.tomanthony.co.uk/blog/googlebot-javascript-random/ Identifying Googlebot by checking random() which is deterministic in its case
-
 # 02-02-2018
-
 - https://github.com/Gabriel439/slides/blob/master/bigtechday/slides.md Everything is a monoid
 - https://www.emnify.com/2018/02/01/monitoring-with-kamon-1-0/ kamon and prometheus ftw
 - https://developer.lightbend.com/blog/2018-02-01-sbt-1.2-roadmap/ sbt 1.2.0 roadmap
@@ -5056,47 +3420,35 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.troyhunt.com/streamlining-data-breach-disclosures-a-step-by-step-process/ Nice "guide" about contacting a company to reveal a data breach
 - https://sap1ens.com/blog/2018/01/03/message-enrichment-with-kafka-streams/ Very good post about message enrichment with Kafka Streams
 - https://github.com/lihaoyi/sourcecode Scala implicits to get source code metadata (filename,line, method name..)
-
 # 01-02-2018
-
 - https://github.com/jsverify/jsverify ScalaCheck/QuickCheck in JS :-) Property-based testing
 - http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/ Some feedback and interrogation to ask yourself when dealing with microservices
 - http://www.rigacci.org/wiki/lib/exe/fetch.php/doc/appunti/linux/sa/iptables/conntrack.html how conntrack works (connections state in a memory state), use within iptables
 - https://queue.acm.org/detail.cfm?id=3096459 The Calculus of Service Availability - interesting insights from a Googler about SLO/SLA formula, dependencies, thresholds
-
 # 31-01-2018
-
 - http://www.securityweek.com/microsoft-disables-spectre-mitigations-due-instability Spectre mitigations causing instabilities is disabled -\_-
 - https://github.com/esimov/caire A "content aware way" to resize an image (by altering the content itself, without "losing" content)
 - https://github.com/google/xi-editor A new future awesome text (code?) editor (in Rust!) ?
 - https://github.com/developit/greenlet Multithreading made very easy and not verbose in js (ww)
-
 # 27-01-2018
-
 - https://github.com/akka-js/akka.js Akka compliant to Scala.js Oo
 - https://emails.hteumeuleu.com/email-accessibility-in-action-f7f9d945cf67 Add relevant alt on imgs, role="presentation" on <tables> used for layout (emails!), lang="xx"
 - http://co.ntextu.al/ Write string interpolators with custom checks; provides classic ones such as email, hex, regex
 - https://to-ithaca.github.io/libra/ A dimensional analysis lib, to check if addition/product on types makes sense ("mass + speed" ?!). Basically: don't deal with simple Doubles everywhere.
 - https://contributors.scala-lang.org/t/whitebox-def-macros/1210 Debate about whitebox def macros, lots of good insights
-
 # 25-01-2018
-
 - https://v8project.blogspot.fr/2018/01/speedometer-2.html Optimization in V8 are quite remarkable
 - https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95 Parcel has such a huge momentum. Now includes: Source Maps, WebAssembly, Rust. No Config at all !
 - https://facebook.github.io/prophet/docs/quick_start.html Prophet forecasts data with uncertainty intervals (Python and R apis)
 - https://github.com/MfgLabs/akka-stream-extensions Some great Akka Stream extensions for postgresql, elasticsearch, shapeless, s3
 - http://di-in-scala.github.io/ Compile-time DI is so much better! No more Java runtime stuff stupidities.
 - http://anthonycros.com/turn-scala-into-spark/ Very strong similitude between a plain Scala program using the stdlib and its Spark equivalent
-
 # 24-01-2018
-
 - https://adriaanm.github.io/reveal.js/scala-2.13-beyond.html#/7 Scala 2.14 will be so good! simpler, faster, stronger!
 - http://marxsoftware.blogspot.fr/2018/01/schopenhauers-law-immutability.html In Java, things are not Immutable but _Unmodifiable_
 - http://mail.openjdk.java.net/pipermail/jmh-dev/2018-January/002723.html JMH 1.20 out! fixes and impro, better java9 compat, perfasm on osx
 - https://medium.com/actualbudget/balancing-product-and-technology-e525dd82c05a Some feedback on product and technologu from a great developer. Looks like DDD.
-
 # 23-01-2018
-
 - https://github.com/developit/karmatic Automatic (headless) browser testing. Karma/Webpack/Jasmine. 0 config tools are the best.
 - https://twitter.com/DasSurma/status/955484341358022657 Deep copying a JS object with clever means: the history API, or the MessageChannel for workers x_x
 - https://www.youtube.com/watch?v=CUVOBANHzpo Why Akka streams rocks for high throughput
@@ -5104,21 +3456,15 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.thoughtworks.com/radar ThoughtWorks has a really great tech radar split in several domains (techniques, tools, platforms, languages)
 - https://en.fabernovel.com/insights/tech-en/akka-typed Another example of using Akka typed. Much more verbose but at least, it's compile-time type-checked!
 - https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403 Loading lazily packages instead of being eager: way less to dl=faster, and can work in a web browser now
-
 # 22-01-2018
-
 - https://github.com/etaty/scalacheck-magnolia generate random instances of case classes / ADT with ScalaCheck, priceless!
 - https://www.youtube.com/watch?v=KaLROwp-VDY "How to get productive in a project in 24h": look at tests, coverage, cyclomatic complexities, git often changes files
-
 # 21-01-2018
-
 - https://blog.openai.com/scaling-kubernetes-to-2500-nodes/ "Scaling Kubernetes to 2,500 Nodes" Issues with etcd fluentd kubedns docker image pulls and arp caches
 - http://blog.kubernetes.io/2017/10/using-rbac-generally-available-18.html RBAC GA since Kubernetes v1.8
 - https://www.youtube.com/watch?v=JHGkaShoyNs Great talk by Greg Young about CQRS and Event Sourcing
 - https://www.slideshare.net/quipo/nosql-databases-why-what-and-when/ Very good slides from 2011 about consistency, distributed strategies, bigtable, nosql dbs..
-
 # 20-01-2018
-
 - https://www.youtube.com/watch?v=EDLAdgAVyFU Functional Foundation of Event Sourced Application (from Lagom team)
 - https://www.youtube.com/watch?v=__zuECMFCRc From basic API to functional API
 - https://developer.lightbend.com/blog/2018-01-17-akka-multidc/ Akka Multi-DC: Akka persistence replicas across different DCs
@@ -5130,46 +3476,32 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/ Streaming and tiering WebAssembly compiler in Firefox
 - http://kamon.io/teamblog/2018/01/18/kamon-1.0.0-is-out/ Kamon 1.0 is out! More Prometheus and Open Tracing oriented <3
 - https://intoli.com/blog/not-possible-to-block-chrome-headless/ Bypassing the Chrome Headless detector tests
-
 # 19-01-2018
-
 - https://jakubstransky.com/2017/11/27/structure-of-java-virtual-machine-jvm/ Structure of Java Virtual Machine (JVM)
 - https://www.confluent.io/blog/put-several-event-types-kafka-topic/ Martin Kleppmann on "Should You Put Several Event Types in the Same Kafka Topic?": it's rarely the case
 - http://highscalability.com/blog/2018/1/16/monolith-or-microservices-which-should-you-start-with.html Monolith or Microservices: Which should you start with? Some very good advices. You know with it if you know them \o/
 - https://github.com/benjojo/dnsfs dnsfs: Store your data in others DNS revolvers cache
 - https://www.buzzfeed.com/tomphillips/twitterstorm-2018 This is a funny must-read. It traces how a twitterstorm appears from a tiny thing and gets totally out of control. (it's fake but so "plausible" ahah)
-
 # 18-01-2018
-
 - https://github.com/GoogleChrome/dialog-polyfill I didn't even remembered HTML had a <dialog> !
 - https://github.com/Chymyst/curryhoward Generate code for full parametric functions (through macros) automatically from the function signature :o
 - https://github.com/NervJS/nerv Another "blazing fast React alternative"
-
 # 16-01-2018
-
 - https://github.com/scala/collection-strawman/pull/342 New immutable hash set and map in Scala's collection-strawman (using CHAMP)
-
 # 15-01-2018
-
 - https://www.youtube.com/watch?v=STKCRSUsyP0 The Many Meanings of Event-Driven Architecture - Martin Fowler
 - http://blog.ploeh.dk/2018/01/15/unit-isomorphisms/ Unit isomorphisms
 - https://github.com/boopathi/babel-time-travel "Time travel through babel transformations one by one." Interesting to see the "way"
 - https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question/ "Should engineering managers write code? Wrong question." => "Where to write code?"
 - https://rreverser.com/writing-complex-macros-in-rust/ Writing complex macros in Rust: Reverse Polish Notation
 - https://www.washingtonpost.com/news/post-nation/wp/2018/01/14/hawaii-missile-alert-how-one-employee-pushed-the-wrong-button-and-caused-a-wave-of-panic/?utm_term=.cc967e072831 "Hawaii missile alert: How one employee ‘pushed the wrong button’ and caused a wave of panic" That's nuts
-
 # 12-01-2018
-
 - https://craftsmen.nl/memory-usage-6-popular-rest-server-frameworks-compared/ Comparing memory usage of Spring/Play/Vertex/Jersey/..
 - https://github.com/emilwallner/Screenshot-to-code-in-Keras a NN to convert mockups to actual HTML \o/
-
 # 10-01-2018
-
 - https://www.youtube.com/watch?v=gH5mPaLU8_g Quelques raisons pour coder du Rust venant de Scala :-)
 - https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/ What Spectre and Meltdown Mean For WebKit
-
 # 09-01-2018
-
 - https://jobs.zalando.com/tech/blog/why-we-do-scala/ All the things we like using Scala <3
 - https://zalando.github.io/tech-radar/ Zalando has a public "tech radar", awesome company !
 - https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html Free wildcard certifs for all \o/
@@ -5180,24 +3512,18 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.ultimategdprquiz.com/ The Ultimate GDPR Quiz— Not easy to get 10/10 :x
 - https://www.youtube.com/watch?v=s3ljANN80R4 Speedup .scala compilation with Hydra (stil early access)
 - https://shipilev.net/jvm-anatomy-park/20-fpu-spills/ SSE instructions and xmm registers used as fast storage thanks the UseFPUForSpilling jvm flag (enablde by default): it avoids to use the "slower" L1 cache
-
 # 08-01-2018
-
 - http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/ According to the author Kudu >> Parquet with Impala with some "minor" catches. Not the xp I got (size in kudu was ++, kudu couln't remove deleted data from disk, kudu was sometimes stuck and needed weekly reboot (despite plenty of mem)..)
 - https://washingtonmonthly.com/magazine/january-february-march-2018/how-to-fix-facebook-before-it-fixes-us/ How to Fix Facebook—Before It Fixes Us. "Fear and anger produce a lot more engagement and sharing than joy." "The result is that everyone sees a different version of the internet tailored to create the illusion that everyone else agrees with them" Trump's Russia-gate.
 - https://www.youtube.com/watch?v=jd5e71nFEZM This was a very good explanation about monad transformers
-
 # 07-01-2018
-
 - https://lwn.net/Articles/741897/ Demystifying container runtimes
 - https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5 A definitely realistic post about the "easiness" of injecting any code on "any" website that uses npm packages. (thus stealing anything it wants)
 - https://github.com/0xAX/linux-insides Wonderful bits about Linux kernel. More than 800 pages of "bits" already.
 - https://www.youtube.com/watch?v=qwYs0J7xp78 type-safety in CQRS (linked model to events and commands types)
 - https://www.youtube.com/watch?v=778znDnjROg gRPC with ScalaPB newbie talk
 - https://www.youtube.com/watch?v=Z6_Nd7lu2PI Event Sourcing and CQRS using Lagom
-
 # 06-01-2018
-
 - http://psy-lob-saw.blogspot.fr/2013/05/know-thy-java-object-memory-layout.html TIL about False Sharing (adding padding in object to keep values in cache)
 - https://www.youtube.com/watch?v=wi97X8_JQUk Monix talk by Monix creator
 - https://www.youtube.com/watch?v=hr3UdktX-As Akka anti-patterns (use a hierarchy! supervision is there for this. never block, use pipe. never pass outside mutable state. etc.)
@@ -5207,49 +3533,33 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://developer.lightbend.com/blog/2018-01-05-kafka-streams-scala-goodies-part-1/ If Lightbend has a Scala wrapper on top of kafka streams java, that means it will be maintained! +1
 - https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/ No speculative execution on Rasp: no attack possible \o/
 - https://font-display.glitch.me/ getting control of font appearance when font is not downloaded yet, using "font-display"
-
 # 05-01-2018
-
 - https://support.google.com/faqs/answer/7625886 Google providing Retpoline: a software construct for preventing branch-target-injection
 - https://blog.statsbot.co/deep-learning-achievements-4c563e034257 Deep Learning achievements over 2017: this is nuts
 - https://www.youtube.com/watch?v=IhVdU4Xiz2U A nice talk comparing Free monads and tagless final
 - https://kwark.github.io/refined-in-practice/ Refinement Types looks very interesting. The drawbacks are not important enough compared to the advantages! (basically validation on the type level)
-
 # 04-01-2018
-
 - https://googleprojectzero.blogspot.fr/2018/01/reading-privileged-memory-with-side.html Interesting details about the current global bug to read privileged memory with a side-channel. It's basically based on speculative execution+cache+timing to evaluate if 0 or 1
 - http://pepegar.com/hammock/ Hammock is like sttp, a generic http client with different backends. And is also functional oriented (Free, IO) <3
-
 # 03-01-2018
-
 - https://www.youtube.com/watch?v=WscozkoXLHM Very good talk about exactly once kafka semantics
 - https://www.youtube.com/watch?v=ewe3-mUku94 ASLR kernel attack using Javascript: performance.now() and SharedArrayBuffer. Unfortunately, the speaker is not good at all.
 - http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table The story of the "Address Space Layout Randomization" kernel attack; could lead to hypervisor privileges escalation
 - https://www.zachaysan.com/writing/2017-12-30-zero-width-characters Fingerprinting with Zero-Width Characters and homoglyths. Love it!
-
 # 02-01-2018
-
 - https://github.com/javascript-obfuscator/javascript-obfuscator JS obfuscators are getting back
-
 # 01-01-2018
-
 - https://minnenratta.wordpress.com/2017/01/25/things-i-have-learnt-as-the-software-engineering-lead-of-a-multinational/ a 36-bullet point that makes quite sense, to rea for any developer/software lead
-
 # 31-12-2017
-
 - https://code.facebook.com/posts/1478526992216557/migrating-a-database-from-innodb-to-myrocks/ How Facebook migrates from InnoDB to MyRocks (mysql backed by rocksdb)
 - https://www.youtube.com/watch?v=Tkjg179M-Nc Talk about "Stream I/O" by Andre 'Staltz' Medeiros, where cycle.js idea comes from
 - https://www.slideshare.net/mpilquist/scalaz-13068563 A very nice prez on Scalaz, now I understand everything :-)
-
 # 30-12-2017
-
 - https://softwaremill.com/applicative-functor/ Another explanation about the applicative functors
 - https://www.youtube.com/watch?v=1bNOO3xxMc0 Queue theory reminds me of reactive programming. Need to handle backpressure. Queues are everywhere. Gather metrics (queues, threads pools). Plan your app for "too much data".
 - https://www.wsj.com/articles/the-worst-job-in-technology-staring-at-human-depravity-to-keep-it-off-facebook-1514398398 Content moderators on social networks: clearly not an easy job that can totally mess you up
 - https://github.com/lllyasviel/style2paints Any sketch images colorized and painted :o (CNN)
-
 # 29-12-2017
-
 - https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f A very nice review of the book: the Effective Engineer
 - https://www.iravid.com/posts/contravariant-functors.html contravariant functors and contravariant applicatives
 - https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef JVM optim: define the hot path, don't allocate in there, identity boxing, keep things monomorphics
@@ -5257,15 +3567,11 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.iravid.com/posts/fp-and-spark.html Using Monix Task and cats StateT into Spark to make it more functional.
 - https://github.com/findify/scala-packed an interesting concept where classic Scala collections type are backed by bytes (to avoid case class overhead, header etc.), bytes efficient.
 - https://siliconangle.com/blog/2017/07/12/lightbend-startup-behind-scala-programming-language-bags-15m Lightbend raises \$15M. More Scala! <3
-
 # 28-12-2017
-
 - https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc Service mesh data plane vs. control plane. Thanks! Now i get it.
 - https://shipilev.net/jvm-anatomy-park/18-scalar-replacement/ HotSpot's Escape Analytics analyzed
 - http://slides.com/pdolega/slick-101#/ A nice presentation about Slick features, with monads and applicatives comparaison
-
 # 27-12-2017
-
 - https://www.youtube.com/watch?v=B37UbzPlSzw is IOTA the future "blockchain" err, "blockdag"? scalable, quantum resistant, no fees..
 - https://www.youtube.com/watch?v=1eg0ahHtxcQ Microservices & DDD
 - https://banzaicloud.com/blog/spark-monitoring/ Monitoring Apache Spark with Prometheus on Kubernetes. Buzzzzing!
@@ -5277,9 +3583,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.theguardian.com/world/2017/apr/14/what-is-the-historical-evidence-that-jesus-christ-lived-and-died Always question believers facts
 - https://www.youtube.com/watch?v=o7wtlMb_Qv0 Microservices, talk by Vaughn Vernon
 - https://www.youtube.com/watch?v=v7b4J2INq9c Microsoft Quantum Development Kit: Introduction
-
 # 26-12-2017
-
 - https://lemire.me/blog/2017/12/26/personal-reflections-on-2017/ More VR, more AI, data engineering is currently a mess, perf & latency greatly sucks (surprisingly), and other interesting stuff
 - https://blog.alexellis.io/the-state-of-netbooting-raspberry-pi/ netbooting RPi is cool but full of terrors (unstable at boot, docker containers can't work because of its CoW filesystem which doesn't work through NFS..)
 - https://shipilev.net/jvm-anatomy-park/15-just-in-time-constants/ JIT constants optimized
@@ -5289,31 +3593,23 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/bread-and-circuses/how-i-got-paid-0-from-the-uber-security-bug-bounty-aa9646aa103f Uber Security Bug Bounty program looks like a joke. Dude found several important flaws and earned 0\$.
 - https://github.com/aboul3la/Sublist3r subdomains enumeration tool for penetration testers
 - https://www.sans.org/reading-room/whitepapers/tools/os-application-fingerprinting-techniques-1891 OS and Application Fingerprinting Techniques
-
 # 25-12-2017 :christmas_tree:
-
 - https://medium.com/@domagojk/patterns-for-designing-flexible-architecture-in-node-js-cqrs-es-onion-7eb10bbefe17 A nice presentation with code in JS of CQRS+ES
 - https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/ This time, comparing with "load balancer" pattern. I prefer Akka Streams on this one, it's way more explicit and clear
 - http://blog.soat.fr/2017/07/pourquoi-et-sous-quel-condition-utiliser-les-microservices/ microservices, microservices!
 - http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html Netflix: What Happens When You Press Play? Video starts.
 - http://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/ The Entity Service is an antipattern in the sense that the services are not autonomous (not context bound)
-
 # 24-12-2017
-
 - https://github.com/spotify/featran A nice and small Scala feature transformation library for ML
 - https://www.youtube.com/watch?v=1dchSsac3T4 Spotify's Scio
 - https://goo.gl/mn6ZJB Prepack now understands React components and can inline them (alpha)
 - http://www.chriskrycho.com/2017/chrome-is-not-the-standard.html Friendly reminder: Chrome is not the standard. The web platform is managed by several actors.
 - https://dzone.com/articles/reactive-spring-5-and-application-design-impact Reactive Spring 5: the reactive parts
 - https://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/#Omf2eUtrEwXV06i0.97 Edge finally handle SWs by default, and they did a nice recap' of why SWs are useful
-
 # 23-12-2017
-
 - http://larahogan.me/blog/desk-moves/ Interesting insights over human emotions when managing them (here: around desk moves task). Belonging. Improvement/Progress. Choice. Equality/Fairness. Predictability. Status.
 - http://2ality.com/2017/11/about-reasonml.html A nice series of post to discover ReasonML
-
 # 21-12-2017
-
 - https://github.com/ballercat/walt Walt is a cool idea to write JavaScript-like syntax to be compiled to WebAssembly without the LLVM overhead
 - https://www.youtube.com/watch?v=g_jP47HFpWA Daniel Spiewak talking about IO monad, very good
 - https://www.confluent.io/blog/ksql-december-release KSQL or writing streamers with SQL, love it!
@@ -5322,14 +3618,10 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.forbes.com/sites/thomasbrewster/2017/12/19/120m-american-households-exposed-in-massive-consumerview-database-leak/#1a73d6f07961 This is nuts. The company trying to minimize the impact of such leak.. what a shitty behavior.
 - https://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/ Very informative article about localhost loophole congestion
 - https://www.propublica.org/article/facebook-ads-age-discrimination-targeting Is it not better to prevent ppl you wouldn't hire to apply anyway?
-
 # 20-12-2017
-
 - https://www.slideshare.net/HadoopSummit/hadoop-3-in-a-nutshell Basically Hadoop 3 in a cleanup of codebase and a big YARN refacto
 - https://www.justinobeirne.com/google-maps-moat A damn good article on the evolution of Google Maps quality
-
 # 19-12-2017
-
 - https://swizec.com/blog/blockchain-backed-redux-clone-105-lines-code/swizec/7980 blockchain in the new TODO
 - https://codeburst.io/the-future-of-javascript-will-be-less-javascript-cea373eb57fd Nobody will "do" true JS, but all will compile to JS (as today..) because it's the "VM" browsers undertand (well, and wasm is coming too)
 - http://woz.posthaven.com/what-orms-have-taught-me-just-learn-sql Benefits and drawbacks of ORMs (+simplity/+complexity)
@@ -5337,73 +3629,51 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://v8project.blogspot.fr/2017/12/v8-release-64.html V8 still adding some optimizations (bind, Weak\*, slice/filter) and smaller memory footprint
 - https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html Is the future is mobile mesh networks?
 - https://github.com/Jam3/math-as-code a cheat-sheet for mathematical notation in code form, quite straight-forward
-
 # 17-12-2017
-
 - https://www.youtube.com/watch?v=H28QqxO7Ihc Tagless final using Free applicatives
 - https://www.youtube.com/watch?v=MvQxNm5gn8g Quite clear explanations about the usage of the category theory, from a Scala programmer perpective
 - https://kubernetes.io/case-studies/blablacar/ BlaBlaCar case study of its k8s usage
 - http://blog.kubernetes.io/2017/12/kubernetes-19-workloads-expanded-ecosystem.html Kubernetes 1.9 out. Apps Workloads GA and Expanded Ecosystem
-
 # 16-12-2017
-
 - https://github.com/facebook/Docusaurus Documentation made easy on gh-pages
-
 # 15-12-2017
-
 - https://developers.google.com/web/tools/chrome-user-experience-report/#best-practices A new public dataset on bigquery that exposes measurements of metrics across web (features, connections type, ...)
 - https://github.com/pauljamescleary/scala-pet-store An implementation of some classic store using http4s/doobie/circe
 - https://www.lyranthe.org/presentations/http4s_doobie_circe.pdf A presentation on http4s/doobie/circe used together
-
 # 14-12-2017
-
 - https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers Dubsmash: Scaling To 200 Million Users With 3 Engineers, many technologies used + Amazon and Gcloud, very good team!
 - https://getstream.io/blog/switched-python-go/ "Why We Switched from Python to Go", perf; easier to keep it simple; go/chan; compile time; grpc
 - https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html Net Neutrality is down. That's a very bad news and the beginning of many problems.
 - https://nd4j.org/index.html Dealing with N-dimensional arrays in Java, supporting CUDA for some hyper-quick GPU computing
 - https://www.youtube.com/watch?time_continue=2&v=Bbw1ki-U-QY overview of AI Starcraft(s) bots techinics
-
 # 10-12-2017
-
 - https://blog.scalac.io/2016/06/02/overview-of-free-monad-in-cats.html This was an nice completary post to the cats Free doc. (note: the code in the post is based on a old cats version)
 - https://github.com/mil-tokyo/webdnn with webdnn, we can execute DNN pipelines in the browser
 - http://make.girls.moe/ An anime characters generators based on NN (we can pickup lots of aspects and ask for generation).
 - https://medium.com/4iqdelvedeep/1-4-billion-clear-text-credentials-discovered-in-a-single-database-3131d0a1ae14 clear passwords are the biggest mistake in IT
 - https://github.com/fosskers/scalaz-and-cats Comparisons and usage examples between Scalaz and Cats
 - https://kerpanic.wordpress.com/2017/12/10/macbook-pro-2016-1-year-later-from-a-devs-perspective/ No GPU-accelerated Tensorflow on macbooks :-( (no nvidia)
-
 # 09-12-2017
-
 - https://brianmckenna.org/blog/constraints_are_for_methods A point in Scala explaining that Type constraints are for methods, not data (ie: not on the class itself)
 - https://gist.github.com/staltz/08bf613199092eeb41ac8137d51eb5e6 People seems to forget about the "state" part in React to manage internal updates, interesting problematic inside anyway
-
 # 08-12-2017
-
 - https://www.youtube.com/watch?v=Y-cPVQaXlMw&list=PLjkHSzY9VuL8hRtytRxvO5gheXHWWdU9A&index=6 A really good FR talk about free monads and cooking
 - https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/MbXp16hQclY/bQjegyrbAgAJ dev will have the ability to "async" image processing to get better responsiveness.
 - https://ipdata.co/index.html a (free) IP Geolocation API, always good to have one
 - https://github.com/sindresorhus/refined-twitter Simple but useful (can be done through Stylish too): simplify Twitter UI \o/
-
 # 07-12-2017
-
 - https://cloud.google.com/blog/big-data/2016/07/using-the-cloud-natural-language-api-to-analyze-harry-potter-and-the-new-york-times A very nice intro and easy usage of Google NLP API
 - https://www.washingtonpost.com/news/the-switch/wp/2017/12/07/amazon-wants-a-key-to-your-house-i-did-it-i-regretted-it/ I was not aware such a thing exist: electronic keys+cam for delivery guy to drop packages into the house
 - https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4 Airbnb optimizing its React rendering
 - https://arxiv.org/pdf/1712.01815.pdf AlphaZero has learn to perfectly play chess within a few hours this time
-
 # 06-12-2017
-
 - http://syncfree.github.io/antidote/index.html a new CRDT HA database
 - https://reactos.org/project-news/reactos-047-released ReactOS continues its evolution, mirroring Windows but as FOSS (nothing to do with ReactJS eh)
-
 # 05-12-2017
-
 - https://parceljs.org/ Parcel is a html/js/css/xxx module bundler with 0 config and just need the html as source. Mostly made for hyper fast build-test-loop.
 - https://blog.doit-intl.com/replacing-mixpanel-with-bigquery-dataflow-and-kubernetes-b5f844710674 Catchy title, i like it ! Mixpanel, BQ, Dataflow, k8s.
 - https://github.com/spotify/apollo microservices tiny framework used by spotify
-
 # 04-12-2017
-
 - https://labs.spotify.com/2017/11/20/autoscaling-pub-sub-consumers/ Spotify had some troubles with autoscaling on GCS with Pub/Sub Consumers (not using Dataflow ?!)
 - https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/ This is a impressive and crazy Go bug debugging lecture
 - https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/ Very interesting with good pointers. s/gifs/mp4/
@@ -5411,22 +3681,16 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.stephendiehl.com/posts/haskell_2018.html Good post overviewing what happened in the Haskell world in 2017. So many things! Time to get in?
 - https://medium.com/learning-rust Bookmark that when the time's come!
 - https://github.com/wanqizhu/pyfuck python using only those chars: [(+travels')]. yeah, whatever
-
 # 03-12-2017
-
 - https://www.youtube.com/watch?v=4PgX3yBJEyw "Authenticating service-to-service calls with Google Cloud Endpoints"
 - https://www.infoq.com/news/2017/12/webassembly-browser-support WebAssembly is definitely going to spread faster and faster !
 - https://www.michielrook.nl/2016/11/strangler-pattern-practice/ The Strangler pattern in practice
 - https://www.martinfowler.com/bliki/StranglerApplication.html The Strangler Pattern—Or how to rewrite a legacy app iteratively
-
 # 02-12-2017
-
 - https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58 Akka Streams pitfalls to avoid — part 2 – WAY more interesting than part 1
 - https://blog.chromium.org/2017/11/reducing-chrome-crashes-caused-by-third.html It's not about third-party cookies this time, but third-party softwares!
 - https://arstechnica.com/science/2017/12/after-37-years-voyager-has-fired-up-its-trajectory-thrusters/ We did some great tech bach then! "After 37 years, Voyager 1 has fired up its trajectory thrusters."
-
 # 01-12-2017
-
 - https://cloudplatform.googleblog.com/2017/11/introducing-an-easy-way-to-deploy-containers-on-Google-Compute-Engine-virtual-machines.html a new gcloud command to deploy containers into a GCE vm "create-with-container"
 - https://www.lesnumeriques.com/tv-televiseur/que-va-changer-hdmi-2-1-n69037.html Ne pas oublier de se tenir au courant de l'audio-visuel aussi! HDMI 2.1 incoming! du 4k en 120Mhz.
 - http://scala-lang.org/blog/2017/11/30/bloop-release.html "bloop", a"build loop" tool. A CLI over Zinc and nailgun.
@@ -5434,45 +3698,33 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://norasandler.com/2017/11/29/Write-a-Compiler.html Writing a C Compiler from scratch
 - https://www.erikheemskerk.nl/ddd-persistence-recorded-event-driven-persistence/ Writing DDD repositories with an event driven design
 - https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234 Always interesting to see how to write a Linux Kernel Module
-
 # 30-11-2017
-
 - https://andreas.github.io/2017/11/29/type-safe-graphql-with-ocaml-part-1/ Type-Safe GraphQL with OCaml
 - http://nickdrane.com/build-your-own-regex/ A very simple"regex" engine in Javascript, as a starter.
 - https://blog.jetbrains.com/idea/2017/11/intellij-idea-2017-3-smarter-coding-assistance-better-debugger-run-dashboard-frameworks-support-and-more/ IntelliJ IDEA 2017.3: Smarter Coding Assistance, Better Debugger, Run Dashboard, Frameworks Support ! Installed.
 - https://www.bloomberg.com/news/articles/2017-11-29/uber-s-third-quarter-loss-is-said-to-widen-to-1-46-billion Uber in trouble, causing early investors to sell
 - https://www.confluent.io/blog/toward-functional-programming-analogy-microservices/ Analogy between functional programming and microservices
-
 # 29-11-2017
-
 - https://speakerdeck.com/bobbycalderwood/commander-better-distributed-applications-through-cqrs-event-sourcing-and-immutable-logs How to go to CQRS+Event Sourcing using Kafka Streams
 - https://www.confluent.io/confluent-cloud/ Confluent Platform as a managed service now "Confluent Cloud"
 - http://steve-yegge.blogspot.fr/2007/06/rich-programmer-food.html everybody should know how compilers work because it's always useful one day or another
 - https://design.google/library/evolving-google-identity/ An old post from 2015 when Google redesigns its logo and style. Nice explanations.
-
 # 27-11-2017
-
 - https://dzone.com/refcardz/continuous-delivery-with-jenkins-workflow A very nice intro to Jenkins Pipeline
 - https://carlossg.github.io/presentations/2017-11_agiletestingdays/#/ k8s and Jenkins (Workflow) = <3
 - https://blog.csanchez.org/2017/05/31/running-a-jvm-in-a-container-without-getting-killed/ Beware of JVM running inside memory-limited containers, they do not respect it by default!
 - http://blog.erratasec.com/2017/11/a-thanksgiving-carol-how-those-smart.html A surprising story about unconfirmed twitter account that keeps receiving stuff for years without being email-confirmed
 - https://www.youtube.com/watch?v=Pu_WTjjmm-E Ben Sigelman: OpenTracing and its Applications
-
 # 23-11-2017
-
 - https://www.developpez.com/actu/174643/Mozilla-a-silencieusement-deploye-la-fonctionnalite-First-Party-Isolation-empruntee-a-Tor-pour-endiguer-le-profilage-des-regies-publicitaires/ FPI (First Party Isolation) pour isoler les cookies thid-party par domaine first-party: plus d'aggrégation possible côté third.
 - https://blog.cloudflare.com/get-started-with-warp/ ngrok on CloudFlare?
 - https://stackoverflow.blog/2017/11/13/cliffs-insanity-dramatic-shifts-technologies-stack-overflow/ Dramatic Shifts in Technologies on Stack Overflow: swift, tensorflow, angular (!)
 - http://tldr.sh/ If you don't enjoy man pages because they are too long, you will love tldr !
-
 # 20-11-2017
-
 - http://www.lihaoyi.com/post/SowhatswrongwithSBT.html "What's wrong with SBT?" Everything! It's so meta, as explained here.
 - https://towardsdatascience.com/google-colaboratory-simplifying-data-science-workflow-c70059386323 Ask for your invite at Google Colaboratory !
 - https://medium.com/unsplash-unfiltered/scaling-unsplash-with-a-small-team-fbdd55571906?ref=reddit Very good article by the splash team showing their architecture, their choices. Very lean, love it. "Have you tried throwing money at it?"
-
 # 19-11-2017
-
 - https://blog.alexellis.io/introducing-functions-as-a-service/ OpenFaas, serverless on top on containers (docker swarm, k8s)
 - http://nats.io/about/ A messaging system for native cloud application developement, with connectors to tons of softwares
 - https://www.youtube.com/watch?v=e59pTjaVPCs Some FaaS demos using Amazon/GCP/Azure. Nice stuff about Azure are bindings (js var bound to databases).
@@ -5485,30 +3737,22 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.elastic.co/blog/elasticsearch-6-0-0-released Globally faster, and mapping types indices are deprecated :o
 - http://heydonworks.com/revenge_css_bookmarklet/ Bookmarklet to wrap any malformed/deprecated html structures with a pink border in the current page <3
 - https://github.com/dotnet/corefxlab/blob/master/docs/specs/span.md Span<T>: a new .NET structure to avoid copying internally every time. Abstraction: it can reference managed/native/stack mem. Performance!
-
 # 18-11-2017
-
 - https://lemire.me/blog/2017/11/10/how-should-you-build-a-high-performance-column-store-for-the-2020s/ Technics to encode and compress data to get faster, and referencing Apache Arrow for good column store perf
 - https://en.wikipedia.org/wiki/AOS_and_SOA Are you more Array of Structures or Structure of Arrays? Interesting question!
 - https://github.com/apache/kudu/blob/master/docs/design-docs/tablet.md#mvcc-mutations-in-memrowset Very well written design doc about Kudu's tablets, explaining the how mvcc works, the different places data are stored, the compactions, and advantage/drawback compared to others db such as bigtable, vertica, pg
 - https://www.nytimes.com/2017/11/02/magazine/how-facebooks-oracular-algorithm-determines-the-fates-of-start-ups.html A passionant story about a startup using Facebook's Ads to get started: how to succeed and pitfalls
 - https://www.lrb.co.uk/v39/n16/john-lanchester/you-are-the-product A super interesting review about Facebook: from where, to where, the dangers, the advertisers, the humans, the product
 - https://www.confluent.io/blog/transactions-apache-kafka/ High overview of how transactions works in Apache Kafka
-
 # 17-11-2017
-
 - https://www.youtube.com/watch?v=evaMpdSiZKk React made "easy and simple" with Next.js; presenting the different associated babel-plugins (talk a bit confusing though)
 - https://github.com/sbt/sbt-fresh plugin to create an opinionated fresh sbt project, "sbt fresh" and done!
 - https://0patch.blogspot.fr/2017/11/did-microsoft-just-manually-patch-their.html When you lost source code, just patch the existing binary; as Microsoft did.
 - https://www.lucidchart.com/techblog/2017/11/16/converting-600k-lines-to-typescript-in-72-hours/ Converting 600k lines to TypeScript in 72 hours by Lucidchart; very very awesome :-)
-
 # 15-11-2017
-
 - http://www.zdnet.com/article/linux-totally-dominates-supercomputers/ Today, all 500 of the world's top 500 supercomputers are running Linux.
 - https://github.com/Heydon/REVENGE.CSS REVENGE CSS | A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.
-
 # 12-11-2017
-
 - http://blog.ploeh.dk/2016/03/18/functional-architecture-is-ports-and-adapters/ Ports and Adapters—Business logic should be contained into pure functions
 - https://blog.samebug.io/creating-a-todo-application-using-akka-http-and-slick-chapter-1-24f77394a481 Creating a TODO application using Akka HTTP and Slick
 - http://www.gwern.net/Ads Banner Ads Considered Harmful (Here): he estimates AdSense reduces its traffic by ~14%
@@ -5516,24 +3760,18 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://blog.timescale.com/time-series-data-postgresql-10-vs-timescaledb-816ee808bac5 TimescaleDB, an extension in PostgreSQL, aims to be better as timeseries db than good ol' vanilla PostgreSQL, even with declarative partitioning
 - https://blog.timescale.com/scaling-partitioning-data-postgresql-10-explained-cd48a712a9a1 PostgreSQL 10 introduces declarative partitioning
 - https://www.youtube.com/watch?v=a4PX8vksBFU The story of the world's first webcam. It was used to know if the coffee was ready.
-
 # 11-11-2017
-
 - https://www.youtube.com/watch?v=b_pEevMAC3I&list=PLoz-W_CUquUlnvoEBbqChb7A0ZEZsWSXt&index=29 PromCon 2017: optimizations done in Prometheus 2.0, benchmarks, just mad results
 - https://prometheus.io/blog/2017/11/08/announcing-prometheus-2-0/ Prometheus 2.0, storage and perfs revisited
 - http://esr.ibiblio.org/?p=7711 An ode to the end of C, by a C programmer. New language taking its place: Go, Rust
 - https://alexn.org/blog/2017/11/10/minitest-no-crap-scala-library.html a KISS Scala testing lib, by monix's author
 - https://blog.chromium.org/2017/11/expanding-user-protections-on-web.html More protection from abusive redirects on the web
 - http://status.ovh.net/?do=details&id=15162#comment18119 The reasons of the OVH outage: SBG power grid is totally flawed and will be fixed
-
 # 06-11-2017
-
 - http://tonsky.me/blog/chrome-intervention/ Silent breaking change from Chrome team (on addEventListener..! by default, is "passive" (a new option) to improve perf)
 - https://sevagh.github.io/post/8months/ A "jq" for protobuf data: "pq" :-)
 - https://techcrunch.com/2017/11/03/snap-metamarkets/ Snap has acquired Metamarkets (Druid)
-
 # 05-11-2017
-
 - https://www.youtube.com/watch?v=bBC-nXj3Ng4 Best video? to explain how Bitcoin actually works
 - https://research.googleblog.com/2017/11/automl-for-large-scale-image.html AutoML was applied for image classif and object detection, and it works really great
 - https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html ML to create better NN architecture
@@ -5541,30 +3779,22 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.youtube.com/watch?v=Fbhhc4jtGW4 Nice talk about doing micro-services with nodejs/docker/k8s/helm/prometheus/zipkin
 - https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0 nodejs 9 is starting. V8 integrates nodejs compat tests now.
 - https://dexecure.com/blog/how-to-create-http2-static-file-server-nodejs-with-examples/ Simple HTTP/2 server in nodejs, with its http2 api.
-
 # 04-11-2017
-
 - https://www.cakesolutions.net/teamblogs/typesafety-101-knowing-your-types To resume: Option.get should not exists :-). Never break out from the original type.
 - http://www.scalaformachinelearning.com/2017/10/reinforcement-learning-in-scala.html Reinforcement learning in Scala
 - https://slack.engineering/rebuilding-slack-com-b124c405c193 Interesting insights and experience sharing from Slack.com redesigning their website
 - https://github.com/sksamuel/scapegoat an alternative to FindBugs or checkstyle, to do static code analysis
 - https://serverjs.io/ server.js looks like a good and easy alternative to expressjs/koa
 - https://blemoine.github.io/scala-io-effects/ Very good talk about managing side effects in Scala. Option, Either, Monad transformers, Eff monad.
-
 # 03-11-2017
-
 - https://speakerdeck.com/markus1189/let-the-compiler-help-you Very good talk explaining how to let the compiler help us (by writing smarter code) to check for errors at compile-time): from Exceptions to Eithers to Phantom Types to Refined lib
 - https://medium.com/@peggyrayzis/why-i-cancelled-my-reactiveconf-talk-3a463bf14bd8 "Why I cancelled my ReactiveConf talk"—A bit too much; but clearly, communication is key, when organizers lacks of, it's never a good sign.
 - https://www.ifixit.com/Teardown/iPhone%2BX%2BTeardown/98975 iPhone X "internals", truly a masterpiece of dense tech inside
-
 # 02-11-2017
-
 - https://www.slideshare.net/PierreLaporte/pimp-my-gc Pimp my gc, old 2013 pres' from ScalaIO talking about GC tuning (quite high level)
 - https://docs.google.com/presentation/d/1TPrLLcVpmQf5ajSV9KuWGYUzkauy9tK2J0dmQ13-v98/ An alpakka presentation at ScalaIO 2017
 - http://notes.burke.libbey.me/metarepo/ Monorepo, Manyrepo, Metarepo
-
 # 01-11-2017
-
 - https://opensource.com/article/17/9/seven-stages-becoming-go-programmer 7 stages of becoming a Go programmer, from "oop to goroutines to interfaces to channels to wtf to zen attitude"
 - https://hackernoon.com/how-awesome-engineers-ask-for-help-93bcb2c7dbb7?gi=a46da5c1e544 Very inspiring article about how we should request for help
 - https://github.com/Microsoft/vscode/wiki/Roadmap VS Code Roadmap 2018: better perfs, better workflow, better languages integrations, better extensions
@@ -5572,32 +3802,24 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://en.wikipedia.org/wiki/Interprocedural_optimization Interprocedural optimization "IPO", compiler methods to optimize code globally
 - http://danluu.com/programmer-moneyball/ A ex-Google-and-other-tech-company talks about tech companies hiring (bad) strategy for most (focusing on trendy ppl only)
 - https://www.confluent.io/blog/apache-kafka-goes-1-0/ Apache Kafka 1.0 out, now stable and back-compat? :-D
-
 # 30-10-2017
-
 - https://www.troyhunt.com/the-6-step-happy-path-to-https/ HTTPS: tips, and mostly about using HSTS and CSP upgrade unsecured requests + rely on CloudFlare to do this for you
 - https://squawker.org/technology/blockchain-just-became-obsolete-the-future-is-hashgraph/ Hashgraph, a evolution of BlockChain? But not open-sourced, and will be patented, so..
 - https://staltz.com/the-web-began-dying-in-2014-heres-how.html Interesting recap about Google FB and Amazon evolution, trends, and goal; way beyond the "web"
 - https://chriszetter.com/blog/2017/10/29/splitting-strings/ Interesting to know that .split does not behave the same in different languages (python and ruby here) when "".split("x") => ?
-
 # 29-10-2017
-
 - https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482 The New York Times is Now Available as a Tor Onion Service
 - https://www.infoq.com/presentations/reactive-events-streaming-api Talk about Akka (persis, cluster, streams) to get from old-school app to a reactive system with micro-services
 - https://www.youtube.com/watch?v=YqOhBezMx1o Quick talk about v8 arch, from Crankshaft to Ignite+TurboFan, why
 - https://github.com/Microsoft/napajs Napa.js is a multi-threaded JavaScript runtime from Microsoft, built on top of V8.
 - https://medium.com/@caspervonb/why-i-still-use-vim-67afd76b4db6 Atom and Code are so bad at resource consumption,like x100 than vim or sublime.
 - https://dzone.com/articles/disruptive-changes-to-gc-logging-in-java-9 The GC logging totally changed in Java 9, old options +PrintXXX are removed or deprecated
-
 # 28-10-2017
-
 - https://developer.couchbase.com/documentation/server/5.0/introduction/whats-new.html Couchbase 5 is out, with tons of new features and improvements (n1ql, text search, secu..)
 - https://www.infoq.com/news/2017/10/azure-functions-java Azure Functions now supports Java. Only GCP CF are not now. :(
 - https://reasonml.github.io/community/blog/#reason-3 Reason 3 is out. Lots of syntax changes to feel more natural
 - https://medium.freecodecamp.org/lets-enhance-how-we-found-rogerkver-s-1000-wallet-obfuscated-private-key-8514e74a5433 Super interesting post about finding a private key from a blurred QR code to grab some bitcoins
-
 # 24-10-2017
-
 - https://medium.com/@giuseppemaggiore/a-react-journey-from-vanilla-to-type-safe-to-monadic-41beaa386910 Quickly read this one. React from vanilla, to type-safe, to monadic (using monadic-react lib). Not fan of the "syntax" overall.
 - https://jepsen.io/analyses/hazelcast-3-8-3 Jepsen testing Hazelcast, and strongly recommand to use it only for non-critical data, because HZ can lose data, create duplicates, "mis-lock" locks and so on
 - https://www.smashingmagazine.com/2015/06/efficient-image-resizing-with-imagemagick/ got a way smaller image size with custom imagemagic tuning than with classic tools
@@ -5606,18 +3828,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://akka.io/blog/news/2017/10/23/native-akka-streams-in-spring-web-and-boot-via-alpakka Akka Streams in Spring via Alpakka, just by adding a simple module, very nice!
 - https://github.com/grafeas/grafeas The associated repo:" Cloud artifact metadata CRUD API and resource specifications"
 - https://cloudplatform.googleblog.com/2017/10/introducing-grafeas-open-source-api-.html Grafeas: An open-source API to audit and govern software supply chain
-
 # 23-10-2017
-
 - https://stackify.com/java-thread-pools/ Java Thread Pool models revisited, FJP and classic TP.
 - https://www.confluent.io/blog/ranking-websites-real-time-apache-kafkas-streams-api/ Another usage of Kafka Streams running on AWS to compute page ranks.
 - https://labs.spotify.com/2017/10/16/big-data-processing-at-spotify-the-road-to-scio-part-1/ Spotify reexplaining how/why they used Dataflow and their scio framework (basically dataflow api in scala)
 - https://deepmind.com/blog/alphago-zero-learning-scratch/ a strong feat: algorithms learning from scratch are smarter than learning from humans
 - https://blogs.windows.com/msedgedev/2017/10/18/documenting-web-together-mdn-web-docs/ A good decision: msdn now redirects 7k pages to mdn (mozilla dev network), less repetitions, more centralization
 - https://buildazure.com/2017/10/20/swagger-is-now-the-openapi-specification/ Swagger is now the OpenAPI Specification
-
 # 22-10-2017
-
 - http://blog.ploeh.dk/2015/05/07/functional-design-is-intrinsically-testable/ Functional programming is very good for unit testability
 - https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/ An interesting feedback about software methodologies applications in companies.. not that easy, according to who is there.
 - https://webkit.org/blog/7675/intelligent-tracking-prevention/ Intelligent Tracking Prevention: cookies and website data from the sites a user does NOT interacts with (first party) and tracking data will be removed
@@ -5627,17 +3845,12 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://cloudplatform.googleblog.com/2017/10/API-design-choosing-between-names-and-identifiers-in-URLs.html A page _should_ have a "human" friendly url, and a fixed permalink with ids
 - https://www.theverge.com/platform/amp/2017/10/19/16503076/oracle-vs-google-judge-william-alsup-interview-waymo-uber A Judge writing QuickBasic is obviously in a good position to judge tech cases <3
 - https://blogs.dropbox.com/dropbox/2017/10/new-plan-dropbox-professional/ New tools to "showcase" a work, basically create a "landing" page to organize some Dropbox content
-
 # 15-10-2017
-
 - https://blog.softwaremill.com/the-case-against-annotations-4b2fb170ed67?token=79fT3F-khJEaf3KX Great post explaining why we should probably not use annotations too much.
 - https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67 React 16 is a complete release, with massive improvements.
 - https://blog.kontena.io/event-sourcing-microservices-with-kafka/ Nothing new but just another perpective about Kafka for event sourcing
-
 ~~ Holidays exist to make a break, right? ~~
-
 # 16-09-2017
-
 - https://developers.google.com/web/updates/2017/08/devtools-release-notes Chrome 62 is there. Can await in the console, youhou.
 - https://adoptopenjdk.net/index.html?variant=openjdk9-openj9 Another "enterprise" JVM "OpenJ9" in the OpenJDK distrib, from IBM.
 - https://github.com/AaronJackson/vrn Construct a 3D visage from a 2D photo, impressive.
@@ -5649,40 +3862,30 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863 A cool article about Scala Phantom types. Make up your pizza.
 - http://norswap.com/fast-java-reflection/ In Java8, it's possible to use reflection as fast as direct calls, thanks to the new API LambdaMetafactory.
 - https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/ Many optimizations from hardware to high-level nginx. Many stuff i'll never used. :-D
-
 # 13-09-2017
-
 - http://www.sublimetext.com/blog/articles/sublime-text-3-point-0 Sublime Text 3 is OUT OF BETA§ Unfortunately, I'm more fluent on VSCode since a while :-( (except for huge files)
 - https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec Never reference an external var from a closure, use arguments.
 - https://medium.com/@mikeal/modern-modules-d99b6867b8f1 Take away: use async/await, it's future-proof. Use r2 instead of request.
 - https://v8project.blogspot.fr/2017/09/elements-kinds-in-v8.html JavaScript only knows "number", but the engine behind is smarter and packs numbers in array optimally. SMI: Small Integer. "Nowadays, the performance of both for-of and forEach is on par with the old-fashioned for loop."
 - http://jackhiston.com/2017/9/4/the-wonderful-world-of-webpack/ Quick notes on what the webpack purpose is
 - https://jakearchibald.com/2017/lazy-async-svg/ A new feature in Chrome61: Zoomable lazy-rendered tiled SVG. Improve perf if the page plays a lot with SVGs.
-
 # 11-09-2017
-
 - http://www.scala-lang.org/blog/2017/09/11/scalafix-v0.5.html Linting tool for Scala! And also some codemods for sbt (sbt-fix).
 - https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-101 and https://www.oreilly.com/ideas/the-world-beyond-batch-streaming-102 Wonderful posts about batch and streaming engines, related to Apache Beam/Google Dataflow.
 - https://github.com/pureconfig/pureconfig Load typesafe configs into case classes easily and safely.
 - https://beachape.com/blog/2017/05/24/rust-from-scala/ Feedback from a Scala dev writing Rust. Quite positive!
-
 # 09-09-2017
-
 - http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html Excellent. Doing a C program using `const int main[] = {..}` Not conventional!
 - https://blog.campvanilla.com/javascript-the-curious-case-of-null-0-7b131644e274 null >= 0 is true because null < 0 is false
 - https://leanpub.com/fpmortals/read "Functional Programming for Mortals" in Scala please. To read!
 - http://thoughts.davisjeff.com/2009/08/02/what-is-the-deal-with-nulls/ omg, NULL in SQL is like the most unconsistent and wary thing
-
 # 07-09-2017
-
 - https://code.facebook.com/posts/274518539716230 Yarn 1.0 is out! Performance, workspaces (multi-projects in monorepo)
 - https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/ Kafka implemented simili-Flume's interceptors to do simple stuff in the pipeline, without coding anything. (SMTs)
 - https://github.com/AssemblyScript/assemblyscript A subset of Typescript, compiling to webasm, good stuff, future is here.
 - https://medium.com/@dwalsh.sdlr/using-graphql-why-facebook-now-owns-you-3182751028c9 An analysis of the GraphQL patent
 - https://github.com/nginx/unit nginx made easy?
-
 # 06-09-2017
-
 - https://github.com/mr-mig/every-programmer-should-know Good list of things to know, and most to forget, but well..
 - http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time Sorry, I don't believe all this crap, hopefully
 - https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/ Facebook diving into its LogDevice: a distributed data store for logs. Use-cases, some technical notes, but nothing concrete. OS in 2017, possibly.
@@ -5690,25 +3893,19 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://docs.bazel.build/versions/master/getting-started.html And what bout Bazel actually? Buck is based on it.
 - http://www.hanshq.net/eprime.html Several technics to find the first 10-digit prime in the digits of E (and computing E with billion of digits too..) Taylor and C inside!
 - https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/ How NYT deals with Kafka. Interesting. 1 partition on the main topic to get total ordering. Kafka Streams, ES, and GCP/GCE/GKE inside.
-
 # 04-09-2017
-
 - https://github.com/satwikkansal/wtfpython#-examples JS is not the only one to be fucked up
 - http://www.reactos.com/project-news/reactos-046-released "14,238,159 unit test cases, failing just 18,419"
 - https://www.youtube.com/watch?v=A45uRzJiv7I KSQL: Streaming SQL for Kafka. Easy and powerful. Create tables from topics. Can't stop thinking about scaling? (when joining tables of millions?). It's backed up by Kafka Streams. The associated blog post: https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
 - https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/ https://github.com/apache/incubator-pulsar http://bookkeeper.apache.org/ We all know Kafka. But what about logdevice (fb), pulsar (yahoo), distributedlog/bookkeeper (twitter) ?
-
 # 31-08-2017
-
 - https://www.javagists.com/stack-walking-api-java-9 Simple article about the new Java9 stacktrace walking api. Quite rare to use it, but good to know.
 - https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/ Kafka to ES, made easy (with Kafka connect)
 - https://beam.apache.org/blog/2017/08/16/splittable-do-fn.html Easier to write custom sources in Beam thanks to SDF (Splittable DoFn)
 - https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/ Typescript introducing some method refactorings (finally..) in VSCode
 - https://medium.com/the-node-js-collection/async-hooks-in-node-js-illustrated-b7ce1344111f Not a clear post i find. Anyway, a new API to register callbacks tracking the lifetime of asynchronous resources created inside a Node.js. Useful to create "span" to analyse where the time is spent and what is going on behind the hood.
 - https://code.facebook.com/posts/357056558062811/logdevice-a-distributed-data-store-for-logs/ A new distributed logs storage on its way, by Facebook.
-
 # 29-08-2017
-
 - https://blog.alaskaair.com/alaska-airlines/solar-eclipse/ Alaska Air explaining how they planned to see the eclipse from one of their plane, it is not that easy. Incredible.
 - https://underscore.io/blog/posts/2016/12/05/type-lambdas.html Why the kind projector exists in Scala
 - https://typelevel.org/cats/datatypes/functionk.html ~> in cats is equivalent to A => B for higher kinded types: F[_] => G[_] <=> F ~> G.
@@ -5717,9 +3914,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/@taitems/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9 We can find so many great stuff in open source now, licence plate recognition here
 - https://thenextweb.com/google/2017/08/28/google-japan-internet-blackout/ And they said the internet is decentralized.
 - https://blog.buildo.io/data-driven-scala-programming-e50f07c4db35 Analyzing the errors you get when working, interesting to get insights about things you barely realize.
-
 # 24-08-2017
-
 - https://medium.com/@kentcdodds/introducing-downshift-for-react-b1de3fca0817 A React autocomplete component without UI at all, just the logic. Kinda like this idea! Separation of concerns, ftw.
 - https://medium.com/@gkossakowski/a-note-on-kentucky-mule-and-twitters-scala-compiler-announcement-3294b5baf2ea More details about the Kentucky Mule POC (ultra-fast scala typechecking)
 - https://thenewstack.io/node-js-forked-complaints-repeated-harassment/ nodejs forked again. iojs, the come-back: "ayo". because of repeated infringements to the code of conduct by some high-members https://github.com/ayojs/ayo
@@ -5728,24 +3923,18 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://dzone.com/articles/akka-message-delivery-at-most-once-at-least-once-a No surprise, the at-most-once strategy is rarely voluntary used.
 - http://www.ssw.uni-linz.ac.at/Research/Papers/Marr/manlang17-grimmer-et-al-applying-optimizations-for-dynamically-typed-languages-to-java.pdf A big work using Truffle on GraalVM, to, mostly, avoid auto-boxing (caused by generics) by optimizing bytecode, to improve perfs.
 - https://advancedweb.hu/2017/03/01/jvm_optimistic_optimizations/ A very good article about Java inlining optimizations (x-morphic, branch prediction, and NPE impacts)
-
 # 22-08-2017
-
 - https://www.youtube.com/watch?v=oeE2tuspdHg Always interesting to see how people codes live. Here, a React app using Vx (d3) to draw a bitcoin chart.
 - http://www.businessinsider.fr/us/employee-retention-rate-top-tech-companies-2017-8/ It seems 2 years is the avg time before getting bored in any company
 - http://degoes.net/articles/scalaz8-is-the-future Is scalaz8 is going to be more Intellij and compilation friendly? In any case, it seems to be a good revamp!
 - https://github.com/sksamuel/elastic4s A very good Scala library with DSL to use elasticsearch. Also provide a reactive streams impl.
-
 # 19-08-2017
-
 - https://medium.com/@yaypie/cloudflare-thinks-they-can-be-neutral-they-cant-b46857f21c9a Where is the limit between hosting, and judging/acting about what you host.
 - http://www.oracle.com/technetwork/oracle-labs Oracle labs has some nice projects: a polyglot runtime for the JVM, GraalVM (that can interpret scripting languages such as Javascript, Ruby, R, and transforms them to a common AST Graal works with, thus provides all the JIT techniques), a Graph processing lib (Parallel Graph AnalytiX (PGX))
 - https://www.slideshare.net/martintoshev/jvm-the-graal-vm A recap of Graal. And Graal.js, 1.5x faster than V8 ?
 - https://yoric.github.io/post/binary-ast-newsletter-1/ The interesting future of Javascript being written directly to a binary AST to be sent over the wire
 - https://michael.stapelberg.de/Artikel/golang_favorite An opinion of why Go is great: code style, compilation speed, a good std lib, the associated tools
-
 # 17-08-2017
-
 - https://ponyfoo.com/articles/investigating-performance-object-prototype-to-string-es2015 A fast way to implement toString in JS
 - http://formidable.com/blog/2017/introducing-electron-webpack-dashboard/ A terrible tron-ish dashboard for webpack compilation
 - https://thenewstack.io/github-goes-kubernetes-tells/ Experience of GitHub slowly switching to k8s
@@ -5755,32 +3944,24 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/twitter/reasonable-scala Twitter is working on a blazing fast Scala compiler. Come on, we already have Dotty incoming, and there is also Typelevel Scala compiler..
 - https://machinelearning.apple.com/2017/07/07/GAN.html Apple playing with eyes, and trying to improve the realism of synthetic images
 - https://www.sigmainfy.com/blog/protocol-buffers-encoding-and-message-structure.html Looking at Protobuf binary encoding (varint, zigzag..)
-
 # 16-08-2017
-
 - http://developer.lightbend.com/blog/2017-08-14-cinnamon-2-5-with-akka-http-support/index.html Cinnamon (commercial feature) usage with HTTP metrics, OpenTracing and MDC.
 - http://developer.lightbend.com/guides/k8-akka-cluster/ Deploying a Akka cluster app to kubernetes and setting up proper env config
 - https://blog.figma.com/figma-2-0-now-with-prototyping-and-developer-handoff-1b309a5d025c Figma is a really good collaborative design tool for designers, on the web.
 - https://medium.com/@yonatanzunger/so-about-this-googlers-manifesto-1e3773ed1788 A frankly good resume and answer to the famous leaked Googler manifesto.
 - https://dev.to/kyle/a-first-look-at-google-cloudplatform A quick comparaison between AWS and GCP, mostly on the organization, the security, the storage and the nosql db.
 - https://www.youtube.com/watch?v=aFtpIShV60I A quick intro to Træfɪk: Load Balancing microservices
-
 # 14-08-2017
-
 - https://medium.com/@sbichenko/the-wrong-fizzbuzz-81cb8e67ef4a "Don’t implement the spec. Implement the logic behind the spec."
 - https://blog.godatadriven.com/practical-airflow-tutorial A useful recap about installing and setup some jobs in airflow
 - https://medium.com/@criccomini/so-you-want-to-build-a-kafka-connector-source-edition-357dce7d55f4 All the subtilities to handle when dealing with database CDC
 - http://debezium.io/ Another system to deal with CDC (à la bottledwater-pg). Distributed, and based on Kafka Connect.
-
 # 12-08-2017
-
 - https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/ The good rules of how to deal with passwords, from a client and application side. Mostly based on https://www.ncsc.gov.uk/guidance/password-guidance-simplifying-your-approach. Microsoft has also a nice guide https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Microsoft_Password_Guidance-1.pdf
 - https://www.youtube.com/watch?v=PorfLSr3DDI "Give me 15 minutes & I'll change your view of GDB"
 - https://www.confluent.io/resources/kafka-the-definitive-guide/ A definitive great resources to grab :)
 - https://databricks.com/blog/2017/07/11/introducing-apache-spark-2-2.html A recap about Spark 2.2 features
-
 # 11-08-2017
-
 - https://github.com/atlassian/react-beautiful-dnd Beautiful, accessible drag and drop for lists with reactjs
 - https://github.com/aksakalli/gtop a nodejs blessed "top" !
 - http://eu.battle.net/sc2/fr/blog/20944009 IA research were ongoing using Starcraft. Blizzard understood and creates a proper API for Starcraft 2 with full support!
@@ -5788,17 +3969,13 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/@rowillia/tautology-tests-7dabd81ade30 Be aware of how you are testing things, do not rewrite the impl in the test.
 - https://medium.com/@cindysridharan/small-functions-considered-harmful-91035d316c29 writing small functions is always a good point, but sometimes: wrong abstraction, hard to follow, loss of locality (functions dispatched all over files)
 - https://richardstartin.com/2017/07/23/still-true-in-java-9-handwritten-hash-codes-are-faster/ Unroll your array/string/collection hashCode custom method to be faster and remove some dependencies between iterations.
-
 # 09-08-2017
-
 - https://www.ctheu.com/2017/08/07/looking-at-kafka-s-consumers-offsets/ I wrote that
 - https://medium.com/@mariusandra/kea-vs-setstate-redux-mobx-dva-jumpstate-apollo-etc-4aa26ea11d02 "kea" a new way of doing things, based on redux, made for React
 - https://sentheon.com/blog/git-cheat-sheet.html A lot of "simple" git commands to know
 - https://gist.github.com/paf31/adfd15fbb1ac8b99fc68be2c9aca8427 "Why You Should Use PureScript" .. "hire remote PureScript developers (and be willing to train them if necessary) and you will have no shortage of qualified candidates." Well, i wonder what the bosses would think about that.
 - https://github.com/shekhargulati/building-java-web-apps-checklist The start of a checklist to create java front/back apps
-
 # 08-08-2017
-
 - http://antoinevastel.github.io/bot%20detection/2017/08/05/detect-chrome-headless.html Detecting Chrome Headless in Javascript
 - https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/ Super interesting transition from ML to DL for languages translation
 - https://plugins.jetbrains.com/plugin/9792-key-promoter-x A damn good plugin to learn the shortcut of the things we used to click
@@ -5806,9 +3983,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.lihaoyi.com/post/ScalaVectoroperationsarentEffectivelyConstanttime.html Scala Vector ops are not "Effectively Constant" time. Some bigO and log operations to demonstrate we can't say that.
 - http://raganwald.com/2017/07/22/closing-iterables-is-a-leaky-abstraction.html the VERY importance of closing iterators that opens resources (and that need to be closed). by implementing "return" on iterator. It's called by for..of, destructuring automatically, but that's it. Must .return() explicitely otherwise.
 - https://martinfowler.com/articles/rise-test-impact-analysis.html analyzing the call-graph of the source code to work out which tests should be run after a change
-
 # 05-08-2017
-
 - http://www.jetbrains.org/ring-ui/README.html JetBrains has open-sourced some UI components. Angular1 style :( But very nice nonetheless!
 - https://github.com/Palindrom/JSONPatcherProxy Creating JSON-Patch (RFC6902) by observing objects through Proxies
 - https://softwaremill.com/sttp-streaming-uri-interpolator/ More details about the streaming capabilities of sttp (an http-api that can work with different backends)
@@ -5818,9 +3993,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://typelevel.org/blog/2017/08/04/cats-1.0-mf.html cats almost 1.0.0! New types available ReaderWriterStateT, and existing updated to be stack-safe
 - http://virtuslab.com/blog/zinc-sbt-friendly-code/ Recap: never let unused imports, not use wildcard imports.
 - http://www.beyondthelines.net/programming/introduction-to-tagless-final/ This is just a wonderful article about the "tagless final" technique. Basically, you never hardcode which monad you use in your trait, and just work with HKT.
-
 # 02-08-2017
-
 - https://medium.com/@Pinterest_Engineering/the-case-against-kotlin-2c574cb87953 A useful review about Kotlin, its lack and oddities (learning curve, build times, tools stability, static analysis tools..) but Google is behind!
 - https://github.com/atomashpolskiy/bt bittorrent lib + cli in Java
 - https://expo.io/tools From scratch to publish React Native app, Expo XDE make it easy to develop them
@@ -5830,18 +4003,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/alex/what-happens-when "... you type google.com into your browser's address box and press enter?" From the push on the key to the rendering.
 - https://github.com/akka/akka/pull/23367 A Akka Flow can know be restarted (by producing a new Flow)
 - https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html WebGL using a JS lib: regl.
-
 # 01-08-2017
-
 - https://github.com/blog/2409-build-a-game-in-13kb-or-less-with-js13kgames Impressive JS games in less than 13kB, totally crazy awesome.
 - https://tenso.rs/demos/fast-neural-style/ Style-transfer neural network in the browser! (tensorflow)
 - https://github.com/sivel/speedtest-cli Command line interface for testing internet bandwidth using speedtest.net. To automatize the thing!
 - https://forum.sublimetext.com/t/rfc-default-package-control-channel-and-package-telemetry/30157 A sublime plugin sending metrics to a startup :(
 - http://blog.scalyr.com/2014/05/searching-20-gbsec-systems-engineering-before-algorithms/ Searching in raw logs? Brute Force! It makes sense and simplify a lot the model.
 - https://www.confluent.io/blog/chain-services-exactly-guarantees/ Another good post about Kafka transactions (valid inside Kafka, not outside, ofc)
-
 # 29-07-2017
-
 - https://manuel.bernhardt.io/2017/07/26/a-new-adaptive-accrual-failure-detector-for-akka/ Benchmarking failure detection algorithms with Akka
 - https://github.com/graphcool/chromeless Run chrome automation in a lambda !
 - https://stateofjs.com/ 2017 is there!
@@ -5852,18 +4021,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://fpj.me/2017/07/04/no-consensus-in-exactly-once/ Comparing Exactly once and consensus. Idempotence and transactions (with rollback) can provide exactly once.
 - https://github.com/micrometer-metrics/micrometer The slf4j of the metrics in Java :-)
 - https://about.sourcegraph.com/go/grpc-in-production-alan-shreve A nice recap of the features provided by gRPC, with lots of Go code
-
 # 27-07-2017
-
 - https://cloudplatform.googleblog.com/2017/07/three-steps-to-Compute-Engine-startup-time-bliss-Google-Cloud-Performance-Atlas.html
 - https://github.com/rikschennink/fitty Fit text in a particular area
 - https://www.theguardian.com/environment/2017/jul/25/google-enters-race-for-nuclear-fusion-technology Google is everywhere.
 - https://medium.com/@djo/obsession-service-client-captain-train-cb0b91467fd9 Excellent article sur le service cli d'über qualité de captain train.
 - https://github.com/github/brubeck brubeck is a simpler statsd
 - https://techblog.bozho.net/concerns-blockchain-technology/ Are blockchains gonna change the world?
-
 # 24-07-2017
-
 - https://speakerdeck.com/thesandlord/kubernetes-best-practices Kubernetes Best Practices. non root. readonly fs. dumb-init. labels. istio, linkerd (service mesh).
 - https://github.com/Duhemm/sbt-errors-summary I didn't know we had a sbt plugin to have those nicer errors (was not added to the original sbt to not break compat with emacs ..)
 - https://www.reddit.com/r/scala/comments/6p550d/scalajs_vs_kotlin_compiled_to_javascript/ Some interesting point about Scala.js vs Kotlin/js. Scala.js way better for now. (interop, compat, )
@@ -5871,9 +4036,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/brannondorsey/wifi-cracking Always useful to know!
 - https://github.com/danielmiessler/SecLists A damn crazy repo with tons of passwords list, fuzzy words
 - http://pzemtsov.github.io/2017/07/23/the-slow-currenttimemillis.html currentTimeMillis() slow in Linux, ultra fast on Windows.
-
 # 21-07-2017
-
 - https://blog.scalac.io/improving-akka-dispatcher.html A new ExecutorService, lock-free, supposely faster, with a better core cache locality management
 - http://www.beyondthelines.net/computing/akka-streams-patterns/ An interesting and not so long presentation of akka streams, with clear points
 - https://medium.com/@drboolean/laziness-with-representable-functors-9bd506eae83f _Representable Functors_ and Reader monad
@@ -5881,9 +4044,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://dev-blog.apollodata.com/the-next-step-for-realtime-data-in-graphql-b564b72eb07b Subscriptions spec incoming in GraphQL
 - https://www.confluent.io/blog/real-time-financial-alerts-rabobank-apache-kafkas-streams-api/ Managing notifications and alerting using Kafka Streams
 - https://groups.google.com/forum/#!msg/redis-db/5Kh3viziYGQ/58TKLwX0AAAJ Redis 4.0 out !!
-
 # 19-07-2017
-
 - https://blog.nightly.mozilla.org/2017/07/17/preview-storage-api-in-firefox-nightly/ "The global limit is calculated as 50% of free disk space"
 - https://twitter.com/svensauleau/status/887281075294281733 Pattern Matching in JS
 - https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/ Forward compat' between Kafka clients and brokers
@@ -5893,9 +4054,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/xori/gamblers-dice Excellent! A dice that respects the gambers fallacy dice. (the past alters the future)
 - https://www.byte.nl/blog/dont-run-this-on-any-system-you-expect-to-be-up-they-said-but-we-did-it-anyway Upgrading 2000 ubuntu servers from 12 to 16. Fully automatized.
 - https://www.confluent.io/blog/build-services-backbone-events/ https://www.confluent.io/blog/apache-kafka-for-service-architectures/ https://www.confluent.io/blog/building-real-time-streaming-etl-pipeline-20-minutes/ Confluent has really good articles about their platform and streaming in general. (and kafka ofc)
-
 # 17-07-2017
-
 - https://blog.tendigi.com/starbucks-should-really-make-their-apis-public-6b64a1c2e923 Starbucks API is now open :-)
 - https://github.com/databricks/scala-style-guide Tips from Databricks about coding in scala
 - https://www.atlantbh.com/blog/using-firebase-provide-real-time-notifications/ Using Firebase To Provide Real-Time Notifications on web (RealTime Database) and mobile (with Firebase Cloud Messaging)
@@ -5906,9 +4065,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://august.nagro.us/jvm-startup.html TLDR: Nailgun to preload all the jars separately.
 - https://www.kernel.org/doc/html/latest/process/coding-style.html Linux kernel coding style with a lot of notes, some of them hilarious
 - https://github.com/Kristories/awesome-guidelines A new awesome repo, guidelines for languages, api, rest, json, ...
-
 # 12-07-2017
-
 - https://github.com/segmentio/ksuid Kind of UUIDs orderable by time, hm (timestamp first)
 - https://en.wikipedia.org/wiki/Heat_death_of_the_universe Scary future. We won't be there to assist to that anyway.
 - https://segment.com/blog/exactly-once-delivery/ A very nice article about using kafka+rocksdb to eliminate duplicates inputs
@@ -5919,9 +4076,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://seashells.io/ This is a win. Pipe output from any command to the interweb, and have a live-console in the browser, with an anonymous link to share.
 - https://randomascii.wordpress.com/2017/07/09/24-core-cpu-and-i-cant-move-my-mouse/ The more core you have, the slower is it! Amdahl's law.
 - https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/ This is demential.
-
 # 09-07-2017
-
 - https://www.addthis.com/blog/2013/04/16/building-a-distributed-system-with-akka-remote-actors/ An old feedback about Akka Remote (when Akka Cluster was not even out)
 - https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition A wonderful example of #abstractAllTheThings to write a fizzbuzz program (almost 2k lines)
 - https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8 Don't overengineer things.
@@ -5930,9 +4085,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.youtube.com/watch?v=rwqwwn_46kA MobX into a state tree. New state management? https://github.com/mobxjs/mobx-state-tree
 - https://thenewstack.io/identifying-collecting-container-data/ Tools for monitoring containers (docker stats, cadvisor, prometheus, grafana, (c)sysdig, datadog, dynatrace..)
 - https://fullstackmark.com/post/11/better-software-design-with-clean-architecture A good intro to the Clean Architecture
-
 # 08-07-2017
-
 - https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/ I totally forgot about that, a must read
 - https://github.com/blog/2392-introducing-code-owners Auto notifying the right people to do code reviews (based on file type, folders etc.)
 - http://whatthefuckisethereum.com/ explained differently according to who you are :) basically: you run program (on theplatform ethereum) on your comp', we pay you in ether.
@@ -5942,18 +4095,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://mapr.com/blog/performance-tuning-kafka-spark-streaming-telecom/ Some tips about improving performance of a kafka/ignite/spark streaming workflow.
 - https://apacheignite.readme.io/docs/jvm-and-system-tuning Tuning Apache Ignite beucase it's important! Will definitely use it.
 - http://jcommander.org/ A really great Java cli parser library, based on annotations.
-
 # 06-07-2017
-
 - https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html Making a virtual machine in Google Sheets. Create some registers, some memory, some instructions, and let gsheets execute it :o
 - https://adexchanger.com/international/china-challenge-lessons-criteos-quiet-exit/ China market: too closed, too secret, they don't want to share, Criteo out!
 - https://blog.mozilla.org/security/2017/06/28/analysis-alexa-top-1m-sites/ The security best practices is _very_ slowly being taken into account on the web
 - https://www.gatsbyjs.org/blog/gatsby-v1/ !! I can update my blog with this now. edit: migration path sucks :( No codemods, damnit!
 - https://blog.risingstack.com/mastering-async-await-in-nodejs/ Come on, async/await in JS is already so old.
 - https://blog.expo.io/expos-website-2680a1ac1a7 A builder of mobile React native apps
-
 # 04-07-2017
-
 - https://www.nasa.gov/sites/default/files/files/E_Christiansen-MMODriskOverview.pdf Space is dangerous, yeah.
 - https://github.com/patrick-steele-idem/morphdom An interesting way of patching the DOM, without virtual dom (just real dom against real dom)
 - https://github.com/yoshuawuyts/choo A simple and fast frontend framework that uses morphdom behind the scene
@@ -5965,34 +4114,26 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://rancher.com/ A platform to manage containers. Similar to openshift. Can work with k8s. "Container as a Service"
 - http://blog.octo.com/la-ruee-vers-le-conteneur/ A fr article about Rancher
 - https://github.com/weaveworks/cortex A multitenant, horizontally scalable Prometheus as a Service, currently in beta
-
 # 30-06-2017
-
 - http://swreflections.blogspot.fr/2013/06/automated-tests-as-documentation.html Are tests are enough as documentation? As least, they're up to date!
 - http://www.enterpriseintegrationpatterns.com/ramblings/google_cloud_functions.html Using google cloud functions to listen/publish from/to pubsub
 - https://www.spantree.net/blog/2017/06/26/scala-native-for-cli-tools.html A few Scala Native learnings: %%%, and random is not random (!)
 - https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-2/ A small comparaison between akka streams and monix, some use-cases.
 - http://cloudmark.github.io/FSM/ Good post about Akka FSM (finite state machine) and impl of a "at most once" basic system)
-
 # 27-06-2017
-
 - https://github.com/ChALkeR/notes/blob/master/Gathering-weak-npm-credentials.md Glorious "attack" on npm credentials
 - https://dribbble.com/shots/3605964-Airbnb-AR-Map-Concept an awesome design that uses augmented reality, maybe soon at airbnb's?
 - https://github.com/prettier/prettier/releases/tag/1.5.0 Who is not using Prettier yet?
 - https://coreos.com/blog/prometheus-and-kubernetes-up-and-running.html Just playing with prometheus, grafana, k8s. Loving stack.
 - https://kubernetes.io/docs/user-guide/kubectl-cheatsheet/ Title says all!
-
 # 26-06-2017
-
 - https://cloud.google.com/free/docs/map-aws-google-cloud-platform https://cloud.google.com/free/docs/map-azure-google-cloud-platform Map of Google services against AWS and Azure.
 - https://cloud.google.com/apis/design/
 - http://opentracing.io/documentation/ Create traces and "spans" of a request accross all the services (impls: jaeger, zipkin)
 - https://www.alexkras.com/i-decided-to-disable-amp-on-my-site/ interesting feedback and learnings about Google AMP
 - https://eng.uber.com/distributed-tracing/ I really need to use Jaeger, seems so great to monitor internals!
 - https://github.com/kubernetes/heapster Monitoring kubernetes nodes and containers (and sending the metrics anywhere)
-
 # 25-06-2017
-
 - http://docs.scala-lang.org/overviews/macros/overview.html it's time to dive into scala macros!
 - https://cloud.google.com/solutions/reliable-task-scheduling-compute-engine a "cron" system using pubsub to convey a message to trigger some functions
 - https://shinesolutions.com/2017/03/23/triggering-dataflow-pipelines-with-cloud-functions/ Triggering dataflow pipelines with cloud functions triggered by putting some files on google cloud storage
@@ -6006,15 +4147,11 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/LMAX-Exchange/disruptor exchanging messages between thread, in a pub-sub fashion, with controlled latency (ie: how to wait)
 - http://blog.stackstate.com/the-container-monitoring-problem stackstate is a platform to monitor your containers, no matter the orchestration system (mesos, k8s, docker swarm..)
 - https://www.youtube.com/watch?v=yLbdw06tKPQ Awesome talk about scala cake pattern, how and why, and also covers its big issues (lots of fucked up things with scalac, order of evaluations, deadlocks;;)
-
 # 23-06-2017
-
 - https://shipilev.net/jvm-anatomy-park/6-new-object-stages/ Optim: call functions after settings the var in the ctor, or you get a penalty (2 inits, one at 0, one at the value set in the ctor)
 - http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html A very great guide to gdb
 - https://www.lightbend.com/blog/lightbend-podcast-play-2-6-is-coming-and-its-faster-than-ever Play 2.6, akka http, jwt, twirl DI inside, https://playframework.com/documentation/2.6.x/Highlights26
-
 # 22-06-2017
-
 - https://www.youtube.com/watch?v=RZIkFuDpV20 A very cool review on the new Twitter's design
 - https://github.com/ThoughtWorksInc/each It can be quite handy hmm it converts imperative syntax to scalaz's monadic expressions
 - http://www.luna-lang.org/ A visual language, converted to text, and functional. I wonder if it's scale on a real project.
@@ -6023,9 +4160,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.cakesolutions.net/teamblogs/pitfalls-of-an-ungroomed-backlog Backlog Grooming, definitely necessary! You often clean up crap here :)
 - https://www.47deg.com/blog/fp-for-the-average-joe-part-1-scalaz-validation/ ValidationNel, a very nice monad to accumulate errors, Scalaz
 - https://blog.scalac.io/2017/05/25/scala-specialization.html I've never applied @specialized, i probably should have.
-
 # 21-06-2017
-
 - http://evelinag.com/blog/2017/06-20-stackoverflow-tabs-spaces-and-salary/index.html Tabs, spaces and salary. Part 2.
 - https://en.wikipedia.org/wiki/Synesthesia "neurological phenomenon in which stimulation of one sensory or cognitive pathway leads to automatic, involuntary experiences in a second sensory or cognitive pathway"
 - https://github.com/BranislavLazic/akka-cqrs-activator This inspires me to write some akka persistence thingy. #scala
@@ -6036,9 +4171,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://fymhotsauce.rocks/blogs/news/my-uber-driver-robbed-me-so-i-took-uber-to-court-and-won Just use Uber to return from party, and you won't have troubles.
 - https://speakerdeck.com/jboner/without-resilience-nothing-else-matters Be and live with resilience.
 - https://shipilev.net/jvm-anatomy-park/7-initialization-costs/ Another super interesting article about jmh options, and JVM object initialization speed and optimization (through unsafe).
-
 # 18-06-2017
-
 - https://github.com/boltdb/bolt A popular embedded key/value database for Go.
 - https://www.youtube.com/watch?v=-4Yp3j_jk8Q Write TLA+ (or PlusCal) specs (mathematically) of the code you're about to write, it can find subtle cases
 - https://github.com/kailashahirwar/cheatsheets-ai Many many cheatsheets about ML and DL (tensorflow, keras, numpy, pandas, sckikit-learn, pyspark..)
@@ -6046,9 +4179,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-1/ a VERY tiny intro to comparing akka streams and monix.
 - https://softwaremill.com/interval-based-rate-limiter/ implementing a rate limiter with akka streams
 - https://ratpack.io/ https://github.com/pledbrook/lazybones Ratpack is a set of Java libraries for building modern HTTP applications.. It's very good, not verbose, reactive, modular, has some spring, guice, rxjava, jackson, hystrix modules
-
 # 17-06-2017
-
 - https://www.youtube.com/watch?v=8_DfwEpHE88 Martin Kleppmann - Conflict Resolution for Eventual Consistency (CRDTs)
 - http://scala-lang.org/blog/2016/10/24/scalafix.html Codemods for Scala to Dotty
 - https://www.youtube.com/watch?v=2ghtw7Bp0ME Colossus is a very performant scala microservice framework (tumblr)
@@ -6057,36 +4188,28 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://developers.google.com/web/updates/2017/05/devtools-release-notes Lots of nice update in Chrome 60 (lighthouse, rt code coverage, async debug by default, third party badges (ads!))
 - http://www.atrato.io/blog/2017/05/28/apex-kudu-output/ Writing into Kudu from Apache Apex
 - https://www.youtube.com/watch?v=NvCcNM2vp3k Optics (not profunctors eh!) with Monocle, with Scala https://github.com/julien-truffaut/Monocle
-
 # 16-06-2017
-
 - http://developer.lightbend.com/blog/2017-06-12-faster-scala-compiler/ Yes! More scalac speed.
 - https://12factor.net/ The Twelve-Factor App, some very nice and useful tips to apply in any project
 - http://developer.lightbend.com/blog/2017-06-15-sbt-1-0-beta2/ sbt 1.0 beta2 !
 - https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/ I have no idea what am i using, because of auto indentation.
 - https://www.erikheemskerk.nl/c-sharp-7-2-and-8-0-uncertainty-awesomeness/ C# is becoming more javascript'ish and scala'ish :D
 - https://github.com/schemasafe/troy csql statically checked via macro in Scala. It reminds me of https://github.com/spotify/scio which does the same but with BigQuery.
-
 # 15-06-2017
-
 - https://codewithoutrules.com/2017/06/14/how-to-name-your-software/ _how not to name your software_
 - https://github.com/gatsbyjs/gatsby/issues/419 gatsby 1.0 is coming, slowly
 - https://softwaremill.com/akka-monitoring-with-kamon-part-2/ A good part 2 post about Kamon features and akka-http.
 - https://github.com/scalalandio/chimney A small and maybe useful Scala lib to copy fields from one case class to another one (without specifying all field names), thanks to macros.
 - http://www.lurklurk.org/linkers/linkers.html Interesting explanations about the linkers logic (C/C++), unix and windows
 - http://blog.interviewing.io/what-really-matters-in-technical-interviews-we-analyzed-thousands-of-interviews-on-everything-from-language-to-code-style-heres-what-we-found/
-
 # 14-06-2017
-
 - http://sortbenchmark.org/NADSort2016.pdf The famous 100TB CloudSort benchmark, done in 3000s, for 150\$ on Alibaba Cloud
 - https://blog.risingstack.com/moving-node-js-from-paas-to-kubernetes-tutorial/ A nice intro to running a nodejs in kubernetes
 - https://github.com/eBay/parallec
 - https://github.com/propensive/magnolia Magnolia is a generic macro for automatic derivation of typeclasses #scala
 - http://blog.colinbreck.com/ A very good blog, with inspiring article about scala, akka streams, and self introspection.
 - https://github.com/alibaba/react-intl-universal Another lib for i18n for React (but also vanilla it seems, who cares)
-
 # 07-06-2017
-
 - https://databricks.com/blog/2017/05/31/top-5-reasons-for-choosing-s3-over-hdfs.html After reading that, why would we use HDFS over S3 ? ;)
 - https://medium.com/@kennyalive/quake-3-vulkanized-245cc349fdcf A dude reimplemented the rendering of Quake 3 with the Vulkan rendering API in barely 3 months! the "next" OpenGL
 - https://blog.bradfieldcs.com/you-are-not-google-84912cf44afb Really like the "list" to resolve any problem: understand the problem domain, enumerate candidate solutions, read paper for one candidate, know why/when it was created, its context; advatages against disadvantages; then think if you use it, what happens, and what could change your mind?
@@ -6094,9 +4217,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://dev.office.com/fabric I really like the Office component library, and they also "offers" best practices about how/when to use each component.
 - https://github.com/lloydmeta/enumeratum A better Scala enum? with name/value modifiers, macros that generates json boilerplates for any lib,. (play-json etc.)
 - https://github.com/theiterators/kebs in the same vein, kebs offers macros to replace boilerplates for [slick, play-json, akka-http] serde
-
 # 05-06-2017
-
 - https://github.com/ThoughtWorksInc/feature.scala Nice Scala utilities. Through implicit, get the Caller of any function, create a Factory from any type
 - http://blog.panoply.io/redis-vs-mongodb High level comparaison between Redis (speed, stable size) and MongoDB (scale, query model).
 - https://www.youtube.com/watch?v=9lWrt6H6UdE "What's Different In Dotty" Scala 3.0 in 2019 !.
@@ -6105,9 +4226,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://szymonkaliski.com/blog/2017-05-31-exploring-reasonml/ Dude exploring ReasonML to draw some balls :)
 - https://www.slideshare.net/HadoopSummit/working-with-the-scalding-type-safe-api Criteo working with the Scalding type safe API
 - https://vincent.bernat.im/fr/blog/2014-tcp-time-wait-state-linux A very interesting article about tcp time-wait connections (tcp_tw_reuse and tcp_tw_recycle effects)
-
 # 04-06-2017
-
 - https://github.com/phenomic/phenomic A gatsbyjs like project, to generate a static website from markdown pages+some reactjs code
 - https://docs.microsoft.com/en-us/cognitive-toolkit/reasons-to-switch-from-tensorflow-to-cntk Microsoft abandonning TensorFlow in profit of their CNTK, for various reasons. (speed, accuracy, interop, ..)
 - https://community.qlik.com/blogs/qlikviewdesignblog/2017/05/31/who-do-the-kudu-that-you-do Qlik now has a Kudu connector!
@@ -6117,24 +4236,18 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://2ality.com/2017/05/util-promisify.html util.promisify is a bit more than just a simple wrapper
 - http://uber.github.io/deck.gl/blog/2017/introducing-deckgl-v4 deckgl, a component when we can put inside a react-map-gl but not always!
 - https://adriaanm.github.io/reveal.js/scala-2.12-2017.html Scala 2.12 & Beyond. Avoid Python 3! :-)
-
 # 02-06-2017
-
 - http://www.infoworld.com/article/3199186/javascript/nodejs-8-brings-sanity-to-native-module-dependencies.html A recap about nodejs 8 (v8 upgrade, turbofan+ignition, native deps, buffers, whatwg url (new URL(..)), npm5, util.promisify to remove those crappy callbacks(err, success).
 - https://github.com/yandex/ClickHouse ClickHouse is a free analytic DBMS for big data. https://clickhouse.yandex
 - https://nodesource.com/blog/getting-started-with-vs-code-for-node-js-development How to start properly with VSCode, which plugins to install etc. to do some js
 - https://github.com/criteo/socco Create nice html page from commented source files
 - https://github.com/prettier/prettier/releases/tag/1.4.0 Typescript and CSS support, and tons of enhancement for Javascript formatting
-
 # 01-06-2017
-
 - https://softwaremill.com/akka-monitoring-with-kamon-part-1/ Akka and Kamon, perfect match!
 - http://underscore.io/blog/posts/2017/05/29/why-we-open-sourced-our-books.html underscore (good scala consulting company) opened source its books (about scala, cats, play, slick..), nice gesture
 - http://www.scala-lang.org/blog/2017/05/31/first-dotty-milestone-release.html New cool features in Dotty, mostly about types (intersection, union), and true enums.
 - https://github.com/OpenHFT/SmoothieMap A better and more latency-consistent-less-garbage HashMap
-
 # 31-05-2017
-
 - https://www.youtube.com/watch?v=EdFDJANJJLs V8 = TurboFan (perf) + Ignition (interpreter) pipeline. + WebAssembly compliant.
 - https://status.github.com/ Today GitHub had some issues, 89.6194% of availability!
 - https://github.com/rgbkrk/covfefe covfefe
@@ -6142,9 +4255,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://download.libsodium.org/doc/ The native crypto library used undernealth
 - https://yarnpkg.com/blog/2017/05/31/determinism/ npm5 now does its own lock file, no interop with yarn
 - http://kubernetesbyexample.com/ Some basic and clear explanations about the different items in kubernetes
-
 # 29-05-2017
-
 - https://medium.com/styled-components/announcing-v2-f01ef3766ac2 Style your components with.. style! Very good lib to do css-in-js (React)
 - https://hnpwa.com/ Tons of Hacker News reader implementation, as Progressive Web Apps (React, Preact, Angular, Vue..) and their Lighthouse score
 - https://github.com/facebook/jest/pull/3668/files How to switch jest from jasmine to a custom test runner
@@ -6159,26 +4270,20 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://martinfowler.com/articles/continuousIntegration.html I couldn't live without continuous integration :-)
 - https://www.youtube.com/watch?v=EdFDJANJJLs V8 = TurboFan (perf) + Ignition (interpreter) pipeline. + WebAssembly compliant.
 - https://www.cs.princeton.edu/~rs/talks/AC11-Cardinality.pdf Cardinality Estimation. Very interesting slidedown talking about some algo to estimate a cardinality in a stream (exact or approx), finishing by the HyperLogLog and HyperBitBit.
-
 # 28-05-2017
-
 - https://reviewable.io/ A review to help reviewing GitHub PRs. Looks like the advantage is it shows what changed since we last time we looked.
 - https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf A very good article/recap with pointers about GraphQL and its impls.
 - https://medium.com/@abhiaiyer/top-5-recompose-hocs-1a4c9cc4566 Some usage of recompose, all HoC for React functional components
 - http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html Enumerating some warts in Scala
 - https://medium.com/styled-components/announcing-v2-f01ef3766ac2 Style your components with.. style! Very good lib to do css-in-js (React)
-
 # 27-05-2017
-
 - http://www.schveiguy.com/blog/2017/05/how-to-report-a-bug-to-microsoft/ Funny blog post about a guy desperate to have a competent person from the Microsoft support. He won't.
 - https://blogs.msdn.microsoft.com/oldnewthing/20080324-00/?p=23033 Difference between .COM and .EXE, good ol' times!
 - https://github.com/gitpitch/gitpitch AMAZING! add a file "PITCHME.md" (+.yaml for config) in your repo and use https://gitpitch.com/user/repo to get the corresponding generated slideshow.
 - https://github.com/yhatt/marp Markdown presentation writer using Electron. Slideshow in .md, nice! Then using gitpitch to show them anywhere :)
 - https://www.youtube.com/watch?v=aVuor-VAWTI Javascript Dates and Time APIs, and proposal for the future to fix all the existing crap
 - https://toddmotto.com/rxjs-observables-observers-operators Another simple and clear implementation of Observable, as a tutorial
-
 # 26-05-2017
-
 - http://viktorklang.com/blog/Futures-in-Scala-protips-1.html Some simple tips about Future and ExecutionContext in Scala
 - https://github.com/ory/editor?branch=master A very nice WYSIWYG on top of slatejs (React)
 - https://github.com/ianstormtaylor/slate Rich Text Editor in React
@@ -6192,17 +4297,13 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.reddit.com/r/javascript/comments/6dgdqv/is_it_yarn_still_in_demand_after_the_npm_release/ npm5 greatly improved since. Very good http://blog.npmjs.org/post/161081169345/v500
 - http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/ npm i memwatch-next heapdump
 - http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/ Let's hack with tmux now! I'm so often ssh'ing anywhere and working on different stuff, that could help.
-
 # 24-05-2017
-
 - https://github.com/diegomura/react-pdf Easily create a pdf from some React components, very nice
 - https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/ Part 2 of the GVFS story for huge git repo, by Microsoft.
 - https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/ Some useful git aliases
 - https://watabou.itch.io/medieval-fantasy-city-generator A medieval city generator, good stuff
 - https://blog.heptio.com/ksonnet-intro-43f6183a97a6 "ksonnet: Simplify working with Kubernetes configurations" Generate the yaml config from a way simpler description http://ksonnet.heptio.com/ it also has a VisualStudioCode plugin
-
 # 23-05-2017
-
 - https://blog.risingstack.com/packing-a-kubernetes-microservices-with-helm/ I didn't know this Helm thing, quite interesting! "The Kubernetes Package Manager"
 - https://github.com/spark-jobserver/spark-jobserver Start Spark jobs just by calling a REST API and retrieve results the same way, + jobs can share contexts and (named)rdds
 - https://www.chrisstucchio.com/blog/2013/hadoop_hatred.html Not being able to use excel is no reason to use Hadoop, indeed ^^
@@ -6210,9 +4311,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/wulkano/kap A nice and slick screen recorder for OSX!
 - https://medium.com/@kevinj_50886/a-progressive-web-application-with-vue-js-webpack-material-design-part-2-a5f19e70e08b Using Vue and Firebase
 - https://blog.risingstack.com/getting-started-with-aws-lambda-and-node-js/ Creating a tiny nodejs lambda on AWS with "Serverless" https://github.com/serverless/serverless (generic to cloud providers, AWS, Google, Azure)
-
 # 22-05-2017
-
 - https://vimeo.com/165922572 Monix: to compose async programs. Tasks.
 - http://symfony.com/blog/an-open-source-web-platform-for-the-new-president-of-france Finally, a website about politics using modern technology in France!
 - https://github.com/sindresorhus/copy-text-to-clipboard A simpler and lighter! way to do a copy in modern browser (tiny tiny!)
@@ -6226,9 +4325,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://hpbn.co/ "High Performance Browser Networking" by Igor Grigorik. Need to read that one day :(
 - https://shipilev.net/jvm-anatomy-park/12-native-memory-tracking/ Track where the JVM memory goes (the heap is just a tiny part). Flags involved!
 - http://www.adaltas.com/en/2016/11/14/hive-calcite-and-druid/ Druid in Hive, can't wait to try that :-) But still a lot of ticket to do it seems https://cwiki.apache.org/confluence/display/Hive/Druid+Integration
-
 # 21-05-2017
-
 - https://github.com/react-toolbox/react-toolbox Nice React components toolkit that follows Google Material Design specs.
 - https://github.com/glenpike/npm-g_nosudo Never install something globally, done. :P
 - http://www.midnightdba.com/Jen/2017/05/employers-let-people-work-home Definitely! I'm already enjoying this, 1d/week generally. Good enough.
@@ -6239,9 +4336,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://blog.cloudflare.com/standing-up-to-a-dangerous-new-breed-of-patent-troll/ Cloudflare pissed off about patent trolls company will retaliate.
 - https://github.com/lampepfl/dotty/issues/2491 Proposal by @odersky to implement an indentation-based parser for Scala
 - https://www.twitch.tv/sentdex A neural network playing GTA5, wonderful
-
 # 20-05-2017
-
 - https://aboveintelligent.com/using-tensorflow-to-classify-hotdogs-8494fb85d875 Using TensorFlow to classify hotdogs (Silicon Valley style)
 - https://customvision.ai/ By Microsoft: upload image with labels (or let Custom Vision add some), let it train, and use its REST API to evaluate. Crazy good stuff.
 - https://zeit.co/blog/next3-preview#next-export Next now support build without server to serve it (just plain static), and it will handle lazy components loading on the fly thanks to dynamic imports.
@@ -6255,9 +4350,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/ Against integers pk, use uuid instead. I kinda agree! Let API generate the uuid.
 - http://www.brendangregg.com/blog/2016-12-27/linux-tracing-in-15-minutes.html ftrace, execsnoop, kprobe, the perf-tools and bpf tools !
 - https://shipilev.net/jvm-anatomy-park/11-moving-gc-locality/ Very interesting: the GC also reorganize memory to facilitate data sequential readings (better locality)
-
 # 18-05-2017
-
 - https://aiexperiments.withgoogle.com/drum-machine Using ML to sort similar sounds, interesting experiment!
 - https://panic.com/blog/stolen-source-code/ TLDR: always be on your guard when your os asks you security question :(
 - https://medium.com/@contact_16315/firebase-costs-increased-by-7-000-81dc0a27271d No thanks to Firebase. Never code against a particular service, abstraction please.
@@ -6271,9 +4364,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://hackernoon.com/react-europe-2017-551961487403 A nice TLDR of React Europe confs
 - https://www.postgresql.org/about/news/1749/ PostgreSQL 10 incoming. Better scaling (replica, partitioning, parallelism, )
 - https://github.com/yandex/gixy Nginx configuration static analyzer. Always useful!
-
 # 17-05-2017
-
 - https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770 Airbnb talks about its Dataportal tool, for employees to discover any datasource they can access, metadata, which user is using it, with what it is generally joined etc. Neo4j and ES in da place.
 - https://litmus.com/community/discussions/6489-using-css-grid-for-the-latest-litmus-newsletter-layout Using css grid in emails. In not supported, fallback to one column one. Very cool.
 - https://github.com/amark/gun Stumbled once again upon this db; I will definitely try to use it in a side project.
@@ -6281,9 +4372,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.octo.com/vers-une-usine-de-developpement-2-0/ Les usines de développement. Bonne présentation.
 - https://github.com/knowbody/crra Create Reason React App ! Reason, reason.. should we "learn" it?
 - https://github.com/paulp/psp-std An alternative to the scala standard lib. (more lazy)
-
 # 15-05-2017
-
 - https://tools.ietf.org/html/rfc7807 How to deal with errors for HTTP APIs
 - https://www.rewritinghistorycasts.com/ Dude rewriting old (or not) C program such as cat, and git.
 - https://www.malwaretech.com/2017/05/how-to-accidentally-stop-a-global-cyber-attacks.html By registereing a domain, the ransomware worm stops. Such tech.
@@ -6292,17 +4381,13 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://twitter.com/leeb/status/863903474576007169 Lee Byron asking if big companies are using GraphQL. Big companies' employee answer massively, yes!
 - https://github.com/fantasylandinst/fcop A Code Of Conduct. "Fantasyland [Institute] Code of Professionalism" for professional communities
 - https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2 AirBnb being transparent about their stack's updates and cleanup to react/redux/graphql, from RoR.
-
 # 12-05-2017
-
 - http://typelevel.org/scala/ Typelevel's Scala compiler is like babel stage 0 of the officiel Lightbend Scala compiler
 - https://www.youtube.com/watch?v=qwOyZifmi3Q Tuning Query Performance with N1QL in Couchbase => multidimensional scaling MDS (+ duplicate indexes), index service: more ram! for cache. explain the query, hint about indexes, create indexes. If mass update: use view query instead (not real time, batched). Ask for stale data if possible. Limit N to shortcut quickly.
 - https://fr.wikipedia.org/wiki/Jeddah_Tower The future tallest tower in the world. 1km.
 - https://kierantie.com/a/burnout/ A feedback about getting burnout.
 - https://lcamtuf.blogspot.fr/2014/11/pulling-jpegs-out-of-thin-air.html Generating JPG by a "fuzzer" http://lcamtuf.coredump.cx/afl/ ("use genetic algorithms to automatically discover clean, interesting test cases that trigger new internal states in the targeted binary")
-
 # 11-05-2017
-
 - https://blog.cloudflare.com/anonymity-and-abuse-reports/ Cloudflare's transparency about their changing abuse reports model
 - https://developer.couchbase.com/documentation/server/current/architecture/services-archi-multi-dimensional-scaling.html Multi dimensional scaling with Couchbase. (scale its different services, differently)
 - https://developer.lightbend.com/blog/2017-05-08-cinnamon-2-4-with-opentracing-integration/ "Easy" tracing of Akka actors interactions. Seems so great. Would like to give a try! with Jaeger(uber) or Zipkin (UIs)
@@ -6317,9 +4402,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://fluent.microsoft.com/ I don't know. A "design system".
 - https://sourcemaking.com/ Very nice website listing and resuming tons of designs pattenrs, antipatterns, refactoring techniques
 - https://www.techempower.com/benchmarks/ Round 14 of TechEmpower's web framework benchmarks
-
 # 10-05-2017
-
 - https://github.com/Microsoft/TypeScript-React-Starter TS + React good starter guide
 - https://www.bloomberg.com/news/articles/2017-05-10/tesla-s-solar-roof-is-finally-ready-for-you-to-buy Tesla solar roof is just so great, because it can be textured, and is "cheap".
 - https://github.com/facebook/yoga Totally forgot about this project. "Implement" the flex norm to be used for anything outside css.
@@ -6332,9 +4415,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.hovland.xyz/2017-04-22-stop-overusing-interfaces/ DI using concrete class. Yes, same here, hopefully. Good read if you're using Ixxx everywhere.
 - https://www.infoq.com/articles/rest-anti-patterns Old article, but still valid, about REST anti-patterns to be aware of.
 - http://blog.akka.io/typed/2017/05/05/typed-intro Akka typed!!!!!!!!!!!! Not fan of the "new" syntax. The untyped is so lighter, arg.
-
 # 09-05-2017
-
 - https://cherubini.casa/why-i-shut-down-wizards-town-and-left-mastodon-6d4e631346b3 Porn on Mastodon is a complex story.
 - https://www.nytimes.com/2017/05/09/sports/polish-climbers-to-scale-deadly-k2-peak-in-winter.html Very interesting climbing stories.
 - https://github.com/benalexau/rpc-bench gRPC against Aeron and KryoNet. Aeron wins easy.
@@ -6343,16 +4424,12 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.brendangregg.com/blog/2016-11-30/linux-bcc-tcplife.html Get tcp connection lengths (lifespan)
 - http://stackoverflow.com/questions/2669690/why-does-google-prepend-while1-to-their-json-responses prepending json resp by some js code (while(1); for(;;)) to prevent Json hijacking
 - http://www.reuters.com/article/us-uber-tech-crime-exclusive-idUSKBN1802U1 "The technology was used partly to prevent fraud and protect drivers from harm, the company blog post said. If a ride request was deemed illegitimate, Uber's app showed bogus information and the requester would not be picked up, the employees told Reuters." Nice!
-
 # 06-05-2017
-
 - http://charlesleifer.com/blog/your-idea-sucks/ About the difficulty of managing an open-source project
 - http://formidable.com/blog/2017/infinite-state-composition-with-freactal/ Nice article about Freactal, a new state management system, based on FP, allowing composition, and is all-async (Promise).
 - https://github.com/chtefi/couchbase-bucket-listener Worked on this, fix some bugs, and added some features.
 - http://devteams.at/stop_the_daily_standup_meeting I like his solution: to find out if you need the standup, just stop it and see, instead of trying to find alternative means.
-
 # 05-05-2017
-
 - https://twitter.com/pomeranian99/status/858856994438094848 The only situation where you don't care of memory leaks: when the device is gonna explode!
 - https://akrzemi1.wordpress.com/2017/04/27/a-serious-bug-in-gcc/ Learned about the RAII resource management (ctor+dtor)
 - https://www.nasa.gov/aero/nasa-issues-a-challenge-to-speed-up-its-supercomputer-code "NASA is looking for qualified people who can ... analyze the performance bottlenecks" Fortran FTW!
@@ -6360,26 +4437,20 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://stuff-gil-says.blogspot.fr/2017/05/zing-hits-trifecta.html The Azul JVM seems so good. Very fast optimized startup. Now backed by LLVM and its intrinsic optimisations.
 - http://blog.joda.org/2017/04/java-se-9-jpms-modules-are-not-artifacts.html Java Modules don't need external tools to manage dependencies. It's just about modules (namespaces), packages, classes, methods.. No group, organization, or version.
 - https://alexandrnikitin.github.io/blog/high-performance-dotnet-by-example/ Really like this article about optimisation. Multiple techniques are used, API redesign, data structure changes, hashing technique (open addressing strategy), no division, caches optim. unsafe sections
-
 # 04-05-2017
-
 - https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c Introduction to timescaledb, a timeseries db on top of PostgreSQL.
 - https://github.com/scala/pickling Ser/deser ("pickle") anything with a generic Scala abstraction.
 - http://www.rankred.com/nasa-coding-rules/ I always try to apply the "Declare Data Objects at Smallest Level of Scope".
 - https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c Reminder: Webpack for apps, Rollup for libs.
 - https://softwaremill.com/comparing-scala-relational-database-access-libraries Wonderful and useful comparaison between Slick, Doobie, Quill, and ScalikeJDBC. Favor into Slick and Doobie, clearly.
-
 # 03-05-2017
-
 - http://waitbutwhy.com/2017/04/neuralink.html A HUGE story about the new Elon Musk's company Neuralink and mostly about brain/systems interactions. Explanations from the beginning.
 - https://github.com/facebook/prepack Again, Facebook released what looks like a awesome program, that evaluates what it can in a JS program to reduce the bundle size at the end and improve perf (because less things to evaluate for the browser).
 - https://github.com/danielstjules/swaddle Thanks to JS Proxy, automatically query an API by typing pure javascript methods (that does not really exist), but intercepted by the Proxy
 - https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f 45% better perf on functional components, just by not using JSX/React.createElement. Bam.
 - http://tpolecat.github.io/2017/04/25/scalac-flags.html Flags for Scalac, I love them!
 - http://latkin.org/blog/2017/05/02/when-the-scala-compiler-doesnt-help/ Never linked this type generalization neither. Causes only bugs..
-
 # 02-05-2017
-
 - https://staltz.com/why-we-actually-built-xstream.html To get hot obs only and and keep it small.
 - http://50linesofco.de/post/2017-02-06-javascript-in-parallel-web-workers-transferables-and-sharedarraybuffer Very good post about Web Workers and communication with them, using SharedArrayBuffer.
 - http://kazet.co/2016/04/29/temporary-hacks.html All code is temporary. And I never write "XXX".
@@ -6391,9 +4462,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.sqlizer.io/posts/sql-43/ SQL, 43 years of existence! The Whys.
 - https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md Basecamp is so good. What is it hiding?
 - https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0 Looks awesome! A jupiter with JS. Not sure about real work, some command would need to be delegated to a server, but it seems okay anyway!
-
 # 01-05-2017
-
 - https://medium.com/smyte/streaming-similarity-search-for-fraud-detection-64d7476953d4 I love Smyte technical article! Smart peeps.
 - https://github.com/alexanderepstein/Insomnia Notify the dev to go to sleep before it's too late!
 - http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will/ Some langages are not common and based on lesser-known paradigms.
@@ -6409,9 +4478,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.xebia.fr/2017/04/19/agile-smells-sprint-retrospective/ Bad smells in Agile retrospectives
 - https://developers.google.com/web/updates/2017/04/headless-chrome How to use the new headless Chrome
 - https://medium.com/@WebReflection/javascript-dynamic-import-export-b0e8775a59d4 Props to bring Javascript async exports (async import are already on its way https://www.chromestatus.com/feature/5684934484164608)
-
 # 28-04-2017
-
 - http://blog.xebia.fr/2017/04/18/devoxx-france-2017-retour-sur-les-conferences-du-jour-3/
 - http://bfmbusiness.bfmtv.com/entreprise/cette-fois-amazon-commence-vraiment-a-inquieter-google-et-facebook-1141702.html Amazon, the new ads competitor? It knows what we really buy.
 - https://hackernoon.com/the-javascript-phenomenon-is-a-mass-psychosis-57adebb09359 JS is full of crap, yes we know and we like it!
@@ -6420,9 +4487,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.quora.com/Should-I-fire-a-software-engineer-for-always-working-on-his-side-projects-during-office-hours "Should I fire a software engineer for always working on his side projects during office hours?"
 - https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/ Some very, very stupid user/password security issues on (big) websites..
 - Too much Stepmania
-
 # 19-04-2017
-
 - https://github.com/citycide/babel-plugin-partial-application Scala \_'s in JS, transformed by babel into lambda. Woot!
 - https://blogs.msdn.microsoft.com/oldnewthing/20170418-00/?p=95985 "a customer reported an error in the map used by Flight Simulator" Poor Microsoft and stupid people.
 - https://battle.net/download/getInstallerForGame?os=WIN&version=LIVE&gameProgram=STARCRAFT We can download Starcraft + Broodwar for free now!
@@ -6432,9 +4497,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://blog.docker.com/2017/04/introducing-the-moby-project/ The Moby Project: a standard framework for container. docker/docker is now moby/moby !
 - http://scala-lang.org/news/releases-1Q17.html Scala 2.11.11 is now the last of the 2.11 series! 2.13 in progress.
 - https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/ Funny and interesting study about people, stackoverflow, programmers: looking at pattern to find out when which langage is worked outside of business hours, as hobby, which hours, etc.
-
 # 18-04-2017
-
 - https://medium.com/@DmitrySoshnikov/regexp-tree-a-regular-expressions-parser-with-a-simple-ast-format-bcd4d5580df6 A RexExp parser to get the AST of a regex
 - https://github.com/gabru-md/StarMe-Bro/commit/1a56d120d2d7185d949df103a32f2ade64041a19 A simple JS code to register Github "bot". Basically, there is no capcha, no email check, so it's quite straightforward.
 - http://nibblestew.blogspot.fr/2017/04/why-dont-you-just-rewrite-it-in-x.html spoiler: Because it's very slow, boring, time consuming, and the business value is around 0.
@@ -6453,9 +4516,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://balamaci.ro/kafka-streams-for-stream-processing/ A very good post about Kafka Streams, its processors, its states, some Rx references
 - https://www.cloudbees.com/blog/fileinputstream-fileoutputstream-considered-harmful For apps with lots of IO, better to use Files.newInput/OutputStream to avoid GC pressures, created by the old API.
 - https://www.confluent.io/blog/stories-front-lessons-learned-supporting-apache-kafka/ Nice sharing of 3 support ticket Confluentinc answers about Kafka underreplication, liveness check, moving of data
-
 # 11-04-2017
-
 - https://github.com/antirez/kilo "A text editor in less than 1000 LOC with syntax highlight and search." and a crazy walkthought to code it, step by step (in C). http://viewsourcecode.org/snaptoken/kilo/index.html
 - https://blog.getbotmetrics.com/150x-speedup-in-real-time-dashboards-with-postgres-9-5-2e987a5b906e Scaling by rolling up data, here with postgresql and triggers
 - https://github.com/tootsuite/mastodon A GNU Social-compatible microblogging server
@@ -6464,50 +4525,38 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.pscheidl.cz/javaee/java-ee-fatjars-docker/ Fatjars, docker, and Java EE apps
 - https://github.com/thoughtbot/laptop A shell script which turns your macOS laptop into an awesome web development machine.
 - https://github.com/scala/bug/ Scala bugs were imported from Jira into Github !
-
 # 06-04-2017
-
 - Back from holidays!
 - https://github.com/brendangregg/perf-tools
 - https://www.youtube.com/playlist?list=PL055Epbe6d5ZsQVJRV2FQQvsgDt0Ci5Zy Strata + Hadoop World 2017 videos
 - https://www.slideshare.net/benstopford/the-power-of-the-log Nice slides about the immutable append-only logs strategy, and its sequential access, with optimisation to know where to read
 - https://github.com/luanfujun/deep-photo-styletransfer Georgeous Deep Photo Style Transfers
-
 # 24-03-2017
-
 - http://angularjs.blogspot.be/2017/03/angular-400-now-available.html Angular 4 is here!
 - https://github.com/lagom/lagom/pull/618/files/522fda54f10a1d952be9464e23880892c448163c Tons of fresh docs for Lagom
 - https://npf.io/2017/03/3.5yrs-500k-lines-of-go/ A recap of a guy that worked a lot with Go.
 - http://fabiensanglard.net/Compile_Like_Its_1992/index.php Compiling Wolfenstein 3D in DoxBox using Borland C++, yikes.
 - https://gsuiteupdates.googleblog.com/2017/03/updates-in-g-suite-to-streamline-hangouts-and-gmail.html Bye Google Talk. I even forgot you existed actually.
 - https://stackoverflow.com/insights/survey/2017/ The famous StackOverflow yearly survey about developers
-
 # 21-03-2017
-
 - https://eng.uber.com/hoodie/ Parquet + Avro regular recompaction to parquet to keep the best usage of Parquet and simplify the data flow, love it. https://uber.github.io/hoodie/
 - https://github.com/jiaweihli/git-workflow-strategies-example Made me realize I'm always advocating rebase over merge, but actually, the best is both :), but with --no-ff!
 - http://www.edumobile.org/linux/best-15-unix-command-line-tools/ I learned some tools! ncdu, apropos
 - http://vertx.io/blog/scala-is-here/ Vert.x has now a Scala API for every modules, that's great news! One more Scala Reactive Framework.
 - https://lwn.net/SubscriberLink/717076/4c3593aa4cad8e66/ time_t (int, 32bits) will fail in 2038.
-
 # 20-03-2017
-
 - https://github.com/akarnokd/jmh-compare-gui Compare JMH results in an UI
 - https://www.youtube.com/watch?v=LhGq4HlozV4 The Eff Monad in Scala. DI at its best.
 - http://akarnokd.blogspot.fr/2016/12/the-reactive-scrabble-benchmarks.html Comparaison of Reactive Streams frameworks (Rx\*, Akka Streams, Reactor..)
 - http://akarnokd.blogspot.fr/2017/03/java-9-flow-api-asynchronous-integer.html Using Java 9 Flow API to create a async integer range source. Not that straightforward.
-
 # 19-03-2017
-
 - https://whatwebcando.today/ An overview of the device integration HTML5 APIs. Very good stuff to be up to date.
 - http://manishearth.github.io/blog/2017/03/05/understanding-git-filter-branch/ More about git filter-branch command
 - http://programtalk.com/java/java-9-new-features/ Another recap about Java9 features. Modules, reactive API, collections, jshell, better Process: ProcessHandler, HTTP/2 client (incubator), Stack-walking API. Local-var type inference in Java 10 only.
 - https://www.lucidchart.com/techblog/2017/02/22/upgrading-play-framework-2-3-play-2-5/ Very nice feedback about migrating apps from Play 2.3 to Play 2.5. I've been there but it was more simpler.
 - https://github.com/adamw/macwire Dependency Injection at compile time in Scala. Next project, I'll use it!
 - https://www.cockroachlabs.com/blog/living-without-atomic-clocks/ CockroachDB serializability explanations, vs Google Spanner linearizability using TrueTime.
-
 # 18-03-2017
-
 - http://mfglabs.github.io/akka-stream-extensions/ Some extensions to Akka Streams dealing with PostgreSQL, elasticsearch, AWS, Shapeless.
 - https://research.googleblog.com/2017/03/announcing-guetzli-new-open-source-jpeg.html Guetzli, the new open source jpeg encoder from Google. https://github.com/google/guetzli
 - https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html Studying Google results to know from which language we are moving to which one, in general. Interesting :)
@@ -6518,9 +4567,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://bold.co/public/why-y-combinator-made-all-the-zvgxjl A very interesting story of a company growing up with Y-Combinator
 - https://arstechnica.com/security/2017/03/hack-that-escapes-vm-by-exploiting-edge-browser-fetches-105000-at-pwn2own/ Exploit: From a website, to Edge, to Windows in a VM, to the host system. Wow!
 - https://www.youtube.com/watch?v=1EGk2rvZe8A Throw a missile to the person who broke the Jenkins' build :)
-
 # 15-03-2017
-
 - https://backchannel.com/google-fiber-was-doomed-from-the-start-a5cdfacdd7f2 No more Google Fiber, because bad ROI. Go Wireless.
 - https://1vwjbxf1wko0yhnr.wordpress.com/2015/08/10/overclocking-tools-for-nvidia-gpus-suck-i-made-my-own/ Reverse engineering overclocking tools to make his own, nice.
 - https://medium.com/@robaboukhalil/a-tale-of-two-clouds-amazon-vs-google-4f2520516a38 AWS vs GCP. GCP wins.
@@ -6529,9 +4576,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.nurkiewicz.com/2014/11/executorservice-10-tips-and-tricks.html Some tips about ExecutorService in Java
 - http://www.rspective.com/blog/hunting-network-errors Funny story. Looking deeply into the network just to find the "bug" is due to a random generator in the code.
 - https://www.youtube.com/watch?v=O_2J6dPSHSo Akka Streams live demo, parsing files and inserting them in Cass'
-
 # 14-03-2017
-
 - https://github.com/ParallelSSH/parallel-ssh Asynchronous parallel SSH client library in Python
 - https://github.com/akumuli/Akumuli Another time-series database, no preconfigured rollup.
 - https://traefik.io/ HTTP reverse proxy and locad balancer to use with microservices, hm!
@@ -6543,26 +4588,20 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/bcicen/ctop A "top" cli for containers. Very cool stuff, better than docker ps eh.
 - https://www.scala-lang.org/blog/2017/03/14/scala-native-0.1-is-here.html Exciting time for Scala :-)
 - https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid tldr: jwt is not secured, do not use it.
-
 # 13-03-2017
-
 - https://ponyfoo.com/articles/observables-coming-to-ecmascript: rxjs is already enough, a lib can move faster than a browser impl; but js will reinvent a broken wheel again
 - http://pandoc.org/ This tool can convert any markup file to another markup format. markdown, reST, HTML, LaTeX, ...
 - https://github.com/donnemartin/data-science-ipython-notebooks#scikit-learn A lot of interesting notebooks dealing with classic problems to solve. Very interesting for datascientists!
 - http://www.javaworld.com/article/3172570/java-language/oracle-preps-developers-for-java-9-upgrade.html Java9 is coming!!!
 - http://docs.oracle.com/javase/9/migrate/toc.htm So much cleanup and things removed in Java9, impressive.
 - https://medium.com/@thejameskyle/react-loadable-2674c59de178 react-loadable, a very nice library to load asynchronously components https://github.com/thejameskyle/react-loadable
-
 # 12-03-2017
-
 - https://blog.codinghorror.com/password-rules-are-bullshit/ Rules about passwords. Good to bookmark for reuse
 - http://www.eurogamer.net/articles/2017-03-10-inside-the-most-evil-rollercoaster-tycoon-park-ever-created A crazy dude how made a astoning maze in RCT to see how guests are doing https://imgur.com/gallery/rgJmW
 - https://github.com/tuan3w/visual_search That's definitely interesting/ Elasticsearch + tensorflow to have a Google Image's like, where you search from a picture and a confidence ratio.
 - https://www.youtube.com/watch?v=uOxEvqNLWuA Some tips about IntelliJ IDEA features
 - https://neilonsoftware.com/2017/03/10/my-response-to-how-to-never-complete-anything/ "standing instructions to my wife is that if the office door is closed, only open it if the house is on fire and you have reason to believe I would not survive it. This is what I know I need to get things done."
-
 # 09-03-2017
-
 - https://www.reddit.com/r/scala/comments/5y6sjo/microservices/ If you're starting with microservices in Scala
 - https://github.com/rtimush/sbt-updates Display SBT project's dependency updates.
 - https://github.com/japgolly/scalajs-react ReactJS with Scala.js. I should definitely try that, instead of outputing some raw html in my server ahah.
@@ -6573,9 +4612,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/donnemartin/system-design-primer 4k stars! Lots of details about designing large scale systems.
 - https://www.confluent.io/blog/log-compaction-highlights-apache-kafka-stream-processing-community-march-2017/ Confluent is a great company moving on quickly on their platform, nice
 - https://data-artisans.com/drivetribe-cqrs-apache-flink/ Interesting reading about Kafka+Flink and CQRS, and blue/green architecture
-
 # 07-03-2017
-
 - https://blog.risingstack.com/writing-a-javascript-framework-the-benefits-of-custom-elements/ Should we care about custom elements? (web components)
 - https://github.com/reddit/reddit The code that powers reddit.
 - https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9 Some interesting explanations around reddit's ranking algorithm
@@ -6589,9 +4626,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://stackoverflow.com/questions/3912303/boolean-hashcode TIL the hashCode of Boolean: 1231 and 1237.
 - https://github.com/couchbaselabs/dcp-documentation Couchbase maintains some nice documentation about DCP
 - https://github.com/hseeberger/akka-sse Ahh, I love Akka and SSE to make quick stuff.
-
 # 03-03-2017
-
 - https://www.confluent.io/blog/confluent-3-2-apache-kafka-0-10-2-now-available/ Aggregate events into sessions based on periods of inactivity, a killer feature. Its KIP https://cwiki.apache.org/confluence/display/KAFKA/KIP-94+Session+Windows
 - https://advancedweb.hu/2017/03/01/jvm_optimistic_optimizations/ JVM and JIT! Resume: small methods for better inlining. No megamorphism.
 - https://medium.com/the-node-js-collection/a-brief-history-of-node-streams-pt-1-3401db451f21 .pipe nodejs streams
@@ -6602,9 +4637,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.manning.com/books/java-testing-with-spock Hm, I should take a look at Spock, it seems way better than JUnit for Java projects.
 - http://kompose.io/ Convert/run Docker Compose ymls to Kubernetes
 - https://cambridgespark.com/content/tutorials/interactively-analyse-100GB-of-JSON-data-with-Spark/index.html Analyse 100GB of JSON data with Spark with Amazon EMR and Zeppelin
-
 # 01-03-2017
-
 - https://hacks.mozilla.org/2017/02/using-neutrino-for-modern-javascript-development/ This Neutrino tool seems useful to start quickly and focus on the app, instead of the config.
 - https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34 Yes, service workers we know, GA offline, sw-cache, and Autotrack for more analytics client-side.
 - https://hacks.mozilla.org/category/a-cartoon-intro-to-webassembly/ Nice cartoons into about WebAssembly
@@ -6618,9 +4651,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://blog.cloudflare.com/quantifying-the-impact-of-cloudbleed Cloudflare very transparent about Cloudbleed.
 - https://making.pusher.com/redis-pubsub-under-the-hood/ Some nice explanations about the pubsub system in Redis, with reference to the original commit in redis, interesting!
 - http://lemire.me/blog/2017/02/28/how-many-floating-point-numbers-are-in-the-interval-01/ "How many floating-point numbers are in the interval [0,1]?" or taking a close look at IEEE754 :)
-
 # 26-02-2017
-
 - https://plus.google.com/+LinusTorvalds/posts/7tp2gYWQugL Linux about git and SHA1.
 - https://github.com/git/git/blob/master/Documentation/RelNotes/2.12.0.txt Git 2.12 release notes
 - http://www.2ality.com/2017/02/babel-preset-env.html babel-preset-env: configure the necessary polyfill needed for a targeted browser
@@ -6630,17 +4661,13 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://bugs.chromium.org/p/project-zero/issues/detail?id=1139 "Cloudflare Reverse Proxies are Dumping Uninitialized Memory"
 - https://jmnarloch.wordpress.com/2016/07/06/spring-boot-hystrix-and-threadlocals/ Hystrix and ThreadLocals (an HystrixCommand is run inside its own thread pool, so..)
 - http://thehackernews.com/2017/02/cross-browser-tracking.html Nothing new, fingerprinting using only OS and graphite card (cross browser therefore) https://github.com/Song-Li/cross_browser
-
 # 23-02-2017
-
 - https://getintodevops.com/blog/how-the-hell-do-i-exit-a-beginners-guide-to-vim vim classic shortcuts
 - http://www.zdnet.com/article/google-and-mozillas-message-to-av-and-security-firms-stop-trashing-https/ That's nuts. Remove your antivirus, it does more harm than good because they intercept https and resend crappy certs
 - https://medium.com/underdog-io-engineering/create-a-build-system-for-your-react-app-in-5-minutes-or-less-91c501a30b1d ReactJS, Webpack and Babel in 5minutes
 - http://www.nature.com/news/these-seven-alien-worlds-could-help-explain-how-planets-form-1.21512 7 not-far-away-Earth-sized planets
 - https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html SHA1 collision on demand \o/
-
 # 21-02-2017
-
 - http://codegolf.stackexchange.com/questions/110485/leak-memory-in-as-few-bytes-as-possible Title says all!
 - https://blog.poki.com/from-monolith-to-microservices-b16bae1d6c9d Monolith to microservices. Kubernetes, AWS, Scaling, Orchestrability, gRPC,
 - https://medium.freecodecamp.com/bill-gates-and-elon-musk-just-warned-us-about-the-one-thing-politicians-are-too-scared-to-talk-8db9815fd398 "45% of all US jobs could be automated away within the next 20 years"
@@ -6648,9 +4675,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://posativ.org/isso/ An alternative to disqus, using markdown yumyum
 - https://zneak.github.io/fcd/2017/02/19/divisions.html Explaning a assembly CLANG code of a simple "a/19". That does not use "div" but only right shift and mul, ah!
 - http://callingbullshit.org/syllabus.html#Spotting Bullshit.
-
 # 19-02-2017
-
 - https://yokota.blog/2017/02/17/dont-settle-for-eventual-consistency/ Basically AP databases are as available as CP databases in general, but are more complex to handle; so go with CP.
 - http://ablagoev.github.io/linux/adventures/commands/2017/02/19/adventures-in-usr-bin.html So many unknown tools in /usr/bin thanks!
 - https://www.wired.com/2017/02/spanner-google-database-harnessed-time-now-open-everyone/ Spanner, spanner, spanner! Need to POC it.
@@ -6658,18 +4683,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://code.facebook.com/posts/1692857177682119/machine-learning-scale-2017-recap/ Videos of Machine Learning @Scala Facebook conf.
 - https://github.com/oci-pronghorn/GreenLightning An über fast http server in Java?
 - https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber Uber's image is a bit tarnished after reading that. Women in tech they said.
-
 # 18-02-2017
-
 - https://v8project.blogspot.fr/2017/02/high-performance-es2015-and-beyond.html Nice post about V8 project working hard to improve its ES6 perf compared to ES5.
 - https://gist.github.com/aleksey-bykov/1273f4982c317c92d532 Another nice git cheat sheet
 - https://medium.com/airbnb-engineering/superset-scaling-data-access-and-visual-insights-at-airbnb-3ce3e9b88a7f Nice update to Superset, the SQL Lab.
 - http://engineering.skybettingandgaming.com/2017/01/23/streaming-architectures/ Streaming? Decided to use kafka streams, kafka connect, and akka streams for non-kafka channels.
 - https://github.com/streamsets/datacollector Streamsets, A UI to design big data "streaming" interface and run them (lots of connectors).
 - https://github.com/SirCmpwn/evilpass A so good idea. A password strength tester that checks your email/pwd combinaison on popular websites to prevent password reuse!
-
 # 16-02-2017
-
 - https://lorenzoongithub.github.io/nudge4j/ A snippet to expose a HTTP endpoint to evaluate javascript in your java program
 - https://github.com/MinhasKamal/CreepyCodeCollection Weird snippets that does awesome things, in C, Java, Ruby.
 - https://github.com/twitter/ospriet A bot made by Twitter to make a given account centralizes questions posted by ppl (for a talk or a conf)
@@ -6679,9 +4700,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://www.reddit.com/r/programming/comments/5ue632/the_myth_of_using_scala_as_a_better_java/ omg, the comments about this scala snippet https://github.com/m50d/tierney/blob/master/free/src/main/scala/tierney/free/package.scala about recursion scheme and free monads. It's a bit.. complicated.
 - https://jaxenter.com/ibm-bans-remote-work-131612.html "Remote work treated as the root of all evil at Yahoo and Reddit"
 - http://www.theregister.co.uk/2017/02/15/think_different_shut_up_and_work_harder_says_linus_torvalds/ Shut up and work.
-
 # 14-02-2017
-
 - https://www.ctheu.com/2017/02/14/all-the-things-we-can-do-with-jmx/ It is out! All the things we can do with JMX.
 - https://github.com/tuhdo/os01 Another interesting repo to write an OS from scratch! With a book and all.
 - https://www.worldpressphoto.org/collection/photo/2017 Many, many beautiful photos from the world events..
@@ -6690,18 +4709,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://aakinshin.net/en/blog/dotnet/mono-and-65535interfaces/ Go find this bug, tests failed because more than 65536 interfaces were created (mono)
 - http://degoes.net/articles/destroy-all-ifs Pass lambdas instead of writing ifs+booleans
 - https://semaphoreci.com/community/tutorials/testing-topologies-in-kafka-streams Testing Kafka Streams with "Mocked Streams" https://github.com/jpzk/mockedstreams
-
 # 13-02-2017
-
 - https://dzone.com/articles/is-software-development-really-a-dead-end-job-afte "Is Software Development Really a Dead-End Job After 35-40?" Stupid coding tests, again.
 - http://www.economist.com/news/science-and-technology/21716891-nasty-chemicals-abound-what-was-thought-untouched-environment-worlds When you think a zone on earth is pristine, it's totally the contrary that happens..
 - https://github.com/yavorsky/auto-github-topics A nice extension to set github tags from package.json tags directly
 - https://gist.github.com/scottfrazer/094a0f1d048cc3b8deeac4cf29266f62 "Go vs. Scala (Akka) Concurrency" but actually the writer mixes Akka and Scala (like jquery and js), and seems to not know well Scala so it leads to wrong statements. But at least, I learned about Go stuff.
 - https://github.com/lampepfl/dotty/issues/1970 "enum" keyword propal in Dotty. More powerful than the Java "enum", can be used to define G/ADTs.
 - http://metrics20.org/ A standard for timeseries metrics?
-
 # 12-02-2017
-
 - http://udidahan.com/2009/12/09/clarified-cqrs/ Long post about CQRS and how it works, how to handle it, with tons of interesting comments.
 - https://www.nytimes.com/interactive/2017/02/11/obituaries/smullyan-logic-puzzles.html Logic Puzzles time! By a great mathematician how past away a few days ago, Raymod M. Smullyan.
 - https://olivierpieters.be/blog/2017/02/11/designing-a-business-card-in-latex Need a business Card? Here is a nice LaTeX one.
@@ -6711,18 +4726,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://webkit.org/blog/7122/introducing-riptide-webkits-retreating-wavefront-concurrent-garbage-collector/ Description of the new GC "Riptide" in Webkit. Quite long article.
 - https://aboullaite.me/docker-hacks/ A nice bunch of Docker CLI tips
 - https://github.com/JonasCz/How-To-Prevent-Scraping A very interesting list of things to do to prevent website scraping
-
 # 09-02-2017
-
 - https://twitter.com/gitlabstatus/status/829680989538492416 GitLab suffering of another issue: Redis split brain this week!
 - https://nmatpt.com/blog/2017/02/09/scala-2.12-future-transform/ Future.transform is smarter in Scala 2.12
 - https://blog.thingsboard.io/2017/02/load-testing-of-mqtt-servers-using-java.html Gatling &lt;3
 - http://www.snappydata.io/blog/joining-billion-rows-faster-than-apache-spark This SnappyData thing seems interesting. Will definitely test it on a real job. https://github.com/SnappyDataInc/snappydata/blob/master/docs/quickstart.md
 - https://www.ckl.io/blog/reactivex-and-async-programming/ Another Rx happy user
 - https://read.acloud.guru/5-things-i-learned-in-2-years-as-a-backend-developer-d55fe913fc81
-
 # 08-02-2017
-
 - https://danluu.com/web-bloat/ Most of the web really sucks if you have a slow connection
 - https://kilianvalkhof.com/2011/javascript/annoying-js-how-to-be-an-asshole/ A nice JS lib with tons of annoying JS functions to provoke a bad UX.
 - http://david.li/paint/ Ok that's totally awesome. We can paint on a canvas really "realistically", impressive.
@@ -6734,9 +4745,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/ Superb and useful article on how to use Google Analytics for developers.
 - http://finagle.github.io/blog/2017/02/06/finagle-loves-netty4/ Finagle and Netty4
 - https://github.com/typelevel/scala/blob/typelevel-readme/notes/2.12.1.md Scala 2.12.1 update. Nice addons about implicits, kind-polymorphism, match exhaustivity, trailing commas!
-
 # 07-02-2017
-
 - https://rethinkdb.com/blog/rethinkdb-joins-linux-foundation/ RethinkDB has reborn
 - https://techcrunch.com/2017/02/06/google-fixes-a-big-problem-with-amp-now-lets-you-view-and-share-publishers-own-links/ Google AMP and the sharing link issue
 - https://myopsblog.wordpress.com/2017/02/06/why-databases-is-not-for-containers/ Databases and Docker containers.
@@ -6747,9 +4756,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://blog.risingstack.com/concurrency-and-parallelism-understanding-i-o/ For once, this one was more interesting than stupid JS tricks.
 - https://jepsen.io/analyses/mongodb-3-4-0-rc3 Jepsen test and MongoDB 3.4.0rc3
 - http://carlmartensen.com/immutability-made-easy-in-java-9 Finally, a non-verbose syntax to create immutable set/list. Unfortunately, they still have .put .add etc. that throws an exception. Stupid (from the interface).
-
 # 05-02-2017
-
 - http://www.theregister.co.uk/2017/01/16/google_reveals_its_servers_all_contain_custom_security_silicon/ Small bits of info about how Google handle servers security
 - https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html Google trying to predict parking difficulties
 - http://www.popularmechanics.com/science/health/a3093/the-science-of-bruce-lees-one-inch-punch-16814527/ The one-inch punch of Bruce Lee explained. Wow.
@@ -6762,18 +4769,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.slate.com/articles/technology/webhead/2004/11/nullsoft_19972004.html The story of nullsoft (winamp) creator at AOL.
 - https://anders.com/blockchain/ Video about how blockchain works. Very informative.
 - https://medium.com/airbnb-engineering/streamalert-real-time-data-analysis-and-alerting-e8619e3e5043 New tool by airbnb: StreamAlert. RT alerts at scale.
-
 # 02-02-2017
-
 - http://www.lesnumeriques.com/casque-realite-virtuelle/oculus-condamne-a-verser-500-millions-dollars-a-editeur-zenimax-n60093.html \$500M from Oculus to Zenimax :(
 - https://github.com/Powerspace/akka-streams-utils Some open source from us
 - https://medium.com/@francoisvasnier/popchef-comment-livrer-1-plat-toutes-les-5-secondes-ae85959498cd Un post transparent sur la manière dont la logistique de Popchef (livraison plats préparés)
 - https://www.youtube.com/watch?v=e1VEEtAvQ9E Very good talk from Netflix about their Kafka infra in the Cloud. They have fronts Kafka which data are sent to another Kafka clusters for consumation by anyone. (the front kafka being critical, noone can consume from them). And he explains the failover strategy (start a new kafka cluster and dynamically switch the endpoint of the producer!)
 - https://commitprint.com/ Print a poster of your git contribs Oo
 - http://blog.2ndquadrant.com/dataloss-at-gitlab/ The response of a postgresql main committer to GitLab issues.
-
 # 01-02-2017
-
 - http://www.lesnumeriques.com/vie-du-net/google-marque-mieux-valorisee-monde-n60063.html Apple's "brand value" decreasing a lot. Google just in front.
 - https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub "... decides to remove the directory. After a second or two he notices he ran it on db1.cluster.gitlab.com, instead of db2.cluster.gitlab.com". "it’s too late. Of around 310 GB only about 4.5 GB is left ".
 - http://howfuckedismydatabase.com/ Are you using PostgreSQL, MySQL, MSSQL, Oracle, SQLite, MS Access, or NoSQL? FUCKED.
@@ -6787,9 +4790,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://dump.01alchemist.com/2016/12/31/future-webhpc-parallel-programming-with-javascript-the-new-era-about-to-begin/ SharedArrayBuffer to be used with webworkers and avoid data copy. That's a big step. And TurboScript "Super charged JavaScript for parallel programming and WebAssembly" https://github.com/01alchemist/TurboScript
 - http://thecodebarbarian.com/a-nodejs-perspective-on-mongodb-34-decimal.html 128bits decimals to avoid IEEE754 crap.
 - https://github.com/GoogleChrome/preload-webpack-plugin Automatically add preload or prefetch link with webpack and its html plugin.
-
 # 31-01-2017
-
 - https://www.ctheu.com/2017/01/29/how-to-communicate-between-micro-services-part-3-circuit-breakers/ Did a big job on this, with the Hystrix part!
 - https://techcrunch.com/2017/01/31/google-open-sources-chrome-for-ios/ Chrome is now full Blink on all platform.
 - https://github.com/bevacqua/sixflix Nice code by Netflix to detect if the browser supports es6 mostly
@@ -6801,9 +4802,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://playingscala.wordpress.com/2017/01/29/scala-value-classes/ Value classes yes. Was not aware of the "universal trait" name. (only def, not initilization: but creates an alloc, contrary to extension methods;
 - https://github.com/miguno/akka-mock-scheduler Mocking the akka scheduler to test things
 - https://alexn.org/blog/2017/01/16/iterator.html Iterator in Scala (from Java) causes side-effects, code duplication, and fat interface.
-
 # 28-01-2017
-
 - https://tech.small-improvements.com/2017/01/25/how-to-migrate-an-angularjs-1-app-to-react/ Migrating an angular 1 app to ReactJS.
 - https://arxiv.org/pdf/1701.02405v1.pdf Super interesting study about Twitter "Star Wars bots". 350k!
 - https://github.com/dmnd/dedent Strip front spaces in multi-line strings, very useful
@@ -6813,9 +4812,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://highscalability.com/blog/2016/10/12/lessons-learned-from-scaling-uber-to-2000-engineers-1000-ser.html Microservices allows you to scale (people) up easier and faster. Multiple languages. Hard to share code sometimes. RPC conventions? logging conventions? Who has the big picture?
 - http://zipkin.io/ distributed tracing system by Twitter. Looks good! Integration with cassandra, mysql (storage), akka, dropwizard (http) and multiple languages (java, js) much more
 - https://underscore.io/blog/posts/2017/01/24/finch-functional-web-development.html Good recap and some code about Finch, functional http framework by Twitter
-
 # 26-01-2017
-
 - https://gopherize.me/ An avatar generator (golang mascot)
 - https://github.com/dustinvtran/ml-videos A repo with nice ML videos, for the day I want to get more into it!
 - https://security.googleblog.com/2017/01/the-foundation-of-more-secure-web.html HTTPS's becoming the fundamental techno to connect to Google's services. "Google Trust Services" https://pki.goog/
@@ -6826,9 +4823,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/StevenBlack/hosts/ So many hosts to block!
 - http://martin.kleppmann.com/2017/01/26/data-loss-in-large-clusters.html The bigger cluster (talking >1000 nodes), the highest probably of losing 3x replicated data. Higher partitions rate help (1000 partitions per node = small partitions = distributed all over the nodes that can rebuild a replica quickly)
 - https://www.confluent.io/kafka-summit-2016-keynote-kafka-and-uber-the-worlds-realtime-transit-infrastructure/ Interesting and short talk about how Uber is using Kafka and evolving its architecture
-
 # 25-01-2017
-
 - https://github.com/Powerspace/kudu-from-avro Updated our tool to create Kudu table from avro or sql scripts
 - https://www.reddit.com/r/javascript/comments/5pxxi1/does_anyone_use_sencha_anymore/ Ah, Sencha! I remember. It's been a while.
 - http://blog.strml.net/2017/01/chrome-56-now-aggressively-throttles.html Chrome 56 Will Aggressively Throttle Background Tabs - it will affect many websites.
@@ -6842,17 +4837,13 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://movio.co/blog/migrate-Scala-to-Go/ Another team migrated from Scala to Go. I think I should really take a look at Go. But not fan of the syntax :( But like the no JVM !!
 - https://www.confluent.io/blog/confluent-delivers-upgrades-clients-kafka-streams-brokers-apache-kafka-0-10-1-1/ Kafka brokers, streams, clients improvements!
 - https://e.xtendo.org/monad#89 Why Monad make people scared of Haskell. Understanding the Monad concept is not even necessary.
-
 # 23-01-2017
-
 - https://github.com/roytenberg/brilliant-bash/blob/master/.bashrc I like the "plz" alias to sudo the last cmd
 - https://github.com/davisonio/awesome-gif everything about gifs is in there
 - http://ivanjov.com/working-with-http-streams-with-cycle-js/ been a while i didn't look at a cycle tuto, love it.
 - http://www.slideshare.net/Lightbend/lessons-learned-from-paypal-implementing-backpressure-with-akka-streams-and-kafka A high performance crawler using Akka Streams and Kafka. The blog post here: https://www.lightbend.com/blog/lessons-learned-from-paypal-implementing-back-pressure-with-akka-streams-and-kafka
 - https://github.com/paypal/squbs Akka/Spray for Large-Scale Production Deployments.
-
 # 22-01-2017
-
 - https://www.ctheu.com/2017/01/18/how-to-communicate-between-micro-services-part-1/ Wrote this the past few days :)
 - https://www.ctheu.com/2017/01/22/how-to-communicate-between-micro-services-part-2-retryers/ And this!
 - https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scalepop Lots of technicals things about Twitter infra: network optims, DCs traffic, storage, cache, puppet at scale, cleaning codebase, monitoring
@@ -6862,9 +4853,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/ericelliott/speculation Another JS promise cancellation way. Simpler?
 - http://lemire.me/blog/2017/01/20/how-quickly-can-you-remove-spaces-from-a-string/ The uglier the syntax the faster, using SIMD intructions.
 - https://fossbytes.com/googles-ai-codes-own-machine-learning-software/ AI coding ML
-
 # 18-01-2017
-
 - https://github.com/mozilla/Fira I didn't know Fira was some Mozilla. Nice font.
 - https://firebase.googleblog.com/2017/01/FabricJoinsGoogle17.html Google acquires Fabric (build mobile apps, from Twitter)
 - https://github.com/dragos/dragos-vscode-scala Scala in VSCode, using Ensime
@@ -6875,9 +4864,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://emmanuelbernard.com/presentations/inverted-index/ A presentation about Inverted Index (b-tree, TF/IDF, Lucene)
 - http://mutanatum.com/posts/2017-01-12-Browser-FP-Head-to-Head.html JavaScript vs Elm vs PureScript vs GHCjs. Comparing their functional aspects, pros and cons.
 - http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html Cofounder of RethinkDB give details about why RethinkDB failed unfortunately. The company focused on wrong metrics and try to work on too many things at once.
-
 # 17-01-2017
-
 - http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf Any fellow datascientists should love this! Approved.
 - https://blog.appcanary.com/2017/http-security-headers.html
 - http://pantsbuild.github.io/ Heard this name before but never used it. A build system mainly for repo with multiple projects in it. Multiple languages supported.
@@ -6887,9 +4874,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://rea.tech/business-friendly-functional-programming-part-1-asynchronous-operations/ Didn't get the whole thing, but it's similar to the "async" Scala library except it's using scalaz behind the scene.
 - https://github.com/legomushroom/mojs Very good animation library in Javascript
 - https://blog.risingstack.com/node-js-async-best-practices-avoiding-callback-hell-node-js-at-scale/ async lib, co, and async/await keywords
-
 # 16-01-2017
-
 - https://jeena.net/why-i-switchedfrom-osx-to-linux Switching from OSX to Linux, some tips and comparaison
 - https://youexec.com/dev/2017/1/14/google-facebook-ads-traffic-is-useless Comparing user session with Fullstory, users from Ads do nothing and leave quickly.
 - https://www.ckl.io/blog/dont-blame-the-framework-angularjs-and-reactjs/ React deals with the view, Angular with the whole. That's it.
@@ -6902,18 +4887,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://victorops.com/blog/akka-heart-ammonite/ Using Ammonite shell to connect to distant Akka actors and alter them
 - https://blog.codecentric.de/en/2017/01/hello-grpc-scalapb/ gRPC in Scala
 - https://alexn.org/assets/pdfs/Akka-Monix.pdf 2 good presentations in one: Akka, and Monix
-
 # 15-01-2017
-
 - https://byrslf.co/the-man-who-gave-us-all-the-things-e83ab612ce5c The emotional story of Levi Felix, co-founder of Camp Grounded, spending his life as he wanted, with friends all around, helping others.
 - http://campgrounded.org/ the concept: several days between adults, with tons of activities. To disconnect and reconnect.
 - https://medium.freecodecamp.com/what-i-learned-from-analyzing-the-top-253-medium-stories-of-2016-9f5f1d0a2d1c How To Succeed With Medium: personal titles, talk about motivation, add images, 7min length.
 - https://medium.com/@WebReflection/a-case-for-js-classes-without-classes-9e60b3b5992 Another "class" framework in JS, because ES6 classes transpilation does not always work.
 - http://eta-lang.org Haskell-ish on the JVM. Pure, Lazy, Strongly Typed, interop.
 - https://microsoft.github.io/windows/ Windows is on the good way to go. Those are its projects Github powered.
-
 # 14-01-2017
-
 - https://gist.github.com/mandubian/dfd670f7740f47a1a2a7b662f828aac6 ""Monad is a monoid in the category of endofunctors" evidence using trivial sample of Scala Kind-Polymorphism PoC" except all the greek characters, yes, it makes sense.
 - http://seriouslyjs.org/ quite awesome. change the video style in real-time. using webgl.
 - https://github.com/alibaba/rax another serious competitor of React has emerged :)
@@ -6929,9 +4910,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://reflect.io/blog/github-aws-data-pipeline/ How Reflect use AWS to make their backend.
 - https://yahooeng.tumblr.com/post/155765242061/open-sourcing-screwdriver-yahoos-continuous ScrewDriver, a tool with UI by Yahoo! to to Continous Delivery http://screwdriver.cd/
 - https://www.oreilly.com/ideas/scaling-scala The place and evolution of Scala + its big projects, and Cats VS ScalaZ
-
 # 11-01-2017
-
 - https://github.com/jlongster/prettier Another prettify JS, seems better? to avoid inconsistent formatting. and its blog http://jlongster.com/A-Prettier-Formatter
 - https://vimeo.com/85490944 This is an amazing video by Spotify about their culture. Just awesome and a must-watch.
 - https://medium.com/@mweststrate/mobx-3-released-unpeeling-the-onion-ca877382f443 MobX is getting its API cleaner and smarter
@@ -6941,18 +4920,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/sindresorhus/get-range A lazy (yield) range iterator useable with "for of"
 - https://github.com/pathikrit/better-files Never heard of this library. It's strongly recommanded when dealing with Files in Scala. The API seems excellent and complete.
 - http://v8project.blogspot.fr/2017/01/speeding-up-v8-regular-expressions.html RegExp += Speedup(100%)
-
 # 09-01-2017
-
 - https://techcrunch.com/2017/01/09/atlassian-acquires-trello/ \$425M for Trello. The price of the user-base!
 - http://sciabarra.com/book/starters/ Very quick start in diff Scala framework
 - https://www.reddit.com/r/scala/comments/5mtlhq/stds_considered_harmful_or_slicks_marvelous_api/ A dude pissed off at Slick's ugly syntax.
 - https://blog.redelastic.com/work-stealing-what-makes-the-play-framework-fast-4b71fa7758d5 Some basic explanation about work stealing threading with Play!
 - http://www.dmst.aueb.gr/dds/sw/dgsh/ I heard good things about this dgsh but having a hard time to be interested.
 - http://www.jowanza.com/post/155606607974/what-is-alluxio-and-will-it-help-my-spark-jobs A very quick post about Alluxio and Spark. Very quick.
-
 # 08-01-2017
-
 - https://medium.com/@subhojit20_27731/apache-spark-and-amazon-s3-gotchas-and-best-practices-a767242f3d98 Spark and S3. Many tips to know.
 - https://www.mapr.com/blog/monitoring-real-time-uber-data-using-spark-machine-learning-streaming-and-kafka-api-part-2 Spark, Kafka, K-means, Uber.
 - https://engineering.linkedin.com/blog/2017/01/asynchronous-processing-and-multithreading-in-apache-samza--part Samza refactored its internals and implemented the callback hell to support any type of Promise/Future/Task to follow a full async model.
@@ -6960,9 +4935,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://news.ycombinator.com/item?id=13259575 25k servers every day on GCP.
 - https://thehftguy.com/2016/06/15/gce-vs-aws-in-2016-why-you-should-never-use-amazon/ GCE vs AWS in 2016: Why you shouldn’t use Amazon
 - https://thehftguy.com/2016/10/20/building-an-analytics-pipeline-in-2016-the-ultimate-guide/ Building an Analytics Pipeline in 2016. Alooma, RedShift, Looker.
-
 # 07-01-2017
-
 - https://www.bleepingcomputer.com/news/security/ultrasound-tracking-could-be-used-to-deanonymize-tor-users/
 - https://blog.plan99.net/the-science-of-westworld-ec624585e47
 - https://twitter.com/i/moments/817537697535250432 The CES was not so great it seems, a bunch of stupid things.
@@ -6975,9 +4948,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html?m=1 Explanation about a bounty bug (SQL Injection) in GitHub Enterprise VM (ie: Ruby sucks). Good reading.
 - http://www.vox.com/science-and-health/2017/1/6/14184094/scientists-predict-stars-colliding Come back in 2022.
 - http://arstechnica.co.uk/security/2017/01/more-than-10000-online-databases-taken-hostage-by-ransomware-attackers/ Good thing. They removed all the unsecured mongod from the Internet, ahah.
-
 # 05-01-2017
-
 - https://labs.spotify.com/2016/03/03/spotifys-event-delivery-the-road-to-the-cloud-part-ii/ PubSub, 2M/s on one DC, validated.
 - https://www.confluent.io/blog/log-compaction-highlights-apache-kafka-stream-processing-community-january-2017/
 - https://spark.apache.org/releases/spark-release-2-1-0.html A small recap of the new things
@@ -6985,9 +4956,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://dimafeng.com/2017/01/04/sbt/ SBT making things complex for no reason. whereas Gradle is easier.
 - https://spring.io/blog/2017/01/04/spring-batch-4-0-0-m1-is-now-available More builder patterns, less XML in the doc (java first, finally!!)
 - https://www.kennethreitz.org/essays/the-reality-of-developer-burnout Interesting and short story about dev burnout.
-
 # 04-01-2017
-
 - https://github.com/stevennL/Snake AI of snake game, fill the screen!
 - http://www.nature.com/news/google-reveals-secret-test-of-ai-bot-to-beat-top-go-players-1.21253 Google put AlphaGo into the online tournament of Go and beat'em all
 - https://www.youtube.com/watch?v=LBJPIgNXUDI Let artist draw into an infinite space using VR. Quite impressive.
@@ -6996,9 +4965,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://philna.sh/blog/2017/01/04/git-back-to-the-future/ Never had to use the reflog yet, never did any mistake.. yet.
 - https://kev.inburke.com/kevin/leap-seconds/ Another story about leap second in Go
 - https://franklinpearsall.com/getting-started-with-akka-and-akka-http-building-a-mock-traffic-monitoring-system/ An example of Akka HTTP app
-
 # 03-01-2017
-
 - http://www.madhur.co.in/blog/2016/12/25/batch-api-framework-nodejs.html Batch API calls in nodejs.
 - http://www.rankred.com/whats-new-in-html-5-1-added-features/ Some nice HTML5 features not everybody is aware of
 - https://probablydance.com/2016/12/27/i-wrote-a-faster-sorting-algorithm/ The Radix Sort. A globally faster algo than QuickSort/Heapsort and concors, that surprisingly "nobody" uses.
@@ -7009,9 +4976,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/scalikejdbc/scalikejdbc A tidy SQL-based DB access library for Scala developers. Async version over there https://github.com/scalikejdbc/scalikejdbc-async
 - http://ahogrammer.com/2016/11/15/deep-learning-enables-you-to-hide-screen-when-your-boss-is-approaching/ Title says all, awesome and funny article
 - http://co.ntextu.al/ simple and typesafe interpolated strings, checked at compile-time, in Scala
-
 # 02-01-2017
-
 - https://googleblog.blogspot.fr/2011/09/time-technology-and-leaping-seconds.html Instead of the :60s, Google changes its ntp servers to send progressively tiny updates (delta) to match the time after the leap second transparently. "leap smear"
 - https://github.com/bluejamesbond/FlameChart.js a &lt;FrameChart&gt; as powerful as the DevTools' one
 - http://www.lefigaro.fr/secteur/high-tech/2017/01/02/32001-20170102ARTFIG00110-pour-lutter-contre-le-piratage-des-emails-donald-trump-preconise-le-retour-au-courrier.php Stop sending emails, send mails !
@@ -7030,9 +4995,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://media-glass.es/portainer-the-ui-for-docker-d067f6335f23 a UI for Docker engine
 - https://pavelfatin.com/typing-with-pleasure/ Measuring delay between a keystroke and its appearance, under mult. conditions. Atom, Idea, subl, emacs, etc.
 - https://hackernoon.com/the-programmers-guide-to-booking-a-plane-11e37d610045 Scrape and plot your airplane tickets price to get the lowest price, great
-
 # 31-12-2016
-
 - http://www.journaldugeek.com/2016/12/30/twitter-aimerait-autoriser-ledition-de-tweets-mais-cest-vraiment-complique/ Twitter listening to its users
 - http://www.lesnumeriques.com/appli-logiciel/microsoft-windows-10-p21948/windows-10-mode-dedie-jeu-a-compter-debut-2017-n58773.html "Gamer mode" in Windows10?
 - https://hackernoon.com/im-sticking-with-react-for-now-47b792be555d Preact and other "adapters" have still some issues. React has a tremendous inertia recruiting top developers. Hard to beat.
@@ -7044,17 +5007,13 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/ageitgey/show-facebook-computer-vision-tags#show-facebook-computer-vision-tags-chrome-extension Display tags Facebook identified on its picture (put on alt)
 - https://blog.knoldus.com/2016/12/30/migration-from-spark-1-x-to-spark-2-x/ quickstart to update a spark1.6 program to 2.0
 - https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536 basis of functional programming, a quite verbose guide.
-
 # 29-12-2016
-
 - http://www.xautoworld.com/tesla/autopilot-radar-tech-predicted-accident/ Impressive usage of predictive technology by Tesla
 - https://github.com/arun-gupta/docker-images Useful repo of images to start misc things (couchbase, jdk, some dbs..)
 - https://www.hidefsoftware.co.uk/2016/12/25/the-caching-antipattern/ Talking about cache strategies.
 - http://gafferongames.com/networking-for-game-programmers/udp-vs-tcp/ TIL TCP and UDP should not be used together. TCP will "damage" UDP transit.
 - https://databricks.com/blog/2016/12/29/introducing-apache-spark-2-1.html A better streaming, a better SparkSQL.
-
 # 28-12-2016
-
 - http://joebergeron.io/posts/post_two.html a bootloader in ~hundred simple instruction (asm eh)
 - https://github.com/andywer/leakage Memory leak testing for nodejs, that's another good chunk of tests to do
 - https://blog.knoldus.com/2016/12/27/testing-rejection-handling-in-akka-http/ Learned about route.seal() to test a route that throws, in akka http
@@ -7066,9 +5025,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/@octskyward/modern-garbage-collection-911ef4f8bd8e Some explanation about different GCs behaviors. "Garbage collection is a hard problem".
 - http://djcordhose.github.io/flow-vs-typescript/flow-typescript-2.html Flow just seems more appropriate. (incremental, better checks)
 - https://www.confluent.io/blog/data-dichotomy-rethinking-the-way-we-treat-data-and-services/ Stateful Stream Processing
-
 # 27-12-2016
-
 - https://github.com/mobxjs/mobx/blob/mobx3/CHANGELOG.md#300 Some nice API churn in MobX and better pattern (immutability)
 - https://github.com/start-runner/start A very simple Gulp (task runner). Tons of plugins for cross-env.
 - https://github.com/dhparkdh/resume-for-web-developer a nice cv template to modify as we want
@@ -7083,9 +5040,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://medium.com/@areai51/the-4-stages-of-perf-tuning-for-your-angular2-app-922ce5c1b294 Not only Angular2: Tree shaking (remove useless things from bundle), "universal" js (ssr, careful, not always the best solution), web workers (leave UI thread alone), and service workers (instant loading, offline, cache)
 - https://cloudncode.wordpress.com/2016/07/22/msa-getting-started/ Don't do nano services. Group by feature. Service Discovery. Document APIs. Circuit-breaker. Communication between services: HTTP/Queues. Authentication, Authorization. Scaling. If not many calls: AWS Lambda (serverless).
 - https://www.openapis.org/ ~> Swagger https://github.com/OAI/OpenAPI-Specification
-
 # 25-12-2016
-
 - https://swizec.com/blog/animating-svg-nodes-react-preact-inferno-vue/swizec/7311 the new "perf" demo compared between react, preact, inferno, angular, cyclejs
 - https://en.lichess.org/blog/WFvLpiQAACMA8e9D/learn-from-your-mistakes
 - http://www.thevelop.nl/blog/2016-12-25/ThreadTone/ Cool idea. An image converted to "threads" in a circle.
@@ -7093,9 +5048,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7 Lots of tips for a better time to first meaningful paint, tti, libraries sizes..
 - http://www.scala-sbt.org/0.13/docs/Cached-Resolution.html lots of modules, sbt starts to suck. Cache dag to fix it.
 - https://m.signalvnoise.com/why-you-should-argue-with-your-employees-ab8189fcd1c4 "It’s not about ego — it’s about the outcome. You want the outcome that’s best for the company"
-
 # 22-12-2016
-
 - https://github.com/Swizec/react-fractals React doesn't like when every element moves (no sCU optim)
 - http://www.cakesolutions.net/teamblogs/improving-workflow-with-local-sbt-files create a custom global sbt that is not commited with the projects
 - https://gist.github.com/non/ec48b0a7343db8291b92 "Static typing is most useful in large, shared codebases" "a scientist's main concerns are probably mathematical errors (most of which the type system won't catch)... unlikely to maintain code for very long periods of time or share codebases."
@@ -7105,9 +5058,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://aerotwist.com/blog/when-everything-is-important-nothing-is/ SSR=higher Time To Interactive. C(client)SR=opposite of SSR. "Progressive Booting" >> SSR or CSR. Critical first. Do not forget about requestIdleCallback.
 - https://www.reddit.com/r/linusrants/ A reddit for that, not surprising.
 - http://x-team.com/2016/12/forc-fear-of-removing-css/ FORC: fear or removing CSS. Definitely true when in decoupled .css files.
-
 # 20-12-2016
-
 - http://www.nytimes.com/2016/12/20/technology/twitters-chief-technology-officer-to-leave-company.html COO gone, CTO gone.
 - https://jenkins.io/projects/blueocean/ brb installing awesomeness
 - https://blog.cloudflare.com/a-very-webp-new-year-from-cloudflare/ "Polish". WebP for everyone. Replaces png, jpg, gif.
@@ -7116,9 +5067,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/devongovett/regexgen Can't wait to test this with a real regex. Enough charabia in the desc to make it very good.
 - https://github.com/keonkim/awesome-bits a new way to obfuscate our code. Using binary operations all over.
 - https://blogs.windows.com/msedgedev/2016/12/20/introducing-brotli-compression/ Brotli in Edge. Good. (20% better http compression)
-
 # 19-12-2016
-
 - http://amir.rachum.com/blog/2016/12/18/debugging-with-humility/ "I have a bug blabla because blabla" "May I take over your keyboard? I don't listen to you anyway" ahah, it always happening like that.
 - http://blog.professorbeekums.com/2016/12/beware-of-developers-who-do-negative.html the conclusion says enough: "..the pressure of tight timelines, but hiring in desperation won’t solve that problem...Bad developers will not only slow you down..can cause your great developers to leave your company. "
 - https://changelog.com/posts/one-sure-fire-way-to-improve-your-coding "If you want to dramatically increase your programming skills you need to be reading other people’s code." Personally, I read a lot of Druid's source code and learned a lot :)
@@ -7127,9 +5076,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.jowanza.com/post/154680354949/a-gentle-intro-to-udafs-in-apache-spark Never wrote a UDAF (aggregate function, like a reduce) in Spark, good to know
 - http://filippodeluca.com/programming/2016/12/09/akka-eventsourcing-done-right You persist the command and not the state after the command (business logic). Your logic changes: you lost the command to reprocess: command sourcing
 - https://github.com/FezVrasta/popper.js I was wondering what is a "popper", now it makes sense.
-
 # 17-12-2016
-
 - http://www.dw.com/en/galileo-navigation-satellite-system-goes-live/a-36422029 Precision: 4m! A centimeters for commercial and gov.
 - http://cube20.org/ Every position of Rubik's Cube can be solved in twenty moves or less. A cube has 43,252,003,274,489,856,000 positions. !!
 - https://github.com/andrew/github-inbox A better github notifications manager. It's in ruby, sorry
@@ -7137,9 +5084,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://github.com/lihaoyi/sourcecode get source code metadata in the code itself (implicits and macros at compile time)
 - https://medium.com/webpack/webpack-performance-budgets-13d4880fbf6d The PR I was talking a few days ago is merged. Webpack have some options to warn us if the assets are too big.
 - https://medium.com/dropbox-design/design-words-with-data-fe3c525994e7 Good tips about how to write. Use "Sign in". "Version History".
-
 # 16-12-2016
-
 - https://github.com/gatsbyjs/gatsby Spent a lot of time on this, I always wanted to remove my wordpress with this kind of static generator. I'll need a week I think, I'm updating/rewritting/reorganizaing all the articles one by one. Lots of work. :star:
 - https://thefeedbackloop.xyz/stroustrups-rule-and-layering-over-time/ "For new features, people insist on LOUD explicit syntax. For established features, people want terse notation." Stroustrup's Rule.
 - https://github.com/toddmotto/angular-pizza-creator
@@ -7149,9 +5094,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://grundlefleck.github.io/2013/06/23/using-scala-will-make-you-less-productive.html For me, it's compilation/dependencies resolution time -\_-
 - http://stackoverflow.com/questions/3490383/java-compile-speed-vs-scala-compile-speed/3612212#3612212 Scalac does mmuch more things because of the features of Scala. But it parses less code.. !
 - http://tempsreel.nouvelobs.com/en-direct/a-chaud/31358-tele-russie-meurtre-cette-nouvelle-emission-realite-russe.html Russian are crazy too.
-
 # 15-12-2016
-
 - https://9to5mac.com/2016/12/14/twitter-excluded-from-trump-tech-meeting-over-emoji/ And that seems to be for real. This man is not living in the real world, or is it just me?
 - https://medium.com/@garycoby/twitter-restricts-trump-eb7e48ccf5ff The complete story, and the emoji sample, ahah
 - https://developer.github.com/changes/2016-12-14-profile-snyks-journey-from-cli-to-github/ it was just a CLI, now it's a bot to automatically PR a vulnerability fix
@@ -7169,9 +5112,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://mrotaru.wordpress.com/2015/05/20/how-migratorydata-solved-the-c10m-problem-10-million-concurrent-connections-on-a-single-commodity-server/ Super interesting. How they tune the kernel to handle 10M connections.
 - http://highscalability.com/blog/2016/12/13/a-scalable-alternative-to-restful-communication-mimicking-go.html in the same vain, but building a autocomplete service this time
 - https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/ just good sense.
-
 # 14-12-2016
-
 - https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8 I like this kind of post, JS is messed up, we know it and we like it.
 - https://gist.github.com/akras14/3d242d80af8388ebca60 a nice git cheat sheet. Hopefully, when you use it daily, you know the whole sheet.
 - https://github.com/cloudson/gitql recap: git ql "select date, message, author from commits where date > '2016-10-10'
@@ -7186,18 +5127,14 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://reactivesocket.io/ another project that implements reactivestreams. javascript and java impl.
 - https://blogs.msdn.microsoft.com/kaushal/2013/08/02/ssl-handshake-and-https-bindings-on-iis/ ssl hanshake low level details.
 - https://softwaremill.com/reader-monad-constructor-dependency-injection-friend-or-foe/ monad reader impact when using it for DI
-
 # 13-12-2016
-
 - https://github.com/Tenchi2xh/Scurses It's always impressive to get this kind of dashboard with charts etc. in a console!
 - https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms
 - https://github.com/720kb/ndm neat! i don't remember seeing a interface for installed nodejs packages. now it exists!
 - https://github.com/mathiasbynens/tpyo i think he did a tpyo. using es6 proxies.
 - http://www.slideshare.net/SparkSummit/spark-summit-eu-talk-by-michael-nitschinger Spark and Couchbase, a love story
 - https://www.joelonsoftware.com/ Bored? "Over the last 16 years I’ve written 1114 articles on this site about software development, management, business, and the Internet."
-
 # 12-12-2016
-
 - http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/ comparing bash pipes to spark, right.
 - https://github.com/zeit/hyper/releases/tag/1.0.0 I can finally install hyperterm on windows; wouhou. No more cmder?
 - https://github.com/chtefi/how-to-make-a-good-website/blob/master/README.md Still more details!
@@ -7209,9 +5146,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://survivejs.com/blog/inferno-interview/ some tips why/how inferno is so fast.
 - http://degoes.net/articles/easy-monads talking about free monads using a ConsoleIO example, without saying it's about free monads in Scala, good article
 - https://www.ideals.illinois.edu/bitstream/handle/2142/34816/fase2013_submission.pdf "Why Do Scala Developers Mix the Actor Model with Other Concurrency Models?"
-
 # 11-12-2016
-
 - https://www.washingtonpost.com/news/capital-weather-gang/wp/2016/12/09/the-polar-vortex-is-coming-heres-what-that-means-and-how-cold-it-could-get/ I didn't know the term "polar vortex". Just meaning it's going to get blazing cold.
 - https://medium.com/@mbostock/command-line-cartography-part-2-c3a82c5c0f3 More cli manipulation to transform data to a map svg
 - https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47 Nice tips for interviewing employees about what could be better, what is wrong etc. ie: never ask "how is this going?" but more personal questions: "When have you felt frustrated/enthousiast in the past year?"
@@ -7231,9 +5166,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://www.slideshare.net/SparkSummit/spark-summit-eu-talk-by-simon-whitear Sparklint, a very nice UI to analyze the load of a job
 - http://spark.apache.org/docs/latest/structured-streaming-programming-guide.html Explanation of the programming model behind unbound Dataframe in Spark Streaming (window, join, sinks..)
 - https://github.com/OpenHFT/Chronicle-Map key-value store off heap (mmapped file) in-process with replication over network (distributed, CRDT), UDP+TCP. Impressive scalability. No TTL. Commercial offer to more features.
-
 # 10-12-2016
-
 - https://en.wikipedia.org/wiki/Satisfiability_modulo_theories i dunno
 - https://lists.freedesktop.org/archives/dri-devel/2016-December/126684.html amd pissed off by linux team that does not want to integrate their code. (iiuc)
 - http://blog.octo.com/les-strategies-de-gestion-de-pression-partie-i/ some details about backpressure management
@@ -7243,9 +5176,7 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - http://blog.akka.io/artery/2016/12/05/aeron-in-artery Aeron (SBE) in Akka Artery (remote). Using UDP undernealth
 - http://www.cakesolutions.net/teamblogs/genetic-programming-in-scala Nice and clean. Generate polynomial expressions and check their fitness to keep the best match.
 - https://www.youtube.com/watch?v=S4ez739fles Rapidly Iterating on Microservices using Docker, Kubernetes, and Node.js
-
 # 09-12-2016
-
 - https://en.wikipedia.org/wiki/Jacque_Fresco Thanks to this guy, I discovered the "Venus Project". A model of a sustainable future society
 - https://www.npmjs.com/package/egghead-downloader way more practical :-)
 - https://bl.ocks.org/mbostock/8fe6fa6ed1fa976e5dd76cfa4d816fec d3 internals in a d3 chart ! d3ception
@@ -7259,18 +5190,13 @@ Being on holidays in Norway :norway:, I won't post a lot of links during a few w
 - https://istacee.wordpress.com/2013/09/18/kent-beck-i-get-paid-for-code-that-works-not-for-tests/ Kent Beck : “I get paid for code that works, not for tests” (he invented xp, tdd..)
 - http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html okay this amazon interview is definitely screwed up, impressive
 - https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/ Another post about calloc in like 2 weeks?! An an unexpected behavior on osx, nicely done
-
 # 08-12-2016
-
 - https://github.com/petehunt/rust-benchmark Rust to JS or wasm.
 - https://www.drift.com/ Another customer messaging in-browser solution
 - http://blog.xebia.fr/2016/12/08/revue-de-presse-xebia-2016-50/ Scala 2.12, Amazon Go, Craftmanship: building a test infrastructure
 - http://pedrorijo.com/blog/scala-enums/ Comparing Scala Enums and other ways to simulate them (because they suck a bit)
-
 This was a late meetup day :-)
-
 # 07-12-2016
-
 - https://github.com/krausest/js-framework-benchmark wow, a lots of app doing the same thing but with a lot of existing frameworks (ie: benchmarking them)
 - https://en.wikipedia.org/wiki/Kiritimati UTC+14:00 yikes. I'd like to go into holidays there, very peaceful. Just need a sat connection eheh.
 - https://blog.docker.com/2016/12/docker-acquires-infinit/ Docker bought a startup from Paris to deal with the long-waited container storage solution
@@ -7281,9 +5207,7 @@ This was a late meetup day :-)
 - https://www.baldurbjarnason.com/notes/is-js-more-fragile/ "There’s no reason why a set of simple forms on a government website should be implemented in Angular when they could be implemented more reliably and with greater reach using built-in features of HTML and CSS" Because dev wants to be bleeding-edge (well, not with Angular :p), that's it.
 - https://babeljs.io/blog/2016/12/07/the-state-of-babel big recap of babel past, present and future. Note: a babel cli is a good idea
 - http://www.scala-lang.org/blog/2016/12/07/implicit-function-types.html Scala is getting one more implicit feature to "simplify" things. Implicits type! A reusable type that "contains" an implicit parameter. Less visible implicits across the code.
-
 # 06-12-2016
-
 - http://jetbus.io/index.html collaborative apps using websockets, done easily with jet
 - https://www.prerender.cloud/blog/2016/12/03/chrome-memory-54-vs-55 Chrome 55 uses ~30% less memory than Chrome 54
 - https://www.amazon.com/b?node=16008589011 Love the principle, just amazing (woopsy unemployment incoming). Supermarket, no lines, no checkout. Computer vision (picture), deep learning, sensor fusion (fused several sensors data to analyze).
@@ -7295,9 +5219,7 @@ This was a late meetup day :-)
 - http://www.slideshare.net/Couchbase/streaming-operational-data-with-kafka-confluent Confluent platform, Kafka Streams, Schema Registry. High Level.
 - https://github.com/takari/polyglot-maven-examples/blob/master/scala/minimal-scala/pom.scala No more pom.xml that's a win. WOW. Most of the mapping done. I hate xml.
 - https://blog.jetbrains.com/idea/2016/11/intellij-idea-2016-3-ga-java-8-and-es6-debugger-and-ui-improvements-and-a-ton-more/ Intellij Idea, best IDE ever, since forever.
-
 # 05-12-2016
-
 - https://github.com/zeit/styled-jsx Another solution to handle style with React
 - https://medium.com/@dkomanov/scala-stringbuilder-vs-java-stringbuilder-performance-3167a96abfc2
 - https://dkomanov.github.io/scala-serialization/ dude is benchmarking everything. Here, some serde library. PB/Boo/classic java
@@ -7312,9 +5234,7 @@ This was a late meetup day :-)
 - http://blog.bugreplay.com/post/153861574674/fkadblock-how-publishers-are-defeating-ad blocking adblockers: a few techniques
 - http://calendar.perfplanet.com/2016/http2-push-the-details/ h2 push is very complicated to put in place and use. push or resource hints? tcp slow start. (tcp send small packets, then increase to test the network). It's not production ready yet, the gain does not seem really great, use-cases are not clear..
 - https://www.youtube.com/watch?v=jaqDA7Btm3c styled-components in React. Build a pure UI component just from css written in a tagged template literal. Then wrap any other component around.
-
 # 04-12-2016
-
 - http://mrale.ph/blog/2015/11/02/crankshaft-vs-arguments-object.html tldr: do not use "arguments", and write monomorphic functions.
 - http://raganwald.com/2016/11/30/anamorphisms-in-javascript.html super interesting. separating structure traversal from processing. generators, using tree algorithms (depth first, breadth first..) and more.
 - https://www.reddit.com/r/javascript/comments/5g4bmu/anamorphisms_in_javascript/ ana+cata: create a hylo to avoid intermediate structure (array). but because it's using generators in-between, you don't have any structure in-between, so hylo is not necessary.
@@ -7333,9 +5253,7 @@ This was a late meetup day :-)
 - https://drill.apache.org/blog/2016/11/29/drill-1.9-released/ Better Parquet compat in Drill
 - https://github.com/poly/stdlib definitely to watch. microservices library. Looks like Lagom!
 - http://data-artisans.com/stream-processing-myths-debunked/ Why Lambda Architecture is dead. (hey Kappa)
-
 # 03-12-2016
-
 - http://scaldi.org/ An alternative for DI in Scala, with a proper Scala DSL. Extension for Play, and Akka.
 - https://www.youtube.com/watch?v=0ZZquVylLEo GTA in real life. Very impressive. And the music is wonderful.
 - https://www.crypto101.io/ introductory course on crypt. pdf of 250pages. I'll read it, one day.
@@ -7345,9 +5263,7 @@ This was a late meetup day :-)
 - https://peteris.rocks/blog/htop/ htop details and.. a lot of details about linux processes in general, nice
 - https://peteris.rocks/blog/parsing-malformed-json/ a malformed to well formed json "rewriter"
 - https://www.oo-software.com/en/shutup10 a tool of flags to enable privacy back in Windows ;-)
-
 # 02-12-2016
-
 - https://medium.com/swlh/how-to-deal-with-your-overflowing-inbox-7214c3937b6 Super guide how to cleanup your inbox. No, just kidding. I remember i had cleanup inbox during a while, then started to get late in my NL.. a bit, a bit more, and crap, i have like 100 NLs to read now.
 - https://meebleforp.com/blog/36/angular-2-is-terrible RxJS sucks, TypeScript sucks, Angular2 HTML crap sucks (true). Not sure I agree :D
 - https://dev.to/jackmarchant/no-excuses-write-unit-tests Yes to tests!
@@ -7364,9 +5280,7 @@ This was a late meetup day :-)
 - https://www.youtube.com/watch?v=__b6k2pR3Tg now and next from zeit. now can serve and deploy Dockerfile/html/package.json based project. (static). Immutable subdomain. SSR and frontend rendering with getInitialProps({req,query}). Would like to approach the webcomponents way.
 - https://medium.com/swlh/mozs-accidental-journey-to-40m-f3a4ebc8ee24 Interesting story about how Moz was built
 - http://tachyons.io/ "functional" css. basically, a css class for every css prop ;D (ie: .tc { text-align: center }) Supposely easier to manage, and way lighter to transfer over the wire (class="f6 f5-ns fw6 dib ba b--black-20 bg-blue white ph3 ph4-ns pv2 pv3-ns br2 grow no-underline" ahah)
-
 # 01-12-2016
-
 - http://adventofcode.com/ it will unlock at 6am here, wth, it's already 1st december here, come on! ;) Not sure what it will do. One challenge a day? edit: yes!
 - https://cloudplatform.googleblog.com/2016/11/making-every-leap-second-count-with-our-new-public-NTP-servers.html "we'll run the clocks 0.0014% slower across the ten hours before and ten hours after the leap second"
 - https://www.youtube.com/watch?v=LnX3B9oaKzw interesting and short lesson about functional prog and haskell. ref transparency, immutability, easy concurrency,
@@ -7389,15 +5303,11 @@ This was a late meetup day :-)
 - http://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/ TIL multiple processes can listen on the same port (SO_REUSEPORT)
 - http://blog.ippon.fr/2016/11/30/scala-2-12-lambda-expression/ Scala 2.12 is now using invokedynamic to deal with functional interface of Java8
 - https://github.com/cvogt/cbt cbt is the next sbt :))
-
 # 30-11-2016
-
 - https://developers.google.com/web/progressive-web-apps/checklist Progressive web app checklist by Google, What to Test, and How to fix if it fails
 - https://github.com/MaximAbramchuck/awesome-interview-questions#scala nice questions/answers, you can actually learn stuff!
 - https://www.youtube.com/watch?v=D31_L3LMDe0 Criteo technique to serve ads images. bandwich: 3GB/s, SLA99.99%, 30ms latency, JMagick, Finagle, Mesos, Twitter Server for admin.
-
 # 29-11-2016
-
 - https://github.com/chtefi/ultra-slim-play-scala Starting a Play! http server with the bare minimum.
 - https://liftweb.net/ it's seems to be a scala web framework very powerful but.. the doc is just ugly, all over the place, no proper quickstart with some proper code etc. don't want to go deeper
 - https://verizon.github.io/ Nice page with all verizon open-source projects. Good stuff in there.
@@ -7412,9 +5322,7 @@ This was a late meetup day :-)
 - https://medium.com/@anicolaspp/akka-cluster-in-docker-a-straight-forwards-configuration-b6deea32752d Some troubles running an akka cluster in a scaling docker compose environment
 - https://webpack.js.org/guides/migrating/ nice and stairghtforward migration to webpack 2
 - http://www.lihaoyi.com/post/OldDesignPatternsinScala.html Pattern useless in Scala: Builder (named args), Singleton (object), Adapter (implicits), Chain Of Responsability (linked list of "processors") actually still used but in a different way (no successor, but an immutable list), Interpreter still ok (a parser of expr), Observer yeah! but you will mostly use Rx or Futures for that.
-
 # 28-11-2016
-
 - http://thenewstack.io/a-brief-comparison-of-mesos-and-kubernetes/ Mesos seems to be adapted for big clusters. Kubernetes, which is a container management/scheduler, is more for lightweight clusters, quick scaling, and needs less resources. Kubernetes is like Marathon (which deal with containers) for Mesos.
 - http://labs.criteo.com/about/ 37 billions request / day. 37PB of storage.
 - http://blog.tmorris.net/posts/refactoring-filter/ you thought .filter(fn) was easy to implement? WRONG. Look this Haskell impl.
@@ -7429,9 +5337,7 @@ This was a late meetup day :-)
 - http://javers.org/documentation/diff-examples i was looking for a lib to diff java objects, found!
 - http://www.regular-expressions.info/catastrophic.html trying to match (x+)+y in "xxxxxxxxxxxxxxxxxxxx" : it's gonna explode, because it can't find y, so it's try all possible combinaisons of (x...)(x...) multiple times because of backtracking tests (when it can't match, it backtracks the previous group, something like that)
 - http://blog.xebia.fr/2016/11/28/testez-vos-invariants-avec-scalacheck/ Scalacheck to test if an invariant "holds". (basically it generates random data structured as you want, and test if all cases pass)
-
 # 27-11-2016
-
 - https://blog.insightdatascience.com/isee-removing-eyeglasses-from-faces-using-deep-learning-d4e7d935376f remove eyeglasses from faces. then after, you can "try" different other eyeglasses styles without removing yours
 - https://github.com/xviniette/FlappyLearning an AI learning how to play Flappy Bird (neural network). Generation 82 was the winning one for me.
 - https://m.signalvnoise.com/the-tool-we-built-to-keep-everyone-in-the-loop-at-basecamp-69bc58312014 moaar basecamp. All people in async mode.
@@ -7450,9 +5356,7 @@ This was a late meetup day :-)
 - https://www.techempower.com/benchmarks/ wanna pick a http framework? this can help.
 - https://holidayhole.com/ "To celebrate Black Friday, Cards Against Humanity is digging a tremendous hole in the earth." and they accept donation. They raised \$100k. That's it, no deeper meaning. A video of the digging. Wtf.
 - http://techblog.netflix.com/2015/11/linux-performance-analysis-in-60s.html Quick review of some classic linux tool to use when debugging sys perf
-
 # 26-11-2016
-
 - https://www.youtube.com/watch?v=fxZuzos7Auk explaining how bugs are working in Super Mario Bros 3
 - https://github.com/lipp/hackernews a hackernews reader using next.js (react, server side) ans js generators
 - https://github.com/marcelduran/webpagetest-api automatise webpagetest calls with this wrapper, lots of options
@@ -7470,9 +5374,7 @@ This was a late meetup day :-)
 - https://s3-us-west-2.amazonaws.com/book-sample/advanced-scala-preview-with-full-toc.pdf Found this one: Preview: Advanced Scala with Cats, 50 pages, seems very accessible
 - https://github.com/OlegIlyenko/graphiql-workspace Nice additions to GraphiQL ui that was indeed, pretty light.
 - http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html Some functional types explained with great pictures
-
 # 25-11-2016
-
 - https://projects.lukehaas.me/regexhub/ listing common regexes for js. neat idea.
 - http://haseebq.com/farewell-app-academy-hello-airbnb-part-ii/ from 120k to 250k\$ going to Airbnb. Awesome dude.
 - https://www.flickr.com/photos/mwichary/sets/72157677060922185 So many old video games logo/posters :)
@@ -7485,18 +5387,14 @@ This was a late meetup day :-)
 - https://github.com/drduh/macOS-Security-and-Privacy-Guide I installed Little Snitch thanks to that. And that's crazy scary all the connections made outside by your OS (Sierra) and all the apps :(
 - http://anzorb.com/we-dont-need-your-polyfills/ not sure it's not over-engineered.. (polyfills are generally tiny) but: import in the browser only the needed polyfills, thanks to webpack2 code splitting System.import feature.
 - https://tobiastom.name/notes/7a79eed0 Homebrew connects to GA!
-
 # 24-11-2016
-
 - https://github.com/vhf/v8-bailout-reasons Some odd code bits where v8 lose its thing and deoptimizes because it surrenders (ie: slow)
 - http://globocom.github.io/megadraft built on top of draft.js to provide a nice editor. unrelated: wtf its hamburger menu
 - http://www.npr.org/sections/alltechconsidered/2016/11/23/503146770/npr-finds-the-head-of-a-covert-fake-news-operation-in-the-suburbs fake news is a good business. >~\$20k/month
 - http://highscalability.com/blog/2016/11/16/the-story-of-batching-to-streaming-analytics-at-optimizely.html going from hbase+druid to hbase with samza to aggregate in RT sessions data (and batch writes into hbase), with RockDB as the state db behind samza.
 - https://github.com/staltz/matrixmultiplication.xyz an original method to multiply matrices visually, in cyclejs
 - http://cssreference.io/ a modern webpage to see most of the css property usage, visually
-
 # 23-11-2016
-
 - https://medium.com/@Shapiro/introducing-libscore-com-be93165fa497 3rd party libraries analysis on 1 million website
 - https://www.youtube.com/watch?v=iWkl2TSflDE A company should have a test strategy (TU a lot (fast) / TI a bit less (not too slow) / UI a bit lesser (slower)). Performance tests, load tests, security tests. Exploratory tests, usability tests, acceptance tests. BDD tests everywhere (orthogonal notion)
 - http://youmightnotneedjquery.com/ remember this one?
@@ -7511,9 +5409,7 @@ This was a late meetup day :-)
 - https://medium.com/@rajaraodv/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276 Yes to functional in JS. But please, use TS at least, it really needs types.
 - https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f Lot of not-so-known tips about nodejs
 - https://en.wikipedia.org/wiki/Abstract_nonsense Category theory = abstract nonsense. Good.
-
 # 22-11-2016
-
 - http://reactstudio.com/ Sketch to React. Awesome. Coding is overengineering.
 - https://github.com/ParhamP/Speech-Hacker Make a speaker say anything you want by splitting/concatenating bits, didn't try (i hate python, and there are a few steps to do..).
 - https://www.youtube.com/watch?v=pXCjzo-L_94 very interesting talk about web tracking, how it works (quickly)
@@ -7525,9 +5421,7 @@ This was a late meetup day :-)
 - https://github.com/facebookincubator/create-react-app/pull/816/files execSync("lsof -i:...") or execSync("ps -o...") yeah, very cross-env proof. No pure nodejs equivalent? :/
 - http://blog.higher-order.com/assets/trampolines.pdf At first, it's okay to understand, then it degrades slowly.
 - https://gist.github.com/chtefi/0cccae634ff7130425ab8ae87b24a709 Some notes I took
-
 # 21-11-2016
-
 - https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9 native apps because native apps are most costly
 - https://m.signalvnoise.com/if-you-ask-for-my-permission-you-wont-have-my-permission-9d8bb4f9c940 "don't ask, do". yes, but that could be a bit too bold.
 - https://engineering.creditkarma.com/data/solving-high-throughput-akka-streams/ just used akka streams instead of custom code :)
@@ -7540,9 +5434,7 @@ This was a late meetup day :-)
 - http://tsunanet.net/~tsuna/async/1.0/com/stumbleupon/async/Deferred.html For some reason, i don't really like this Deferred thing. Give me Future or Observables.
 - http://reactore.com/repository-patterngeneric-dao-implementation-in-scala-using-slick-3 Slick is not an ORM. But Slick is great to do repositories and queries in Scala. (note: you can generate the code from an existing db)
 - http://reactore.com/generic-rest-api-services-using-akka-http/ I love the approach. Defining repositories with Slick. Then generic rest over them (get, post:id etc.), then using akka streams and the reactive-streams spec (slick implements it), to publish db changes to websocket (akka-http). Gorgeous.
-
 # 20-11-2016
-
 - https://github.com/sylvainpolletvillard/postcss-grid-kiss Define your (grid) layout using ascii art, awesome
 - https://m.signalvnoise.com/status-meetings-are-the-scourge-39f49267ca90 standups are useless, replace them with async communication, and a cron to email ppl.
 - https://medium.com/@sinisalouc/variance-in-java-and-scala-63af925d21dc some revisions about covariance/contravariance
@@ -7556,9 +5448,7 @@ This was a late meetup day :-)
 - https://github.com/joewalnes/greendots missing up your github contributions and write nice message (thinking: HIRE ME ahah)
 - https://thehftguy.wordpress.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/ nginx (free) offers no metrics at all on the load balancing status. HAProxy has >70, parseable, and good integration in monitoring system (datadog).
 - https://medium.com/@cdn77/why-the-internet-is-broken-4962cdbbd664 internet is broken because of isps limiting streaming rate. He proposes a webrtc solution to share the streaming (same source) but from p2p and the cdn at the same time (to share the connection)
-
 # 19-11-2016
-
 - https://www.theguardian.com/science/2015/jul/23/john-horton-conway-the-most-charismatic-mathematician-in-the-world Conway seems like a nice guy! Love the date game aspect.
 - https://en.wikipedia.org/wiki/Monstrous_moonshine i don't understand any sentence in there. And no idea why it exists.
 - https://www.washingtonpost.com/news/monkey-cage/wp/2016/11/17/this-researcher-programmed-bots-to-fight-racism-on-twitter-it-worked/ Dude created bots to reply to racist tweets. "Tweets from white bots with 500 followers did not cause a significant change in these users’ behavior, but tweets from black bots with few followers actually caused an increase in the use of racist slurs."
@@ -7592,9 +5482,7 @@ This was a late meetup day :-)
 - http://blog.higher-order.com/blog/2013/11/01/free-and-yoneda/ Free Monads and Yoneda/CoYoneda. Trying, trying..
 - http://www.drmaciver.com/2008/03/existential-types-in-scala/ a bit deprecated, F[_] is working fine now. Except for this case where existential type is useful: var l : List[Class[T]] forSome{type T} = List(classOf[Int],classOf[String]) # ERROR! the subtype must be the same
 - https://www.implicitdef.com/2015/11/19/comparing-scala-http-client-libraries.html Play WS wins by its simplicity and good api. (the post focuses on how to make a http call easily)
-
 # 18-11-2016
-
 - https://github.com/pelotom/effectful write monadic code with anything, and without for comprehension (effectful being way less verbose)
 - https://www.visualstudio.com/vs/visual-studio-mac/ VS is a very good IDE, nice move!
 - http://arstechnica.com/information-technology/2016/11/spacex-plans-worldwide-satellite-internet-with-low-latency-gigabit-speed/ 4,425 satellites at 800 miles high (a normal sat is 10k high).
@@ -7609,9 +5497,7 @@ This was a late meetup day :-)
 - https://code2flow.com/ I... I love this thing ??? live generate a decision chart from some pseudo code (if, while, goto..) ULTRA useful to explain something to someone or ourself.
 - https://doorbell.io/ provide a feedback widget to put in your app. desktop and mobile. super top when you start. 9\$/month basic plan is cheap enough.
 - http://gmvault.org/index.html backuping my gmail? let's go! 100k emails. 10h of sync according to gmvault.
-
 # 17-11-2016
-
 - https://dev.to/naveen/how-to-write-an-object-oriented-program-that-doesnt-suck some good advices to do better object oriented programming. The point being one class == one responsability. That's mostly true but not always necessary.
 - https://medium.com/javascript-inside/an-introduction-into-lenses-in-javascript-e494948d1ea5 lenses in js is quite easy to do ourself (mostly), understand and use, thanks to the dynamic aspect of js. It's a very cool functional feature i never used.
 - https://cdn.logrocket.com/LogRocket.min.js send your redux state over the wire to replay then as you want
@@ -7623,9 +5509,7 @@ This was a late meetup day :-)
 - https://shift.newco.co/im-sorry-mr-zuckerberg-but-you-are-wrong-65dbf8513424 some says FB played a role in the election, because of its news (with sensational title as the web needs..)
 - https://hackernoon.com/an-ode-to-async-await-7da2dd3c2056 another async/await is better
 - https://github.com/scala/async Very cool, async/await à la JS or .NET in Scala
-
 # 16-11-2016
-
 - http://demos.algorithmia.com/colorize-photos/ Again, deep learning usage. Colorize a black and white photo, not bad AT ALL
 - https://github.com/gritzko/swarm stumbled upon that again. It seems to have evolve quite a bit :-) basically, a online/offline distributed in-sync reactive data storage for webapps (javascript) (think collaboration, offline work..) CRDT model
 - https://hstspreload.appspot.com/ the Chromium HSTS preload list where we can submit our website
@@ -7643,9 +5527,7 @@ This was a late meetup day :-)
 - https://github.com/davidkpiano/RxCSS RxJs and CSS --crappy-var :) nice anyway
 - https://worldchess.com/2016/11/12/world-championship-game-2-draw/ chess players are so damn good
 - http://thisdavej.com/creating-node-js-microservices-with-ease-using-stdlib/ this stdlib has nothing to do with the Great C stdlib. Here, it's a framework to deal with and host microservices with a registry. no mention of comm/dependencies between microservices, too bad.
-
 # 15-11-2016
-
 - https://github.com/leebyron/ecmascript-iterator-hof Adding a left-to-right Iterator wrapper for Arrays, Maps, Sets etc. to get HOF
 - https://stackoverflow.com/company/salary/calculator Wow, the salary at Stack Overflows are quite nice :D (even in France!). Talking about their "Developer Story" thing and Ads. Stack Overflow Enterprise.
 - https://databricks.com/blog/2016/11/14/setting-new-world-record-apache-spark.html another record for the "sort 100TB" using \$144.22. (cloud ofc). In 2013, 2100 hadoop nodes were needed, for 72min, woo! The new record used "only" 394 nodes for 50min, using Spark 2. And because its performance were largely enhanced (Thungsten, Catalyst, code gen), it is much more very efficient. http://sortbenchmark.org/NADSort2016.pdf the official report
@@ -7666,22 +5548,16 @@ This was a late meetup day :-)
 - http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html "The attacker just have to press and keep pressing the [Enter] key at the LUKS password prompt until a shell appears" 'nough said.
 - https://www.cockroachlabs.com/blog/cockroachdb-stability-from-1-node-to-100-nodes/ cockroachlabs being very transparent about the stability problems they had and how they fixed it. TLDR: never delay stability
 - http://timperrett.com/2014/07/20/scalaz-task-the-missing-documentation/ started to get a bit more of scalaz..
-
 # 1[1234]-11-2016
-
 Sometimes, you need a break and go on holidays. :airplane:
-
 # 10-11-2016
-
 - https://tech.zalando.com/blog/comparing-akka-streams-actors-and-plain-futures/ Akka Streams, Akka Streams! I definitely don't like infix notation here :/
 - http://blog.akka.io/integrations/2016/08/25/simple-sink-source-with-graphstage only a crazy cookie would use Java with Akka Streams. Custom impl of GraphStage, quite useful to know.
 - https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004 meh post talking about Vue with a jquery image.
 - https://code.facebook.com/posts/864213503715814/introducing-backpack-our-second-generation-modular-open-switch/ I'll just retain 100Gbit/s network impl. Not my domain.
 - http://blog.akka.io/streams/2016/07/30/mastering-graph-stage-part-1
 - http://blog.akka.io/streams/2016/07/06/threading-and-concurrency-in-akka-streams-explained
-
 # 09-11-2016
-
 - https://slackhq.com/some-of-the-ways-we-use-emoji-at-slack-a21be5030815 red/blue/green circle before a msg to indicate priority. I could definitely use that. nice visual cue
 - https://medium.freecodecamp.com/using-fetch-as-google-for-seo-experiments-with-react-driven-websites-914e0fc3ab1 yes google is a smart cookie and can interpret js (react here), but with react-router it fails!
 - https://medium.com/hillary-for-america/its-been-an-amazing-journey-here-s-what-i-ll-always-remember-b526f1b06429 Bye Hillary !
@@ -7691,9 +5567,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://github.com/dhamaniasad/HeadlessBrowsers Some many headless browsers! It's always useful to know some, always a email with generated chart images to send :D
 - http://blog.akka.io/streams/2016/07/06/threading-and-concurrency-in-akka-streams-explained Akka Streams is great
 - http://doc.akka.io/docs/akka/2.4/scala/stream/stream-composition.html I mean it's awesome
-
 # 08-11-2016
-
 - https://dev.to/isaacandsuch/developer-driven-development/ Nice story about how it's working in its company. Some nice things about sharing, working on anything, the bus problem, "code review" before coding.
 - https://www.youtube.com/watch?v=NYVjIjBMx6o troubles with the new mac book pro. a livestream by a well know dude. seems like a piece of shit unfortunately (look the video).
 - https://github.com/jxnblk/repng react component to png. using generate the static markup then use datauri (markup to https://github.com/sindresorhus/pageres that using phantomjs..!
@@ -7707,9 +5581,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://comments.network/ "<comment-box hackernews="11850599"></comment-box>" and boom, you have HN comments on your blog/page
 - http://www.bbc.com/news/technology-37908915 Hyperloop (700mph) between Duabai and Abu Dhabi incoming
 - https://datastudio.google.com/#/org//reporting/0B_U5RNpwhcE6ckdmZEJ0ZDJXUnM/page/VgD nice adwords (ctr, conversions, cpc, campaigns..) dashboard in datastudio, by Google.
-
 # 07-11-2016
-
 - https://github.com/faergeek/remove-medium-hash Remove the ugly hash medium.com auto-adds at the end of the url :) it messes up with the bookmarks otherwise
 - http://c2fo.io/c2fo/spark/aws/emr/2016/07/06/apache-spark-config-cheatsheet/ Spark excel (lol) cheatsheet to configure some props (cpu, mem, overhead..) according to a cluster typology
 - https://www.lightbend.com/platform/production i was looking for intel about conductr, google drop me here, but no _visible_ reference to conductr, BAD UX ;)
@@ -7723,9 +5595,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://github.com/byteclubfr/copycast a simple tool to connect browsers for them to see the updates someone is doing in one folder (uh)
 - https://ponyfoo.com/articles/making-time-for-side-projects Making Time for Side Projects: A Daily Habit. "Each and every morning, I do something to push my side projects forward". ok, no.
 - http://highscalability.com/blog/2016/11/7/the-quickbooks-platform.html Quickbooks has a really nice culture according to their list :)
-
 # 06-11-2016
-
 - https://en.wikipedia.org/wiki/Mariana_Trench deepest part of the oceans, -11km, 1000bars. James Cameron got there.
 - http://www.slideshare.net/heidiannhoward/flexible-paxos-reaching-agreement-without-majorities "Flexible Paxos: Reaching agreement without majorities" I don't get everything, consensus logic is kinda complicated
 - http://hal.upmc.fr/inria-00555588/document "A comprehensive study of Convergent and Commutative Replicated Data Types" CRDT. I'll read that later. (2011)
@@ -7745,9 +5615,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://github.com/LeadDyno/intercooler-js lean idea. we have `<a href="..">` why not post? `<button ic-post-to="/there">` with misc attrs to alter the payload.
 - https://facebook.github.io/react/contributing/codebase-overview.html Some nice notes about how react codebase is structured. Tried to read the implementation notes but eh, too specialized for me, i don't need to know.!
 - http://www.ibm.com/developerworks/java/library/j-jtp05236/index.html Great article about thread interruption in Java
-
 # 05-11-2016
-
 - https://webpack.js.org/ new website for webpack (original is https://webpack.github.io/)
 - https://www.ampproject.org/ AMP Project. Definitely something to use when developing a mobile (or not only mobile i guess) webapp. Rules and constraints to make the pages ultra fast.
 - https://www.youtube.com/watch?v=cfekj564rs0 How AMP achieves its speed - Google I/O 2016
@@ -7771,9 +5639,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://openjdk.java.net/jeps/260 "JEP 260: Encapsulate Most Internal APIs" except ultra used APIs such as sun.misc.Unsafe, sun.misc.Cleaner for nio direct buffers mem cleanup
 - https://building.coursera.org/blog/2014/02/18/why-we-love-scala-at-coursera/ Coursera is using Scala and Play Framework more and more
 - https://jaxenter.com/wp-content/uploads/2016/10/JAX-Magazine-5.16.pdf jaxmagazine, talking about reactive programming, scala, lagom, microservices, akka
-
 # 04-11-2016
-
 - https://github.com/flumedb/flumedb another flume. A DB based on Observables.
 - https://deepmind.com/blog/deepmind-and-blizzard-release-starcraft-ii-ai-research-environment/ Starcraft 2 as a deep learning playground, awesome future
 - http://tothestars.io/blog/2016/11/2/serverless-mapreduce i never used aws lambda, seems nice to scale a map-reduce (hence the "serverless" part) in python here. And a reference architecture "biglambda". https://github.com/awslabs/lambda-refarch-mapreduce
@@ -7786,9 +5652,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://meowni.ca/posts/web-fonts/ a reminder: import webfonts asynchronously to avoid FOUC/FOIC. Anyway, test your pages by simulating a 2G connection for instance. Reduce the TTFP (Painting).
 - https://sandstorm.io/news/2016-09-30-fiber-bomb-debugging-story TLDR: never monkey patch (especially Promises)
 - https://softwaremill.com/kafka-streams-how-does-it-fit-stream-landscape/ kafka streams? use it for kafka to kafka :) otherwise reactive-kafka (akka-streams), or if sql/ml/graph spark streaming or flink
-
 # 03-11-2016
-
 - https://www.confluent.io/blog/confluent-contributions-to-the-apache-kafka-client-ecosystem Kafka has a ton of client in a lots of language, not all of them are of the best quality. Confluent tries to base them on the best client: librdkafka in C
 - https://www.lightbend.com/blog/scala-2-12-released Scala 2.12! Scala 2.12! Moar java8 compabitility and optimization integrated in scalac (lambda bytecode)
 - https://techcrunch.com/2016/11/02/linkedin-plots-a-place-on-the-economic-graph-launches-salary-to-chart-what-we-earn/ that's going to be depressing? France is not even in the list for now.
@@ -7804,9 +5668,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://www.lottejackson.com/learning/supports-will-change-your-life @supports in css to avoid using Modernizr and js for css feature detection
 - http://www.cyberciti.biz/faq/linux-tcp-tuning/ Some network tuning with linux kernels. Will be useful, maybe one day.
 - https://www.infoq.com/presentations/akka-streams akka-streams by Viktor Klang
-
 # 02-11-2016
-
 - http://blog.bugreplay.com/post/152579164219/pornhubdodgesadblockersusingwebsockets as the title says: "pornhub dodges adblockers using websockets" extensions can't intercept websocket traffic (for now), so it sends the base64 of the image. But it seems adblockers found some tricks to block them anyway. (wrapping WebSocket api)
 - https://www.bugreplay.com/ Nice thing to save a browsing session (requests/responses, javascript, console) and share it for other ppl to replay and check what's going on
 - https://vimeo.com/189901272 Piper by Pixar. Beautiful 6:06.
@@ -7829,15 +5691,11 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://concept.research.microsoft.com/Home/Introduction impressive project by Microsoft. Associate appropriate concepts to words and sentences
 - https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1 for newcomers, tldr
 - https://journal.designinc.com/how-to-make-a-logo-for-free-in-about-5-minutes-a4f409176a8e Now I know how to make a logo in 5min B)
-
 # 01-11-2016
-
 - http://v8project.blogspot.fr/2016/10/webassembly-browser-preview.html webassembly on the road
 - http://webassembly.org/demo/ let's give a try (still the ooold demo)
 - out
-
 # 31-10-2016
-
 - https://medium.com/charged-tech/apple-just-told-the-world-it-has-no-idea-who-the-mac-is-for-722a2438389b A trending medium that shows Apple is lost.
 - http://mashable.com/2016/10/27/microsoft-better-apple Microsoft innovates more than Apple those days
 - https://uxplanet.org/pull-to-refresh-ui-pattern-42a85f671cdf pull-to-refresh ui pattern, when to use, when to not use
@@ -7851,9 +5709,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://blog.mgechev.com/2016/08/14/ahead-of-time-compilation-angular-offline-precompilation/ Angular 2's AOT. Basically html to js. :D
 - https://github.com/ReactiveX/RxJava/wiki/What's-different-in-2.0 Compliance to reactive-streams spec
 - https://github.com/akka/reactive-kafka/blob/master/OLD_README.md When you use a kafka 0.9 broker, you can't use akka-stream-kafka but need to use an old version when it was still under com.softwaremill.reactivekafka :(
-
 # 30-10-2016
-
 - http://blog.akka.io/integrations/2016/08/23/intro-alpakka Akka Streams is going Camel.
 - http://www.latimes.com/business/technology/la-fi-tn-soylent-recall-20161027-story.html The famous Soylent having trouble with some of its products.
 - http://blog.fosketts.net/2016/10/29/total-nightmare-usb-c-thunderbolt-3/ USB-C and Thunderbolt 3 complex issues about compabitility. Scary.
@@ -7875,9 +5731,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://medium.com/@kvnwbbr/diving-into-akka-streams-2770b3aeabb0 Nice intro to akka-streams
 - https://medium.com/reactive-programming/what-is-reactive-programming-bc9fa7f4a7fc Just remember: Responsive -> Resilient + Scalable -> Message Driven
 - https://medium.com/@kvnwbbr/a-journey-into-reactive-streams-5ee2a9cd7e29 Nice recap with some akka-streams example about Reactive Streams spec
-
 # 29-10-2016
-
 - https://vivatiffany.wordpress.com/2016/10/27/academia-love-me-back/ "This is not your word". All that because she used the word "hence" in her essay. I had no idea it was a "high-quality" word.
 - https://github.com/ptmt/react-native-touchbar it begins!
 - https://github.com/alexjc/neural-enhance impressive. do CSI picture enhancer. in real. thanks to neural network.
@@ -7888,9 +5742,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/ Flink: cluster based, KafkaStreams: microservice (standalone app)
 - https://groups.google.com/forum/m/#!topic/golang-dev/Ab1sFeoZg_8 Go is going to get &lt;100 microseconds worst-cases STW gc. Nothing more.
 - http://blog.akka.io/integrations/2016/08/23/intro-alpakka Akka Streams is going Camel.
-
 # 28-10-2016
-
 - https://icon.now.sh/ link to svgs icon (+1200!) with custom color, size, direction. Really cool. But.. SLA ?
 - https://github.com/blog/2273-incident-report-inadvertent-private-repository-disclosure "... error that resulted in a small number of Git requests retrieving data from the wrong repositories." WTF
 - https://zeit.co/blog/now-static "now" now determines if it publishes a static website (show the list of files using zeit list) or an app
@@ -7902,9 +5754,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://blog.devteam.space/new-macbook-pro-is-not-a-laptop-for-developers-anymore-d0d4b1b8b7de No escape, no more than 16GB. blah.
 - https://research.googleblog.com/2016/10/supercharging-style-transfer.html I find this totally crazy and awesome. A neural network that learned how to merge different pictures styles
 - https://github.com/systemjs/systemjs/blob/master/docs/module-formats.md esm, cjs, amd, global, System modules explained
-
 # 27-10-2016
-
 - http://www.bbc.com/news/technology-37788052 Bye bye Vine!
 - https://youtu.be/6m_E-mC0y3Y using lighthouse to measure page perf (differents metrics). Measure (performance.mark/measure, and look into the flame chart, "User Timing"), Profile (Chrome Debugger), Diagnose, Identify, Attempt.
 - https://docs.npmjs.com/getting-started/scoped-packages I never published scoped packages "@toto/core"
@@ -7917,9 +5767,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://blog.octo.com/analyse-predictive-en-temps-reel-machine-learning-avec-storm-et-scikit-learn/ Sometimes, going back to older system is interesting, here, Storm!
 - http://blog.octo.com/kafka-streams-encore-un-framework-de-stream-processing/ Some explanations how Kafka Streaming is working, with examples
 - https://www.indiehackers.com/businesses/instapainting interesting, and to bookmark! the story of a guy who did instapainting. how did he, what would he would have done differently etc.
-
 # 26-10-2016
-
 - https://cors.now.sh/ Public reverse-proxy to add CORS on any url (https://cors.now.sh/&lt;url&gt;)
 - https://www.microsoft.com/en-us/surface/devices/surface-studio/surface-studio this is some serious "PC" by Microsoft, for designers mostly. \$2,999 at least.
 - https://medium.freecodecamp.com/what-i-learned-from-reading-the-redux-source-code-836793a48768 Ultra basic. Basically, some tips to write better code.
@@ -7932,9 +5780,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://www.confluent.io/blog/unifying-stream-processing-and-interactive-queries-in-apache-kafka/ this is so great. kafka streams with querying logic. The example is a bit complex to handle. (https://github.com/confluentinc/examples/tree/master/kafka-streams/src/main/java/io/confluent/examples/streams/interactivequeries/kafkamusic) Using Jersey &lt;3
 - https://github.com/ogirardot/typesafe-kafka-streams Scala-like compatible KStreams &lt;3
 - https://www.lightbend.com/lagom Framework to simplify (a lot) the management and deployment of microservices (handle the persistence part, the links between then, and the async communication between them)
-
 # 25-10-2016
-
 - http://faehnri.ch/have-fun/ "main(){printf(&unix["\021%six\012\0"], (unix)["have"]+"fun"-0x60);}" output:"unix". "A lot to unpack from such little code, and plenty to learn."
 - https://www.bloomberg.com/news/articles/2016-10-25/twitter-said-to-plan-hundreds-more-job-cuts-as-soon-as-this-week That sucks.
 - https://zeit.co/blog/next hmm a bit like create-react-app (handle libs, nothing to set up), except you just write components, and you have way more features (hr, ssr, code splitting, css in js, add a new method "async getInitialProps({res})")
@@ -7944,9 +5790,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles come on, again
 - https://github.com/threepointone/glamor seems like an excellent css in js lib
 - https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking bigbro is in da place. https://myactivity.google.com/myactivity
-
 # 24-10-2016
-
 - http://spacedashboard.com/ This is what a live dashboard is. Btw: "people in space: 8".
 - https://www.theearthawaits.com/ 600 cities across the world. A budget. Different filters. Awesome beautiful website.
 - https://www.exploratorium.edu/blogs/tangents/we-got-phished-2 A nice story about being phished
@@ -7963,9 +5807,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://blog.imirhil.fr/2016/10/09/docker-container-hell.html Une critique des problèmes de sécurité induits par l'utilisation de Docker en production (firewall, log monitoring, updates de sécurité..)
 - https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices Poker advanced cheating devices, impressive
 - https://databricks.gitbooks.io/databricks-spark-reference-applications/content/index.html I had this bookmarked since ages. Beginner guide to Spark. In Java, erk.
-
 # 23-10-2016
-
 - http://unix.stackexchange.com/questions/113544/interpret-the-output-of-lstopo Nice answer about how interpret the lstopo output (create a drawing of the physical layout of the server)
 - http://www.brendangregg.com/linuxperf.html A tons of good stuff about the performance in Linux
 - http://beingindian.com/news/gurgaon-prisoner-techie/ a prisoner created a software in prison to help manage the prison. Woo.
@@ -7980,9 +5822,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://github.com/osrg/namazu Namazu is like a Chaos Monkey, more low level. "permutes Java function calls, Ethernet packets, Filesystem events, and injected faults in various orders" .. OK !
 - https://en.wikipedia.org/wiki/Spanner_(database) Spanner is Google's globally distributed NewSQL database. F1 is the DBMS on top.
 - https://en.wikipedia.org/wiki/NewSQL Relational data model and use SQL. But are scalable like NoSQL db, shared-nothing nodes, sharded. (and still (multi-tables) ACID, consistency, transactional, indexes, joins, what missed in NoSQL). Spanner is one. CockroachDB is another. NuoDB too. TiDB also it seems.
-
 # 22-10-2016
-
 - https://en.wikipedia.org/wiki/Verilog A hardware description language used to model electronic system. Converted to circuit! "... 'wire' consists of both signal values (4-state: "1, 0, floating, undefined") and signal strengths (strong, weak, etc.)"
 - https://krebsonsecurity.com/2016/10/hacked-cameras-dvrs-powered-todays-massive-internet-outage/ "... obscure, less user-friendly communications services called “Telnet” and “SSH.”" ahah! The malware "Mirai" source code has been released in september. Same that causes the DDDoS.
 - https://medium.com/@martinopietropoli/archillect-the-elegance-of-the-algorithm-f346f50c9ca0 I've been following Archillect for months, it's an amazing intelligence.
@@ -7994,9 +5834,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://support.opendns.com/hc/en-us/articles/227988627 Clean you DNS cache (ipconfig, dscacheutil, nscd, network-manager..)
 - http://distributedlog.incubator.apache.org/technical-review/2015/09/19/kafka-vs-distributedlog Kafka vS DistributedLog (incubating, from Twitter)
 - https://aphyr.com/posts/293-jepsen-kafka Jepsen test on Kafka 0.7.x Too bad it's too old! Now we can disable the unclean leader partition
-
 # 21-10-2016
-
 - https://backchannel.com/how-the-web-became-unreadable-a781ddc711b6 designers replaced black by gray for years. Some said we should go back to black to make things more readable.
 - https://open_nsfw.gitlab.io/ Testing the nsfw deep model Yahoo opens one month ago
 - https://github.com/nodejs/node/commit/d0edabecbf this is so bs. so many test and tricks just to test if 0<=n<=65535. Thanks Javascript and your dynamic types and your coercion.
@@ -8012,9 +5850,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://www.youtube.com/watch?v=_MAD4Oly9yg "Paul O Shannessy - Building React From Scratch" I didn't watched the whole thing. 20min to understand a tiny React framework, with already perf shortcuts inside, meh.
 - https://www.youtube.com/watch?v=SfWR3dKnFIo Very interesting simple js example to go from ugly imperative style to functional, with @drboolean
 - https://github.com/lukaszx0/queues.io "Job queues, message queues and other queues. Almost all of them in one place."
-
 # 20-10-2016
-
 - http://stackoverflow.com/questions/37528047/how-are-stages-split-into-tasks-in-spark Spark
 - https://databricks.com/blog/2015/06/22/understanding-your-spark-application-through-visualization.html Spark again, interesting to understand the UI
 - https://github.com/JohnLangford/vowpal_wabbit/blob/master/java/ vowpal has JNI wrappers
@@ -8029,9 +5865,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://motherboard.vice.com/read/how-hackers-broke-into-john-podesta-and-colin-powells-gmail-accounts High-level phising against some US politics
 - https://bitwarden.com/ store and sync passwords (free). Can't publish their extension on Firefox but Angular 1.x is ban, LOL
 - https://tech.polyconseil.fr/code-your-js-app-like-its-86.html
-
 # 19-10-2016
-
 - http://jsipsum.lunarlogic.io/ After lorem ipsum, bacon ipsum, cupcake ipsum, hipster ipsum, here is.. javascript ipsum! Nice touch
 - https://en.wikipedia.org/wiki/Undefined_behavior C is full of undefined behaviors! `int f(){}; int i = f(); // UB !` but it's in every compiler (the language spec does not define explicitely certain behavior that are unexpected)
 - http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html Chaos Monkey 2 release with less features than the previous one (CM2 just terminates instances now, before it could connect into host and play with the cpu, hdd, networks..), with a platform called Spinnaker.
@@ -8050,9 +5884,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://blog.oldgeekjobs.com/from-google-form-to-1000-in-revenue-in-one-month-3f5cd75b6089 what the hell, i'm not an old programmer, come on :-(
 - http://aseigneurin.github.io/2016/10/07/kafka-streams-scaling-up-or-down.html Demonstrate the consumer group auto-rebalancing of kafka when consumers are added/removed when using Kafka Streams. Nothing fancy but well written.
 - http://www.grpc.io/docs/guides/wire.html gRPC become popular for communication client/server. Use HTTP/2 + Protobuf.
-
 # 18-10-2016
-
 - http://maxwellito.github.io/vivus/ awesome js lib to live draw a svg when in viewport (for instance)
 - https://www.berriart.com/blog/2016/10/npm-yarn-benchmark/ yarn (javascript) is definitely faster to install crap
 - https://github.com/donnemartin/gitsome Tried on Windows, the commands are failing, too bad. Will try on OSX later.
@@ -8064,9 +5896,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://github.com/airbnb/kafkat kafkat! a easier CLI for kafka
 - https://scotthelme.co.uk/alexa-top-1-million-crawl-aug-2016/ God. so many security headers to handle nowadays..
 - https://github.com/chtefi/making-a-website I did that!
-
 # 17-10-2016
-
 - https://en.wikipedia.org/wiki/Backtesting "...testing a predictive model using existing historic data. Backtesting is a kind of retrodiction, and a special type of cross-validation applied to time series data."
 - https://docs.docker.com/swarm/discovery/ when you run some dockers here and there, and you want your external services to access to them, without hardcoding ip:port, you can use swarm, that uses zk/etcd/consul
 - https://gist.github.com/djspiewak/cb72c41ac335a3a9b28b3307be04aa43 "Getting Started in Scala". I learned about sbt-extras and ammonite :)
@@ -8081,9 +5911,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://jsonp.java.net/ Details of the JSR-353 Java API for JSON Processing
 - https://github.com/apache/camel/tree/master/examples Camel has a bunch of useful examples (not all camel components have an example)
 - https://en.wikipedia.org/wiki/White-box_testing Use white box testing to test infra, pipelines (not business)
-
 # 16-10-2016
-
 - http://gun.js.org/ A resilient decentralized realtime graph database for the web (nice landing page!)
 - https://github.com/attic-labs/noms A document graph git oriented database
 - http://www.datomic.com/ "The fully transactional, cloud-ready, distributed database." used by Netflix, Facebook, should be nice no? Ensure immutability, versioning, history.
@@ -8106,9 +5934,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://www.martinfowler.com/articles/injection.html An old post of Martin Fowler I've never read. IoC => Dependency Injection. An "assembler": the service that fulfill dependencies. 3 types of IoC: Interface Injection, Setter Injection, Constructor Injection. Another pattern is the Service Locator (basically, a class Registry (singleton or not) where you load or ask for an implementation). Both patterns can be mixed. With the Locator, every classes needs a reference to a Locator. With IoC, there is no such thing, it's completely invisible. XML sucks.
 - http://www.martinfowler.com/articles/mocksArentStubs.html Dummy: just used to fulfill params. Fake: A fully functional alternative, not suitable for prod (eg: an in-memory db). Stub: just some methods are set to return something. Mock: used to verify methods have been called (.expected.to.be.called.once), and can set the result.
 - https://www.youtube.com/watch?v=wgdBVIX9ifA Monolith: Simplicity, Consistency, Refactoring. Microservices: Partial Deployment, Availability, Preserve modularity, Multiple platform (languages) BUT need monitoring, CI/CD, devops culture
-
 # 15-10-2016
-
 - https://medium.com/@boennemann/avoid-yarn-for-packages-and-fully-enjoy-its-benefits-for-application-development-8bdd4deb33cf An example of why yarn can lead to unexpected behavior
 - https://medium.com/@boennemann/questions-i-wish-yarn-had-answered-on-day-1-ec0db7458107 questions questions. why should we use yarn, what are the trade-offs, why is that so different of npm?
 - https://www.briangilham.com/blog/2016/10/10/be-kind Short "novel" about being kind even when ppl messed up, to let the grow
@@ -8137,9 +5963,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://blog.archillect.com/archillect-faq-3b22342c352a What's behing this marvellous Archillect.
 - https://www.youtube.com/watch?v=wf-BqAjZb8M Best practices for beautiful intelligible code. Refactor the code instead of just reformating it. Focus on the content, not the style.
 - http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/ Kleislis definitely too complex for me right now
-
 # 14-10-2016
-
 - http://www.oracle.com/technetwork/articles/java/vmoptions-jsp-140102.html I was interesting by the -XX:+UseBiasedLocking option
 - https://www.youtube.com/watch?v=fyUVjE4aUK4 Very french. Avez vous déja vu? Un mec qui se plaint tout le temps ?
 - https://formidable.com/blog/2016/10/12/introducing-nodejs-dashboard/ A very basic monitoring system for node, meh
@@ -8148,9 +5972,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://www.atomist.com/ Atomist has opened! Handle project templates easily
 - https://shapeshed.com/thoughts-on-yarn/ Feedback on yarn, the js package manager, and why it has emerged (cause npm didn't "evolve" enough on the security and speed)
 - https://github.com/JohnLangford/vowpal_wabbit ML anyone?
-
 # 13-10-2016
-
 - https://www.npmjs.com/package/pify a successful package to encapsule nodejs callback style (err, res) into a Promise
 - http://highscalability.com/blog/2014/4/28/how-disqus-went-realtime-with-165k-messages-per-second-and-l.html Disqus architecture to handle the increasing load. Using Nginx Push Stream to push to customer, redis queue, python
 - http://www.gwan.com/blog/20160405.html "Google's "Director of Engineering" Hiring Test" "0x02, 0x12, 0x10" "wrong, it's SYN, SYN-ACK and ACK" -\_-
@@ -8162,9 +5984,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://learnrelay.org/ Seems to be _the_ link to bookmark for relay
 - http://www.jamesmonger.com/post/react-component-dependency-injection.htm Oohh, a Guice in Typescript, love it !!
 - https://medium.com/the-hoard/how-kafkas-storage-internals-work-3a29b02e026 Never thought of the "segments" in the partition, good to know
-
 # 12-10-2016
-
 - http://blog.ploeh.dk/2015/08/17/when-x-y-and-z-are-great-variable-names/ Tiny scope ? Tiny variable name. f, x, y.
 - http://techblog.netflix.com/2013/01/hadoop-platform-as-service-in-cloud.html Netflix is not using HDFS but S3 (more robust, flexible, elastic), and Amazon EMR (MapReduce). They created Genie (Hadoop Platform As A Service) that abstracts the cluster provisioning piece (to start a job), exposes a REST api
 - http://techblog.netflix.com/2013/06/genie-is-out-of-bottle.html More focused on Genie itself
@@ -8184,9 +6004,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://medium.com/the-smyte-blog/rate-limiter-df3408325846 Smyte is nice and use nice techs. They open-sourced their rate limiter. It's using (some standard it seems) a token bucket (starts at 10, then decrease on "bad" action, and increase slowly only refill[Time|Amount])
 - http://kamon.io/teamblog/2015/10/13/playing-with-streams-and-monitoring-docker/ Some akka-stream with Kamon to monitor Docker container stats
 - http://blog.michaelhamrah.com/2015/01/a-gentle-introduction-to-akka-streams/ Really gentle intro about akka streams
-
 # 11-10-2016
-
 - http://degoes.net/articles/insufficiently-polymorphic Abstract all the things. def foo[F[_]: Foldable, A, R: Semigroup](fa: F[A], ar: A => R, r: R): R
 - http://www.csharpstar.com/csharp7-pattern-matching/ Pattern Matching in C# 7.0. Not nicer than Scala's but it's getting there!
 - http://loicdescotte.github.io/posts/play25-akka-streams/ How Play integrates with Akka Streams. Will reread that when i'll be more mature with Akka Streams.
@@ -8201,16 +6019,12 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/ OK
 - http://thereignn.ghost.io/in-the-defense-of-fatigue-and-how-to-overcome-it/ meh. There is no fatigue. Just learning and filtering stuff.
 - https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4 A nice little "compiler" to write svgs
-
 # 10-10-2016
-
 - https://www.playframework.com/documentation/2.5.x/JavaBodyParsers You know, working.
 - http://www.reactive-streams.org/ A "spec" à la reactive manifesto defining _asynchronous_ stream processing with _non-blocking_ _back pressure_. Always good to reread. Some simple interfaces in org.reactivestreams package
 - https://github.com/reactive-streams/reactive-streams-jvm The repo. More detailed.
 - https://github.com/puffnfresh/bilby.js An interesting very functional js lib. But fantasyLand is the next.
-
 # 09-10-2016
-
 - https://github.com/jiahaog/nativefier Convert any website into an Electron App. Wonderful.
 - https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e How to code "pretty" with React. Nothing new. Stateless comps, fat arrows and ES6 in general.
 - https://medium.com/@zackbloom/how-planes-fly-into-hurricanes-380653acc6ba Those crazy dudes, inside Hurricane Matthew
@@ -8226,9 +6040,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - http://tutorials.jenkov.com/java-util-concurrent Java ConcurrentHashMap, ArrayBlockingQueue, SynchronousQueue (1 element), CountDownLatch(N), CyclicBarrier (a count down latch but unlocked by several distinct threads), Exchanger, Semaphore(N), ExecutorServices, FJP (fork a task, then join (merge)), Locks, Atomic\* (using CAS)
 - https://blog.heroku.com/fixing-kafka-memory-leak A memory leak in Kafka. They used JMX java.lang:type=Memory and sysdig. Leak was not on heap nor off heap, it was due to an non-closed Stream linked by a native C lib, zlib (hence not handled by Java at all).
 - https://www.youtube.com/watch?v=oTugjssqOT0 Randy Pausch Lecture: Time Management. Learn to say No. Don't do every todo you've written down. Organize by importance. Do importants and hard tasks first. Reduce interruptions (emails, im, phone..). Batch things. Delegate. Thanks people.
-
 # 08-10-2016
-
 - http://blog.dlib.net/2016/10/hipsterize-your-dog-with-deep-learning.html deep learning to add glasses and mustache to dog pictures xD
 - http://cen.acs.org/articles/94/web/2016/10/Silkworms-eat-carbon-nanotubes-graphene.html let silkworms eat carbon and titanium to make very resistant silk. uh
 - https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html graph based "semi-supervised" ML. train labeled+unlabeled data at the same time (it's hard to have a huge quality labeled dataset for each domain). Multiple data types input (images, text..). Propagate labels using node weight and links, and multi-hops.
@@ -8246,9 +6058,7 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://www.citusdata.com/blog/2016/09/09/pgcron-run-periodic-jobs-in-postgres/ cron in postgres: `SELECT cron.schedule('0 10 * * *', 'VACUUM');`
 - https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md A handsome general security checklist to bookmark and print
 - https://github.com/chenglou/intro-to-reason-compilation/ Some steps to explain how Reason by Facebook compiles. It's basically a OCaml preprocessor, handling Reason AND Javascript dependencies. Then using BuckleScript to compile ocaml --> js.
-
 # 07-10-2016
-
 - https://digest.bps.org.uk/2016/10/07/brain-training-exercises-just-make-you-better-at-brain-training-exercises/ Brain training exercises are useless, they do not "extend" to the general performance
 - https://fr.wikipedia.org/wiki/Propri%C3%A9t%C3%A9s_ACID : A quick reminder of the details!
 - https://www.infoq.com/articles/Isolation-Levels : careful of the isolation level you're using (can cause dirty/double/phantom reads) + succinct presentation of the isolation levels in mysql/postgresql/sqlserver/oracle/db2/mongodb/couchdb/couchbase/cassandra (MyISAM no transaction (full table lock), mongodb no transaction (only single doc atomic, dirty reads), couchdb no -transaction but MVCC (multiversion concurrency control), cassandra: only read uncommitted max
@@ -8262,5 +6072,4 @@ Sometimes, you need a break and go on holidays. :airplane:
 - https://rainsoft.io/what-every-javascript-developer-should-know-about-unicode/ : Unicode 9: 128172 characters, Domain: Codepoint, Planes, Code unit, Character name, Astract Symbol, Surrogate Pairs, Encoding, Graphème, Symbol, Glyph, Combining Mark. In JS: .length = nb of code units (surrogate pairs = 2cu, so it's just wrong), "\u0020" in JS. For astral (>0xFFFF) use surrogate pairs = 2 code points (\u\*2) or \u{12345} in ES6. String normalization (because multiple way to represent a same symbol, need a canonical form). JS: str.normalize(). [...str] or Array.from(str) (@@iterator) has the good length (deal with unicode and surrogates) (str.length = 5 but [...str].length = 4). str.codePointAt(index). String.fromCodePoint(cp). If used in regexes, use /.../u otherwise it sucks and fails.
 - http://tudorzgureanu.com/demystifying-akka-extensions/ HOW TO do an Akka extension (autoloaded at startup). Nice and clean, using some Kafka config here.
 - https://github.com/cakesolutions/scala-kafka-client Scala implementation of Kafka Client API + Akka module if needed
-
 Hello! This is the beginning of the history.
