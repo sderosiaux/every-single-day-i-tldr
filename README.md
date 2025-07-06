@@ -3,6 +3,9 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 06-07-2025
+- https://debezium.io/blog/2025/06/13/openlineage-integration/ Native data lineage in Debezium with OpenLineage
+> Data lineage is the process of tracking the flow and transformations of data from its origin to its final destination.
 # 05-07-2025
 - https://www.mckinsey.com/capabilities/quantumblack/our-insights/seizing-the-agentic-ai-advantage GenAI paradox: exploring AI use cases | McKinsey
 > Data accessibility and quality gaps. These gaps tend to exist for both structured and unstructured data, with unstructured material remaining largely ungoverned in most organizations.
