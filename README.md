@@ -5,6 +5,7 @@ I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data 
 ߚࠈappy reading!
 # 06-07-2025
 - https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation Apache Flink Journey @Zomato: From Inception to Innovation
+ https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation Apache Flink Journey @Zomato: From Inception to Innovation
  https://debezium.io/blog/2025/06/13/openlineage-integration/ Native data lineage in Debezium with OpenLineage
 > Data lineage is the process of tracking the flow and transformations of data from its origin to its final destination.
 # 05-07-2025
