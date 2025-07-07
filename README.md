@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 07-07-2025
+- https://github.com/bjaggi/acl-to-cc-rbac-utility Tool to migrate MSK stuff (topics, schemas, acls etc.) to Confluent Cloud
 # 06-07-2025
 - https://sderosiaux.medium.com/you-dont-need-a-data-owner-until-you-do-363ff250aa4b You Don’t Need a Data Owner. Until You Do.
 - https://blog.zomato.com/apache-flink-journey-zomato-from-inception-to-innovation Apache Flink Journey @Zomato: From Inception to Innovation
