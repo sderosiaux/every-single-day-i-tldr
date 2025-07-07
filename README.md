@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 07-07-2025
+- https://www.youtube.com/watch?v=5QcCeSsNRks François Chollet: How We Get To AGI
 - https://seattledataguy.substack.com/p/speed-without-understanding-one-of Speed Without Understanding - One of the Biggest Risks in Data Engineering
 - https://www.infoq.com/news/2025/06/linkedin-northguard-xinfra LinkedIn Announces Northguard and Xinfra: Scaling beyond Kafka for Log Storage and Pub/Sub
 - https://github.com/bjaggi/acl-to-cc-rbac-utility Tool to migrate MSK stuff (topics, schemas, acls etc.) to Confluent Cloud
