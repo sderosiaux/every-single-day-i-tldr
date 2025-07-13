@@ -4,6 +4,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 13-07-2025
+- https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference Consciousness is not a thing, but a process of inference
+> an agent or a self: something that engages in proactive, purposeful inference about its own future, based on a thick model of time.
 - https://substack.gauravvohra.com/p/search-is-dead-long-live-llms-winning-in-the-era-of-llms-ai-overviews-and-geo SEO Is Dead. Long Live GEO
 # 07-07-2025
 - https://www.youtube.com/watch?v=5QcCeSsNRks François Chollet: How We Get To AGI
