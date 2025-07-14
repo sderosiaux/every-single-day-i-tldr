@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 14-07-2025
+- https://thenewstack.io/ebpf-has-a-bright-future-in-infrastructure-development/ eBPF Has a Bright Future in Infrastructure Development
 # 13-07-2025
 - https://aeon.co/essays/consciousness-is-not-a-thing-but-a-process-of-inference Consciousness is not a thing, but a process of inference
 > an agent or a self: something that engages in proactive, purposeful inference about its own future, based on a thick model of time.
