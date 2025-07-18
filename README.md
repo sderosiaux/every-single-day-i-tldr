@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 18-07-2025
+- https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/ My Experience With Claude Code After 2 Weeks of Adventures
 # 14-07-2025
 - https://thenewstack.io/ebpf-has-a-bright-future-in-infrastructure-development/ eBPF Has a Bright Future in Infrastructure Development
 # 13-07-2025
