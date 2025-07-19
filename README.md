@@ -3,6 +3,9 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 19-07-2025
+- https://nigeltao.github.io/blog/2020/jsonptr.html Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder
+> hermetic
 # 18-07-2025
 - https://newsletter.pragmaticengineer.com/p/the-pulse-140 The Pulse #140: Does Cursor make developers less effective?
 - https://sankalp.bearblog.dev/my-claude-code-experience-after-2-weeks-of-usage/ My Experience With Claude Code After 2 Weeks of Adventures
