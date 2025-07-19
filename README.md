@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 19-07-2025
+- https://x.com/alexwei_/status/1946477742855532918 I’m excited to share that our latest @OpenAI experimental reasoning LLM has achieved a longstanding grand challenge in AI: gold medal-level performance on the world’s most prestigious math competition—the International Math Olympiad (IMO)
 - https://nigeltao.github.io/blog/2020/jsonptr.html Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder
 > hermetic
 # 18-07-2025
