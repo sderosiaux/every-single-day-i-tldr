@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 20-07-2025
+- https://sootyempiric.blogspot.com/2025/07/comparisons-between-life-in-uk-and-usa.html Comparisons Between Life in the UK and the USA
 # 19-07-2025
 - https://x.com/alexwei_/status/1946477742855532918 I’m excited to share that our latest @OpenAI experimental reasoning LLM has achieved a longstanding grand challenge in AI: gold medal-level performance on the world’s most prestigious math competition—the International Math Olympiad (IMO)
 - https://nigeltao.github.io/blog/2020/jsonptr.html Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder
