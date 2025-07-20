@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 20-07-2025
+- https://www.youtube.com/watch?v=WWoyWNhx2XU Anthropic co\-founder: AGI predictions, leaving OpenAI, what keeps him up at night
 - https://isovalent.com/blog/post/cilium-netkit-a-new-container-networking-paradigm-for-the-ai-era/ Cilium netkit: The Final Frontier in Container Networking Performance
 - https://www.youtube.com/watch?v=5QcCeSsNRks François Chollet: How We Get To AGI
 - https://medium.com/@lucascarrasquillaparra/chat-with-your-documents-tool-rag-vector-dbs-cosine-sim-claude-api-implementation-2312cf14c67a RAG \(vector DBs \+ cosine sim\.\) & Claude API implementation
