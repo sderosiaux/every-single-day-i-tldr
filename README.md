@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 20-07-2025
+- https://medium.com/@lucascarrasquillaparra/chat-with-your-documents-tool-rag-vector-dbs-cosine-sim-claude-api-implementation-2312cf14c67a RAG \(vector DBs \+ cosine sim\.\) & Claude API implementation
 - https://github.com/qdhenry/Claude-Command-Suite/tree/main commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis\.
 - https://sootyempiric.blogspot.com/2025/07/comparisons-between-life-in-uk-and-usa.html Comparisons Between Life in the UK and the USA
 # 19-07-2025
