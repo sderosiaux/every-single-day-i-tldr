@@ -3,6 +3,9 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 29-07-2025
+- https://engineering.fb.com/2025/07/23/security/policy-zones-meta-purpose-limitation-batch-processing-systems/ Policy Zones: How Meta enforces purpose limitation at scale in batch processing systems \- Engineering at Meta
+> The restrictions on downstream data must be equal to or more restrictive than those of the upstream source from which the data originates
 # 27-07-2025
 - https://intelligence.org/the-problem/ The Problem
 > Mitigating the risk of extinction from AI should be a global priority alongside other societal\-scale risks such as pandemics and nuclear war\.
