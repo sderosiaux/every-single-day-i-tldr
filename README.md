@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 03-08-2025
+- https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ 6 Weeks of Claude Code
 # 29-07-2025
 - https://medium.com/@community_md101/what-is-a-data-marketplace-and-why-your-organisation-needs-it-today-60f06c12be53 What is a Data Marketplace
 - https://engineering.fb.com/2025/07/23/security/policy-zones-meta-purpose-limitation-batch-processing-systems/ Policy Zones: How Meta enforces purpose limitation at scale in batch processing systems \- Engineering at Meta
