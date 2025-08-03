@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 03-08-2025
+- https://kashw1n.com/blog/nodejs-2025/ Modern Node\.js Patterns for 2025
 - https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ 6 Weeks of Claude Code
 # 29-07-2025
 - https://medium.com/@community_md101/what-is-a-data-marketplace-and-why-your-organisation-needs-it-today-60f06c12be53 What is a Data Marketplace
