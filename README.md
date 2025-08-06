@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 06-08-2025
+- https://sderosiaux.github.io/vc-story/ It's Not 2021 Anymore | The Real Story of VC\-Backed Startups
 # 03-08-2025
 - https://kashw1n.com/blog/nodejs-2025/ Modern Node\.js Patterns for 2025
 - https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/ 6 Weeks of Claude Code
