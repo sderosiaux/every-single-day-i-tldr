@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 23-08-2025
+- https://rmoff.net/2025/08/18/kafka-to-iceberg-exploring-the-options/ Kafka to Iceberg \- Exploring the Options
 - https://medium.com/@oscarpulido55/iceberg-ahead-navigating-the-three-flavors-of-iceberg-on-bigquery-e004eec18d5c Navigating the Three Flavors of Iceberg on BigQuery
 - https://www.chkk.io/ Chkk Upgrade Copilot for Open Source
 > Agentic Upgrades for Open Source Software
