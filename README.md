@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 24-08-2025
+- https://github.com/SudhenduP/kafka-mcp-integration Simple example of an MCP server with Kafka
 - https://medium.com/@joe.njenga/use-claude-code-hooks-newest-feature-to-fully-automate-your-workflow-341b9400cfbe How I’m Using Claude Code Hooks To Fully Automate My Workflow
 # 23-08-2025
 - https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/ How We Exploited CodeRabbit: From a Simple PR to RCE and Write Access on 1M Repositories
