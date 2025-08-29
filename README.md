@@ -3,6 +3,9 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 29-08-2025
+- https://www.datadoghq.com/blog/cloud-cost-management-saved-millions/ How we saved $1\.5 million per year with Cloud Cost Management | Datadog
+> Solution was to minimize non\-current versions in S3 buckets
 # 24-08-2025
 - https://github.com/SudhenduP/kafka-mcp-integration Simple example of an MCP server with Kafka
 - https://medium.com/@joe.njenga/use-claude-code-hooks-newest-feature-to-fully-automate-your-workflow-341b9400cfbe How I’m Using Claude Code Hooks To Fully Automate My Workflow
