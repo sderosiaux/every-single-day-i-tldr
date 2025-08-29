@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 29-08-2025
+- https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/ Do the simplest thing that could possibly work
 - https://blog.dataengineerthings.org/why-we-didnt-rewrite-debezium-in-rust-66c35ae9dce8 Why We Didn’t Rewrite Debezium in Rust
 > we chose to build on top of the Debezium Embedded Engine and perform deep customizations\.
 - https://www.datadoghq.com/blog/cloud-cost-management-saved-millions/ How we saved $1\.5 million per year with Cloud Cost Management | Datadog
