@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 31-08-2025
+- https://steipete.me/posts/2025/optimal-ai-development-workflow My Current AI Dev Workflow \- Very similar to mine, love it\!
 # 30-08-2025
 - https://levelup.gitconnected.com/what-i-learned-from-anthropic-teams-claude-code-practice-d3ddfa1d051e How Anthropic raised their level using Claude Code themselves
 - https://archive.is/HowHM Andrew Ng: Product Management Is Now the Bottleneck in Startups
