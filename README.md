@@ -4,6 +4,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 30-08-2025
+- https://archive.is/HowHM Andrew Ng: Product Management Is Now the Bottleneck in Startups
+> the real bottleneck in AI startups isn't coding — it's product management
 - https://github.com/apple/container apple/container: A tool for creating and running Linux containers using lightweight virtual machines on a Mac\. It is written in Swift, and optimized for Apple silicon\.
 # 29-08-2025
 - https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/#throttling-under-heavy-load?utm_source=tldrdata Evolving our real\-time timeseries storage again: Built in Rust for performance at scale
