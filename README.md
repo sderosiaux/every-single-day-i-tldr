@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 31-08-2025
+- https://grafana.com/blog/2025/08/22/how-to-monitor-your-homelab-with-beyla-ebpf-and-opentelemetry/ How to monitor with Beyla, eBPF, and OpenTelemetry
 - https://steipete.me/posts/2025/optimal-ai-development-workflow My Current AI Dev Workflow \- Very similar to mine, love it\!
 # 30-08-2025
 - https://levelup.gitconnected.com/what-i-learned-from-anthropic-teams-claude-code-practice-d3ddfa1d051e How Anthropic raised their level using Claude Code themselves
