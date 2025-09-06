@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 06-09-2025
+- https://www.pagerduty.com/eng/august-28-kafka-outages-what-happened-and-how-were-improving/ August 28 Kafka Outages – What Happened and How We’re Improving
 # 31-08-2025
 - https://arxiv.org/pdf/2410.06351 Moving Faster and Reducing Risk: Using LLMs in Release Deployment
 - https://grafana.com/blog/2025/08/22/how-to-monitor-your-homelab-with-beyla-ebpf-and-opentelemetry/ How to monitor with Beyla, eBPF, and OpenTelemetry
