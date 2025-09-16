@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 16-09-2025
+- https://andrewchen.substack.com/p/ai-will-change-how-we-build-startups AI will change how we build startups \-\- but how?
 # 09-09-2025
 - https://dataengineeringcentral.substack.com/p/medallion-architecture-truth-or-fiction Medallion Architecture\. Truth or Fiction?
 # 07-09-2025
