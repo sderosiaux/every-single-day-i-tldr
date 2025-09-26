@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 26-09-2025
+- https://blog.cloudflare.com/cloudflare-data-platform/ Announcing the Cloudflare Data Platform: ingest, store, and query your data directly on Cloudflare
 # 23-09-2025
 - https://github.com/MagicBeansAI/magictunnel Smart MCP Proxy \- One intelligent tool that discovers the right tool for any request\.
 # 16-09-2025
