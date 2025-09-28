@@ -3,6 +3,9 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 28-09-2025
+- https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2025 AI, ML, and Data Engineering InfoQ Trends Report 2025 \- InfoQ
+> Transcript Introductions \[00:30\] Srini Penchikala: Hello everyone\. Welcome to the 2025 AI and ML Trends Report podcast\. Greetings from the InfoQ, AI/ML and data engineering team\. Today we also have a special guest for this year's trends report discussion\. This podcast is part of our annual report to
 # 26-09-2025
 - https://blog.cloudflare.com/cloudflare-data-platform/ Announcing the Cloudflare Data Platform: ingest, store, and query your data directly on Cloudflare
 # 23-09-2025
