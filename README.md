@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 17-10-2025
+- https://simonwillison.net/2025/Oct/16/claude-skills/ Claude Skills are awesome, maybe a bigger deal than MCP
 # 16-10-2025
 - https://www.youtube.com/watch?v=dthbi4lzO58 AI Could Wipe Out the Working Class | Sen\. Bernie Sanders
 # 02-10-2025
