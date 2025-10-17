@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 17-10-2025
+- https://www.dataengineeringweekly.com/p/revisiting-medallion-architecture-760 Revisiting Medallion Architecture: Data Vault in Silver, Dimensional Modeling in Gold
 - https://medium.com/fresha-data-engineering/the-good-the-bad-and-the-automq-5aa7a8748e71 The Good, The Bad and The AutoMQ\. Slack’s KIP\-1176, Aiven’s Diskless 2\.0
 - https://simonwillison.net/2025/Oct/16/claude-skills/ Claude Skills are awesome, maybe a bigger deal than MCP
 # 16-10-2025
