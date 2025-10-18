@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 18-10-2025
+- https://www.wheresyoured.at/openai400bn/ OpenAI Needs $400 Billion In The Next 12 Months
 # 17-10-2025
 - https://jack-vanlightly.com/blog/2025/10/15/why-im-not-a-fan-of-zero-copy-apache-kafka-apache-iceberg Why I’m not a fan of zero\-copy Apache Kafka\-Apache Iceberg
 - https://www.dataengineeringweekly.com/p/revisiting-medallion-architecture-760 Revisiting Medallion Architecture: Data Vault in Silver, Dimensional Modeling in Gold
