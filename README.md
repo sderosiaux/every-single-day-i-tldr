@@ -3,6 +3,9 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 19-10-2025
+- https://mariozechner.at/posts/2025-08-15-mcp-vs-cli/ MCP vs CLI: Benchmarking Tools for Coding Agents
+> just make a good CLI\. It's simpler and more portable\. Plus, the output of your CLI can be further filtered and massaged just by piping it into another CLI tool, which can increase token efficiency at the cost of additional instructions\. That's not possible with MCPs\.
 # 18-10-2025
 - https://www.wheresyoured.at/openai400bn/ OpenAI Needs $400 Billion In The Next 12 Months
 # 17-10-2025
