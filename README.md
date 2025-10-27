@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 27-10-2025
+- https://www.onehouse.ai/blog/kafka-connect-vs-flink-vs-spark-choosing-the-right-ingestion-framework Apache Kafka \(Kafka Connect\) vs\. Apache Flink vs\. Apache Spark: Choosing the Right Ingestion Framework
 # 21-10-2025
 - https://thenewstack.io/apache-kafka-4-1-the-3-big-things-developers-need-to-know/ Apache Kafka 4\.1: The 3 Big Things Developers Need To Know
 # 19-10-2025
