@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 27-10-2025
+- https://flink.apache.org/2025/10/15/apache-flink-agents-0.1.0-release-announcement/ Apache Flink has a new exciting sub\-projects: Agents 0\.1\.0, for even\-driven AI agents\!
 - https://github.com/johannschopplich/toon Token\-Optimized Object Notation, JSON for LLMs at half the token cost
 - https://github.com/cisco-ai-defense/mcp-scanner Scan MCP Servers for vulnerabilities
 - https://www.onehouse.ai/blog/kafka-connect-vs-flink-vs-spark-choosing-the-right-ingestion-framework Apache Kafka \(Kafka Connect\) vs\. Apache Flink vs\. Apache Spark: Choosing the Right Ingestion Framework
