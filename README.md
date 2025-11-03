@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 03-11-2025
+- https://bigdata.2minutestreaming.com/p/event-streaming-is-topping-out Event Streaming is Topping Out
 # 02-11-2025
 - https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/ Reproducing the AWS Outage Race Condition with a Model Checker
 - https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/ "You Don't Need Kafka, Just Use Postgres" Considered Harmful
