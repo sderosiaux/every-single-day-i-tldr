@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 02-11-2025
+- https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/ "You Don't Need Kafka, Just Use Postgres" Considered Harmful
 # 27-10-2025
 - https://flink.apache.org/2025/10/15/apache-flink-agents-0.1.0-release-announcement/ Apache Flink has a new exciting sub\-projects: Agents 0\.1\.0, for even\-driven AI agents\!
 - https://github.com/johannschopplich/toon Token\-Optimized Object Notation, JSON for LLMs at half the token cost
