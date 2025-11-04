@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 03-11-2025
+- https://medium.com/fresha-data-engineering/from-json-to-avro-in-the-cdc-pipeline-ff24ac9c9abc From JSON to AVRO in the CDC pipeline
 - https://bigdata.2minutestreaming.com/p/event-streaming-is-topping-out Event Streaming is Topping Out
 # 02-11-2025
 - https://wyounas.github.io/aws/concurrency/2025/10/30/reproducing-the-aws-outage-race-condition-with-model-checker/ Reproducing the AWS Outage Race Condition with a Model Checker
