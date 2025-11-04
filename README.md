@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 03-11-2025
+- https://blog.sshh.io/p/how-i-use-every-claude-code-feature How I Use Every Claude Code Feature
 - https://medium.com/fresha-data-engineering/from-json-to-avro-in-the-cdc-pipeline-ff24ac9c9abc From JSON to AVRO in the CDC pipeline
 - https://bigdata.2minutestreaming.com/p/event-streaming-is-topping-out Event Streaming is Topping Out
 # 02-11-2025
