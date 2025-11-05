@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 04-11-2025
+- https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-fis-actions-api-errors/ Amazon Kinesis Data Streams announces new Fault Injection Service \(FIS\) actions for API errors
 - https://alex-jacobs.com/posts/the-case-against-pgvector/ The Case Against pgvector
 # 03-11-2025
 - https://blog.sshh.io/p/how-i-use-every-claude-code-feature How I Use Every Claude Code Feature
