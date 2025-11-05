@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 04-11-2025
+- https://alex-jacobs.com/posts/the-case-against-pgvector/ The Case Against pgvector
 # 03-11-2025
 - https://blog.sshh.io/p/how-i-use-every-claude-code-feature How I Use Every Claude Code Feature
 - https://medium.com/fresha-data-engineering/from-json-to-avro-in-the-cdc-pipeline-ff24ac9c9abc From JSON to AVRO in the CDC pipeline
