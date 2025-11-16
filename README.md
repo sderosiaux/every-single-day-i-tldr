@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 16-11-2025
+- https://startupsandcode.substack.com/p/the-gpu-depreciation-lie The GPU Depreciation Lie
 # 08-11-2025
 - https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/ Everything You Know About Latency Is Wrong – Brave New Geek
 > Everything You Know About Latency Is Wrong Okay, maybe not everything you know about latency is wrong\. But now that I have your attention, we can talk about why the tools and methodologies you use to measure and reason about latency are likely horribly flawed\. In fact, they’re not just flawed, they’
