@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 18-11-2025
+- https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai The State of AI: Global Survey 2025 | McKinsey
 # 16-11-2025
 - https://djnn.sh/posts/anthropic-s-paper-smells-like-bullshit/ anthropic's paper smells like bullshit
 - https://startupsandcode.substack.com/p/the-gpu-depreciation-lie The GPU Depreciation Lie
