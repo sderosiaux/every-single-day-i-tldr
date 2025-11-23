@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 23-11-2025
+- https://jack-vanlightly.com/blog/2025/11/5/how-would-you-like-your-iceberg-sir-stream-or-batch-ordered How Would You Like Your Iceberg Sir? Stream or Batch Ordered?
 # 22-11-2025
 - https://blog.modelcontextprotocol.io/posts/2025-11-21-mcp-apps/ MCP Apps: Extending servers with interactive user interfaces
 # 19-11-2025
