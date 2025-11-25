@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 25-11-2025
+- https://www.anthropic.com/engineering/advanced-tool-use Introducing advanced tool use on the Claude Developer Platform \\ Anthropic
 - https://www.promptarmor.com/resources/google-antigravity-exfiltrates-data Google Antigravity Exfiltrates Data
 # 23-11-2025
 - https://jack-vanlightly.com/blog/2025/11/5/how-would-you-like-your-iceberg-sir-stream-or-batch-ordered How Would You Like Your Iceberg Sir? Stream or Batch Ordered?
