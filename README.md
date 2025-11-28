@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 27-11-2025
+- https://www.gartner.com/document-reader/document/7077298 How to Select the Right Data Hub Strategy
 - https://www.youtube.com/watch?v=Kr3Sh2PKA8Y Google DeepMind CEO Demis Hassabis on AI, Creativity, and a Golden Age of Science
 - https://www.youtube.com/watch?v=GT0jtVjRy2E How we restructured Airtable's entire org for AI
 # 26-11-2025
