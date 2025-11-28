@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 27-11-2025
+- https://www.youtube.com/watch?v=GT0jtVjRy2E How we restructured Airtable's entire org for AI
 # 26-11-2025
 - https://www.abzglobal.net/web-development-blog/ilya-sutskever-yann-lecun-and-the-end-of-just-add-gpus Ilya Sutskever, Yann LeCun and the End of “Just Add GPUs”
 # 25-11-2025
