@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 30-11-2025
+- https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/ Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human
 - https://www.humanlayer.dev/blog/writing-a-good-claude-md Writing a good CLAUDE\.md
 - https://blog.yakkomajuri.com/blog/local-rag So you wanna build a local RAG?
 # 29-11-2025
