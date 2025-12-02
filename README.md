@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 01-12-2025
+- https://www.instantdb.com/essays/agents_building_counterstrike Codex, Opus, Gemini try to build Counter Strike
 # 30-11-2025
 - https://www.404media.co/grokipedia-is-the-antithesis-of-everything-that-makes-wikipedia-good-useful-and-human/ Grokipedia Is the Antithesis of Everything That Makes Wikipedia Good, Useful, and Human
 - https://www.humanlayer.dev/blog/writing-a-good-claude-md Writing a good CLAUDE\.md
