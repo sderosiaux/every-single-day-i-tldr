@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 08-12-2025
+- https://martinalderson.com/posts/has-the-cost-of-software-just-dropped-90-percent/ 100%
 # 06-12-2025
 - https://medium.com/@kakamber07/how-i-made-postgres-fly-on-2-cores-and-4gb-ram-1-2-billion-rows-in-0-7-seconds-1a0e01c49571 Make Postgres Fly: 1\.2B Rows on 2 Cores & 4GB RAM
 # 01-12-2025
