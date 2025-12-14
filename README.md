@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 14-12-2025
+- https://newsletter.pragmaticengineer.com/p/evals A pragmatic guide to LLM evals for devs
 - https://www.youtube.com/watch?v=z1ISq9Ty4Cg Why humans are AI's biggest bottleneck \(and what's coming in 2026\)
 # 13-12-2025
 - https://newsletter.pragmaticengineer.com/p/mcp-deepdive Building MCP servers in the real world
