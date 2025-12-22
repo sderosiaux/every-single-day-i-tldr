@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 22-12-2025
+- https://www.aiforswes.com/p/you-dont-need-to-spend-100mo-on-claude \[Revised\] You Don’t Need to Spend $100/mo on Claude Code: Your Guide to Local Coding Models
 - https://dataengineeringcentral.substack.com/p/building-a-ducklake-open-source-style Building a DuckLake \.\.\. Open Source Style\.
 # 14-12-2025
 - https://newsletter.pragmaticengineer.com/p/evals A pragmatic guide to LLM evals for devs
