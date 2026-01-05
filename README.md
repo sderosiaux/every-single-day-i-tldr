@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 05-01-2026
+- https://www.profgalloway.com/2026-predictions/ 2026 Predictions | No Mercy / No Malice
 # 22-12-2025
 - https://marginlab.ai/blog/swe-bench-deep-dive/ SWE\-Bench: The $500B Benchmark
 - https://simonwillison.net/2025/Dec/18/code-proven-to-work/ Your job is to deliver code you have proven to work
