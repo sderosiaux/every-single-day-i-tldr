@@ -4,6 +4,7 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
 # 16-01-2026
+- https://simplescraper.io/blog/how-to-mcp How to MCP \- The Complete Guide to Understanding Model Context Protocol and Building Remote Servers
 - https://playground.ai.cloudflare.com/ Workers AI LLM Playground
 # 07-01-2026
 - https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what?publication_id=458709&post_id=183694080&isFreemail=true&r=hc7kn&triedRedirect=true When AI writes almost all code, what happens to software engineering?
