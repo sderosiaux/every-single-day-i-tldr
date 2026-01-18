@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 18-01-2026
+- https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up Raising money fucked me up
 # 17-01-2026
 - https://cursor.com/blog/scaling-agents Scaling long\-running autonomous coding
 # 16-01-2026
