@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 04-05-2026
+- https://www.youtube.com/watch?v=LRo33rnv6rQ This is AGI: Sequoia AI Ascent 2026 Keynote
 # 18-01-2026
 - https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up Raising money fucked me up
 # 17-01-2026
