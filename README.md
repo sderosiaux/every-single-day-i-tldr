@@ -3,6 +3,8 @@ This repo is my personal archive of articles, blog posts, and videos I found int
 ߒ᠔ip: Use Ctrl+F to search for topics you care about.
 I'm the co-founder and CTO of [conduktor.io](conduktor.io), a real-time AI Data Governance platform built around Kafka. In 2025, I’m focused on AI, Data, Kafka, and all things tech.
 ߚࠈappy reading!
+# 06-06-2026
+- https://www.0xkato.xyz/how-llms-actually-work/ How LLMs Actually Work | 0xkato
 # 01-06-2026
 - https://www.altimate.ai/blog/the-correctness-layer-in-ade The Correctness Layer
 # 04-05-2026
